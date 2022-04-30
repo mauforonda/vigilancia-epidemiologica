@@ -1,0 +1,451 @@
+codigo_municipio,municipio,grupo,variable,mes,de-1-ano_masculino,de-1-ano-1_femenino,1-a-4-anos_masculino,1-a-4-anos-1_femenino,5-a-9-anos_masculino,5-a-9-anos-1_femenino,10-a-20-anos_masculino,10-a-20-anos-1_femenino,21-a-59-anos_masculino,21-a-59-anos-1_femenino,60-y-mas_masculino,60-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+70706,CAMIRI,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,1,0,0,2,1,0,1,0,3,2,5
+60302,CARAPARI,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,1,1,1,0,0,0,0,1,2,3
+70702,CHARAGUA,otras infecciones,malaria confirmados,2011-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71301,COMARAPA,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21401,COROICO,otras infecciones,malaria confirmados,2011-01-01,0,0,0,1,2,0,1,1,2,1,1,0,6,3,9
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-01-01,0,0,8,1,2,1,3,2,14,4,0,0,27,8,35
+60601,ENTRE RIOS TRJ,otras infecciones,malaria confirmados,2011-01-01,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+31206,ENTRE RIOS CBBA,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90503,EUREKA (SANTOS MERCADO),otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,1,1,2,1,0,0,3,2,5
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,0,0,3,0,0,0,3,3
+20602,GUANAY,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-01-01,0,1,0,1,6,7,16,22,37,47,1,0,60,78,138
+70104,LA GUARDIA,otras infecciones,malaria confirmados,2011-01-01,0,0,1,0,1,0,1,0,1,0,0,0,4,0,4
+20101,LA PAZ,otras infecciones,malaria confirmados,2011-01-01,0,0,1,3,0,0,3,4,3,2,3,0,10,9,19
+20607,MAPIRI,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,1,0,2,0,2,0,0,0,5,5
+10501,MONTEAGUDO,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,2,0,2,1,0,0,4,1,5
+71001,MONTERO,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,2,1,1,0,0,0,3,1,4
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria confirmados,2011-01-01,0,0,1,0,0,0,3,2,7,4,0,0,11,6,17
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-01-01,0,0,0,1,2,0,2,1,2,6,0,0,6,8,14
+30203,OMEREQUE,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10401,PADILLA,otras infecciones,malaria confirmados,2011-01-01,0,0,0,1,0,1,1,0,0,0,0,1,1,3,4
+21104,PALOS BLANCOS,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,1,3,0,0,0,3,1,4
+70103,PORONGO,otras infecciones,malaria confirmados,2011-01-01,0,0,1,0,0,2,1,1,0,0,0,0,2,3,5
+70601,PORTACHUELO,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90102,PORVENIR,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,1,3,1,0,0,3,2,5
+70804,POSTRER VALLE,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,0,2,2,0,0,2,2,4
+90201,PUERTO RICO,otras infecciones,malaria confirmados,2011-01-01,0,0,1,0,3,0,5,1,3,3,0,0,12,4,16
+80301,REYES,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,1,1,2,0,0,0,3,1,4
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-01-01,2,0,8,2,5,8,15,10,31,23,4,3,65,46,111
+80304,RURRENABAQUE,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,2,2,1,10,2,0,0,12,5,17
+80302,SAN BORJA,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90302,SAN LORENZO(PND),otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90202,SAN PEDRO(PND),otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,1,0,1,0,2,0,0,0,4,0,4
+90303,SENA,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,1,1,1,0,8,2,0,0,10,3,13
+31602,SHINAOTA,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10601,TARABUCO,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20608,TEOPONTE,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+50502,TORO TORO,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70802,TRIGAL,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,1,0,1,0,2,1,0,0,4,1,5
+90502,VILLA NUEVA (LOMA ALTA),otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,2,0,0,4,0,1,0,0,2,5,7
+31003,VILLA TUNARI,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,1,0,1,0,0,1,2,1,3
+60301,YACUIBA,otras infecciones,malaria confirmados,2011-01-01,0,0,0,0,0,0,0,1,0,2,0,0,0,3,3
+20701,APOLO,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,1,0,2,0,0,0,3,0,3
+10201,AZURDUY,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80802,BAURES,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+90104,BELLA FLOR,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,1,2,1,1,0,3,2,5
+70401,BUENA VISTA,otras infecciones,malaria confirmados,2011-02-01,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+70703,CABEZAS,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+10701,CAMARGO,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,1,0,5,0,0,0,6,0,6
+60302,CARAPARI,otras infecciones,malaria confirmados,2011-02-01,0,0,0,1,0,0,1,0,2,1,1,0,4,2,6
+31204,CHIMORE,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+90101,COBIJA,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,6,3,8,1,0,0,14,4,18
+71301,COMARAPA,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-02-01,0,0,5,1,2,1,5,3,4,5,0,1,16,11,27
+60601,ENTRE RIOS TRJ,otras infecciones,malaria confirmados,2011-02-01,0,0,2,2,1,0,0,0,2,0,1,0,6,2,8
+90503,EUREKA (SANTOS MERCADO),otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,1,0,1,2,2,2,0,0,4,4,8
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,2,1,0,3,0,0,2,4,6
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-02-01,1,0,1,3,4,6,12,13,26,14,2,0,46,36,82
+70104,LA GUARDIA,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,4,2,2,0,0,0,6,2,8
+20101,LA PAZ,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+31301,MIZQUE,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+10303,MOJOCOYA,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10501,MONTEAGUDO,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,1,0,0,3,3,1,0,4,4,8
+71001,MONTERO,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,1,2,3,3,2,0,0,5,6,11
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-02-01,0,0,0,1,0,0,3,1,5,0,0,0,8,2,10
+60201,PADCAYA,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10401,PADILLA,otras infecciones,malaria confirmados,2011-02-01,0,1,0,1,0,0,1,0,0,0,1,1,2,3,5
+21104,PALOS BLANCOS,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,1,1,0,1,0,0,1,2,3
+70103,PORONGO,otras infecciones,malaria confirmados,2011-02-01,0,0,3,2,1,0,1,1,2,1,2,0,9,4,13
+90102,PORVENIR,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,5,1,0,0,5,1,6
+90301,PUERTO GONZALO MORENO,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90201,PUERTO RICO,otras infecciones,malaria confirmados,2011-02-01,0,0,1,0,1,0,9,0,9,3,1,1,21,4,25
+80301,REYES,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,1,1,1,2,5,4,1,0,8,7,15
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-02-01,1,0,2,5,11,3,28,21,44,35,2,1,88,65,153
+70503,ROBORE,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-02-01,0,0,0,1,1,2,7,5,7,2,0,0,15,10,25
+80302,SAN BORJA,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90302,SAN LORENZO(PND),otras infecciones,malaria confirmados,2011-02-01,1,0,0,0,0,1,2,0,3,1,0,0,6,2,8
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-02-01,1,0,0,0,0,0,3,0,1,0,0,0,5,0,5
+90303,SENA,otras infecciones,malaria confirmados,2011-02-01,1,0,0,1,0,0,1,1,5,1,0,0,7,3,10
+31602,SHINAOTA,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30802,TOCO,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70801,VALLEGRANDE,otras infecciones,malaria confirmados,2011-02-01,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+31302,VILA VILA,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+60303,VILLA MONTES,otras infecciones,malaria confirmados,2011-02-01,0,0,0,1,1,3,5,1,2,2,0,0,8,7,15
+90502,VILLA NUEVA (LOMA ALTA),otras infecciones,malaria confirmados,2011-02-01,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+31003,VILLA TUNARI,otras infecciones,malaria confirmados,2011-02-01,0,0,0,0,0,0,0,0,7,2,0,0,7,2,9
+60301,YACUIBA,otras infecciones,malaria confirmados,2011-02-01,0,0,2,1,0,1,4,1,7,5,0,0,13,8,21
+10404,ALCALA,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,1,2,0,0,0,0,0,2,1,3
+20701,APOLO,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+10201,AZURDUY,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+80802,BAURES,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,1,0,0,0,2,0,3,0,3
+70703,CABEZAS,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,1,1,0,2,1,0,0,3,2,5
+22001,CARANAVI,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60302,CARAPARI,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90101,COBIJA,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,1,2,0,0,0,2,1,3
+71301,COMARAPA,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-03-01,0,0,0,1,0,0,3,3,2,2,0,0,5,6,11
+60601,ENTRE RIOS TRJ,otras infecciones,malaria confirmados,2011-03-01,0,0,0,1,1,1,0,0,1,1,0,0,2,3,5
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,1,0,1,1,0,0,0,1,2,3
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-03-01,0,0,0,4,6,5,10,10,23,13,0,1,39,33,72
+70104,LA GUARDIA,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,1,2,0,0,0,0,0,2,1,3
+20607,MAPIRI,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31301,MIZQUE,otras infecciones,malaria confirmados,2011-03-01,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+10303,MOJOCOYA,otras infecciones,malaria confirmados,2011-03-01,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,1,1,1,0,1,0,0,1,3,4
+10401,PADILLA,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70103,PORONGO,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,1,2,2,0,0,2,3,5
+90102,PORVENIR,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,1,0,0,0,1,2,0,0,2,2,4
+70804,POSTRER VALLE,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90301,PUERTO GONZALO MORENO,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90201,PUERTO RICO,otras infecciones,malaria confirmados,2011-03-01,0,0,0,1,0,0,2,2,7,1,2,0,11,4,15
+80301,REYES,otras infecciones,malaria confirmados,2011-03-01,0,0,2,2,1,6,4,9,5,9,0,0,12,26,38
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-03-01,2,1,0,10,4,6,27,22,35,29,9,1,77,69,146
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-03-01,0,0,1,1,0,0,1,1,6,1,0,0,8,3,11
+80302,SAN BORJA,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21502,SAN BUENA VENTURA,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90302,SAN LORENZO(PND),otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,3,0,0,0,0,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+80303,SANTA ROSA,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90303,SENA,otras infecciones,malaria confirmados,2011-03-01,1,0,2,3,3,0,2,1,5,1,0,0,13,5,18
+70801,VALLEGRANDE,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31302,VILA VILA,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,otras infecciones,malaria confirmados,2011-03-01,1,0,1,2,2,3,1,1,3,3,1,0,9,9,18
+90502,VILLA NUEVA (LOMA ALTA),otras infecciones,malaria confirmados,2011-03-01,0,0,0,1,0,0,1,1,2,0,0,0,3,2,5
+60301,YACUIBA,otras infecciones,malaria confirmados,2011-03-01,0,0,0,0,0,1,1,3,4,4,0,0,5,8,13
+10602,YAMPARAEZ,otras infecciones,malaria confirmados,2011-03-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30201,AIQUILE,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20701,APOLO,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80802,BAURES,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90101,COBIJA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,1,0,1,0,3,2,0,0,5,2,7
+60601,ENTRE RIOS TRJ,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90503,EUREKA (SANTOS MERCADO),otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-04-01,0,1,1,0,2,1,8,9,4,12,0,0,15,23,38
+10502,HUACARETA,otras infecciones,malaria confirmados,2011-04-01,0,0,2,1,3,1,0,2,0,1,0,0,5,5,10
+10703,INCAHUASI,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21501,IXIAMAS,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70104,LA GUARDIA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,1,0,0,0,0,1,2,0,0,1,3,4
+50203,LLALLAGUA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31301,MIZQUE,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,1,1,3,2,0,0,4,3,7
+10303,MOJOCOYA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,2,1,0,0,0,1,2,3
+71001,MONTERO,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,6,0,0,0,6,0,6
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-04-01,0,0,1,0,0,0,2,0,1,0,0,0,4,0,4
+10401,PADILLA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+70103,PORONGO,otras infecciones,malaria confirmados,2011-04-01,0,0,2,0,1,1,2,2,3,1,0,0,8,4,12
+90102,PORVENIR,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,1,2,1,0,0,0,2,2,4
+90301,PUERTO GONZALO MORENO,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+90201,PUERTO RICO,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,1,0,0,4,0,0,0,4,1,5
+31205,PUERTO VILLARROEL,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80301,REYES,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,2,1,0,0,0,1,2,3
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-04-01,1,1,0,1,7,3,23,13,36,11,3,1,70,30,100
+31001,SACABA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,1,0,6,1,0,0,7,1,8
+50501,SAN PEDRO DE BUENA VISTA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80303,SANTA ROSA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90303,SENA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,1,0,2,0,0,0,3,0,3
+31302,VILA VILA,otras infecciones,malaria confirmados,2011-04-01,0,0,1,0,0,0,0,2,0,0,0,0,1,2,3
+60303,VILLA MONTES,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,1,0,0,2,3,1,0,0,4,3,7
+90502,VILLA NUEVA (LOMA ALTA),otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,2,0,0,2,0,0,2,2,4
+60301,YACUIBA,otras infecciones,malaria confirmados,2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20701,APOLO,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,0,3,0,0,0,3,0,3
+10201,AZURDUY,otras infecciones,malaria confirmados,2011-05-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80802,BAURES,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,1,2,0,0,0,0,1,2,3
+90104,BELLA FLOR,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70703,CABEZAS,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+22001,CARANAVI,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60302,CARAPARI,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,otras infecciones,malaria confirmados,2011-05-01,0,0,1,0,0,0,1,1,1,4,0,0,3,5,8
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-05-01,0,0,2,1,2,1,1,1,2,3,0,0,7,6,13
+60601,ENTRE RIOS TRJ,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+90503,EUREKA (SANTOS MERCADO),otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90203,FILADELFIA,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-05-01,4,1,2,4,0,5,12,9,10,11,0,1,28,31,59
+70104,LA GUARDIA,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,otras infecciones,malaria confirmados,2011-05-01,0,0,1,1,1,0,3,1,7,3,1,0,13,5,18
+10501,MONTEAGUDO,otras infecciones,malaria confirmados,2011-05-01,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,1,4,2,2,1,0,0,6,4,10
+70103,PORONGO,otras infecciones,malaria confirmados,2011-05-01,0,0,1,0,0,0,0,0,1,2,0,0,2,2,4
+90102,PORVENIR,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70804,POSTRER VALLE,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+90301,PUERTO GONZALO MORENO,otras infecciones,malaria confirmados,2011-05-01,0,0,1,0,0,0,0,1,1,0,0,0,2,1,3
+90201,PUERTO RICO,otras infecciones,malaria confirmados,2011-05-01,1,0,0,0,0,0,2,0,1,3,0,0,4,3,7
+31401,PUNATA,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80301,REYES,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,1,0,2,0,0,0,3,3
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-05-01,1,0,2,1,5,1,27,9,31,13,4,2,70,26,96
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-05-01,0,0,0,1,1,2,2,0,4,3,0,1,7,7,14
+90302,SAN LORENZO(PND),otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+90303,SENA,otras infecciones,malaria confirmados,2011-05-01,0,0,0,1,0,0,2,2,1,0,0,0,3,3,6
+10403,SOPACHUY,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+31302,VILA VILA,otras infecciones,malaria confirmados,2011-05-01,0,0,1,2,0,1,1,0,0,0,0,0,2,3,5
+60303,VILLA MONTES,otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,1,3,0,0,2,0,0,3,3,6
+90502,VILLA NUEVA (LOMA ALTA),otras infecciones,malaria confirmados,2011-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10801,VILLA SERRANO,otras infecciones,malaria confirmados,2011-05-01,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+60301,YACUIBA,otras infecciones,malaria confirmados,2011-05-01,0,0,1,0,0,0,2,0,1,2,1,0,5,2,7
+20701,APOLO,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,2,1,1,0,1,1,4,5
+10201,AZURDUY,otras infecciones,malaria confirmados,2011-06-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80802,BAURES,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+70401,BUENA VISTA,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90101,COBIJA,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,1,1,0,2,0,0,1,3,4
+30101,COCHABAMBA,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,0,4,0,0,0,4,0,4
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-06-01,0,0,1,0,3,2,2,3,5,5,1,2,12,12,24
+60601,ENTRE RIOS TRJ,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90503,EUREKA (SANTOS MERCADO),otras infecciones,malaria confirmados,2011-06-01,0,0,0,1,0,0,0,1,3,0,0,0,3,2,5
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-06-01,1,1,2,7,1,3,16,14,20,14,1,0,41,39,80
+10703,INCAHUASI,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70903,MAIRANA,otras infecciones,malaria confirmados,2011-06-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,otras infecciones,malaria confirmados,2011-06-01,0,0,2,1,2,2,6,3,6,4,1,0,17,10,27
+10501,MONTEAGUDO,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71001,MONTERO,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,0,2,0,1,0,3,0,3
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-06-01,0,0,0,1,2,0,3,2,7,0,0,1,12,4,16
+10401,PADILLA,otras infecciones,malaria confirmados,2011-06-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70103,PORONGO,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,1,0,0,3,0,0,0,3,1,4
+90102,PORVENIR,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,0,2,1,1,0,3,1,4
+90301,PUERTO GONZALO MORENO,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,1,0,1,0,1,1,3,1,4
+90201,PUERTO RICO,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,1,0,1,1,0,1,2,2,4
+80703,PUERTO SILES,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+80301,REYES,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-06-01,0,1,3,3,12,4,21,12,40,30,7,0,83,50,133
+31001,SACABA,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-06-01,1,0,1,0,0,0,0,0,2,3,0,0,4,3,7
+70301,SAN IGNACIO DE VELASCO,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90302,SAN LORENZO(PND),otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,1,0,2,0,0,1,0,0,3,1,4
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+90303,SENA,otras infecciones,malaria confirmados,2011-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31302,VILA VILA,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,otras infecciones,malaria confirmados,2011-06-01,0,0,0,2,0,1,2,1,1,3,1,0,4,7,11
+60301,YACUIBA,otras infecciones,malaria confirmados,2011-06-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+20701,APOLO,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,1,1,2,1,0,0,3,2,5
+80802,BAURES,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,1,1,1,0,0,0,0,1,2,3
+90104,BELLA FLOR,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,1,1,1,1,0,0,2,2,4
+70703,CABEZAS,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+90101,COBIJA,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-07-01,0,0,2,1,0,0,0,0,1,4,0,1,3,6,9
+60601,ENTRE RIOS TRJ,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90503,EUREKA (SANTOS MERCADO),otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,1,1,0,2,3,1,0,0,4,4,8
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-07-01,2,0,4,3,1,1,19,17,8,16,1,5,35,42,77
+10703,INCAHUASI,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+11003,MACHARETI,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80801,MAGDALENA,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31301,MIZQUE,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,2,2,0,2,1,1,0,5,3,8
+10501,MONTEAGUDO,otras infecciones,malaria confirmados,2011-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,1,1,6,4,0,0,7,5,12
+70103,PORONGO,otras infecciones,malaria confirmados,2011-07-01,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+70601,PORTACHUELO,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90301,PUERTO GONZALO MORENO,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,1,2,0,1,0,0,1,3,4
+90201,PUERTO RICO,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,1,2,0,0,1,2,3
+80301,REYES,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-07-01,2,1,1,5,6,5,15,12,42,14,3,0,69,37,106
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,4,1,0,0,4,1,5
+90303,SENA,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,1,0,0,1,1,0,0,1,2,3
+60101,TARIJA,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20608,TEOPONTE,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10402,TOMINA,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+31302,VILA VILA,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,1,0,2,0,0,0,0,0,3,0,3
+60303,VILLA MONTES,otras infecciones,malaria confirmados,2011-07-01,0,1,1,0,0,0,2,1,1,1,0,0,4,3,7
+90502,VILLA NUEVA (LOMA ALTA),otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+10801,VILLA SERRANO,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60301,YACUIBA,otras infecciones,malaria confirmados,2011-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+51302,ACACIO,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20701,APOLO,otras infecciones,malaria confirmados,2011-08-01,0,0,0,1,0,0,2,1,0,1,0,0,2,3,5
+80802,BAURES,otras infecciones,malaria confirmados,2011-08-01,1,0,1,0,1,0,2,2,6,5,1,1,12,8,20
+90104,BELLA FLOR,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60202,BERMEJO,otras infecciones,malaria confirmados,2011-08-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60302,CARAPARI,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+90101,COBIJA,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,2,2,0,0,2,2,4
+71301,COMARAPA,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21401,COROICO,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-08-01,0,0,1,0,0,1,3,5,2,2,0,1,6,9,15
+90503,EUREKA (SANTOS MERCADO),otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+90203,FILADELFIA,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,malaria confirmados,2011-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-08-01,0,1,2,3,4,7,18,14,9,16,1,2,34,43,77
+21501,IXIAMAS,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70104,LA GUARDIA,otras infecciones,malaria confirmados,2011-08-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,1,2,2,0,0,2,3,5
+10501,MONTEAGUDO,otras infecciones,malaria confirmados,2011-08-01,0,0,0,2,0,0,1,0,0,0,0,0,1,2,3
+71001,MONTERO,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-08-01,1,0,0,0,0,0,1,1,3,1,0,0,5,2,7
+70103,PORONGO,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+90102,PORVENIR,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90301,PUERTO GONZALO MORENO,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+80301,REYES,otras infecciones,malaria confirmados,2011-08-01,0,0,1,1,0,0,0,1,2,4,0,0,3,6,9
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-08-01,1,1,3,2,5,6,18,13,40,24,2,1,69,47,116
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+90302,SAN LORENZO(PND),otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,2,1,2,2,0,0,4,3,7
+90202,SAN PEDRO(PND),otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,1,2,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+90303,SENA,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,1,0,0,2,0,0,0,2,1,3
+31302,VILA VILA,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90502,VILLA NUEVA (LOMA ALTA),otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10301,ZUDAÑEZ,otras infecciones,malaria confirmados,2011-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20701,APOLO,otras infecciones,malaria confirmados,2011-09-01,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+10201,AZURDUY,otras infecciones,malaria confirmados,2011-09-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80802,BAURES,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,1,1,2,6,2,0,0,7,5,12
+90104,BELLA FLOR,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90101,COBIJA,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,1,1,0,2,0,0,1,3,4
+71301,COMARAPA,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10902,CULPINA,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-09-01,0,0,0,1,0,0,2,0,1,1,0,0,3,2,5
+90503,EUREKA (SANTOS MERCADO),otras infecciones,malaria confirmados,2011-09-01,0,0,1,0,0,0,1,0,4,0,0,0,6,0,6
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-09-01,0,1,3,1,6,3,11,10,9,9,1,3,30,27,57
+80801,MAGDALENA,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+31301,MIZQUE,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,1,0,0,2,0,0,1,2,3
+10501,MONTEAGUDO,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria confirmados,2011-09-01,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,1,2,1,2,0,0,2,4,6
+60201,PADCAYA,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70103,PORONGO,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,1,2,0,0,1,2,3
+90102,PORVENIR,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,1,0,0,2,0,0,1,2,3
+90301,PUERTO GONZALO MORENO,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,2,0,0,1,2,2,0,0,4,3,7
+80301,REYES,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,1,1,1,0,0,1,2,2,4
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-09-01,1,0,0,4,3,4,14,9,30,12,1,0,49,29,78
+80304,RURRENABAQUE,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90302,SAN LORENZO(PND),otras infecciones,malaria confirmados,2011-09-01,1,0,0,1,1,1,1,1,3,2,0,0,6,5,11
+90202,SAN PEDRO(PND),otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90303,SENA,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31602,SHINAOTA,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,otras infecciones,malaria confirmados,2011-09-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20606,TIPUANI,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60303,VILLA MONTES,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90502,VILLA NUEVA (LOMA ALTA),otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,1,0,2,2,0,0,0,2,3,5
+60301,YACUIBA,otras infecciones,malaria confirmados,2011-09-01,0,0,0,0,0,0,2,0,0,1,0,0,2,1,3
+20701,APOLO,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80802,BAURES,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,1,1,2,8,1,0,0,9,4,13
+90101,COBIJA,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,3,0,0,0,3,0,3
+30101,COCHABAMBA,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,1,1,1,0,1,3,0,1,3,5,8
+60601,ENTRE RIOS TRJ,otras infecciones,malaria confirmados,2011-10-01,0,0,0,1,1,0,1,0,0,0,0,0,2,1,3
+90503,EUREKA (SANTOS MERCADO),otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+90203,FILADELFIA,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,1,0,2,1,0,0,3,1,4
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-10-01,0,1,3,4,5,4,17,15,20,16,0,3,45,43,88
+90402,INGAVI (HUMAITA),otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+70104,LA GUARDIA,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+80801,MAGDALENA,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,otras infecciones,malaria confirmados,2011-10-01,0,0,0,1,0,0,0,0,0,1,2,0,2,2,4
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-10-01,0,0,1,0,1,0,4,2,7,4,0,0,13,6,19
+70103,PORONGO,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,1,2,0,0,2,0,1,2,4,6
+90102,PORVENIR,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90201,PUERTO RICO,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80301,REYES,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,1,1,1,1,0,0,2,2,4
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-10-01,0,1,5,6,4,8,25,10,43,16,6,0,83,41,124
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-10-01,0,0,1,0,0,0,0,1,2,0,0,0,3,1,4
+70901,SAMAIPATA,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80302,SAN BORJA,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21502,SAN BUENA VENTURA,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90302,SAN LORENZO(PND),otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,1,0,1,8,2,0,0,8,4,12
+90202,SAN PEDRO(PND),otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90303,SENA,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60303,VILLA MONTES,otras infecciones,malaria confirmados,2011-10-01,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+90502,VILLA NUEVA (LOMA ALTA),otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+60301,YACUIBA,otras infecciones,malaria confirmados,2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20701,APOLO,otras infecciones,malaria confirmados,2011-11-01,0,0,1,1,0,0,0,1,3,1,0,1,4,4,8
+80802,BAURES,otras infecciones,malaria confirmados,2011-11-01,0,0,0,1,0,0,2,0,3,3,0,0,5,4,9
+60202,BERMEJO,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,2,1,0,1,0,0,2,2,4
+22001,CARANAVI,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,1,0,2,0,0,0,3,0,3
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-11-01,0,0,1,1,0,0,0,0,1,0,0,0,2,1,3
+60601,ENTRE RIOS TRJ,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90503,EUREKA (SANTOS MERCADO),otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,1,0,0,2,4,0,0,0,5,2,7
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-11-01,2,0,2,4,6,6,45,15,22,22,5,1,82,48,130
+90402,INGAVI (HUMAITA),otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,1,0,1,1,2,0,0,0,4,1,5
+70104,LA GUARDIA,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+10501,MONTEAGUDO,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,1,4,4,2,0,1,5,7,12
+30203,OMEREQUE,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70103,PORONGO,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,1,0,0,0,2,2,0,1,3,3,6
+70601,PORTACHUELO,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90102,PORVENIR,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,1,0,1,0,1,0,3,0,3
+90301,PUERTO GONZALO MORENO,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90201,PUERTO RICO,otras infecciones,malaria confirmados,2011-11-01,0,0,0,1,0,0,0,0,3,2,0,0,3,3,6
+80301,REYES,otras infecciones,malaria confirmados,2011-11-01,0,0,0,1,0,1,1,0,2,2,0,0,3,4,7
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-11-01,0,0,4,4,7,3,16,9,39,15,0,0,66,31,97
+80304,RURRENABAQUE,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+90302,SAN LORENZO(PND),otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,1,1,2,4,1,0,0,5,4,9
+10702,SAN LUCAS,otras infecciones,malaria confirmados,2011-11-01,5,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20608,TEOPONTE,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,1,2,0,1,0,1,0,0,1,4,5
+60303,VILLA MONTES,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60301,YACUIBA,otras infecciones,malaria confirmados,2011-11-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+20701,APOLO,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,1,1,1,0,0,1,2,3
+80802,BAURES,otras infecciones,malaria confirmados,2011-12-01,0,0,1,0,0,0,0,0,0,2,1,0,2,2,4
+90101,COBIJA,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70105,EL TORNO,otras infecciones,malaria confirmados,2011-12-01,0,0,1,0,2,0,2,0,2,1,0,0,7,1,8
+60601,ENTRE RIOS TRJ,otras infecciones,malaria confirmados,2011-12-01,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+90503,EUREKA (SANTOS MERCADO),otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+80202,GUAYARAMERIN,otras infecciones,malaria confirmados,2011-12-01,1,1,3,2,8,1,18,7,12,17,1,4,43,32,75
+90402,INGAVI (HUMAITA),otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70104,LA GUARDIA,otras infecciones,malaria confirmados,2011-12-01,0,0,1,1,0,0,1,0,0,0,0,0,2,1,3
+80801,MAGDALENA,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,3,2,1,2,0,0,4,4,8
+10303,MOJOCOYA,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+90501,NUEVO MANOA (NUEVA ESPERANZA),otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,4,2,3,2,0,0,7,4,11
+10401,PADILLA,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10103,POROMA,otras infecciones,malaria confirmados,2011-12-01,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+70103,PORONGO,otras infecciones,malaria confirmados,2011-12-01,0,0,0,1,0,0,1,1,0,0,0,0,1,2,3
+90301,PUERTO GONZALO MORENO,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,0,3,1,0,0,3,1,4
+90201,PUERTO RICO,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80301,REYES,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,2,0,0,2,0,0,2,2,4
+80201,RIBERALTA,otras infecciones,malaria confirmados,2011-12-01,0,0,4,1,2,5,25,8,20,9,1,2,52,25,77
+80304,RURRENABAQUE,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71302,SAIPINA,otras infecciones,malaria confirmados,2011-12-01,0,0,0,4,2,1,0,2,3,2,1,0,6,9,15
+90302,SAN LORENZO(PND),otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,1,0,1,2,4,0,0,0,6,2,8
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,malaria confirmados,2011-12-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20608,TEOPONTE,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+60303,VILLA MONTES,otras infecciones,malaria confirmados,2011-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90502,VILLA NUEVA (LOMA ALTA),otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,otras infecciones,malaria confirmados,2011-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1

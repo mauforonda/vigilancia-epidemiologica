@@ -1,0 +1,127 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 1 año,1 a 4 años,5 a 14 años,15 a 59 años,60 y más,TOTAL
+30101,COCHABAMBA,sospecha diagnostica,rubeola,2002-01-01,2,4,1,2,0,9
+20105,EL ALTO,sospecha diagnostica,rubeola,2002-01-01,0,1,4,6,0,11
+20101,LA PAZ,sospecha diagnostica,rubeola,2002-01-01,1,1,8,3,0,13
+10501,MONTEAGUDO,sospecha diagnostica,rubeola,2002-01-01,1,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rubeola,2002-01-01,1,1,4,0,0,6
+30901,QUILLACOLLO,sospecha diagnostica,rubeola,2002-01-01,2,0,0,0,0,2
+80201,RIBERALTA,sospecha diagnostica,rubeola,2002-01-01,1,0,0,0,0,1
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,rubeola,2002-01-01,0,1,0,0,0,1
+21702,SAN PEDRO DE TIQUINA,sospecha diagnostica,rubeola,2002-01-01,0,0,1,0,0,1
+30902,SIPE SIPE,sospecha diagnostica,rubeola,2002-01-01,0,1,0,0,0,1
+60101,TARIJA,sospecha diagnostica,rubeola,2002-01-01,1,2,2,0,0,5
+30904,VINTO,sospecha diagnostica,rubeola,2002-01-01,0,2,1,0,0,3
+60301,YACUIBA,sospecha diagnostica,rubeola,2002-01-01,0,1,2,0,0,3
+20201,ACHACACHI,sospecha diagnostica,rubeola,2002-02-01,0,0,1,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rubeola,2002-02-01,1,1,0,1,0,3
+20105,EL ALTO,sospecha diagnostica,rubeola,2002-02-01,0,0,1,0,0,1
+20101,LA PAZ,sospecha diagnostica,rubeola,2002-02-01,0,0,1,2,0,3
+40101,ORURO,sospecha diagnostica,rubeola,2002-02-01,0,0,1,1,0,2
+30901,QUILLACOLLO,sospecha diagnostica,rubeola,2002-02-01,1,0,1,0,0,2
+30904,VINTO,sospecha diagnostica,rubeola,2002-02-01,0,1,0,0,0,1
+20201,ACHACACHI,sospecha diagnostica,rubeola,2002-03-01,0,0,1,1,0,2
+30101,COCHABAMBA,sospecha diagnostica,rubeola,2002-03-01,1,1,0,0,0,2
+40701,HUANUNI,sospecha diagnostica,rubeola,2002-03-01,0,0,1,0,0,1
+20101,LA PAZ,sospecha diagnostica,rubeola,2002-03-01,1,0,0,2,0,3
+10501,MONTEAGUDO,sospecha diagnostica,rubeola,2002-03-01,0,0,1,0,0,1
+80501,SAN IGNACIO,sospecha diagnostica,rubeola,2002-03-01,0,1,0,0,0,1
+80102,SAN JAVIER(BNI),sospecha diagnostica,rubeola,2002-03-01,0,0,1,0,0,1
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,rubeola,2002-03-01,0,1,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rubeola,2002-03-01,0,1,1,0,0,2
+30902,SIPE SIPE,sospecha diagnostica,rubeola,2002-03-01,1,0,0,0,0,1
+20201,ACHACACHI,sospecha diagnostica,rubeola,2002-04-01,0,0,2,0,0,2
+60302,CARAPARI,sospecha diagnostica,rubeola,2002-04-01,0,0,1,0,0,1
+20101,LA PAZ,sospecha diagnostica,rubeola,2002-04-01,1,1,1,0,0,3
+40101,ORURO,sospecha diagnostica,rubeola,2002-04-01,1,0,1,1,0,3
+60501,SAN LORENZO(TJA),sospecha diagnostica,rubeola,2002-04-01,0,0,1,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rubeola,2002-04-01,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rubeola,2002-04-01,2,1,0,0,0,3
+60101,TARIJA,sospecha diagnostica,rubeola,2002-04-01,0,1,1,0,0,2
+60303,VILLA MONTES,sospecha diagnostica,rubeola,2002-04-01,0,0,1,0,0,1
+51501,VILLAZON,sospecha diagnostica,rubeola,2002-04-01,1,0,0,0,0,1
+20201,ACHACACHI,sospecha diagnostica,rubeola,2002-05-01,2,1,3,1,0,7
+60202,BERMEJO,sospecha diagnostica,rubeola,2002-05-01,0,0,1,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rubeola,2002-05-01,1,2,2,0,0,5
+21701,COPACABANA,sospecha diagnostica,rubeola,2002-05-01,0,0,0,2,0,2
+20105,EL ALTO,sospecha diagnostica,rubeola,2002-05-01,1,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rubeola,2002-05-01,1,1,2,1,0,5
+80801,MAGDALENA,sospecha diagnostica,rubeola,2002-05-01,0,1,0,0,0,1
+40101,ORURO,sospecha diagnostica,rubeola,2002-05-01,1,1,3,1,0,6
+31001,SACABA,sospecha diagnostica,rubeola,2002-05-01,1,0,3,0,0,4
+80501,SAN IGNACIO,sospecha diagnostica,rubeola,2002-05-01,0,0,1,1,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rubeola,2002-05-01,0,0,0,2,0,2
+10101,SUCRE,sospecha diagnostica,rubeola,2002-05-01,1,0,0,0,0,1
+60101,TARIJA,sospecha diagnostica,rubeola,2002-05-01,0,0,1,0,0,1
+30903,TIQUIPAYA,sospecha diagnostica,rubeola,2002-05-01,0,0,0,1,0,1
+51201,UYUNI,sospecha diagnostica,rubeola,2002-05-01,0,0,0,1,0,1
+30904,VINTO,sospecha diagnostica,rubeola,2002-05-01,0,1,0,0,0,1
+20201,ACHACACHI,sospecha diagnostica,rubeola,2002-06-01,0,2,6,2,0,10
+30201,AIQUILE,sospecha diagnostica,rubeola,2002-06-01,0,0,1,0,0,1
+60302,CARAPARI,sospecha diagnostica,rubeola,2002-06-01,1,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rubeola,2002-06-01,0,1,0,0,0,1
+21701,COPACABANA,sospecha diagnostica,rubeola,2002-06-01,0,0,1,1,0,2
+20101,LA PAZ,sospecha diagnostica,rubeola,2002-06-01,1,0,4,0,0,5
+40101,ORURO,sospecha diagnostica,rubeola,2002-06-01,0,0,1,2,0,3
+60501,SAN LORENZO(TJA),sospecha diagnostica,rubeola,2002-06-01,0,0,3,1,0,4
+60301,YACUIBA,sospecha diagnostica,rubeola,2002-06-01,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,rubeola,2002-07-01,0,2,0,1,0,3
+20105,EL ALTO,sospecha diagnostica,rubeola,2002-07-01,1,1,1,0,0,3
+20101,LA PAZ,sospecha diagnostica,rubeola,2002-07-01,1,2,0,0,0,3
+40101,ORURO,sospecha diagnostica,rubeola,2002-07-01,0,3,3,0,0,6
+31205,PUERTO VILLARROEL,sospecha diagnostica,rubeola,2002-07-01,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rubeola,2002-07-01,1,0,0,0,0,1
+60101,TARIJA,sospecha diagnostica,rubeola,2002-07-01,1,1,1,0,0,3
+30903,TIQUIPAYA,sospecha diagnostica,rubeola,2002-07-01,2,0,0,0,0,2
+20201,ACHACACHI,sospecha diagnostica,rubeola,2002-08-01,0,1,0,2,0,3
+30201,AIQUILE,sospecha diagnostica,rubeola,2002-08-01,0,1,0,0,0,1
+10701,CAMARGO,sospecha diagnostica,rubeola,2002-08-01,0,0,1,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rubeola,2002-08-01,2,2,2,0,0,6
+60502,EL PUENTE(TJA),sospecha diagnostica,rubeola,2002-08-01,0,0,0,1,0,1
+40101,ORURO,sospecha diagnostica,rubeola,2002-08-01,1,1,0,0,0,2
+60101,TARIJA,sospecha diagnostica,rubeola,2002-08-01,2,0,0,0,0,2
+30903,TIQUIPAYA,sospecha diagnostica,rubeola,2002-08-01,2,0,0,0,0,2
+50801,TUPIZA,sospecha diagnostica,rubeola,2002-08-01,1,1,0,0,0,2
+60303,VILLA MONTES,sospecha diagnostica,rubeola,2002-08-01,0,1,0,1,0,2
+60301,YACUIBA,sospecha diagnostica,rubeola,2002-08-01,1,0,0,0,0,1
+20201,ACHACACHI,sospecha diagnostica,rubeola,2002-09-01,1,1,1,1,0,4
+60202,BERMEJO,sospecha diagnostica,rubeola,2002-09-01,0,0,8,0,0,8
+70401,BUENA VISTA,sospecha diagnostica,rubeola,2002-09-01,0,1,0,1,0,2
+60302,CARAPARI,sospecha diagnostica,rubeola,2002-09-01,0,0,1,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rubeola,2002-09-01,1,0,2,0,0,3
+20101,LA PAZ,sospecha diagnostica,rubeola,2002-09-01,0,1,0,1,0,2
+40101,ORURO,sospecha diagnostica,rubeola,2002-09-01,0,3,2,1,0,6
+70503,ROBORE,sospecha diagnostica,rubeola,2002-09-01,0,0,1,0,0,1
+60501,SAN LORENZO(TJA),sospecha diagnostica,rubeola,2002-09-01,0,0,1,1,0,2
+10101,SUCRE,sospecha diagnostica,rubeola,2002-09-01,1,1,0,0,0,2
+30903,TIQUIPAYA,sospecha diagnostica,rubeola,2002-09-01,0,0,1,0,0,1
+60303,VILLA MONTES,sospecha diagnostica,rubeola,2002-09-01,0,0,5,1,0,6
+60301,YACUIBA,sospecha diagnostica,rubeola,2002-09-01,0,0,4,2,0,6
+60202,BERMEJO,sospecha diagnostica,rubeola,2002-10-01,0,2,18,1,0,21
+70706,CAMIRI,sospecha diagnostica,rubeola,2002-10-01,0,3,1,0,0,4
+30101,COCHABAMBA,sospecha diagnostica,rubeola,2002-10-01,1,0,5,1,0,7
+21701,COPACABANA,sospecha diagnostica,rubeola,2002-10-01,1,2,0,0,0,3
+20101,LA PAZ,sospecha diagnostica,rubeola,2002-10-01,0,0,1,2,0,3
+40101,ORURO,sospecha diagnostica,rubeola,2002-10-01,2,2,5,0,0,9
+60501,SAN LORENZO(TJA),sospecha diagnostica,rubeola,2002-10-01,0,0,2,1,0,3
+10101,SUCRE,sospecha diagnostica,rubeola,2002-10-01,1,0,0,0,0,1
+60101,TARIJA,sospecha diagnostica,rubeola,2002-10-01,1,1,0,0,0,2
+30903,TIQUIPAYA,sospecha diagnostica,rubeola,2002-10-01,1,0,1,0,0,2
+60303,VILLA MONTES,sospecha diagnostica,rubeola,2002-10-01,2,5,44,19,0,70
+60301,YACUIBA,sospecha diagnostica,rubeola,2002-10-01,1,5,13,1,0,20
+20201,ACHACACHI,sospecha diagnostica,rubeola,2002-11-01,0,0,2,0,0,2
+60202,BERMEJO,sospecha diagnostica,rubeola,2002-11-01,2,1,5,2,0,10
+60302,CARAPARI,sospecha diagnostica,rubeola,2002-11-01,0,0,10,0,0,10
+30101,COCHABAMBA,sospecha diagnostica,rubeola,2002-11-01,1,1,1,1,0,4
+20105,EL ALTO,sospecha diagnostica,rubeola,2002-11-01,0,0,1,0,0,1
+20101,LA PAZ,sospecha diagnostica,rubeola,2002-11-01,1,3,3,1,0,8
+40101,ORURO,sospecha diagnostica,rubeola,2002-11-01,0,3,6,2,0,11
+71302,SAIPINA,sospecha diagnostica,rubeola,2002-11-01,0,0,2,1,0,3
+60501,SAN LORENZO(TJA),sospecha diagnostica,rubeola,2002-11-01,0,0,8,0,0,8
+60303,VILLA MONTES,sospecha diagnostica,rubeola,2002-11-01,0,0,7,4,0,11
+60301,YACUIBA,sospecha diagnostica,rubeola,2002-11-01,0,1,6,3,0,10
+20201,ACHACACHI,sospecha diagnostica,rubeola,2002-12-01,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,rubeola,2002-12-01,0,1,1,0,0,2
+40101,ORURO,sospecha diagnostica,rubeola,2002-12-01,1,3,5,0,0,9
+60501,SAN LORENZO(TJA),sospecha diagnostica,rubeola,2002-12-01,0,1,2,1,0,4
+10101,SUCRE,sospecha diagnostica,rubeola,2002-12-01,0,0,1,0,0,1
+60301,YACUIBA,sospecha diagnostica,rubeola,2002-12-01,0,1,2,0,0,3

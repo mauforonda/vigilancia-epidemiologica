@@ -1,0 +1,349 @@
+codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+20503,AUCAPATA,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+50702,CARIPUYO,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+90101,COBIJA,mortalidad,muerte menor de 1 ano,2014-01-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2014-01-01,14.0,8.0,0.0,0.0,14.0,8.0,22.0
+50401,COLQUECHACA,mortalidad,muerte menor de 1 ano,2014-01-01,1.0,0.0,1.0,1.0,2.0,1.0,3.0
+70704,CUEVO,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+10902,CULPINA,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2014-01-01,8.0,4.0,8.0,3.0,16.0,7.0,23.0
+20405,ESCOMA,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2014-01-01,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+21102,IRUPANA (VILLA DE LANZA),mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+21501,IXIAMAS,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2014-01-01,32.0,7.0,4.0,1.0,36.0,8.0,44.0
+20901,LURIBAY,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+40702,MACHACAMARCA,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10501,MONTEAGUDO,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+50404,OCURI,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+40101,ORURO,mortalidad,muerte menor de 1 ano,2014-01-01,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+70502,PAILON,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21104,PALOS BLANCOS,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,1.0,0.0,1.0,0.0,2.0,2.0
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2014-01-01,2.0,6.0,2.0,3.0,4.0,9.0,13.0
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2014-01-01,5.0,4.0,0.0,0.0,5.0,4.0,9.0
+80304,RURRENABAQUE,mortalidad,muerte menor de 1 ano,2014-01-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+50701,SACACA,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21502,SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2014-01-01,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+10702,SAN LUCAS,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2014-01-01,8.0,8.0,0.0,1.0,8.0,9.0,17.0
+70602,SANTA ROSA DEL SARA,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2014-01-01,2.0,3.0,0.0,0.0,2.0,3.0,5.0
+31601,TIRAQUE (CBBA),mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80101,TRINIDAD,mortalidad,muerte menor de 1 ano,2014-01-01,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+51201,UYUNI,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,1.0,0.0,2.0,0.0,3.0,3.0
+20801,VIACHA,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10704,VILLA CHARCAS,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,0.0,0.0,2.0,0.0,2.0,2.0
+51501,VILLAZON,mortalidad,muerte menor de 1 ano,2014-01-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+60301,YACUIBA,mortalidad,muerte menor de 1 ano,2014-01-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20701,APOLO,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+21303,AYO AYO,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+21304,CALAMARCA,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50702,CARIPUYO,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+21101,CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2014-02-01,5.0,5.0,0.0,0.0,5.0,5.0,10.0
+31002,COLOMI,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+71101,CONCEPCION,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+50601,COTAGAITA,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2014-02-01,2.0,1.0,2.0,1.0,4.0,2.0,6.0
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2014-02-01,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2014-02-01,21.0,11.0,2.0,0.0,23.0,11.0,34.0
+40702,MACHACAMARCA,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+50404,OCURI,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+40101,ORURO,mortalidad,muerte menor de 1 ano,2014-02-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20702,PELECHUCO,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,4.0,0.0,0.0,0.0,4.0,4.0
+21201,PUCARANI,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50402,RAVELO,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+31001,SACABA,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+50701,SACACA,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+80302,SAN BORJA,mortalidad,muerte menor de 1 ano,2014-02-01,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+21502,SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2014-02-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+90302,SAN LORENZO(PND),mortalidad,muerte menor de 1 ano,2014-02-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2014-02-01,6.0,2.0,1.0,0.0,7.0,2.0,9.0
+21901,SANTIAGO DE MACHACA,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2014-02-01,2.0,1.0,0.0,0.0,2.0,1.0,3.0
+10601,TARABUCO,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50102,TINGUIPAYA,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+51201,UYUNI,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,1.0,2.0,1.0,2.0,3.0
+31003,VILLA TUNARI,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50103,YOCALLA,mortalidad,muerte menor de 1 ano,2014-02-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+10701,CAMARGO,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+40201,CHALLAPATA,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70702,CHARAGUA,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2014-03-01,4.0,8.0,0.0,0.0,4.0,8.0,12.0
+50401,COLQUECHACA,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21401,COROICO,mortalidad,muerte menor de 1 ano,2014-03-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2014-03-01,3.0,2.0,2.0,0.0,5.0,2.0,7.0
+71503,EL PUENTE(STC),mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20405,ESCOMA,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,3.0,0.0,3.0,0.0,3.0
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2014-03-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+40701,HUANUNI,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21501,IXIAMAS,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70104,LA GUARDIA,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2014-03-01,24.0,20.0,3.0,5.0,27.0,25.0,52.0
+20103,MECAPACA,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50404,OCURI,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+40101,ORURO,mortalidad,muerte menor de 1 ano,2014-03-01,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+21104,PALOS BLANCOS,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50403,POCOATA,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2014-03-01,1.0,7.0,0.0,0.0,1.0,7.0,8.0
+10302,PRESTO,mortalidad,muerte menor de 1 ano,2014-03-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2014-03-01,4.0,2.0,0.0,0.0,4.0,2.0,6.0
+80304,RURRENABAQUE,mortalidad,muerte menor de 1 ano,2014-03-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31001,SACABA,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+50701,SACACA,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+51001,SAN PABLO DE LIPEZ,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50501,SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+80401,SANTA ANA,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2014-03-01,4.0,8.0,1.0,0.0,5.0,8.0,13.0
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2014-03-01,4.0,4.0,0.0,0.0,4.0,4.0,8.0
+41001,TOLEDO,mortalidad,muerte menor de 1 ano,2014-03-01,0.0,0.0,0.0,2.0,0.0,2.0,2.0
+60303,VILLA MONTES,mortalidad,muerte menor de 1 ano,2014-03-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20201,ACHACACHI,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20502,AYATA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21304,CALAMARCA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+90101,COBIJA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2014-04-01,7.0,8.0,1.0,0.0,8.0,8.0,16.0
+50401,COLQUECHACA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+71101,CONCEPCION,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+21401,COROICO,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,1.0,1.0,0.0,1.0,1.0,2.0
+50601,COTAGAITA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2014-04-01,5.0,7.0,7.0,3.0,12.0,10.0,22.0
+71004,FERNANDEZ ALONSO,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70705,GUTIERREZ,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+21105,LA ASUNTA,mortalidad,muerte menor de 1 ano,2014-04-01,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+70104,LA GUARDIA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2014-04-01,25.0,28.0,0.0,5.0,25.0,33.0,58.0
+40101,ORURO,mortalidad,muerte menor de 1 ano,2014-04-01,3.0,3.0,0.0,0.0,3.0,3.0,6.0
+50403,POCOATA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,0.0,2.0,0.0,2.0,2.0
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2014-04-01,4.0,4.0,0.0,0.0,4.0,4.0,8.0
+10302,PRESTO,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2014-04-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31401,PUNATA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2014-04-01,2.0,3.0,0.0,0.0,2.0,3.0,5.0
+31001,SACABA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,1.0,1.0,1.0,1.0,2.0,3.0
+50701,SACACA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+80602,SAN ANDRES,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80302,SAN BORJA,mortalidad,muerte menor de 1 ano,2014-04-01,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+70501,SAN JOSE DE CHIQUITOS,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2014-04-01,14.0,13.0,0.0,2.0,14.0,15.0,29.0
+10403,SOPACHUY,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2014-04-01,7.0,6.0,0.0,0.0,7.0,6.0,13.0
+50303,TACOBAMBA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+41301,TOTORA(ORR),mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+80101,TRINIDAD,mortalidad,muerte menor de 1 ano,2014-04-01,2.0,1.0,0.0,0.0,2.0,1.0,3.0
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+60301,YACUIBA,mortalidad,muerte menor de 1 ano,2014-04-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20701,APOLO,mortalidad,muerte menor de 1 ano,2014-05-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20503,AUCAPATA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+22001,CARANAVI,mortalidad,muerte menor de 1 ano,2014-05-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30303,COCAPATA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2014-05-01,12.0,5.0,0.0,0.0,12.0,5.0,17.0
+71301,COMARAPA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70102,COTOCA,mortalidad,muerte menor de 1 ano,2014-05-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10902,CULPINA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2014-05-01,5.0,4.0,3.0,0.0,8.0,4.0,12.0
+70105,EL TORNO,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+31206,ENTRE RIOS CBBA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20405,ESCOMA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+20602,GUANAY,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+21102,IRUPANA (VILLA DE LANZA),mortalidad,muerte menor de 1 ano,2014-05-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+21501,IXIAMAS,mortalidad,muerte menor de 1 ano,2014-05-01,3.0,0.0,0.0,0.0,3.0,0.0,3.0
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2014-05-01,19.0,16.0,0.0,1.0,19.0,17.0,36.0
+90401,NACEBE (SANTA ROSA DEL ABUNA),mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+40101,ORURO,mortalidad,muerte menor de 1 ano,2014-05-01,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+50403,POCOATA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,2.0,2.0,2.0,2.0,4.0
+31203,POCONA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2014-05-01,1.0,4.0,0.0,0.0,1.0,4.0,5.0
+10302,PRESTO,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+21201,PUCARANI,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+21204,PUERTO PEREZ,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2014-05-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31401,PUNATA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2014-05-01,3.0,0.0,0.0,0.0,3.0,0.0,3.0
+70503,ROBORE,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+31001,SACABA,mortalidad,muerte menor de 1 ano,2014-05-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+50701,SACACA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+71302,SAIPINA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+71105,SAN ANTONIO DE LOMERIO,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80302,SAN BORJA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2014-05-01,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2014-05-01,6.0,5.0,1.0,1.0,7.0,6.0,13.0
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,4.0,0.0,0.0,0.0,4.0,4.0
+30602,TACOPAYA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+41301,TOTORA(ORR),mortalidad,muerte menor de 1 ano,2014-05-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+80101,TRINIDAD,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+51201,UYUNI,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20801,VIACHA,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+51501,VILLAZON,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50602,VITICHI,mortalidad,muerte menor de 1 ano,2014-05-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20201,ACHACACHI,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20701,APOLO,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+21304,CALAMARCA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+22001,CARANAVI,mortalidad,muerte menor de 1 ano,2014-06-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+60302,CARAPARI,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20305,CHARAÑA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50202,CHAYANTA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+51103,CKOCHAS,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,0.0,2.0,0.0,2.0,2.0
+90101,COBIJA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2014-06-01,9.0,4.0,0.0,0.0,9.0,4.0,13.0
+50901,"COLCHA ""K""",mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50401,COLQUECHACA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+71101,CONCEPCION,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21402,CORIPATA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50601,COTAGAITA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+10902,CULPINA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2014-06-01,5.0,6.0,2.0,1.0,7.0,7.0,14.0
+20405,ESCOMA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+21601,GRAL. J.J. PEREZ (CHARAZANI),mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2014-06-01,21.0,18.0,2.0,3.0,23.0,21.0,44.0
+10501,MONTEAGUDO,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+40101,ORURO,mortalidad,muerte menor de 1 ano,2014-06-01,2.0,1.0,0.0,0.0,2.0,1.0,3.0
+21305,PATACAMAYA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50403,POCOATA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,3.0,1.0,3.0,1.0,4.0
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2014-06-01,10.0,8.0,0.0,0.0,10.0,8.0,18.0
+21201,PUCARANI,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,1.0,0.0,1.0,0.0,2.0,2.0
+51101,PUNA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+30901,QUILLACOLLO,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2014-06-01,3.0,1.0,0.0,0.0,3.0,1.0,4.0
+31001,SACABA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,0.0,2.0,0.0,2.0,2.0
+50701,SACACA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20805,SAN ANDRES DE MACHACA,mortalidad,muerte menor de 1 ano,2014-06-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+21502,SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2014-06-01,2.0,3.0,0.0,0.0,2.0,3.0,5.0
+10702,SAN LUCAS,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50501,SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 1 ano,2014-06-01,1.0,0.0,1.0,1.0,2.0,1.0,3.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2014-06-01,9.0,4.0,0.0,2.0,9.0,6.0,15.0
+80303,SANTA ROSA,mortalidad,muerte menor de 1 ano,2014-06-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2014-06-01,5.0,2.0,0.0,0.0,5.0,2.0,7.0
+31101,TAPACARI,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+10202,TARVITA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+31601,TIRAQUE (CBBA),mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2014-06-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+50201,UNCIA,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+51201,UYUNI,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,4.0,2.0,4.0,2.0,6.0
+51501,VILLAZON,mortalidad,muerte menor de 1 ano,2014-06-01,0.0,0.0,2.0,1.0,2.0,1.0,3.0
+21303,AYO AYO,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+30301,AYOPAYA (V. DE INDEPENDENCIA),mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50301,BETANZOS,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+22001,CARANAVI,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50202,CHAYANTA,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,0.0,2.0,0.0,2.0,2.0
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2014-07-01,7.0,2.0,0.0,0.0,7.0,2.0,9.0
+21307,COLLANA,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70603,COLPA BELGICA,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50401,COLQUECHACA,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,0.0,2.0,0.0,2.0,2.0
+20301,CORO CORO,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+21401,COROICO,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,1.0,1.0,0.0,1.0,1.0,2.0
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2014-07-01,13.0,4.0,2.0,1.0,15.0,5.0,20.0
+70105,EL TORNO,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+10502,HUACARETA,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+40701,HUANUNI,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+10304,ICLA,mortalidad,muerte menor de 1 ano,2014-07-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+21105,LA ASUNTA,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2014-07-01,18.0,20.0,1.0,1.0,19.0,21.0,40.0
+50404,OCURI,mortalidad,muerte menor de 1 ano,2014-07-01,2.0,0.0,1.0,0.0,3.0,0.0,3.0
+40101,ORURO,mortalidad,muerte menor de 1 ano,2014-07-01,1.0,2.0,0.0,0.0,1.0,2.0,3.0
+31202,POJO (CBBA),mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2014-07-01,7.0,9.0,0.0,0.0,7.0,9.0,16.0
+21201,PUCARANI,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,0.0,2.0,0.0,2.0,2.0
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+50402,RAVELO,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2014-07-01,3.0,1.0,0.0,0.0,3.0,1.0,4.0
+31001,SACABA,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80501,SAN IGNACIO,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2014-07-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70501,SAN JOSE DE CHIQUITOS,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+10702,SAN LUCAS,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+50501,SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,1.0,1.0,1.0,1.0,2.0,3.0
+21702,SAN PEDRO DE TIQUINA,mortalidad,muerte menor de 1 ano,2014-07-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2014-07-01,3.0,6.0,1.0,1.0,4.0,7.0,11.0
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2014-07-01,3.0,1.0,0.0,0.0,3.0,1.0,4.0
+50102,TINGUIPAYA,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80101,TRINIDAD,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2014-07-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+50201,UNCIA,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+51201,UYUNI,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,3.0,0.0,3.0,0.0,3.0
+60303,VILLA MONTES,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+31003,VILLA TUNARI,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+51501,VILLAZON,mortalidad,muerte menor de 1 ano,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+60301,YACUIBA,mortalidad,muerte menor de 1 ano,2014-07-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20201,ACHACACHI,mortalidad,muerte menor de 1 ano,2014-08-01,1.0,0.0,1.0,0.0,2.0,0.0,2.0
+20701,APOLO,mortalidad,muerte menor de 1 ano,2014-08-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20503,AUCAPATA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+30701,CAPINOTA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+50302,CHAQUI,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20305,CHARAÑA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+31204,CHIMORE,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+90101,COBIJA,mortalidad,muerte menor de 1 ano,2014-08-01,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2014-08-01,7.0,9.0,2.0,0.0,9.0,9.0,18.0
+50401,COLQUECHACA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50601,COTAGAITA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+70102,COTOCA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+71106,CUATRO CAÑADAS,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,0.0,2.0,0.0,2.0,2.0
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2014-08-01,2.0,4.0,4.0,4.0,6.0,8.0,14.0
+40701,HUANUNI,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2014-08-01,18.0,27.0,2.0,1.0,20.0,28.0,48.0
+20607,MAPIRI,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+10501,MONTEAGUDO,mortalidad,muerte menor de 1 ano,2014-08-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+40101,ORURO,mortalidad,muerte menor de 1 ano,2014-08-01,3.0,1.0,0.0,0.0,3.0,1.0,4.0
+21104,PALOS BLANCOS,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+50403,POCOATA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,1.0,1.0,0.0,1.0,1.0,2.0
+40601,POOPO,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2014-08-01,4.0,4.0,0.0,0.0,4.0,4.0,8.0
+51101,PUNA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50402,RAVELO,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2014-08-01,4.0,1.0,0.0,0.0,4.0,1.0,5.0
+51601,SAN AGUSTIN,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2014-08-01,6.0,4.0,1.0,0.0,7.0,4.0,11.0
+21901,SANTIAGO DE MACHACA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2014-08-01,1.0,5.0,0.0,0.0,1.0,5.0,6.0
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,1.0,0.0,1.0,0.0,2.0,2.0
+10402,TOMINA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80101,TRINIDAD,mortalidad,muerte menor de 1 ano,2014-08-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50201,UNCIA,mortalidad,muerte menor de 1 ano,2014-08-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+51201,UYUNI,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+31003,VILLA TUNARI,mortalidad,muerte menor de 1 ano,2014-08-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+51501,VILLAZON,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,1.0,1.0,0.0,1.0,1.0,2.0
+50103,YOCALLA,mortalidad,muerte menor de 1 ano,2014-08-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20502,AYATA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+10201,AZURDUY,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21304,CALAMARCA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2014-09-01,8.0,5.0,0.0,0.0,8.0,5.0,13.0
+31002,COLOMI,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50401,COLQUECHACA,mortalidad,muerte menor de 1 ano,2014-09-01,1.0,0.0,1.0,1.0,2.0,1.0,3.0
+71101,CONCEPCION,mortalidad,muerte menor de 1 ano,2014-09-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+50601,COTAGAITA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70102,COTOCA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2014-09-01,2.0,3.0,4.0,3.0,6.0,6.0,12.0
+41101,EUCALIPTUS,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21501,IXIAMAS,mortalidad,muerte menor de 1 ano,2014-09-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+21105,LA ASUNTA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70104,LA GUARDIA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2014-09-01,13.0,15.0,1.0,2.0,14.0,17.0,31.0
+50203,LLALLAGUA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80601,LORETO,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50404,OCURI,mortalidad,muerte menor de 1 ano,2014-09-01,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+40101,ORURO,mortalidad,muerte menor de 1 ano,2014-09-01,2.0,2.0,0.0,0.0,2.0,2.0,4.0
+21104,PALOS BLANCOS,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2014-09-01,3.0,2.0,0.0,0.0,3.0,2.0,5.0
+21201,PUCARANI,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+51101,PUNA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2014-09-01,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+80302,SAN BORJA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+21502,SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2014-09-01,1.0,1.0,0.0,1.0,1.0,2.0,3.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2014-09-01,8.0,4.0,0.0,0.0,8.0,4.0,12.0
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2014-09-01,5.0,4.0,0.0,2.0,5.0,6.0,11.0
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2014-09-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+51201,UYUNI,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20801,VIACHA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+60301,YACUIBA,mortalidad,muerte menor de 1 ano,2014-09-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0

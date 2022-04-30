@@ -1,0 +1,73 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-meses-a-menor-de-1-ano_masculino,b-6-meses-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+70401,BUENA VISTA,sospecha diagnostica,zika,2020-01-01,0,0,0,0,0,0,2,1,0,1,0,0,3,4,1,1,0,0,0,0,6,7,13
+90101,COBIJA,sospecha diagnostica,zika,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+30101,COCHABAMBA,sospecha diagnostica,zika,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+70102,COTOCA,sospecha diagnostica,zika,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70105,EL TORNO,sospecha diagnostica,zika,2020-01-01,0,0,0,0,2,2,0,0,0,0,0,0,0,4,0,1,0,0,0,0,2,7,9
+70104,LA GUARDIA,sospecha diagnostica,zika,2020-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,2
+20101,LA PAZ,sospecha diagnostica,zika,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,zika,2020-01-01,0,0,0,0,0,0,0,1,0,1,0,1,4,5,1,3,1,1,3,2,9,14,23
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,zika,2020-01-01,0,0,1,0,1,0,0,1,2,2,1,3,2,8,1,5,0,1,3,1,11,21,32
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2020-01-01,0,0,0,1,5,0,1,5,3,1,4,8,15,18,3,5,5,8,6,5,42,51,93
+10101,SUCRE,sospecha diagnostica,zika,2020-01-01,0,0,0,0,1,0,1,0,1,5,5,7,2,6,1,6,1,4,1,1,13,29,42
+80101,TRINIDAD,sospecha diagnostica,zika,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,3,0,0,1,1,2,5,5,10
+60303,VILLA MONTES,sospecha diagnostica,zika,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2020-01-01,0,0,0,0,0,0,0,5,5,1,0,4,2,3,2,3,0,1,0,1,9,18,27
+70401,BUENA VISTA,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,1,2,0,0,1,2,1,3,0,0,0,1,0,1,3,9,12
+70706,CAMIRI,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+70105,EL TORNO,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,2,3,0,0,0,2,3,3,0,0,0,0,0,0,5,8,13
+10501,MONTEAGUDO,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,3,2,6,8
+71001,MONTERO,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90102,PORVENIR,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,0,3,0,0,2,0,2,4,0,1,0,1,1,0,5,9,14
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,1,1,1,2,2,6,5,18,5,2,2,3,2,0,18,32,50
+10101,SUCRE,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,0,0,1,0,0,4,4,8
+80101,TRINIDAD,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,3,1,4
+60303,VILLA MONTES,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,1,3,4,5,4,8,10,7,3,1,3,1,3,9,28,34,62
+70403,YAPACANI,sospecha diagnostica,zika,2020-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70401,BUENA VISTA,sospecha diagnostica,zika,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,1,0,1,3,4
+70706,CAMIRI,sospecha diagnostica,zika,2020-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+90101,COBIJA,sospecha diagnostica,zika,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,sospecha diagnostica,zika,2020-03-01,1,0,0,0,1,0,1,0,0,2,1,1,0,0,0,0,0,0,0,0,4,3,7
+10501,MONTEAGUDO,sospecha diagnostica,zika,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,3,4
+71001,MONTERO,sospecha diagnostica,zika,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,zika,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,2,1,3,1,1,2,3,0,0,4,9,13
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2020-03-01,1,0,0,0,1,0,1,0,1,1,0,3,1,2,1,2,1,1,0,0,7,9,16
+10101,SUCRE,sospecha diagnostica,zika,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,2,2,4
+80101,TRINIDAD,sospecha diagnostica,zika,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2020-03-01,0,0,0,0,0,0,2,2,4,3,4,5,10,12,7,3,3,1,7,5,37,31,68
+90101,COBIJA,sospecha diagnostica,zika,2020-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,sospecha diagnostica,zika,2020-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,sospecha diagnostica,zika,2020-04-01,0,0,0,0,0,0,0,0,0,2,0,1,3,2,3,3,0,0,1,1,7,9,16
+70402,SAN CARLOS,sospecha diagnostica,zika,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,zika,2020-04-01,0,0,0,0,1,0,1,1,0,2,0,1,1,1,0,0,0,0,1,1,4,6,10
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2020-04-01,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,2,0,0,2,0,4,4,8
+80101,TRINIDAD,sospecha diagnostica,zika,2020-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2020-04-01,0,0,0,0,2,0,2,3,2,1,3,7,9,17,5,6,3,4,2,4,28,42,70
+70201,WARNES,sospecha diagnostica,zika,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,zika,2020-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,zika,2020-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+10501,MONTEAGUDO,sospecha diagnostica,zika,2020-05-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2,3
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,zika,2020-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2020-05-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2020-05-01,0,0,0,0,0,0,1,1,0,0,1,0,2,2,1,1,1,0,1,1,7,5,12
+70401,BUENA VISTA,sospecha diagnostica,zika,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,zika,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,4,2,6
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+80304,RURRENABAQUE,sospecha diagnostica,zika,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,zika,2020-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2020-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,3,3
+90101,COBIJA,sospecha diagnostica,zika,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,zika,2020-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2020-11-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+70105,EL TORNO,sospecha diagnostica,zika,2020-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,2,3
+70104,LA GUARDIA,sospecha diagnostica,zika,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,zika,2020-12-01,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1,1,0,1,0,0,4,2,6
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,zika,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,2,2,4

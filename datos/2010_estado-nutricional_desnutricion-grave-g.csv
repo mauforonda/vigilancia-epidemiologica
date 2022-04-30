@@ -1,0 +1,1257 @@
+codigo_municipio,municipio,grupo,variable,mes,de-1-ano_masculino,de-1-ano-1_femenino,1-a-menor-de-2-anos_masculino,1-a-menor-de-2-anos-1_femenino,2-a-menor-de-5-anos_masculino,2-a-menor-de-5-anos-1_femenino,imc_mujer-embarazada,imc-1_,totales_total-m,totales-1_total-f,totales-2_total
+20202,ANCORAIMES,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,0,0,1,0,0,0,1,1
+30402,ANZALDO,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+30601,ARQUE,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+20502,AYATA,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,0,0,0,0,1,0,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,0,1,0,0,0,1,0,1
+10201,AZURDUY,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,0,1,0,0,0,1,0,1
+21203,BATALLAS,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,estado nutricional,desnutricion grave (g),2010-01-01,0,0,1,0,0,0,0,0,1,0,1
+50301,BETANZOS,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+90103,BOLPEBRA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,1,0,0,1,0,0,1,1,2
+70401,BUENA VISTA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+70703,CABEZAS,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,0,0,1,0,0,0,1,1
+70706,CAMIRI,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,0,1,0,0,0,2,2
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-01-01,3,0,0,0,1,0,0,0,4,0,4
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-01-01,0,0,1,1,1,0,0,0,2,1,3
+50702,CARIPUYO,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,3,0,0,0,3,1,4
+71403,CARMEN RIVERO TORREZ,estado nutricional,desnutricion grave (g),2010-01-01,0,0,1,0,0,0,0,0,1,0,1
+50302,CHAQUI,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,estado nutricional,desnutricion grave (g),2010-01-01,0,1,1,0,0,0,0,0,1,1,2
+20501,CHUMA,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-01-01,2,1,0,0,0,0,0,0,2,1,3
+30303,COCAPATA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-01-01,9,3,5,10,0,5,0,0,14,18,32
+30905,COLCAPIRHUA,estado nutricional,desnutricion grave (g),2010-01-01,0,1,1,1,0,0,0,0,1,2,3
+50401,COLQUECHACA,estado nutricional,desnutricion grave (g),2010-01-01,1,0,1,0,0,0,0,0,2,0,2
+21004,COLQUIRI,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,0,0,0,0,1,0,1
+71101,CONCEPCION,estado nutricional,desnutricion grave (g),2010-01-01,0,0,1,0,0,0,0,0,1,0,1
+21701,COPACABANA,estado nutricional,desnutricion grave (g),2010-01-01,0,2,1,0,0,0,0,0,1,2,3
+70102,COTOCA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,1,1,0,0,0,0,1,1,2
+70704,CUEVO,estado nutricional,desnutricion grave (g),2010-01-01,1,1,0,0,0,0,0,0,1,1,2
+10902,CULPINA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-01-01,5,2,0,0,0,1,0,0,5,3,8
+10405,EL VILLAR,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,0,0,0,0,1,0,1
+20405,ESCOMA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,0,0,1,0,0,0,1,1
+20602,GUANAY,estado nutricional,desnutricion grave (g),2010-01-01,1,1,0,0,1,0,0,0,2,1,3
+80202,GUAYARAMERIN,estado nutricional,desnutricion grave (g),2010-01-01,2,1,0,0,1,0,0,0,3,1,4
+10502,HUACARETA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+40701,HUANUNI,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,0,0,0,0,0,1,1
+21001,INQUISIVI,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+70104,LA GUARDIA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,1,0,1,0,0,0,2,0,2
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-01-01,12,6,5,1,3,1,0,0,20,8,28
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-01-01,1,0,2,1,0,1,0,0,3,2,5
+40702,MACHACAMARCA,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,estado nutricional,desnutricion grave (g),2010-01-01,2,0,0,0,2,0,0,0,4,0,4
+31301,MIZQUE,estado nutricional,desnutricion grave (g),2010-01-01,0,3,0,0,1,0,0,0,1,3,4
+10303,MOJOCOYA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,0,0,1,0,0,0,1,1
+10501,MONTEAGUDO,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,2,0,0,0,2,1,3
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-01-01,9,0,1,2,1,3,0,0,11,5,16
+50404,OCURI,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,estado nutricional,desnutricion grave (g),2010-01-01,2,2,3,1,1,1,0,0,6,4,10
+60201,PADCAYA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,0,0,1,0,0,0,1,1
+70502,PAILON,estado nutricional,desnutricion grave (g),2010-01-01,0,2,0,0,0,0,0,0,0,2,2
+20102,PALCA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,1,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,estado nutricional,desnutricion grave (g),2010-01-01,1,0,2,0,0,0,0,0,3,0,3
+21305,PATACAMAYA,estado nutricional,desnutricion grave (g),2010-01-01,1,2,1,5,3,1,0,0,5,8,13
+50403,POCOATA,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,0,0,0,0,1,0,1
+31202,POJO (CBBA),estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,0,0,0,0,0,1,1
+10103,POROMA,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,1,0,0,0,0,0,2,2
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-01-01,2,3,1,0,0,0,0,0,3,3,6
+10302,PRESTO,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,0,0,0,0,1,0,1
+21201,PUCARANI,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,estado nutricional,desnutricion grave (g),2010-01-01,1,1,2,0,1,3,0,0,4,4,8
+31401,PUNATA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+30901,QUILLACOLLO,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+50402,RAVELO,estado nutricional,desnutricion grave (g),2010-01-01,0,0,1,0,0,0,0,0,1,0,1
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-01-01,1,1,2,2,0,0,0,0,3,3,6
+80304,RURRENABAQUE,estado nutricional,desnutricion grave (g),2010-01-01,1,1,0,0,0,0,0,0,1,1,2
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-01-01,0,1,2,0,0,2,0,0,2,3,5
+80602,SAN ANDRES,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,0,1,0,0,0,1,0,1
+31403,SAN BENITO,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,0,1,0,0,0,2,2
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-01-01,3,0,0,0,0,0,0,0,3,0,3
+21502,SAN BUENA VENTURA,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,estado nutricional,desnutricion grave (g),2010-01-01,0,2,0,0,0,0,0,0,0,2,2
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,1,0,0,0,2,0,2
+71102,SAN JAVIER(STC),estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,1,0,0,0,2,2
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-01-01,1,0,1,1,0,1,0,0,2,2,4
+71201,SAN MATIAS,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,0,1,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-01-01,1,0,1,1,0,0,0,0,2,1,3
+70303,SAN RAFAEL,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,estado nutricional,desnutricion grave (g),2010-01-01,1,0,1,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-01-01,8,9,8,5,2,4,0,0,18,18,36
+40202,SANTUARIO DE QUILLACAS,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+31602,SHINAOTA,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,1,0,0,0,0,1,1,2
+30902,SIPE SIPE,estado nutricional,desnutricion grave (g),2010-01-01,0,1,3,1,1,0,0,0,4,2,6
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-01-01,0,0,1,0,0,0,0,0,1,0,1
+30602,TACOPAYA,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,1,0,0,0,0,0,1,1
+31101,TAPACARI,estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,2,1,0,0,0,1,2,3
+60101,TARIJA,estado nutricional,desnutricion grave (g),2010-01-01,3,3,1,3,1,2,0,0,5,8,13
+10202,TARVITA,estado nutricional,desnutricion grave (g),2010-01-01,1,1,0,0,1,0,0,0,2,1,3
+31601,TIRAQUE (CBBA),estado nutricional,desnutricion grave (g),2010-01-01,1,1,0,0,0,1,0,0,1,2,3
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-01-01,5,0,5,2,0,1,0,0,10,3,13
+50801,TUPIZA,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,0,1,0,0,0,2,2
+21302,UMALA,estado nutricional,desnutricion grave (g),2010-01-01,0,1,0,0,1,0,0,0,1,1,2
+31302,VILA VILA,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-01-01,3,2,0,2,0,1,0,0,3,5,8
+11001,VILLA VACA GUZMAN (MUYUPAMPA),estado nutricional,desnutricion grave (g),2010-01-01,0,0,0,0,0,2,0,0,0,2,2
+30904,VINTO,estado nutricional,desnutricion grave (g),2010-01-01,1,0,2,2,0,2,0,0,3,4,7
+70201,WARNES,estado nutricional,desnutricion grave (g),2010-01-01,1,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,estado nutricional,desnutricion grave (g),2010-01-01,2,1,0,2,1,1,0,0,3,4,7
+30201,AIQUILE,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,0,6,0,0,0,6,6
+20202,ANCORAIMES,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,0,0,0,0,0,1,1
+30403,ARBIETO,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,0,0,0,0,1,0,1
+30601,ARQUE,estado nutricional,desnutricion grave (g),2010-02-01,1,0,1,0,0,0,0,0,2,0,2
+71501,ASCENCION DE GUARAYOS,estado nutricional,desnutricion grave (g),2010-02-01,1,3,6,4,2,4,0,0,9,11,20
+50802,ATOCHA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,0,1,0,0,0,1,1
+10201,AZURDUY,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,0,2,0,0,0,2,2
+50301,BETANZOS,estado nutricional,desnutricion grave (g),2010-02-01,2,0,0,0,0,0,0,0,2,0,2
+51102,"CAIZA ""D""",estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,0,0,0,0,1,0,1
+21003,CAJUATA,estado nutricional,desnutricion grave (g),2010-02-01,0,6,0,6,0,0,0,0,0,12,12
+10701,CAMARGO,estado nutricional,desnutricion grave (g),2010-02-01,0,0,2,0,0,0,0,0,2,0,2
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,1,0,0,0,0,0,1,0,1
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-02-01,0,0,1,0,0,0,0,0,1,0,1
+21803,CHACARILLA,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,0,0,0,0,0,1,1
+40201,CHALLAPATA,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,0,0,0,0,1,0,1
+50302,CHAQUI,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,1,0,0,0,1,0,1
+70702,CHARAGUA,estado nutricional,desnutricion grave (g),2010-02-01,1,1,0,0,0,0,0,0,1,1,2
+31204,CHIMORE,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),estado nutricional,desnutricion grave (g),2010-02-01,0,0,2,0,0,0,0,0,2,0,2
+51103,CKOCHAS,estado nutricional,desnutricion grave (g),2010-02-01,0,0,1,0,0,0,0,0,1,0,1
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-02-01,0,2,1,0,0,0,0,0,1,2,3
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-02-01,4,3,2,5,2,5,0,0,8,13,21
+50401,COLQUECHACA,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,0,0,0,0,1,0,1
+21701,COPACABANA,estado nutricional,desnutricion grave (g),2010-02-01,2,0,0,0,1,0,0,0,3,0,3
+50601,COTAGAITA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,1,0,0,1,0,0,1,1,2
+70102,COTOCA,estado nutricional,desnutricion grave (g),2010-02-01,0,3,0,1,0,0,0,0,0,4,4
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-02-01,4,2,1,1,0,1,0,0,5,4,9
+60502,EL PUENTE(TJA),estado nutricional,desnutricion grave (g),2010-02-01,0,0,1,1,0,0,0,0,1,1,2
+10405,EL VILLAR,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,1,0,0,0,2,0,2
+71004,FERNANDEZ ALONSO,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,1,0,0,0,0,0,1,1
+20602,GUANAY,estado nutricional,desnutricion grave (g),2010-02-01,2,0,0,0,0,0,0,0,2,0,2
+70705,GUTIERREZ,estado nutricional,desnutricion grave (g),2010-02-01,0,0,1,0,0,0,0,0,1,0,1
+10304,ICLA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,0,1,0,0,0,1,1
+21501,IXIAMAS,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,estado nutricional,desnutricion grave (g),2010-02-01,1,1,0,1,0,0,0,0,1,2,3
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-02-01,2,1,1,0,0,1,0,0,3,2,5
+10903,LAS CARRERAS,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,1,0,0,0,1,0,1
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-02-01,0,2,1,1,0,0,0,0,1,3,4
+71003,MINEROS,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,1,0,0,0,0,0,1,1
+31301,MIZQUE,estado nutricional,desnutricion grave (g),2010-02-01,1,0,2,0,0,0,0,0,3,0,3
+20402,MOCOMOCO,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,0,0,0,0,0,1,1
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-02-01,5,4,1,0,5,3,0,0,11,7,18
+30302,MOROCHATA,estado nutricional,desnutricion grave (g),2010-02-01,2,0,0,0,0,0,0,0,2,0,2
+50404,OCURI,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,0,0,0,0,1,0,1
+30203,OMEREQUE,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,estado nutricional,desnutricion grave (g),2010-02-01,1,0,1,1,0,0,0,0,2,1,3
+70502,PAILON,estado nutricional,desnutricion grave (g),2010-02-01,0,1,3,0,0,0,0,0,3,1,4
+21104,PALOS BLANCOS,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,2,0,0,0,2,0,2
+50403,POCOATA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,1,0,0,0,1,0,1
+10103,POROMA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,2,0,0,0,0,0,2,0,2
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-02-01,2,1,1,1,0,0,0,0,3,2,5
+90201,PUERTO RICO,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,estado nutricional,desnutricion grave (g),2010-02-01,3,2,0,0,0,0,0,0,3,2,5
+31205,PUERTO VILLARROEL,estado nutricional,desnutricion grave (g),2010-02-01,3,1,4,9,2,2,0,0,9,12,21
+31401,PUNATA,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,1,1,0,0,2,1,3
+50402,RAVELO,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,1,0,0,0,0,0,1,1
+70503,ROBORE,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,1,0,1,0,0,0,2,2
+80304,RURRENABAQUE,estado nutricional,desnutricion grave (g),2010-02-01,0,0,1,0,0,0,0,0,1,0,1
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-02-01,2,1,0,0,0,0,0,0,2,1,3
+71302,SAIPINA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,0,1,0,0,0,1,1
+31403,SAN BENITO,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,1,0,0,0,0,1,1,2
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-02-01,3,0,4,0,0,0,0,0,7,0,7
+21502,SAN BUENA VENTURA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,1,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,estado nutricional,desnutricion grave (g),2010-02-01,1,2,1,0,2,1,0,0,4,3,7
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-02-01,0,2,1,1,1,0,0,0,2,3,5
+80701,SAN JOAQUIN,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,1,0,1,0,0,1,2,3
+70404,SAN JUAN DE YAPACANI,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,1,0,0,0,1,0,1
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-02-01,5,4,0,0,1,1,0,0,6,5,11
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-02-01,0,1,1,1,0,0,0,0,1,2,3
+80401,SANTA ANA,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-02-01,17,9,9,9,5,3,0,0,31,21,52
+80303,SANTA ROSA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,2,0,0,0,0,0,2,0,2
+20902,SAPAHAQUI,estado nutricional,desnutricion grave (g),2010-02-01,0,0,1,0,0,0,0,0,1,0,1
+90303,SENA,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,0,0,0,0,0,1,1
+31602,SHINAOTA,estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,1,0,0,0,2,0,2
+10403,SOPACHUY,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,0,1,0,0,0,2,2
+20601,SORATA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,0,1,0,0,0,1,1
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-02-01,1,0,1,0,1,0,0,0,3,0,3
+50303,TACOBAMBA,estado nutricional,desnutricion grave (g),2010-02-01,0,2,1,0,0,0,0,0,1,2,3
+31101,TAPACARI,estado nutricional,desnutricion grave (g),2010-02-01,3,0,0,1,0,2,0,0,3,3,6
+30401,TARATA,estado nutricional,desnutricion grave (g),2010-02-01,1,0,3,2,1,1,0,0,5,3,8
+60101,TARIJA,estado nutricional,desnutricion grave (g),2010-02-01,4,0,0,3,0,2,0,0,4,5,9
+10202,TARVITA,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,0,0,0,0,0,1,1
+20608,TEOPONTE,estado nutricional,desnutricion grave (g),2010-02-01,0,0,1,0,0,1,0,0,1,1,2
+50102,TINGUIPAYA,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,0,0,1,0,0,0,1,1
+20606,TIPUANI,estado nutricional,desnutricion grave (g),2010-02-01,0,0,1,0,0,0,0,0,1,0,1
+31201,TOTORA(CBBA),estado nutricional,desnutricion grave (g),2010-02-01,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-02-01,2,1,1,7,1,1,0,0,4,9,13
+60401,URIONDO (A. CONCEPCION),estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,1,0,0,0,1,1,2
+31302,VILA VILA,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,estado nutricional,desnutricion grave (g),2010-02-01,0,0,0,1,0,1,0,0,0,2,2
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-02-01,1,1,0,0,0,0,0,0,1,1,2
+51501,VILLAZON,estado nutricional,desnutricion grave (g),2010-02-01,2,0,0,0,0,0,0,0,2,0,2
+70201,WARNES,estado nutricional,desnutricion grave (g),2010-02-01,0,1,0,1,0,0,0,0,0,2,2
+60301,YACUIBA,estado nutricional,desnutricion grave (g),2010-02-01,1,1,0,1,0,0,0,0,1,2,3
+20201,ACHACACHI,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+30201,AIQUILE,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,1,1,2,0,0,2,3,5
+31303,ALALAY,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+22002,ALTO BENI,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+30402,ANZALDO,estado nutricional,desnutricion grave (g),2010-03-01,0,1,1,1,0,2,0,0,1,4,5
+30601,ARQUE,estado nutricional,desnutricion grave (g),2010-03-01,2,0,4,2,0,0,0,0,6,2,8
+71501,ASCENCION DE GUARAYOS,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+50802,ATOCHA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+20502,AYATA,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,0,1,0,0,0,1,0,1
+50301,BETANZOS,estado nutricional,desnutricion grave (g),2010-03-01,1,0,1,0,0,0,0,0,2,0,2
+70703,CABEZAS,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,1,0,0,0,2,0,2
+10701,CAMARGO,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,0,0,2,0,0,0,2,2
+70706,CAMIRI,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,0,3,3,0,0,3,3,6
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,1,0,0,1,1,2
+20302,CAQUIAVIRI,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,1,0,0,0,0,0,1,1
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-03-01,2,1,2,3,1,1,0,0,5,5,10
+71403,CARMEN RIVERO TORREZ,estado nutricional,desnutricion grave (g),2010-03-01,1,1,0,0,0,0,0,0,1,1,2
+40201,CHALLAPATA,estado nutricional,desnutricion grave (g),2010-03-01,1,1,0,1,0,0,0,0,1,2,3
+21101,CHULUMANI (V. DE LA LIBERTAD),estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,1,0,0,0,0,0,1,1
+50204,CHUQUIHUTA AYLLU JUCUMANI,estado nutricional,desnutricion grave (g),2010-03-01,0,1,0,0,0,0,0,0,0,1,1
+51103,CKOCHAS,estado nutricional,desnutricion grave (g),2010-03-01,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-03-01,0,2,1,0,0,0,0,0,1,2,3
+30303,COCAPATA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-03-01,5,2,3,12,5,2,0,0,13,16,29
+30905,COLCAPIRHUA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+50401,COLQUECHACA,estado nutricional,desnutricion grave (g),2010-03-01,2,1,1,1,0,0,0,0,3,2,5
+50601,COTAGAITA,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,3,0,0,0,0,0,3,3
+70704,CUEVO,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,2,0,0,0,3,0,3
+10902,CULPINA,estado nutricional,desnutricion grave (g),2010-03-01,0,1,0,0,0,1,0,0,0,2,2
+20804,DESAGUADERO,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-03-01,8,6,1,0,1,0,0,0,10,6,16
+71503,EL PUENTE(STC),estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,2,0,0,1,2,3
+60502,EL PUENTE(TJA),estado nutricional,desnutricion grave (g),2010-03-01,2,0,0,1,1,0,0,0,3,1,4
+70105,EL TORNO,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,0,0,1,0,0,0,1,1
+31206,ENTRE RIOS CBBA,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,0,1,0,0,0,1,0,1
+41101,EUCALIPTUS,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,0,0,1,0,0,0,1,1
+71002,GENERAL SAAVEDRA,estado nutricional,desnutricion grave (g),2010-03-01,0,1,0,0,0,0,0,0,0,1,1
+20602,GUANAY,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+20802,GUAQUI,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,estado nutricional,desnutricion grave (g),2010-03-01,0,2,0,0,0,0,0,0,0,2,2
+70705,GUTIERREZ,estado nutricional,desnutricion grave (g),2010-03-01,1,0,1,0,0,0,0,0,2,0,2
+20204,HUARINA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,1,0,0,0,0,1,1,2
+10304,ICLA,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,0,0,1,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-03-01,7,2,2,0,1,0,0,0,10,2,12
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,1,0,0,0,0,0,1,1
+11003,MACHARETI,estado nutricional,desnutricion grave (g),2010-03-01,1,0,1,0,0,0,0,0,2,0,2
+80801,MAGDALENA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,estado nutricional,desnutricion grave (g),2010-03-01,0,0,2,0,0,0,0,0,2,0,2
+10501,MONTEAGUDO,estado nutricional,desnutricion grave (g),2010-03-01,0,1,1,0,0,0,0,0,1,1,2
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-03-01,4,2,6,0,2,2,0,0,12,4,16
+70202,OKINAWA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,1,0,2,0,0,0,4,0,4
+40101,ORURO,estado nutricional,desnutricion grave (g),2010-03-01,5,1,2,2,0,1,0,0,7,4,11
+10401,PADILLA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,0,0,1,0,0,0,1,1
+21104,PALOS BLANCOS,estado nutricional,desnutricion grave (g),2010-03-01,0,1,0,0,0,1,0,0,0,2,2
+50403,POCOATA,estado nutricional,desnutricion grave (g),2010-03-01,1,1,0,0,0,0,0,0,1,1,2
+70804,POSTRER VALLE,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-03-01,3,3,1,2,0,0,0,0,4,5,9
+10302,PRESTO,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+80703,PUERTO SILES,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,1,1,0,0,0,1,1,2
+71401,PUERTO SUAREZ,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,1,0,0,0,0,1,1,2
+31205,PUERTO VILLARROEL,estado nutricional,desnutricion grave (g),2010-03-01,3,0,7,1,0,3,0,0,10,4,14
+31401,PUNATA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,1,0,0,0,0,1,1,2
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-03-01,0,2,5,2,0,0,0,0,5,4,9
+70503,ROBORE,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-03-01,1,2,0,1,2,2,0,0,3,5,8
+50701,SACACA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+71302,SAIPINA,estado nutricional,desnutricion grave (g),2010-03-01,1,2,0,0,1,0,0,0,2,2,4
+71105,SAN ANTONIO DE LOMERIO,estado nutricional,desnutricion grave (g),2010-03-01,0,1,0,0,0,0,0,0,0,1,1
+31403,SAN BENITO,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,0,1,1,0,0,1,1,2
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-03-01,1,2,3,0,3,1,0,0,7,3,10
+21502,SAN BUENA VENTURA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,estado nutricional,desnutricion grave (g),2010-03-01,0,3,2,0,0,0,0,0,2,3,5
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-03-01,1,1,2,0,1,0,0,0,4,1,5
+70501,SAN JOSE DE CHIQUITOS,estado nutricional,desnutricion grave (g),2010-03-01,2,2,0,0,0,0,0,0,2,2,4
+70404,SAN JUAN DE YAPACANI,estado nutricional,desnutricion grave (g),2010-03-01,2,0,0,0,0,1,0,0,2,1,3
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-03-01,4,0,2,0,1,1,0,0,7,1,8
+70302,SAN MIGUEL DE VELASCO,estado nutricional,desnutricion grave (g),2010-03-01,0,1,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,estado nutricional,desnutricion grave (g),2010-03-01,0,1,1,0,0,0,0,0,1,1,2
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,3,0,0,1,0,0,4,1,5
+80401,SANTA ANA,estado nutricional,desnutricion grave (g),2010-03-01,3,1,0,0,0,0,0,0,3,1,4
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-03-01,35,21,16,17,8,8,0,0,59,46,105
+70602,SANTA ROSA DEL SARA,estado nutricional,desnutricion grave (g),2010-03-01,0,1,0,0,0,0,0,0,0,1,1
+90303,SENA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,2,2,1,0,0,2,3,5
+21301,SICA SICA (VILLA AROMA),estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-03-01,3,3,6,6,4,2,0,0,13,11,24
+50303,TACOBAMBA,estado nutricional,desnutricion grave (g),2010-03-01,0,0,0,1,0,0,0,0,0,1,1
+31101,TAPACARI,estado nutricional,desnutricion grave (g),2010-03-01,1,1,1,0,2,1,0,0,4,2,6
+10601,TARABUCO,estado nutricional,desnutricion grave (g),2010-03-01,1,2,1,0,0,0,0,0,2,2,4
+30401,TARATA,estado nutricional,desnutricion grave (g),2010-03-01,0,2,0,0,0,0,0,0,0,2,2
+60101,TARIJA,estado nutricional,desnutricion grave (g),2010-03-01,4,0,1,1,1,3,0,0,6,4,10
+50102,TINGUIPAYA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+30802,TOCO,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+10402,TOMINA,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,1,0,0,0,2,0,2
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-03-01,0,2,1,3,3,0,0,0,4,5,9
+50801,TUPIZA,estado nutricional,desnutricion grave (g),2010-03-01,0,1,0,0,0,0,0,0,0,1,1
+50201,UNCIA,estado nutricional,desnutricion grave (g),2010-03-01,0,1,1,0,0,0,0,0,1,1,2
+51201,UYUNI,estado nutricional,desnutricion grave (g),2010-03-01,0,3,0,0,0,0,0,0,0,3,3
+10704,VILLA CHARCAS,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,estado nutricional,desnutricion grave (g),2010-03-01,1,0,0,1,0,1,0,0,1,2,3
+90502,VILLA NUEVA (LOMA ALTA),estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-03-01,1,2,2,3,1,0,0,0,4,5,9
+30904,VINTO,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+60301,YACUIBA,estado nutricional,desnutricion grave (g),2010-03-01,1,1,1,1,1,2,0,0,3,4,7
+70403,YAPACANI,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+10102,YOTALA,estado nutricional,desnutricion grave (g),2010-03-01,0,0,1,0,0,0,0,0,1,0,1
+20104,ACHOCALLA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,2,0,0,0,0,0,2,0,2
+30201,AIQUILE,estado nutricional,desnutricion grave (g),2010-04-01,0,0,2,0,0,1,0,0,2,1,3
+10404,ALCALA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+20202,ANCORAIMES,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+30403,ARBIETO,estado nutricional,desnutricion grave (g),2010-04-01,0,0,1,0,0,2,0,0,1,2,3
+30601,ARQUE,estado nutricional,desnutricion grave (g),2010-04-01,4,1,4,1,1,1,0,0,9,3,12
+71501,ASCENCION DE GUARAYOS,estado nutricional,desnutricion grave (g),2010-04-01,2,1,0,2,0,1,0,0,2,4,6
+20502,AYATA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,1,0,0,0,0,0,1,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+10201,AZURDUY,estado nutricional,desnutricion grave (g),2010-04-01,1,1,0,0,0,0,0,0,1,1,2
+50301,BETANZOS,estado nutricional,desnutricion grave (g),2010-04-01,2,0,0,0,0,0,0,0,2,0,2
+31501,BOLIVAR,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+90103,BOLPEBRA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,1,0,0,0,1,0,1
+70703,CABEZAS,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,0,1,0,0,0,1,1
+70706,CAMIRI,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,1,1,0,0,0,0,2,1,3
+20302,CAQUIAVIRI,estado nutricional,desnutricion grave (g),2010-04-01,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-04-01,0,1,2,2,0,4,0,0,2,7,9
+60302,CARAPARI,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,1,0,0,0,0,1,1,2
+70702,CHARAGUA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+51103,CKOCHAS,estado nutricional,desnutricion grave (g),2010-04-01,2,0,0,0,0,0,0,0,2,0,2
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-04-01,1,2,0,0,0,0,0,0,1,2,3
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-04-01,2,3,6,5,1,3,0,0,9,11,20
+30905,COLCAPIRHUA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,2,0,0,0,2,0,2
+50901,"COLCHA ""K""",estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,0,1,0,0,0,1,1
+71101,CONCEPCION,estado nutricional,desnutricion grave (g),2010-04-01,0,0,1,0,0,0,0,0,1,0,1
+21701,COPACABANA,estado nutricional,desnutricion grave (g),2010-04-01,0,2,0,0,0,0,0,0,0,2,2
+50601,COTAGAITA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+70704,CUEVO,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,1,0,0,1,1,2
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-04-01,4,5,1,2,2,4,0,0,7,11,18
+60502,EL PUENTE(TJA),estado nutricional,desnutricion grave (g),2010-04-01,1,0,2,0,0,0,0,0,3,0,3
+80402,EXALTACION,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,0,1,0,0,0,1,1
+20602,GUANAY,estado nutricional,desnutricion grave (g),2010-04-01,1,0,2,0,1,0,0,0,4,0,4
+80202,GUAYARAMERIN,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,0,2,0,0,0,2,2
+21005,ICHOCA,estado nutricional,desnutricion grave (g),2010-04-01,0,1,0,0,0,0,0,0,0,1,1
+10703,INCAHUASI,estado nutricional,desnutricion grave (g),2010-04-01,1,0,1,0,0,0,0,0,2,0,2
+21102,IRUPANA (VILLA DE LANZA),estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+21501,IXIAMAS,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,1,0,0,0,0,0,1,1
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-04-01,7,4,9,9,0,4,0,0,16,17,33
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,3,2,3,0,0,0,6,2,8
+40702,MACHACAMARCA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,1,0,0,0,0,0,1,1
+80801,MAGDALENA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,1,0,0,0,1,0,1
+20607,MAPIRI,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,estado nutricional,desnutricion grave (g),2010-04-01,1,1,1,1,0,0,0,0,2,2,4
+31301,MIZQUE,estado nutricional,desnutricion grave (g),2010-04-01,0,1,2,0,0,1,0,0,2,2,4
+10501,MONTEAGUDO,estado nutricional,desnutricion grave (g),2010-04-01,0,0,1,0,0,0,0,0,1,0,1
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-04-01,4,4,2,2,1,0,0,0,7,6,13
+30302,MOROCHATA,estado nutricional,desnutricion grave (g),2010-04-01,0,2,0,0,1,0,0,0,1,2,3
+40101,ORURO,estado nutricional,desnutricion grave (g),2010-04-01,3,1,0,0,0,0,0,0,3,1,4
+70502,PAILON,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,1,0,0,0,1,0,1
+21104,PALOS BLANCOS,estado nutricional,desnutricion grave (g),2010-04-01,1,1,0,0,1,1,0,0,2,2,4
+21802,PAPEL PAMPA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,1,0,0,0,0,0,1,1
+50403,POCOATA,estado nutricional,desnutricion grave (g),2010-04-01,1,1,0,0,0,0,0,0,1,1,2
+31203,POCONA,estado nutricional,desnutricion grave (g),2010-04-01,0,1,0,0,0,0,0,0,0,1,1
+31202,POJO (CBBA),estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,1,0,0,0,0,0,1,1
+10103,POROMA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,1,0,0,0,2,0,2
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-04-01,3,1,0,1,1,1,0,0,4,3,7
+10302,PRESTO,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,1,0,0,0,1,0,1
+90301,PUERTO GONZALO MORENO,estado nutricional,desnutricion grave (g),2010-04-01,0,1,0,0,0,0,0,0,0,1,1
+80703,PUERTO SILES,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,0,1,0,0,0,1,1
+71401,PUERTO SUAREZ,estado nutricional,desnutricion grave (g),2010-04-01,1,1,1,0,0,0,0,0,2,1,3
+31205,PUERTO VILLARROEL,estado nutricional,desnutricion grave (g),2010-04-01,0,1,8,3,1,2,0,0,9,6,15
+51101,PUNA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,1,0,0,0,0,0,1,0,1
+20604,QUIABAYA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,2,0,0,1,0,0,2,1,3
+30901,QUILLACOLLO,estado nutricional,desnutricion grave (g),2010-04-01,0,0,1,0,1,0,0,0,2,0,2
+50402,RAVELO,estado nutricional,desnutricion grave (g),2010-04-01,1,1,0,0,0,0,0,0,1,1,2
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-04-01,0,2,2,3,1,0,0,0,3,5,8
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-04-01,2,0,1,0,0,0,0,0,3,0,3
+50701,SACACA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,0,1,0,0,0,1,1
+71302,SAIPINA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,1,0,0,0,0,0,1,1
+31403,SAN BENITO,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,0,3,0,0,0,3,3
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-04-01,1,3,1,0,0,1,0,0,2,4,6
+70402,SAN CARLOS,estado nutricional,desnutricion grave (g),2010-04-01,0,0,2,2,0,0,0,0,2,2,4
+80501,SAN IGNACIO,estado nutricional,desnutricion grave (g),2010-04-01,0,0,1,0,0,1,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-04-01,0,0,2,1,0,0,0,0,2,1,3
+71102,SAN JAVIER(STC),estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,1,0,0,1,1,2
+80701,SAN JOAQUIN,estado nutricional,desnutricion grave (g),2010-04-01,0,0,1,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,estado nutricional,desnutricion grave (g),2010-04-01,2,0,0,0,0,0,0,0,2,0,2
+70404,SAN JUAN DE YAPACANI,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+90302,SAN LORENZO(PND),estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-04-01,3,0,0,0,0,1,0,0,3,1,4
+71005,SAN PEDRO,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,1,0,0,1,1,2
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-04-01,2,1,1,0,0,0,0,0,3,1,4
+80401,SANTA ANA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-04-01,22,16,11,2,4,5,0,0,37,23,60
+80303,SANTA ROSA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,1,0,0,0,0,0,1,1
+20902,SAPAHAQUI,estado nutricional,desnutricion grave (g),2010-04-01,0,1,0,0,0,0,0,0,0,1,1
+90303,SENA,estado nutricional,desnutricion grave (g),2010-04-01,0,1,0,0,0,0,0,0,0,1,1
+31602,SHINAOTA,estado nutricional,desnutricion grave (g),2010-04-01,0,2,2,2,1,0,0,0,3,4,7
+21301,SICA SICA (VILLA AROMA),estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,1,0,0,0,0,0,1,1
+30703,SICAYA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+20601,SORATA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,0,1,0,0,0,1,1
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-04-01,4,2,0,3,2,4,0,0,6,9,15
+50303,TACOBAMBA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,1,1,0,0,0,1,1,2
+31101,TAPACARI,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+10601,TARABUCO,estado nutricional,desnutricion grave (g),2010-04-01,0,1,1,0,0,0,0,0,1,1,2
+60101,TARIJA,estado nutricional,desnutricion grave (g),2010-04-01,1,2,0,0,0,2,0,0,1,4,5
+20608,TEOPONTE,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+50102,TINGUIPAYA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,1,0,0,1,1,2
+31601,TIRAQUE (CBBA),estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,1,0,1,0,0,1,2,3
+30803,TOLATA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,1,0,0,0,1,0,1
+51202,TOMAVE,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,0,2,0,0,0,2,2
+10402,TOMINA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-04-01,2,1,1,1,3,2,0,0,6,4,10
+50801,TUPIZA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,1,0,0,0,0,1,1,2
+50201,UNCIA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,1,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),estado nutricional,desnutricion grave (g),2010-04-01,1,0,0,0,0,0,0,0,1,0,1
+51201,UYUNI,estado nutricional,desnutricion grave (g),2010-04-01,1,0,1,0,0,0,0,0,2,0,2
+20801,VIACHA,estado nutricional,desnutricion grave (g),2010-04-01,0,0,1,1,0,0,0,0,1,1,2
+60303,VILLA MONTES,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,0,0,2,0,0,0,2,2
+31402,VILLA RIVERO,estado nutricional,desnutricion grave (g),2010-04-01,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-04-01,1,1,3,1,1,0,0,0,5,2,7
+11001,VILLA VACA GUZMAN (MUYUPAMPA),estado nutricional,desnutricion grave (g),2010-04-01,0,1,0,0,0,0,0,0,0,1,1
+30904,VINTO,estado nutricional,desnutricion grave (g),2010-04-01,1,1,2,3,0,0,0,0,3,4,7
+60301,YACUIBA,estado nutricional,desnutricion grave (g),2010-04-01,1,0,1,0,0,1,0,0,2,1,3
+70403,YAPACANI,estado nutricional,desnutricion grave (g),2010-04-01,0,0,0,1,0,0,0,0,0,1,1
+51302,ACACIO,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+20201,ACHACACHI,estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,1,0,0,0,0,1,1,2
+30201,AIQUILE,estado nutricional,desnutricion grave (g),2010-05-01,0,4,1,0,0,0,0,0,1,4,5
+22002,ALTO BENI,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+30601,ARQUE,estado nutricional,desnutricion grave (g),2010-05-01,3,0,4,1,1,0,0,0,8,1,9
+50802,ATOCHA,estado nutricional,desnutricion grave (g),2010-05-01,1,1,0,0,0,0,0,0,1,1,2
+30301,AYOPAYA (V. DE INDEPENDENCIA),estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,0,0,0,0,0,1,0,1
+10201,AZURDUY,estado nutricional,desnutricion grave (g),2010-05-01,0,2,0,0,0,0,0,0,0,2,2
+50301,BETANZOS,estado nutricional,desnutricion grave (g),2010-05-01,1,0,1,1,0,0,0,0,2,1,3
+70703,CABEZAS,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,1,0,0,0,0,0,1,1
+21304,CALAMARCA,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+10701,CAMARGO,estado nutricional,desnutricion grave (g),2010-05-01,0,0,2,0,0,0,0,0,2,0,2
+70706,CAMIRI,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,0,1,0,0,0,1,1
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,1,1,0,0,0,2,1,3
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-05-01,2,1,2,2,3,3,0,0,7,6,13
+60302,CARAPARI,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+50702,CARIPUYO,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+50302,CHAQUI,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,0,1,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,1,2,0,0,0,2,1,3
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-05-01,7,4,11,9,5,5,0,0,23,18,41
+30905,COLCAPIRHUA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,1,0,0,0,1,0,1
+50401,COLQUECHACA,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+21004,COLQUIRI,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+40301,CORQUE,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+50601,COTAGAITA,estado nutricional,desnutricion grave (g),2010-05-01,1,1,0,0,0,0,0,0,1,1,2
+70102,COTOCA,estado nutricional,desnutricion grave (g),2010-05-01,1,0,1,0,0,0,0,0,2,0,2
+31405,CUCHUMUELA (V. G. VILLARROEL),estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,0,0,0,0,0,1,0,1
+70704,CUEVO,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,2,0,0,0,2,0,2
+10902,CULPINA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,0,1,0,0,0,1,1
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-05-01,6,4,2,1,2,0,0,0,10,5,15
+60502,EL PUENTE(TJA),estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,1,0,0,0,0,1,1,2
+70105,EL TORNO,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,1,1,0,0,1,1,2
+20405,ESCOMA,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+90203,FILADELFIA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,1,0,0,0,1,0,1
+80202,GUAYARAMERIN,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,2,0,0,0,3,3
+10703,INCAHUASI,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+21001,INQUISIVI,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,1,0,0,0,1,0,1
+21501,IXIAMAS,estado nutricional,desnutricion grave (g),2010-05-01,0,1,1,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-05-01,11,5,3,3,1,4,0,0,15,12,27
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,2,0,1,1,0,0,3,1,4
+80801,MAGDALENA,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,0,1,0,0,0,1,1
+20103,MECAPACA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,1,0,0,0,0,1,1,2
+71003,MINEROS,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,estado nutricional,desnutricion grave (g),2010-05-01,2,1,1,0,0,0,0,0,3,1,4
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-05-01,3,4,0,1,1,0,0,0,4,5,9
+30302,MOROCHATA,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+70202,OKINAWA,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,estado nutricional,desnutricion grave (g),2010-05-01,1,1,2,0,0,0,0,0,3,1,4
+70502,PAILON,estado nutricional,desnutricion grave (g),2010-05-01,0,1,1,0,0,0,0,0,1,1,2
+20102,PALCA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,1,1,0,0,1,1,2
+21104,PALOS BLANCOS,estado nutricional,desnutricion grave (g),2010-05-01,1,0,1,0,0,0,0,0,2,0,2
+50403,POCOATA,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-05-01,1,2,0,0,0,1,0,0,1,3,4
+10302,PRESTO,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,estado nutricional,desnutricion grave (g),2010-05-01,0,0,2,0,2,0,0,0,4,0,4
+20604,QUIABAYA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,1,1,0,0,0,1,1,2
+80301,REYES,estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,0,0,0,0,0,1,0,1
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-05-01,3,0,2,0,1,1,0,0,6,1,7
+70503,ROBORE,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,1,0,0,0,0,0,1,1
+80304,RURRENABAQUE,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,1,0,0,0,0,1,1,2
+50701,SACACA,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,0,0,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,1,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-05-01,1,2,1,2,0,0,0,0,2,4,6
+70501,SAN JOSE DE CHIQUITOS,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,1,1,0,0,2,1,3
+71201,SAN MATIAS,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,3,0,0,2,0,0,3,2,5
+80702,SAN RAMON BENI,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,1,1,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-05-01,15,9,6,4,4,0,0,0,25,13,38
+90303,SENA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,0,0,0,0,0,1,0,1
+31602,SHINAOTA,estado nutricional,desnutricion grave (g),2010-05-01,0,2,0,1,0,0,0,0,0,3,3
+30703,SICAYA,estado nutricional,desnutricion grave (g),2010-05-01,2,0,1,0,1,0,0,0,4,0,4
+30902,SIPE SIPE,estado nutricional,desnutricion grave (g),2010-05-01,1,1,0,0,0,1,0,0,1,2,3
+10403,SOPACHUY,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-05-01,1,3,1,5,0,0,0,0,2,8,10
+50303,TACOBAMBA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,0,1,0,0,0,2,0,2
+31101,TAPACARI,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,0,1,0,0,0,1,0,1
+10601,TARABUCO,estado nutricional,desnutricion grave (g),2010-05-01,0,1,1,0,0,0,0,0,1,1,2
+10202,TARVITA,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+20608,TEOPONTE,estado nutricional,desnutricion grave (g),2010-05-01,1,1,0,1,0,0,0,0,1,2,3
+20606,TIPUANI,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,0,0,0,0,0,1,0,1
+30803,TOLATA,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+51202,TOMAVE,estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,0,0,0,0,0,1,0,1
+50502,TORO TORO,estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,0,0,0,0,0,1,0,1
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-05-01,0,2,2,1,0,0,0,0,2,3,5
+50801,TUPIZA,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+21302,UMALA,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+50201,UNCIA,estado nutricional,desnutricion grave (g),2010-05-01,2,0,0,0,0,0,0,0,2,0,2
+51201,UYUNI,estado nutricional,desnutricion grave (g),2010-05-01,0,0,0,1,0,0,0,0,0,1,1
+20801,VIACHA,estado nutricional,desnutricion grave (g),2010-05-01,3,0,0,1,0,0,0,0,3,1,4
+31302,VILA VILA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-05-01,2,2,1,0,0,0,0,0,3,2,5
+11001,VILLA VACA GUZMAN (MUYUPAMPA),estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,0,0,1,0,0,1,1,2
+30904,VINTO,estado nutricional,desnutricion grave (g),2010-05-01,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,estado nutricional,desnutricion grave (g),2010-05-01,0,0,1,0,0,0,0,0,1,0,1
+70403,YAPACANI,estado nutricional,desnutricion grave (g),2010-05-01,1,0,0,1,0,0,0,0,1,1,2
+51302,ACACIO,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,1,0,0,0,0,0,2,2
+20104,ACHOCALLA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,0,0,0,0,1,0,1
+30201,AIQUILE,estado nutricional,desnutricion grave (g),2010-06-01,1,1,2,1,0,5,0,0,3,7,10
+20202,ANCORAIMES,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,0,0,0,0,1,1
+30402,ANZALDO,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,1,0,0,0,1,1,2
+30403,ARBIETO,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,2,0,0,0,0,0,3,3
+30601,ARQUE,estado nutricional,desnutricion grave (g),2010-06-01,3,1,3,1,0,1,0,0,6,3,9
+71501,ASCENCION DE GUARAYOS,estado nutricional,desnutricion grave (g),2010-06-01,2,3,0,0,1,1,0,0,3,4,7
+50802,ATOCHA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,0,1,0,0,0,1,1
+10201,AZURDUY,estado nutricional,desnutricion grave (g),2010-06-01,1,1,0,0,0,0,0,0,1,1,2
+21203,BATALLAS,estado nutricional,desnutricion grave (g),2010-06-01,2,0,0,0,0,0,0,0,2,0,2
+50301,BETANZOS,estado nutricional,desnutricion grave (g),2010-06-01,1,1,1,0,0,0,0,0,2,1,3
+21003,CAJUATA,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+10701,CAMARGO,estado nutricional,desnutricion grave (g),2010-06-01,1,1,1,0,0,0,0,0,2,1,3
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,1,1,0,0,0,2,1,3
+20302,CAQUIAVIRI,estado nutricional,desnutricion grave (g),2010-06-01,2,0,0,0,0,0,0,0,2,0,2
+40102,CARACOLLO,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-06-01,2,2,0,1,1,1,0,0,3,4,7
+40201,CHALLAPATA,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+50302,CHAQUI,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,1,0,0,0,1,0,1
+50204,CHUQUIHUTA AYLLU JUCUMANI,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+51103,CKOCHAS,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,1,0,0,0,0,1,1,2
+30801,CLIZA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,1,0,0,0,0,0,1,1
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-06-01,2,2,1,0,0,0,0,0,3,2,5
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-06-01,4,5,6,0,3,2,0,0,13,7,20
+50401,COLQUECHACA,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+21306,COLQUENCHA,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,0,0,0,0,1,1
+71301,COMARAPA,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,estado nutricional,desnutricion grave (g),2010-06-01,0,0,3,1,0,0,0,0,3,1,4
+71106,CUATRO CAÑADAS,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,0,2,0,0,0,2,2
+31405,CUCHUMUELA (V. G. VILLARROEL),estado nutricional,desnutricion grave (g),2010-06-01,1,0,1,0,0,0,0,0,2,0,2
+70704,CUEVO,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,1,0,0,0,2,0,2
+10902,CULPINA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-06-01,2,2,2,3,1,3,0,0,5,8,13
+60502,EL PUENTE(TJA),estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,1,0,0,0,0,0,1,1
+70105,EL TORNO,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,0,1,0,0,0,1,1
+31206,ENTRE RIOS CBBA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,1,0,0,0,0,0,1,1
+20602,GUANAY,estado nutricional,desnutricion grave (g),2010-06-01,2,0,0,0,0,0,0,0,2,0,2
+80202,GUAYARAMERIN,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,1,0,0,0,2,2
+80803,HUARACAJE,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-06-01,16,8,2,2,0,1,0,0,18,11,29
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-06-01,0,1,1,0,1,4,0,0,2,5,7
+80801,MAGDALENA,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,estado nutricional,desnutricion grave (g),2010-06-01,1,0,1,0,0,0,0,0,2,0,2
+71003,MINEROS,estado nutricional,desnutricion grave (g),2010-06-01,2,1,0,0,0,0,0,0,2,1,3
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-06-01,12,1,0,0,1,3,0,0,13,4,17
+30302,MOROCHATA,estado nutricional,desnutricion grave (g),2010-06-01,1,0,1,0,0,0,0,0,2,0,2
+40101,ORURO,estado nutricional,desnutricion grave (g),2010-06-01,2,1,1,1,0,0,0,0,3,2,5
+60201,PADCAYA,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,0,0,0,0,1,1
+10401,PADILLA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,1,0,0,0,1,0,1
+70502,PAILON,estado nutricional,desnutricion grave (g),2010-06-01,2,3,0,0,0,0,0,0,2,3,5
+20102,PALCA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,1,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,1,0,0,0,2,0,2
+50403,POCOATA,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,0,0,0,0,1,1
+31203,POCONA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,0,1,0,0,0,1,1
+10103,POROMA,estado nutricional,desnutricion grave (g),2010-06-01,1,0,1,0,0,0,0,0,2,0,2
+90102,PORVENIR,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-06-01,3,3,1,1,1,2,0,0,5,6,11
+10302,PRESTO,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+90301,PUERTO GONZALO MORENO,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,1,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,0,0,0,0,1,1
+90201,PUERTO RICO,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,1,2,0,0,1,2,3
+20604,QUIABAYA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,2,0,0,0,0,0,2,0,2
+30901,QUILLACOLLO,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,0,0,0,0,1,1
+50402,RAVELO,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,0,0,0,0,1,1
+80301,REYES,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-06-01,1,1,3,2,1,0,0,0,5,3,8
+70503,ROBORE,estado nutricional,desnutricion grave (g),2010-06-01,0,1,1,0,0,0,0,0,1,1,2
+80304,RURRENABAQUE,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,0,0,0,0,1,0,1
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-06-01,1,2,0,1,0,0,0,0,1,3,4
+30404,SACABAMBA,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,1,0,0,1,1,2
+50701,SACACA,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+71302,SAIPINA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,0,0,0,0,1,0,1
+31403,SAN BENITO,estado nutricional,desnutricion grave (g),2010-06-01,0,1,2,0,0,0,0,0,2,1,3
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,1,0,0,0,2,2
+70402,SAN CARLOS,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-06-01,2,1,0,0,0,0,0,0,2,1,3
+70501,SAN JOSE DE CHIQUITOS,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,1,1,0,0,1,1,2
+70404,SAN JUAN DE YAPACANI,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,0,1,0,0,0,1,1
+90302,SAN LORENZO(PND),estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,1,0,0,0,1,0,1
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-06-01,0,2,1,0,2,2,0,0,3,4,7
+71201,SAN MATIAS,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,0,1,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,estado nutricional,desnutricion grave (g),2010-06-01,2,0,0,0,0,0,0,0,2,0,2
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-06-01,3,2,1,0,0,0,0,0,4,2,6
+80401,SANTA ANA,estado nutricional,desnutricion grave (g),2010-06-01,1,1,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-06-01,18,24,10,5,7,6,0,0,35,35,70
+20902,SAPAHAQUI,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,0,0,0,0,1,0,1
+90303,SENA,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,1,0,0,0,0,0,2,2
+31602,SHINAOTA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,0,1,0,0,0,1,1
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-06-01,5,1,1,1,0,0,0,0,6,2,8
+30602,TACOPAYA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,0,1,0,0,0,1,1
+31101,TAPACARI,estado nutricional,desnutricion grave (g),2010-06-01,1,1,0,0,0,0,0,0,1,1,2
+10601,TARABUCO,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+30401,TARATA,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,estado nutricional,desnutricion grave (g),2010-06-01,2,0,1,0,0,0,0,0,3,0,3
+10202,TARVITA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,0,1,0,0,0,1,1
+50102,TINGUIPAYA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,0,0,0,0,1,0,1
+20606,TIPUANI,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,0,1,0,0,0,1,1
+31601,TIRAQUE (CBBA),estado nutricional,desnutricion grave (g),2010-06-01,1,1,0,1,0,0,0,0,1,2,3
+41301,TOTORA(ORR),estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,1,0,0,0,0,0,1,1
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-06-01,1,1,2,0,1,0,0,0,4,1,5
+50801,TUPIZA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,0,0,0,0,1,0,1
+31302,VILA VILA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,1,0,0,0,0,0,1,0,1
+10704,VILLA CHARCAS,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-06-01,2,2,1,0,0,1,0,0,3,3,6
+11001,VILLA VACA GUZMAN (MUYUPAMPA),estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,1,0,0,0,0,0,1,1
+51501,VILLAZON,estado nutricional,desnutricion grave (g),2010-06-01,1,0,0,0,0,0,0,0,1,0,1
+30904,VINTO,estado nutricional,desnutricion grave (g),2010-06-01,0,1,0,0,0,0,0,0,0,1,1
+70201,WARNES,estado nutricional,desnutricion grave (g),2010-06-01,1,1,0,0,0,0,0,0,1,1,2
+20903,YACO,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,estado nutricional,desnutricion grave (g),2010-06-01,0,0,0,1,0,0,0,0,0,1,1
+51302,ACACIO,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,0,0,1,0,0,0,1,1
+20201,ACHACACHI,estado nutricional,desnutricion grave (g),2010-07-01,0,1,0,0,0,0,0,0,0,1,1
+20104,ACHOCALLA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,2,0,0,0,0,0,2,0,2
+30201,AIQUILE,estado nutricional,desnutricion grave (g),2010-07-01,2,0,0,0,1,0,0,0,3,0,3
+31303,ALALAY,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,0,1,0,0,0,1,0,1
+41201,ANDAMARCA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,1,0,0,0,0,0,1,0,1
+30501,ARANI,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,1,0,0,1,1,2
+30601,ARQUE,estado nutricional,desnutricion grave (g),2010-07-01,1,1,1,0,1,0,0,0,3,1,4
+10201,AZURDUY,estado nutricional,desnutricion grave (g),2010-07-01,0,0,1,0,0,0,0,0,1,0,1
+50301,BETANZOS,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+10701,CAMARGO,estado nutricional,desnutricion grave (g),2010-07-01,3,0,0,0,0,0,0,0,3,0,3
+70706,CAMIRI,estado nutricional,desnutricion grave (g),2010-07-01,0,1,0,0,0,1,0,0,0,2,2
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,1,0,0,0,0,0,1,1
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-07-01,1,0,1,0,0,0,0,0,2,0,2
+50702,CARIPUYO,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,1,0,0,0,0,0,1,1
+40201,CHALLAPATA,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,1,0,0,0,0,1,1,2
+50202,CHAYANTA,estado nutricional,desnutricion grave (g),2010-07-01,0,1,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+51103,CKOCHAS,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-07-01,1,1,1,0,0,0,0,0,2,1,3
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-07-01,5,6,5,4,3,2,0,0,13,12,25
+30905,COLCAPIRHUA,estado nutricional,desnutricion grave (g),2010-07-01,1,0,2,0,0,0,0,0,3,0,3
+50901,"COLCHA ""K""",estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+21004,COLQUIRI,estado nutricional,desnutricion grave (g),2010-07-01,0,1,1,0,0,0,0,0,1,1,2
+21402,CORIPATA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,1,0,0,0,0,0,1,0,1
+50601,COTAGAITA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,1,1,0,0,0,1,1,2
+40401,CURAHUARA DE CARANGAS,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,0,0,1,0,0,0,1,1
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-07-01,7,5,3,0,2,0,0,0,12,5,17
+71503,EL PUENTE(STC),estado nutricional,desnutricion grave (g),2010-07-01,0,0,1,0,0,0,0,0,1,0,1
+60502,EL PUENTE(TJA),estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+41101,EUCALIPTUS,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+21601,GRAL. J.J. PEREZ (CHARAZANI),estado nutricional,desnutricion grave (g),2010-07-01,0,1,0,0,0,0,0,0,0,1,1
+20602,GUANAY,estado nutricional,desnutricion grave (g),2010-07-01,1,0,1,0,0,0,0,0,2,0,2
+80202,GUAYARAMERIN,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,1,0,0,0,0,0,1,1
+11002,HUACAYA (VILLA DE HUACAYA),estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-07-01,17,3,3,1,2,0,0,0,22,4,26
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-07-01,2,1,1,0,0,2,0,0,3,3,6
+71003,MINEROS,estado nutricional,desnutricion grave (g),2010-07-01,0,2,3,0,0,0,0,0,3,2,5
+31301,MIZQUE,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,estado nutricional,desnutricion grave (g),2010-07-01,2,0,2,0,0,0,0,0,4,0,4
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-07-01,1,3,1,4,1,2,0,0,3,9,12
+30302,MOROCHATA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,2,0,0,0,0,0,2,0,2
+40101,ORURO,estado nutricional,desnutricion grave (g),2010-07-01,1,0,1,0,0,0,0,0,2,0,2
+10401,PADILLA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,1,0,0,0,0,0,1,0,1
+20102,PALCA,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,1,0,0,0,2,0,2
+21104,PALOS BLANCOS,estado nutricional,desnutricion grave (g),2010-07-01,0,1,0,0,0,0,0,0,0,1,1
+50403,POCOATA,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+51203,PORCO,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-07-01,4,3,0,0,1,0,0,0,5,3,8
+10302,PRESTO,estado nutricional,desnutricion grave (g),2010-07-01,2,0,0,0,1,0,0,0,3,0,3
+90301,PUERTO GONZALO MORENO,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,0,0,1,0,0,0,1,1
+71402,PUERTO QUIJARRO,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,estado nutricional,desnutricion grave (g),2010-07-01,1,1,0,0,0,0,0,0,1,1,2
+31205,PUERTO VILLARROEL,estado nutricional,desnutricion grave (g),2010-07-01,1,0,2,1,0,1,0,0,3,2,5
+30901,QUILLACOLLO,estado nutricional,desnutricion grave (g),2010-07-01,1,3,1,0,1,0,0,0,3,3,6
+21002,QUIME,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,1,0,0,0,0,0,1,1
+50402,RAVELO,estado nutricional,desnutricion grave (g),2010-07-01,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,3,0,1,0,0,0,4,0,4
+70503,ROBORE,estado nutricional,desnutricion grave (g),2010-07-01,1,2,1,0,0,0,0,0,2,2,4
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,0,1,1,0,0,1,1,2
+50701,SACACA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,0,0,1,0,0,0,1,1
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-07-01,2,2,0,1,0,0,0,0,2,3,5
+21502,SAN BUENA VENTURA,estado nutricional,desnutricion grave (g),2010-07-01,0,1,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,1,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-07-01,2,1,0,0,2,0,0,0,4,1,5
+80102,SAN JAVIER(BNI),estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,0,4,0,0,0,4,0,4
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-07-01,1,0,1,0,0,0,0,0,2,0,2
+80401,SANTA ANA,estado nutricional,desnutricion grave (g),2010-07-01,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-07-01,23,8,2,1,1,2,0,0,26,11,37
+30702,SANTIVAÑES,estado nutricional,desnutricion grave (g),2010-07-01,0,0,1,0,0,0,0,0,1,0,1
+90303,SENA,estado nutricional,desnutricion grave (g),2010-07-01,0,1,2,1,0,0,0,0,2,2,4
+31602,SHINAOTA,estado nutricional,desnutricion grave (g),2010-07-01,1,1,0,1,0,0,0,0,1,2,3
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,1,0,0,0,0,0,1,1
+50303,TACOBAMBA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,1,0,0,0,0,0,1,0,1
+31101,TAPACARI,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+10601,TARABUCO,estado nutricional,desnutricion grave (g),2010-07-01,0,0,1,0,0,0,0,0,1,0,1
+30401,TARATA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,1,0,0,0,0,0,1,0,1
+60101,TARIJA,estado nutricional,desnutricion grave (g),2010-07-01,2,1,0,3,3,0,0,0,5,4,9
+20803,TIAWANACU,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+50102,TINGUIPAYA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,2,0,0,0,0,0,2,0,2
+31601,TIRAQUE (CBBA),estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,1,1,0,0,0,1,1,2
+30802,TOCO,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,1,0,0,0,0,0,1,1
+51202,TOMAVE,estado nutricional,desnutricion grave (g),2010-07-01,0,1,0,0,0,0,0,0,0,1,1
+50502,TORO TORO,estado nutricional,desnutricion grave (g),2010-07-01,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-07-01,2,1,0,1,1,0,0,0,3,2,5
+50801,TUPIZA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,1,0,1,0,0,0,2,0,2
+60401,URIONDO (A. CONCEPCION),estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,1,0,0,0,2,0,2
+20801,VIACHA,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,1,0,0,0,0,0,1,1
+10704,VILLA CHARCAS,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,1,0,0,0,0,0,1,1
+60303,VILLA MONTES,estado nutricional,desnutricion grave (g),2010-07-01,0,0,0,1,0,0,0,0,0,1,1
+90502,VILLA NUEVA (LOMA ALTA),estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,1,1,0,0,2,1,3
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-07-01,3,0,1,0,0,0,0,0,4,0,4
+70201,WARNES,estado nutricional,desnutricion grave (g),2010-07-01,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,estado nutricional,desnutricion grave (g),2010-07-01,1,0,0,0,0,0,0,0,1,0,1
+50103,YOCALLA,estado nutricional,desnutricion grave (g),2010-07-01,4,0,0,0,0,0,0,0,4,0,4
+51302,ACACIO,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+20201,ACHACACHI,estado nutricional,desnutricion grave (g),2010-08-01,2,0,0,0,0,0,0,0,2,0,2
+20104,ACHOCALLA,estado nutricional,desnutricion grave (g),2010-08-01,0,0,1,0,0,0,0,0,1,0,1
+30201,AIQUILE,estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,0,0,1,0,0,0,1,1
+20701,APOLO,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+30501,ARANI,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+30601,ARQUE,estado nutricional,desnutricion grave (g),2010-08-01,0,3,1,1,0,0,0,0,1,4,5
+20502,AYATA,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+10201,AZURDUY,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+50104,BELEN DE URMIRI,estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,0,0,1,0,0,0,1,1
+20303,CALACOTO,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+10701,CAMARGO,estado nutricional,desnutricion grave (g),2010-08-01,0,0,1,0,0,0,0,0,1,0,1
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-08-01,3,0,0,1,2,3,0,0,5,4,9
+60302,CARAPARI,estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,0,1,1,0,0,1,1,2
+50302,CHAQUI,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,1,0,0,0,1,1,2
+50202,CHAYANTA,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+50204,CHUQUIHUTA AYLLU JUCUMANI,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-08-01,0,0,2,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-08-01,0,0,2,5,6,5,0,0,8,10,18
+50401,COLQUECHACA,estado nutricional,desnutricion grave (g),2010-08-01,1,1,0,0,0,0,0,0,1,1,2
+70704,CUEVO,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,1,0,0,0,1,1,2
+10902,CULPINA,estado nutricional,desnutricion grave (g),2010-08-01,1,1,2,1,1,0,0,0,4,2,6
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-08-01,6,4,1,0,3,0,0,0,10,4,14
+60502,EL PUENTE(TJA),estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,0,1,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,estado nutricional,desnutricion grave (g),2010-08-01,1,1,0,0,0,0,0,0,1,1,2
+20602,GUANAY,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+10502,HUACARETA,estado nutricional,desnutricion grave (g),2010-08-01,0,0,1,0,0,0,0,0,1,0,1
+90402,INGAVI (HUMAITA),estado nutricional,desnutricion grave (g),2010-08-01,1,0,1,1,0,0,0,0,2,1,3
+21501,IXIAMAS,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,1,0,0,0,2,2
+21105,LA ASUNTA,estado nutricional,desnutricion grave (g),2010-08-01,1,1,0,1,0,0,0,0,1,2,3
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-08-01,7,6,2,1,2,3,0,0,11,10,21
+70701,LAGUNILLAS,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-08-01,2,5,0,2,1,0,0,0,3,7,10
+11003,MACHARETI,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+20103,MECAPACA,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,estado nutricional,desnutricion grave (g),2010-08-01,1,1,3,0,0,0,0,0,4,1,5
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-08-01,2,5,2,0,1,1,0,0,5,6,11
+70502,PAILON,estado nutricional,desnutricion grave (g),2010-08-01,0,0,1,0,1,0,0,0,2,0,2
+20102,PALCA,estado nutricional,desnutricion grave (g),2010-08-01,0,0,1,1,1,0,0,0,2,1,3
+21104,PALOS BLANCOS,estado nutricional,desnutricion grave (g),2010-08-01,1,0,2,0,0,0,0,0,3,0,3
+10103,POROMA,estado nutricional,desnutricion grave (g),2010-08-01,1,0,1,0,1,0,0,0,3,0,3
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-08-01,3,4,0,0,0,0,0,0,3,4,7
+10302,PRESTO,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,1,0,0,1,1,2
+21201,PUCARANI,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+90301,PUERTO GONZALO MORENO,estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,0,0,1,0,0,0,1,1
+31205,PUERTO VILLARROEL,estado nutricional,desnutricion grave (g),2010-08-01,0,2,2,1,2,2,0,0,4,5,9
+51101,PUNA,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,1,0,0,0,0,0,1,1
+50402,RAVELO,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+80301,REYES,estado nutricional,desnutricion grave (g),2010-08-01,0,0,1,0,0,0,0,0,1,0,1
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-08-01,2,2,0,0,0,0,0,0,2,2,4
+70503,ROBORE,estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,1,0,0,0,0,0,1,1
+80304,RURRENABAQUE,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+50701,SACACA,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+31403,SAN BENITO,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,1,0,0,0,1,1,2
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,1,0,0,0,2,0,2
+21502,SAN BUENA VENTURA,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,estado nutricional,desnutricion grave (g),2010-08-01,0,1,2,0,0,0,0,0,2,1,3
+80501,SAN IGNACIO,estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,0,0,1,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-08-01,1,0,2,0,1,0,0,0,4,0,4
+70501,SAN JOSE DE CHIQUITOS,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+70404,SAN JUAN DE YAPACANI,estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,0,1,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,1,0,0,0,0,0,1,1
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,1,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-08-01,12,15,4,3,1,1,0,0,17,19,36
+70602,SANTA ROSA DEL SARA,estado nutricional,desnutricion grave (g),2010-08-01,0,0,1,0,0,0,0,0,1,0,1
+30702,SANTIVAÑES,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,estado nutricional,desnutricion grave (g),2010-08-01,1,1,0,0,0,1,0,0,1,2,3
+30902,SIPE SIPE,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,1,1,1,0,0,2,2,4
+10601,TARABUCO,estado nutricional,desnutricion grave (g),2010-08-01,1,1,0,0,0,1,0,0,1,2,3
+60101,TARIJA,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,2,0,0,0,3,0,3
+50102,TINGUIPAYA,estado nutricional,desnutricion grave (g),2010-08-01,0,0,1,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,estado nutricional,desnutricion grave (g),2010-08-01,0,1,0,0,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,1,0,0,0,0,0,1,1
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-08-01,3,2,3,1,2,0,0,0,8,3,11
+50801,TUPIZA,estado nutricional,desnutricion grave (g),2010-08-01,0,0,1,1,0,0,0,0,1,1,2
+71502,URUBICHA,estado nutricional,desnutricion grave (g),2010-08-01,0,0,1,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,estado nutricional,desnutricion grave (g),2010-08-01,0,0,0,1,0,0,0,0,0,1,1
+90502,VILLA NUEVA (LOMA ALTA),estado nutricional,desnutricion grave (g),2010-08-01,0,0,1,1,0,0,0,0,1,1,2
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-08-01,0,1,1,1,0,0,0,0,1,2,3
+30904,VINTO,estado nutricional,desnutricion grave (g),2010-08-01,1,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+30201,AIQUILE,estado nutricional,desnutricion grave (g),2010-09-01,5,1,0,0,1,2,0,0,6,3,9
+31303,ALALAY,estado nutricional,desnutricion grave (g),2010-09-01,0,0,1,0,0,0,0,0,1,0,1
+20202,ANCORAIMES,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,1,0,0,0,2,0,2
+30403,ARBIETO,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,0,0,1,0,0,0,1,1
+30601,ARQUE,estado nutricional,desnutricion grave (g),2010-09-01,2,2,0,0,0,1,0,0,2,3,5
+71501,ASCENCION DE GUARAYOS,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,1,0,0,0,0,0,1,1
+50802,ATOCHA,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,1,0,0,0,0,1,1,2
+20502,AYATA,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,1,0,0,0,0,0,1,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+10201,AZURDUY,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,0,0,1,0,0,0,1,1
+21203,BATALLAS,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,0,1,0,0,0,1,0,1
+50301,BETANZOS,estado nutricional,desnutricion grave (g),2010-09-01,1,1,1,0,0,0,0,0,2,1,3
+70703,CABEZAS,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,0,1,0,0,0,1,0,1
+10701,CAMARGO,estado nutricional,desnutricion grave (g),2010-09-01,0,1,1,0,0,0,0,0,1,1,2
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,1,1,0,0,0,1,1,2
+20302,CAQUIAVIRI,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-09-01,1,0,1,0,0,0,0,0,2,0,2
+40201,CHALLAPATA,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+50302,CHAQUI,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,0,3,0,0,0,3,0,3
+21101,CHULUMANI (V. DE LA LIBERTAD),estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,3,0,0,0,0,0,3,3
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-09-01,1,1,2,0,0,1,0,0,3,2,5
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-09-01,8,5,5,9,4,5,0,0,17,19,36
+31002,COLOMI,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+21004,COLQUIRI,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,0,0,1,0,0,0,1,1
+20304,COMANCHE,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+71101,CONCEPCION,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,1,1,0,0,2,1,3
+70102,COTOCA,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,2,0,0,0,0,0,3,3
+10902,CULPINA,estado nutricional,desnutricion grave (g),2010-09-01,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-09-01,5,8,1,0,4,2,0,0,10,10,20
+60502,EL PUENTE(TJA),estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,estado nutricional,desnutricion grave (g),2010-09-01,1,1,0,0,0,0,0,0,1,1,2
+71004,FERNANDEZ ALONSO,estado nutricional,desnutricion grave (g),2010-09-01,0,0,2,0,0,0,0,0,2,0,2
+21601,GRAL. J.J. PEREZ (CHARAZANI),estado nutricional,desnutricion grave (g),2010-09-01,0,0,1,0,0,0,0,0,1,0,1
+20602,GUANAY,estado nutricional,desnutricion grave (g),2010-09-01,0,2,2,1,1,0,0,0,3,3,6
+80202,GUAYARAMERIN,estado nutricional,desnutricion grave (g),2010-09-01,1,1,0,1,0,1,0,0,1,3,4
+21102,IRUPANA (VILLA DE LANZA),estado nutricional,desnutricion grave (g),2010-09-01,0,1,1,0,0,0,0,0,1,1,2
+21105,LA ASUNTA,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,1,0,0,0,0,1,1,2
+70104,LA GUARDIA,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-09-01,13,5,0,1,2,1,0,0,15,7,22
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-09-01,2,2,0,0,0,0,0,0,2,2,4
+20103,MECAPACA,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,estado nutricional,desnutricion grave (g),2010-09-01,1,3,0,0,0,0,0,0,1,3,4
+31301,MIZQUE,estado nutricional,desnutricion grave (g),2010-09-01,1,0,1,1,0,0,0,0,2,1,3
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-09-01,9,1,1,1,1,1,0,0,11,3,14
+30302,MOROCHATA,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,estado nutricional,desnutricion grave (g),2010-09-01,0,1,2,1,1,0,0,0,3,2,5
+60201,PADCAYA,estado nutricional,desnutricion grave (g),2010-09-01,2,0,0,0,0,0,0,0,2,0,2
+70502,PAILON,estado nutricional,desnutricion grave (g),2010-09-01,2,0,0,0,0,0,0,0,2,0,2
+20102,PALCA,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+50403,POCOATA,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+51203,PORCO,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,1,0,0,0,0,1,1,2
+70103,PORONGO,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,0,0,2,0,0,0,2,2
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-09-01,2,3,2,1,0,1,0,0,4,5,9
+10302,PRESTO,estado nutricional,desnutricion grave (g),2010-09-01,1,1,0,0,0,0,0,0,1,1,2
+21201,PUCARANI,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+90301,PUERTO GONZALO MORENO,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,1,0,0,0,2,2
+71402,PUERTO QUIJARRO,estado nutricional,desnutricion grave (g),2010-09-01,0,0,1,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,estado nutricional,desnutricion grave (g),2010-09-01,1,1,0,0,0,0,0,0,1,1,2
+31205,PUERTO VILLARROEL,estado nutricional,desnutricion grave (g),2010-09-01,0,1,2,1,0,4,0,0,2,6,8
+51101,PUNA,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,0,1,0,0,0,1,0,1
+30901,QUILLACOLLO,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,1,0,1,0,0,0,3,3
+80301,REYES,estado nutricional,desnutricion grave (g),2010-09-01,0,0,1,0,0,0,0,0,1,0,1
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-09-01,0,1,2,0,0,0,0,0,2,1,3
+80304,RURRENABAQUE,estado nutricional,desnutricion grave (g),2010-09-01,2,0,1,0,0,0,0,0,3,0,3
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+40801,SALINAS DE GARCI MENDOZA,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+80602,SAN ANDRES,estado nutricional,desnutricion grave (g),2010-09-01,1,1,0,1,0,1,0,0,1,3,4
+51003,SAN ANTONIO DE ESMORUCO,estado nutricional,desnutricion grave (g),2010-09-01,0,2,0,0,0,0,0,0,0,2,2
+71105,SAN ANTONIO DE LOMERIO,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+31403,SAN BENITO,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+21502,SAN BUENA VENTURA,estado nutricional,desnutricion grave (g),2010-09-01,0,0,1,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,estado nutricional,desnutricion grave (g),2010-09-01,1,0,1,0,0,0,0,0,2,0,2
+80501,SAN IGNACIO,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,0,0,1,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-09-01,4,3,0,1,0,0,0,0,4,4,8
+71102,SAN JAVIER(STC),estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+70404,SAN JUAN DE YAPACANI,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+90302,SAN LORENZO(PND),estado nutricional,desnutricion grave (g),2010-09-01,2,0,1,2,0,0,0,0,3,2,5
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-09-01,4,0,1,0,0,0,0,0,5,0,5
+70302,SAN MIGUEL DE VELASCO,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,0,0,1,0,0,0,1,1
+71005,SAN PEDRO,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-09-01,2,0,0,0,0,0,0,0,2,0,2
+80702,SAN RAMON BENI,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,3,0,0,0,0,0,3,3
+80401,SANTA ANA,estado nutricional,desnutricion grave (g),2010-09-01,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-09-01,12,6,1,3,6,1,0,0,19,10,29
+30702,SANTIVAÑES,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+20902,SAPAHAQUI,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+31602,SHINAOTA,estado nutricional,desnutricion grave (g),2010-09-01,0,2,0,0,0,0,0,0,0,2,2
+20601,SORATA,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-09-01,1,2,2,1,0,2,0,0,3,5,8
+20603,TACACOMA,estado nutricional,desnutricion grave (g),2010-09-01,0,0,1,0,0,0,0,0,1,0,1
+50303,TACOBAMBA,estado nutricional,desnutricion grave (g),2010-09-01,0,0,1,0,0,0,0,0,1,0,1
+10601,TARABUCO,estado nutricional,desnutricion grave (g),2010-09-01,2,0,0,0,0,0,0,0,2,0,2
+60101,TARIJA,estado nutricional,desnutricion grave (g),2010-09-01,0,1,2,1,0,1,0,0,2,3,5
+20608,TEOPONTE,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,0,1,0,0,0,1,0,1
+20606,TIPUANI,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,estado nutricional,desnutricion grave (g),2010-09-01,0,0,1,2,1,0,0,0,2,2,4
+31601,TIRAQUE (CBBA),estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-09-01,12,4,1,0,2,2,0,0,15,6,21
+50801,TUPIZA,estado nutricional,desnutricion grave (g),2010-09-01,0,0,0,1,0,0,0,0,0,1,1
+20801,VIACHA,estado nutricional,desnutricion grave (g),2010-09-01,1,1,0,1,0,0,0,0,1,2,3
+60303,VILLA MONTES,estado nutricional,desnutricion grave (g),2010-09-01,0,1,0,0,0,0,0,0,0,1,1
+90502,VILLA NUEVA (LOMA ALTA),estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,1,1,0,0,2,1,3
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-09-01,2,0,0,0,1,1,0,0,3,1,4
+51501,VILLAZON,estado nutricional,desnutricion grave (g),2010-09-01,1,1,0,0,0,0,0,0,1,1,2
+30904,VINTO,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,1,0,0,0,0,1,1,2
+60301,YACUIBA,estado nutricional,desnutricion grave (g),2010-09-01,1,0,0,0,0,0,0,0,1,0,1
+50103,YOCALLA,estado nutricional,desnutricion grave (g),2010-09-01,0,2,1,0,0,0,0,0,1,2,3
+51302,ACACIO,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,1,0,0,0,0,1,1,2
+20201,ACHACACHI,estado nutricional,desnutricion grave (g),2010-10-01,0,2,1,0,0,0,0,0,1,2,3
+30201,AIQUILE,estado nutricional,desnutricion grave (g),2010-10-01,3,6,1,1,1,2,0,0,5,9,14
+31303,ALALAY,estado nutricional,desnutricion grave (g),2010-10-01,0,0,1,0,0,0,0,0,1,0,1
+30402,ANZALDO,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,1,0,0,0,0,0,1,1
+30601,ARQUE,estado nutricional,desnutricion grave (g),2010-10-01,1,1,0,0,0,0,0,0,1,1,2
+71501,ASCENCION DE GUARAYOS,estado nutricional,desnutricion grave (g),2010-10-01,0,1,2,2,0,1,0,0,2,4,6
+30301,AYOPAYA (V. DE INDEPENDENCIA),estado nutricional,desnutricion grave (g),2010-10-01,2,0,1,5,0,1,0,0,3,6,9
+50301,BETANZOS,estado nutricional,desnutricion grave (g),2010-10-01,1,1,0,0,0,0,0,0,1,1,2
+70706,CAMIRI,estado nutricional,desnutricion grave (g),2010-10-01,0,0,2,1,2,0,0,0,4,1,5
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-10-01,0,0,1,0,0,0,0,0,1,0,1
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-10-01,1,0,1,2,0,0,0,0,2,2,4
+60302,CARAPARI,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,0,0,0,1,0,1
+50202,CHAYANTA,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,1,0,0,1,1,2
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-10-01,0,0,3,1,1,1,0,0,4,2,6
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-10-01,6,1,4,7,2,3,0,0,12,11,23
+50901,"COLCHA ""K""",estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,0,1,0,0,0,1,0,1
+70603,COLPA BELGICA,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,0,0,0,1,0,1
+50401,COLQUECHACA,estado nutricional,desnutricion grave (g),2010-10-01,0,0,2,1,0,0,0,0,2,1,3
+71101,CONCEPCION,estado nutricional,desnutricion grave (g),2010-10-01,2,0,0,0,0,0,0,0,2,0,2
+21402,CORIPATA,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,0,1,1,0,0,1,1,2
+20301,CORO CORO,estado nutricional,desnutricion grave (g),2010-10-01,1,1,0,0,0,1,0,0,1,2,3
+10902,CULPINA,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,0,1,1,0,0,1,1,2
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-10-01,7,9,3,5,4,0,0,0,14,14,28
+70105,EL TORNO,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,estado nutricional,desnutricion grave (g),2010-10-01,2,0,0,0,0,0,0,0,2,0,2
+71004,FERNANDEZ ALONSO,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,1,0,0,0,2,0,2
+80202,GUAYARAMERIN,estado nutricional,desnutricion grave (g),2010-10-01,1,0,2,0,0,6,0,0,3,6,9
+40701,HUANUNI,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,1,0,0,1,1,2
+10304,ICLA,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,estado nutricional,desnutricion grave (g),2010-10-01,1,0,1,0,0,0,0,0,2,0,2
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-10-01,5,6,1,0,0,1,0,0,6,7,13
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-10-01,2,2,1,0,2,1,0,0,5,3,8
+80601,LORETO,estado nutricional,desnutricion grave (g),2010-10-01,0,0,1,0,0,0,0,0,1,0,1
+11003,MACHARETI,estado nutricional,desnutricion grave (g),2010-10-01,0,0,1,0,0,0,0,0,1,0,1
+20607,MAPIRI,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,0,0,1,0,0,0,1,1
+20103,MECAPACA,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,0,1,0,0,0,1,0,1
+71003,MINEROS,estado nutricional,desnutricion grave (g),2010-10-01,0,2,1,0,0,1,0,0,1,3,4
+31301,MIZQUE,estado nutricional,desnutricion grave (g),2010-10-01,1,0,1,1,0,0,0,0,2,1,3
+10501,MONTEAGUDO,estado nutricional,desnutricion grave (g),2010-10-01,0,0,1,0,0,0,0,0,1,0,1
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-10-01,5,1,1,1,0,0,0,0,6,2,8
+40101,ORURO,estado nutricional,desnutricion grave (g),2010-10-01,4,2,0,1,1,0,0,0,5,3,8
+70502,PAILON,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,0,1,0,0,0,1,0,1
+21104,PALOS BLANCOS,estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,0,0,0,0,0,0,1,1
+50403,POCOATA,estado nutricional,desnutricion grave (g),2010-10-01,2,0,0,0,0,0,0,0,2,0,2
+31202,POJO (CBBA),estado nutricional,desnutricion grave (g),2010-10-01,0,0,1,0,0,0,0,0,1,0,1
+70103,PORONGO,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-10-01,4,3,0,0,0,0,0,0,4,3,7
+10302,PRESTO,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,0,1,0,0,0,1,0,1
+21201,PUCARANI,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,0,0,0,1,0,1
+90301,PUERTO GONZALO MORENO,estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,0,0,1,0,0,0,2,2
+90201,PUERTO RICO,estado nutricional,desnutricion grave (g),2010-10-01,0,0,1,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,1,0,0,0,2,0,2
+31205,PUERTO VILLARROEL,estado nutricional,desnutricion grave (g),2010-10-01,1,0,2,0,1,2,0,0,4,2,6
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-10-01,2,2,0,0,0,0,0,0,2,2,4
+80304,RURRENABAQUE,estado nutricional,desnutricion grave (g),2010-10-01,1,2,0,1,0,0,0,0,1,3,4
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-10-01,4,0,0,0,1,0,0,0,5,0,5
+80602,SAN ANDRES,estado nutricional,desnutricion grave (g),2010-10-01,0,0,2,0,0,0,0,0,2,0,2
+31403,SAN BENITO,estado nutricional,desnutricion grave (g),2010-10-01,0,0,1,0,1,0,0,0,2,0,2
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-10-01,1,1,0,0,0,1,0,0,1,2,3
+21502,SAN BUENA VENTURA,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,0,0,1,0,0,0,1,1
+80501,SAN IGNACIO,estado nutricional,desnutricion grave (g),2010-10-01,4,0,1,0,0,0,0,0,5,0,5
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-10-01,3,1,1,0,0,0,0,0,4,1,5
+80102,SAN JAVIER(BNI),estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,0,0,0,0,0,0,1,1
+70404,SAN JUAN DE YAPACANI,estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,0,0,0,0,0,0,1,1
+90302,SAN LORENZO(PND),estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,1,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),estado nutricional,desnutricion grave (g),2010-10-01,0,1,1,0,0,0,0,0,1,1,2
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,1,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-10-01,0,1,2,0,0,0,0,0,2,1,3
+80401,SANTA ANA,estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-10-01,19,17,4,12,2,2,0,0,25,31,56
+41401,SANTIAGO DE HUARI,estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,0,0,0,0,0,0,1,1
+31602,SHINAOTA,estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,estado nutricional,desnutricion grave (g),2010-10-01,1,0,1,1,0,0,0,0,2,1,3
+10403,SOPACHUY,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-10-01,4,2,0,0,0,1,0,0,4,3,7
+50303,TACOBAMBA,estado nutricional,desnutricion grave (g),2010-10-01,0,0,2,0,0,0,0,0,2,0,2
+31101,TAPACARI,estado nutricional,desnutricion grave (g),2010-10-01,2,0,0,0,1,0,0,0,3,0,3
+10601,TARABUCO,estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,estado nutricional,desnutricion grave (g),2010-10-01,2,2,2,0,0,1,0,0,4,3,7
+50102,TINGUIPAYA,estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,0,1,1,0,0,1,2,3
+30903,TIQUIPAYA,estado nutricional,desnutricion grave (g),2010-10-01,1,0,1,0,0,0,0,0,2,0,2
+51202,TOMAVE,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,0,0,0,1,0,1
+50502,TORO TORO,estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-10-01,2,0,2,0,0,0,0,0,4,0,4
+70801,VALLEGRANDE,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,1,0,3,0,0,0,4,4
+60303,VILLA MONTES,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,0,0,0,1,0,1
+90502,VILLA NUEVA (LOMA ALTA),estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,0,2,0,0,0,2,0,2
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-10-01,1,4,3,1,2,0,0,0,6,5,11
+51501,VILLAZON,estado nutricional,desnutricion grave (g),2010-10-01,1,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,estado nutricional,desnutricion grave (g),2010-10-01,0,1,0,1,0,0,0,0,0,2,2
+60301,YACUIBA,estado nutricional,desnutricion grave (g),2010-10-01,0,0,0,0,0,1,0,0,0,1,1
+51302,ACACIO,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,1,0,0,0,0,1,1,2
+20201,ACHACACHI,estado nutricional,desnutricion grave (g),2010-11-01,2,0,0,0,0,0,0,0,2,0,2
+20202,ANCORAIMES,estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,0,1,0,0,0,1,1,2
+30402,ANZALDO,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,4,0,0,0,0,0,4,4
+20701,APOLO,estado nutricional,desnutricion grave (g),2010-11-01,3,0,1,4,0,0,0,0,4,4,8
+30501,ARANI,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+30601,ARQUE,estado nutricional,desnutricion grave (g),2010-11-01,0,1,3,0,0,0,0,0,3,1,4
+30301,AYOPAYA (V. DE INDEPENDENCIA),estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+50104,BELEN DE URMIRI,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,0,0,1,0,0,0,1,1
+50301,BETANZOS,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,0,0,1,0,0,0,1,1
+10701,CAMARGO,estado nutricional,desnutricion grave (g),2010-11-01,2,1,1,0,0,0,0,0,3,1,4
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,1,0,0,0,0,0,1,1
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-11-01,1,0,1,1,1,0,0,0,3,1,4
+40201,CHALLAPATA,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+20501,CHUMA,estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,1,0,0,0,0,0,2,2
+51103,CKOCHAS,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,2,1,0,0,0,1,2,3
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-11-01,2,4,2,10,6,8,0,0,10,22,32
+21307,COLLANA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,1,0,0,0,0,0,1,1
+31002,COLOMI,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,0,0,1,0,0,0,1,1
+71101,CONCEPCION,estado nutricional,desnutricion grave (g),2010-11-01,2,1,1,0,0,1,0,0,3,2,5
+20301,CORO CORO,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+40301,CORQUE,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,1,0,0,1,1,2
+70102,COTOCA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,1,0,0,1,1,2
+10902,CULPINA,estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-11-01,5,18,4,1,1,5,0,0,10,24,34
+60502,EL PUENTE(TJA),estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,1,0,0,0,0,0,2,2
+70105,EL TORNO,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,1,0,0,0,0,1,1,2
+71002,GENERAL SAAVEDRA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,5,0,0,1,5,6
+70705,GUTIERREZ,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+40701,HUANUNI,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+21005,ICHOCA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,0,0,1,0,0,0,1,1
+10304,ICLA,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+10703,INCAHUASI,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,1,0,0,0,2,0,2
+21001,INQUISIVI,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+21501,IXIAMAS,estado nutricional,desnutricion grave (g),2010-11-01,0,1,1,0,0,0,0,0,1,1,2
+21105,LA ASUNTA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,1,0,0,0,0,0,1,1
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-11-01,9,3,5,0,0,3,0,0,14,6,20
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,0,0,0,0,0,0,1,1
+80601,LORETO,estado nutricional,desnutricion grave (g),2010-11-01,1,0,2,2,0,0,0,0,3,2,5
+70903,MAIRANA,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+20103,MECAPACA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,1,0,0,0,0,0,1,1
+71003,MINEROS,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+31301,MIZQUE,estado nutricional,desnutricion grave (g),2010-11-01,0,1,1,1,0,3,0,0,1,5,6
+20402,MOCOMOCO,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-11-01,6,1,2,1,2,1,0,0,10,3,13
+30302,MOROCHATA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+40101,ORURO,estado nutricional,desnutricion grave (g),2010-11-01,1,4,1,2,0,0,0,0,2,6,8
+70502,PAILON,estado nutricional,desnutricion grave (g),2010-11-01,0,1,1,0,0,0,0,0,1,1,2
+50403,POCOATA,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+31202,POJO (CBBA),estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+10103,POROMA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,0,1,0,0,0,1,0,1
+70103,PORONGO,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,1,1,0,0,0,1,1,2
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-11-01,4,4,2,0,0,0,0,0,6,4,10
+31205,PUERTO VILLARROEL,estado nutricional,desnutricion grave (g),2010-11-01,0,0,2,0,1,3,0,0,3,3,6
+31401,PUNATA,estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-11-01,1,0,1,1,1,0,0,0,3,1,4
+70503,ROBORE,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-11-01,0,1,1,1,0,0,0,0,1,2,3
+50701,SACACA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+31403,SAN BENITO,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,0,0,1,0,0,0,1,1
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-11-01,2,0,2,0,0,0,0,0,4,0,4
+21502,SAN BUENA VENTURA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,estado nutricional,desnutricion grave (g),2010-11-01,1,1,0,0,0,0,0,0,1,1,2
+80501,SAN IGNACIO,estado nutricional,desnutricion grave (g),2010-11-01,1,0,1,0,0,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-11-01,2,0,2,0,2,0,0,0,6,0,6
+80701,SAN JOAQUIN,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,1,1,0,0,0,1,1,2
+70501,SAN JOSE DE CHIQUITOS,estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-11-01,6,0,0,0,0,0,0,0,6,0,6
+70302,SAN MIGUEL DE VELASCO,estado nutricional,desnutricion grave (g),2010-11-01,0,0,2,1,0,0,0,0,2,1,3
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,0,0,1,0,0,0,2,2
+80702,SAN RAMON BENI,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,0,0,1,0,0,0,1,1
+80401,SANTA ANA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,0,0,1,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-11-01,15,7,8,3,3,6,0,0,26,16,42
+90303,SENA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,estado nutricional,desnutricion grave (g),2010-11-01,1,1,0,0,0,0,0,0,1,1,2
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-11-01,2,2,0,0,1,2,0,0,3,4,7
+31101,TAPACARI,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+30401,TARATA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+60101,TARIJA,estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,0,0,1,0,0,0,2,2
+50102,TINGUIPAYA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,1,0,0,0,0,1,1,2
+20606,TIPUANI,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,0,0,1,0,0,0,1,1
+31601,TIRAQUE (CBBA),estado nutricional,desnutricion grave (g),2010-11-01,1,1,0,0,1,0,0,0,2,1,3
+10402,TOMINA,estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,0,0,0,0,0,0,1,1
+31201,TOTORA(CBBA),estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-11-01,2,3,1,1,0,1,0,0,3,5,8
+50801,TUPIZA,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+50201,UNCIA,estado nutricional,desnutricion grave (g),2010-11-01,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,estado nutricional,desnutricion grave (g),2010-11-01,0,0,2,0,0,0,0,0,2,0,2
+90502,VILLA NUEVA (LOMA ALTA),estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,1,0,0,0,2,0,2
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-11-01,1,0,1,1,0,1,0,0,2,2,4
+11001,VILLA VACA GUZMAN (MUYUPAMPA),estado nutricional,desnutricion grave (g),2010-11-01,0,0,1,0,0,0,0,0,1,0,1
+70201,WARNES,estado nutricional,desnutricion grave (g),2010-11-01,1,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,estado nutricional,desnutricion grave (g),2010-11-01,0,0,0,1,1,0,0,0,1,1,2
+51302,ACACIO,estado nutricional,desnutricion grave (g),2010-12-01,1,0,2,0,0,1,0,0,3,1,4
+30201,AIQUILE,estado nutricional,desnutricion grave (g),2010-12-01,3,2,1,0,1,0,0,0,5,2,7
+22002,ALTO BENI,estado nutricional,desnutricion grave (g),2010-12-01,0,1,0,0,0,0,0,0,0,1,1
+20701,APOLO,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,0,1,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,estado nutricional,desnutricion grave (g),2010-12-01,0,0,2,6,0,0,0,0,2,6,8
+50802,ATOCHA,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,0,1,0,0,0,1,1
+20502,AYATA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),estado nutricional,desnutricion grave (g),2010-12-01,0,1,1,0,0,0,0,0,1,1,2
+10201,AZURDUY,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,0,1,0,0,0,1,1
+50104,BELEN DE URMIRI,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,0,1,0,0,0,1,1
+60202,BERMEJO,estado nutricional,desnutricion grave (g),2010-12-01,0,1,0,0,0,0,0,0,0,1,1
+50301,BETANZOS,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+31501,BOLIVAR,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+10701,CAMARGO,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,1,0,0,0,1,0,1
+30701,CAPINOTA,estado nutricional,desnutricion grave (g),2010-12-01,1,1,0,0,0,0,0,0,1,1,2
+22001,CARANAVI,estado nutricional,desnutricion grave (g),2010-12-01,0,0,4,0,0,0,0,0,4,0,4
+40201,CHALLAPATA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+70702,CHARAGUA,estado nutricional,desnutricion grave (g),2010-12-01,0,0,1,0,0,0,0,0,1,0,1
+50202,CHAYANTA,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,1,0,0,0,0,0,1,1
+31204,CHIMORE,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,1,0,0,0,1,0,1
+50204,CHUQUIHUTA AYLLU JUCUMANI,estado nutricional,desnutricion grave (g),2010-12-01,0,2,0,0,0,0,0,0,0,2,2
+90101,COBIJA,estado nutricional,desnutricion grave (g),2010-12-01,0,1,1,0,2,0,0,0,3,1,4
+30303,COCAPATA,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,1,1,0,0,0,1,1,2
+30101,COCHABAMBA,estado nutricional,desnutricion grave (g),2010-12-01,1,5,7,4,1,2,0,0,9,11,20
+70603,COLPA BELGICA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,1,0,0,0,0,0,2,0,2
+50401,COLQUECHACA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,1,1,0,0,0,0,2,1,3
+71101,CONCEPCION,estado nutricional,desnutricion grave (g),2010-12-01,0,2,0,0,0,0,0,0,0,2,2
+21402,CORIPATA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+50601,COTAGAITA,estado nutricional,desnutricion grave (g),2010-12-01,0,0,1,0,1,0,0,0,2,0,2
+10902,CULPINA,estado nutricional,desnutricion grave (g),2010-12-01,1,2,0,0,0,0,0,0,1,2,3
+20105,EL ALTO,estado nutricional,desnutricion grave (g),2010-12-01,8,2,0,0,1,2,0,0,9,4,13
+70105,EL TORNO,estado nutricional,desnutricion grave (g),2010-12-01,0,0,1,1,0,0,0,0,1,1,2
+31206,ENTRE RIOS CBBA,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,0,1,0,0,0,1,1
+71004,FERNANDEZ ALONSO,estado nutricional,desnutricion grave (g),2010-12-01,0,0,1,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,3,0,0,0,0,0,4,0,4
+80202,GUAYARAMERIN,estado nutricional,desnutricion grave (g),2010-12-01,1,0,1,0,0,0,0,0,2,0,2
+70705,GUTIERREZ,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,1,0,0,0,0,0,1,1
+40701,HUANUNI,estado nutricional,desnutricion grave (g),2010-12-01,2,1,0,0,0,0,0,0,2,1,3
+10304,ICLA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+10703,INCAHUASI,estado nutricional,desnutricion grave (g),2010-12-01,0,0,1,0,1,0,0,0,2,0,2
+70104,LA GUARDIA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,1,1,0,0,2,1,3
+20101,LA PAZ,estado nutricional,desnutricion grave (g),2010-12-01,10,22,7,4,2,2,0,0,19,28,47
+50203,LLALLAGUA,estado nutricional,desnutricion grave (g),2010-12-01,2,1,0,1,0,0,0,0,2,2,4
+20901,LURIBAY,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,1,0,0,0,0,0,1,1
+20607,MAPIRI,estado nutricional,desnutricion grave (g),2010-12-01,0,0,1,0,0,0,0,0,1,0,1
+71003,MINEROS,estado nutricional,desnutricion grave (g),2010-12-01,0,2,1,0,0,0,0,0,1,2,3
+31301,MIZQUE,estado nutricional,desnutricion grave (g),2010-12-01,2,1,0,0,1,1,0,0,3,2,5
+71001,MONTERO,estado nutricional,desnutricion grave (g),2010-12-01,16,3,5,1,0,0,0,0,21,4,25
+40101,ORURO,estado nutricional,desnutricion grave (g),2010-12-01,4,0,1,2,0,0,0,0,5,2,7
+70502,PAILON,estado nutricional,desnutricion grave (g),2010-12-01,2,0,1,0,1,1,0,0,4,1,5
+40602,PAZÑA,estado nutricional,desnutricion grave (g),2010-12-01,0,1,0,0,0,0,0,0,0,1,1
+51203,PORCO,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+10103,POROMA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,1,0,0,0,2,0,2
+50101,POTOSI,estado nutricional,desnutricion grave (g),2010-12-01,4,1,4,0,0,0,0,0,8,1,9
+21201,PUCARANI,estado nutricional,desnutricion grave (g),2010-12-01,1,0,1,0,0,1,0,0,2,1,3
+90201,PUERTO RICO,estado nutricional,desnutricion grave (g),2010-12-01,0,0,1,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,estado nutricional,desnutricion grave (g),2010-12-01,3,0,0,0,0,0,0,0,3,0,3
+30901,QUILLACOLLO,estado nutricional,desnutricion grave (g),2010-12-01,1,1,1,0,0,1,0,0,2,2,4
+80201,RIBERALTA,estado nutricional,desnutricion grave (g),2010-12-01,0,2,0,0,1,1,0,0,1,3,4
+80304,RURRENABAQUE,estado nutricional,desnutricion grave (g),2010-12-01,1,1,1,0,0,0,0,0,2,1,3
+31001,SACABA,estado nutricional,desnutricion grave (g),2010-12-01,2,0,0,0,0,0,0,0,2,0,2
+31403,SAN BENITO,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,0,2,0,0,0,2,2
+80302,SAN BORJA,estado nutricional,desnutricion grave (g),2010-12-01,3,0,0,0,0,0,0,0,3,0,3
+21502,SAN BUENA VENTURA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,1,0,0,1,0,0,2,1,3
+70402,SAN CARLOS,estado nutricional,desnutricion grave (g),2010-12-01,0,2,0,0,0,0,0,0,0,2,2
+80501,SAN IGNACIO,estado nutricional,desnutricion grave (g),2010-12-01,0,1,1,0,0,1,0,0,1,2,3
+70301,SAN IGNACIO DE VELASCO,estado nutricional,desnutricion grave (g),2010-12-01,3,3,2,0,0,0,0,0,5,3,8
+71102,SAN JAVIER(STC),estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,1,0,0,0,0,0,1,1
+80701,SAN JOAQUIN,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,1,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,estado nutricional,desnutricion grave (g),2010-12-01,1,1,0,0,0,0,0,0,1,1,2
+70404,SAN JUAN DE YAPACANI,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,1,0,0,0,0,0,1,1
+90302,SAN LORENZO(PND),estado nutricional,desnutricion grave (g),2010-12-01,0,0,1,0,1,0,0,0,2,0,2
+60501,SAN LORENZO(TJA),estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,estado nutricional,desnutricion grave (g),2010-12-01,0,3,0,0,1,0,0,0,1,3,4
+70302,SAN MIGUEL DE VELASCO,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,1,0,0,1,1,2
+71103,SAN RAMON SCZ,estado nutricional,desnutricion grave (g),2010-12-01,0,1,1,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,estado nutricional,desnutricion grave (g),2010-12-01,16,7,9,2,5,4,0,0,30,13,43
+41401,SANTIAGO DE HUARI,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,1,0,0,0,0,0,1,1
+20902,SAPAHAQUI,estado nutricional,desnutricion grave (g),2010-12-01,0,0,1,0,0,0,0,0,1,0,1
+30703,SICAYA,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,estado nutricional,desnutricion grave (g),2010-12-01,0,0,3,2,0,1,0,0,3,3,6
+31101,TAPACARI,estado nutricional,desnutricion grave (g),2010-12-01,1,1,1,0,0,0,0,0,2,1,3
+10601,TARABUCO,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,estado nutricional,desnutricion grave (g),2010-12-01,2,2,0,0,0,2,0,0,2,4,6
+20608,TEOPONTE,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+20803,TIAWANACU,estado nutricional,desnutricion grave (g),2010-12-01,0,0,1,0,0,0,0,0,1,0,1
+50102,TINGUIPAYA,estado nutricional,desnutricion grave (g),2010-12-01,0,1,0,0,0,0,0,0,0,1,1
+20606,TIPUANI,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,1,0,0,1,1,2
+30903,TIQUIPAYA,estado nutricional,desnutricion grave (g),2010-12-01,0,0,1,0,1,0,0,0,2,0,2
+31601,TIRAQUE (CBBA),estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+50502,TORO TORO,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,0,1,0,0,0,1,1
+80101,TRINIDAD,estado nutricional,desnutricion grave (g),2010-12-01,3,0,1,0,0,0,0,0,4,0,4
+50801,TUPIZA,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,1,0,0,0,0,0,1,1
+51201,UYUNI,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,1,0,0,0,1,0,1
+31302,VILA VILA,estado nutricional,desnutricion grave (g),2010-12-01,0,1,0,0,0,0,0,0,0,1,1
+10704,VILLA CHARCAS,estado nutricional,desnutricion grave (g),2010-12-01,1,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,2,1,0,0,2,1,3
+31003,VILLA TUNARI,estado nutricional,desnutricion grave (g),2010-12-01,3,2,0,0,0,0,0,0,3,2,5
+51501,VILLAZON,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,estado nutricional,desnutricion grave (g),2010-12-01,1,2,0,0,1,1,0,0,2,3,5
+70403,YAPACANI,estado nutricional,desnutricion grave (g),2010-12-01,0,0,0,0,0,1,0,0,0,1,1
+50103,YOCALLA,estado nutricional,desnutricion grave (g),2010-12-01,0,1,0,0,0,0,0,0,0,1,1

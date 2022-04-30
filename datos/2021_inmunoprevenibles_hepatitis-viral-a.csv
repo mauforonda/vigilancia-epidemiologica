@@ -1,0 +1,465 @@
+codigo_municipio,municipio,grupo,variable,mes,a-de-6-meses_masculino,a-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+20701,APOLO,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30701,CAPINOTA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31204,CHIMORE,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,3,3,0,4,0,0,0,0,0,0,0,0,0,0,0,0,3,7,10
+30905,COLCAPIRHUA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70603,COLPA BELGICA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,4,4
+10902,CULPINA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+31206,ENTRE RIOS CBBA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+71002,GENERAL SAAVEDRA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10502,HUACARETA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,2,2,4
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,1,1,3,1,2,0,0,1,0,0,0,0,0,0,0,3,6,9
+80801,MAGDALENA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20607,MAPIRI,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20103,MECAPACA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+30203,OMEREQUE,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+31401,PUNATA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,1,3,4
+30901,QUILLACOLLO,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+70503,ROBORE,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+80102,SAN JAVIER(BNI),inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,1,5,7,5,2,2,2,0,1,3,1,0,0,1,0,0,14,16,30
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+30902,SIPE SIPE,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10402,TOMINA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,1,3,6,2,3,2,1,0,0,0,2,0,0,0,0,0,0,7,13,20
+50201,UNCIA,inmunoprevenibles,hepatitis viral a*,2021-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30701,CAPINOTA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,1,5,2,1,0,2,1,0,0,0,0,0,0,0,4,8,12
+30905,COLCAPIRHUA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70603,COLPA BELGICA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+71101,CONCEPCION,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70704,CUEVO,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31206,ENTRE RIOS CBBA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+40701,HUANUNI,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,1,0,0,0,1,0,0,0,0,3,0,0,0,0,0,1,2,4,6
+70903,MAIRANA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+40101,ORURO,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,2,1,3
+50101,POTOSI,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+31401,PUNATA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,4,0,4
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+31001,SACABA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80102,SAN JAVIER(BNI),inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+71104,SAN JULIAN,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,3,1,5,2,1,0,1,1,1,3,0,1,0,0,1,1,12,9,21
+80303,SANTA ROSA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+30902,SIPE SIPE,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,1,1,0,0,2,2,4,0,0,0,0,2,1,5,8,13
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51201,UYUNI,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+60301,YACUIBA,inmunoprevenibles,hepatitis viral a*,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30201,AIQUILE,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20701,APOLO,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10201,AZURDUY,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+50301,BETANZOS,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30701,CAPINOTA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+60302,CARAPARI,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40201,CHALLAPATA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+30801,CLIZA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,2,0,2,1,3,0,3,0,0,0,2,1,0,0,1,0,0,0,13,2,15
+30905,COLCAPIRHUA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70603,COLPA BELGICA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,3,1,4
+50401,COLQUECHACA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,0,3,0,0,2,1,1,0,2,1,0,3,5,8,13
+21004,COLQUIRI,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71101,CONCEPCION,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70704,CUEVO,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+31206,ENTRE RIOS CBBA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20602,GUANAY,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,1,3,4
+70903,MAIRANA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,1,0,3,1,4
+71001,MONTERO,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,2,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6
+40101,ORURO,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,2,2,4
+90102,PORVENIR,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21002,QUIME,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80301,REYES,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,1,0,1,3,0,1,0,0,0,0,0,0,0,0,0,0,2,4,6
+31001,SACABA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71105,SAN ANTONIO DE LOMERIO,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80302,SAN BORJA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,2,3
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3
+80401,SANTA ANA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,3,4,13,11,5,5,0,2,2,3,0,0,0,0,1,0,24,25,49
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5
+10101,SUCRE,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10601,TARABUCO,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+20803,TIAHUANACU,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10402,TOMINA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,2,7,2,1,0,0,0,3,0,0,0,0,1,0,0,11,5,16
+60303,VILLA MONTES,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30904,VINTO,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60301,YACUIBA,inmunoprevenibles,hepatitis viral a*,2021-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20104,ACHOCALLA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30403,ARBIETO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21003,CAJUATA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30701,CAPINOTA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60302,CARAPARI,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,2,2,5,2,2,3,0,0,0,2,1,0,1,0,0,0,11,9,20
+70603,COLPA BELGICA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6
+71101,CONCEPCION,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,2,3
+21401,COROICO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,0,1,0,1,5,6
+10903,LAS CARRERAS,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+71003,MINEROS,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+71001,MONTERO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+70103,PORONGO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+50101,POTOSI,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+71402,PUERTO QUIJARRO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,2,4
+31401,PUNATA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,1,2,3
+30901,QUILLACOLLO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,2,7,3,0,0,1,0,0,0,0,0,0,0,0,0,0,5,8,13
+80302,SAN BORJA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,1,0,0,3,4,6,8,3,6,1,1,3,0,1,0,0,0,0,2,17,22,39
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+10101,SUCRE,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10601,TARABUCO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+60101,TARIJA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10202,TARVITA,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31201,TOTORA(CBBA),inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,1,2,1,1,1,1,0,2,1,0,0,0,0,0,0,6,4,10
+70801,VALLEGRANDE,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+51501,VILLAZON,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30904,VINTO,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70403,YAPACANI,inmunoprevenibles,hepatitis viral a*,2021-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10201,AZURDUY,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30701,CAPINOTA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+22001,CARANAVI,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60302,CARAPARI,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+40201,CHALLAPATA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,4,1,3,6,0,1,0,0,1,2,1,1,0,0,0,1,9,12,21
+71101,CONCEPCION,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,3
+71004,FERNANDEZ ALONSO,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10502,HUACARETA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,5,2,2,1,0,2,2,1,0,1,2,1,3,0,14,8,22
+80801,MAGDALENA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20607,MAPIRI,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,4
+71001,MONTERO,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,hepatitis viral a*,2021-05-01,1,1,1,0,5,0,0,0,0,0,0,0,0,4,0,1,0,1,0,0,7,7,14
+50101,POTOSI,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,5,2,1,0,0,0,0,1,0,0,0,0,0,0,6,3,9
+31001,SACABA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,1,2,1,5,9,2,2,1,3,4,0,0,0,0,0,0,0,14,16,30
+80303,SANTA ROSA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10202,TARVITA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20608,TEOPONTE,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10402,TOMINA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31201,TOTORA(CBBA),inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,1,0,1,0,0,0,0,1,2,0,0,2,0,0,0,0,4,3,7
+70801,VALLEGRANDE,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70403,YAPACANI,inmunoprevenibles,hepatitis viral a*,2021-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60302,CARAPARI,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,2,0,6,3,6,0,0,0,2,0,0,0,0,1,0,1,16,5,21
+70603,COLPA BELGICA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,1,0,0,3,2,5
+71101,CONCEPCION,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,2,3
+70102,COTOCA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71002,GENERAL SAAVEDRA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,3,1,4
+10502,HUACARETA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21105,LA ASUNTA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,3,0,0,1,1,0,0,0,0,2,1,1,3,1,0,6,8,14
+70903,MAIRANA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+31301,MIZQUE,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,4
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,2
+40101,ORURO,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,2,3,5
+50101,POTOSI,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+30901,QUILLACOLLO,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21002,QUIME,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,1,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,2,7
+80602,SAN ANDRES,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,0,1,1,0,0,0,0,0,1,2,1,0,1,0,0,4,4,8
+80302,SAN BORJA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+71104,SAN JULIAN,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,1,0,0,4,0,7,8,1,7,4,2,2,2,0,1,0,0,1,0,19,21,40
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,3
+10101,SUCRE,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60303,VILLA MONTES,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral a*,2021-06-01,0,0,0,0,0,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,3,2,5
+40201,CHALLAPATA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,1,1,5,7,1,1,0,0,0,0,1,0,0,0,1,0,9,9,18
+70603,COLPA BELGICA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,1,1,3,1,0,1,0,0,0,0,0,0,0,0,0,0,4,3,7
+71101,CONCEPCION,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+71002,GENERAL SAAVEDRA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21105,LA ASUNTA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+71001,MONTERO,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30901,QUILLACOLLO,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80301,REYES,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80602,SAN ANDRES,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,4,4
+31403,SAN BENITO,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,6,5,8,12,1,1,1,1,2,2,0,0,0,1,1,0,19,22,41
+30702,SANTIVAÑES,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30401,TARATA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10202,TARVITA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51202,TOMAVE,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+10402,TOMINA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,1,0,0,0,4,1,0,0,0,0,0,1,0,0,0,0,1,0,6,2,8
+60303,VILLA MONTES,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,1,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,hepatitis viral a*,2021-07-01,0,1,1,0,1,1,2,0,0,0,0,0,1,1,0,0,0,0,0,0,5,3,8
+30904,VINTO,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10102,YOTALA,inmunoprevenibles,hepatitis viral a*,2021-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,1,1,3,1,1,0,0,0,0,0,0,0,0,1,0,3,5,8
+70603,COLPA BELGICA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+71301,COMARAPA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71101,CONCEPCION,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21701,COPACABANA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,1,2,1,0,0,2,0,0,0,1,0,1,0,0,0,0,0,6,2,8
+20802,GUAQUI,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,1,3,4
+20607,MAPIRI,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+70803,MORO MORO,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+40101,ORURO,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+51101,PUNA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+21002,QUIME,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+80304,RURRENABAQUE,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31001,SACABA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,3,4
+90302,SAN LORENZO(PND),inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,5,6,4,6,0,2,2,0,3,2,0,1,1,2,1,0,16,19,35
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10601,TARABUCO,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20608,TEOPONTE,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51202,TOMAVE,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,3,1,0,1,0,0,0,0,0,1,0,1,0,0,0,2,3,6,9
+31201,TOTORA(CBBA),inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,1,2,0,2,0,0,0,2,0,1,0,2,1,1,2,10,12
+70801,VALLEGRANDE,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,5,1,6
+50103,YOCALLA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,0,0,0,0,4,0,4
+10102,YOTALA,inmunoprevenibles,hepatitis viral a*,2021-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,1,3,6,7,0,0,0,0,1,1,0,0,0,0,0,0,8,11,19
+30905,COLCAPIRHUA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70603,COLPA BELGICA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71301,COMARAPA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70102,COTOCA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2
+70105,EL TORNO,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+31206,ENTRE RIOS CBBA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,2,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,4,2,6
+20602,GUANAY,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21501,IXIAMAS,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,4,2,2,1,0,2,0,0,2,2,1,0,0,1,1,0,10,8,18
+21105,LA ASUNTA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,3,1,0,0,0,0,2,0,0,0,0,0,1,0,6,1,7
+80801,MAGDALENA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3
+40101,ORURO,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31401,PUNATA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+30901,QUILLACOLLO,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21002,QUIME,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80301,REYES,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,3
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,3,4
+31001,SACABA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+71104,SAN JULIAN,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,3,3,5,14,6,6,0,0,3,2,0,1,0,0,0,0,17,26,43
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20608,TEOPONTE,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31201,TOTORA(CBBA),inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2,0,6,6
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+30904,VINTO,inmunoprevenibles,hepatitis viral a*,2021-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71403,CARMEN RIVERO TORREZ,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,1,6,2,4,0,0,0,0,0,2,0,1,0,0,0,0,3,13,16
+30905,COLCAPIRHUA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71301,COMARAPA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,3
+71101,CONCEPCION,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+31206,ENTRE RIOS CBBA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10502,HUACARETA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,1,2,1,0,2,0,0,1,0,0,0,0,0,1,0,4,4,8
+20607,MAPIRI,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+50101,POTOSI,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51101,PUNA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21002,QUIME,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,2,0,2,4,5,4,6,1,1,2,17,7,15,2,13,2,9,8,70,30,100
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,1,2,3
+80304,RURRENABAQUE,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+80302,SAN BORJA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+21702,SAN PEDRO DE TIQUINA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70303,SAN RAFAEL,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,3,1,6,5,2,2,1,2,3,3,0,0,0,0,0,2,15,15,30
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20608,TEOPONTE,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10402,TOMINA,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,2,1,3
+71502,URUBICHA,inmunoprevenibles,hepatitis viral a*,2021-10-01,1,1,0,1,1,4,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2,9,11
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,1,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,7,7
+30904,VINTO,inmunoprevenibles,hepatitis viral a*,2021-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30201,AIQUILE,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20905,CAIROMA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+31204,CHIMORE,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,2,1,1,0,0,0,1,1,0,0,0,0,0,0,0,2,4,6
+30905,COLCAPIRHUA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70603,COLPA BELGICA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+71101,CONCEPCION,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70102,COTOCA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20602,GUANAY,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+21105,LA ASUNTA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,1,0,0,1,0,0,0,3,0,5,0,4,0,4,1,3,2,20,22
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+71001,MONTERO,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,3,4
+50101,POTOSI,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30901,QUILLACOLLO,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+21002,QUIME,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+80302,SAN BORJA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+80401,SANTA ANA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,1,2,5,1,0,0,0,1,0,0,1,1,1,1,1,6,9,15
+30902,SIPE SIPE,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,2,2,4
+20608,TEOPONTE,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+71502,URUBICHA,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,3,3,6
+70801,VALLEGRANDE,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,hepatitis viral a*,2021-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+20201,ACHACACHI,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+40201,CHALLAPATA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30801,CLIZA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,4,1,8,2,0,2,0,1,1,1,0,0,0,0,2,0,15,7,22
+30905,COLCAPIRHUA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+70603,COLPA BELGICA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,2,2,4
+10902,CULPINA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,3,4
+70105,EL TORNO,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,4,1,5
+80801,MAGDALENA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30203,OMEREQUE,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,1,3
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80304,RURRENABAQUE,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,2,1,3
+31001,SACABA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51003,SAN ANTONIO DE ESMORUCO,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,2,1,1,1,0,0,0,0,0,0,2,3,1,2,0,0,0,0,6,7,13
+80302,SAN BORJA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,1,2,3
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+71005,SAN PEDRO,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+70303,SAN RAFAEL,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,2,3,7,3,2,4,0,1,1,0,2,0,0,1,0,0,14,12,26
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,2,3
+30902,SIPE SIPE,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10101,SUCRE,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,2,3
+60101,TARIJA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31201,TOTORA(CBBA),inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,7,2,1,7,0,0,1,1,1,1,0,0,0,0,0,0,10,11,21
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,2,2,4
+51501,VILLAZON,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30904,VINTO,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,hepatitis viral a*,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1

@@ -1,0 +1,842 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21003,CAJUATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70706,CAMIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60302,CARAPARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,1,0,0,0,1,0,1,0,1,2,0,0,2,1,1,0,7,3,10
+20203,CHUA COCANI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30801,CLIZA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,1,0,0,1,2,1,0,1,1,1,3,0,21,15,4,2,3,1,6,6,41,28,69
+21401,COROICO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50601,COTAGAITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,2,2,4
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,1,0,0,0,0,1,4,0,0,0,0,0,0,1,5,6
+71106,CUATRO CAÑADAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,3,2,5
+71503,EL PUENTE(STC),otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,1,3
+60502,EL PUENTE(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,3,1,4
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,3,0,0,0,1,1,0,0,0,0,0,0,0,1,4,5
+71004,FERNANDEZ ALONSO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,6
+80202,GUAYARAMERIN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10304,ICLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2,2,4
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+70104,LA GUARDIA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,4,0,0,0,0,1,5,6
+50203,LLALLAGUA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,6,6
+20901,LURIBAY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+80801,MAGDALENA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3
+71003,MINEROS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2,2,4
+10501,MONTEAGUDO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,0,1,4,5
+30203,OMEREQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,1,1,0,0,0,3,3,6
+40101,ORURO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,3,1,4
+60201,PADCAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+70502,PAILON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70902,PAMPA GRANDE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31202,POJO (CBBA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71401,PUERTO SUAREZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+31401,PUNATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,3,2,5
+80201,RIBERALTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+80304,RURRENABAQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,2,3
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,2,1,0,0,0,1,2,0,3,0,0,1,1,0,0,0,8,3,11
+80501,SAN IGNACIO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2,2,4
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,1,0,0,0,1,4,5
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,4,5,2,3,0,3,10,2,12,10,1,2,2,4,5,1,36,30,66
+20601,SORATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,3
+30803,TOLATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,3,3,0,0,0,1,0,0,2,0,2,1,0,0,0,0,7,5,12
+60401,URIONDO (A. CONCEPCION),otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,1,0,0,0,0,3,2,5
+60303,VILLA MONTES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,1,1,1,1,2,0,2,2,8,2,1,0,0,2,0,0,15,8,23
+11001,VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30904,VINTO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+50602,VITICHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,1,2,2,2,5,6,2,3,5,5,16,1,5,3,1,0,2,22,39,61
+10602,YAMPARAEZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22002,ALTO BENI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20503,AUCAPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90104,BELLA FLOR,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,4,0,1,0,0,0,0,1,0,2,1,0,0,0,1,0,7,3,10
+50301,BETANZOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21003,CAJUATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70706,CAMIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,2,1,3
+60302,CARAPARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,1,4
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30801,CLIZA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,2,1,3
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,1,0,1,0,2,1,1,0,0,7,5,5,7,1,2,4,0,2,19,20,39
+30905,COLCAPIRHUA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+70603,COLPA BELGICA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+50601,COTAGAITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,2,2,4
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,1,0,0,0,0,0,3,2,1,1,0,0,0,0,5,3,8
+60502,EL PUENTE(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,0,0,0,0,0,3,3,6
+70105,EL TORNO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2,1,3
+71004,FERNANDEZ ALONSO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,5,0,0,0,1,0,1,0,0,1,0,0,0,0,0,4,7,5,12
+80202,GUAYARAMERIN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,2,3,5
+10502,HUACARETA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10304,ICLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,1,0,0,1,0,0,1,0,2,0,0,0,0,0,0,1,4,5
+21105,LA ASUNTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,2,3
+20101,LA PAZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,1,0,0,0,0,0,0,2,0,1,0,0,0,1,1,1,2,5,7
+50203,LLALLAGUA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,16,16
+51401,LLICA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80801,MAGDALENA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,2,3
+20607,MAPIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71003,MINEROS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,2,1,3
+51002,MOJINETE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,1,0,1,2,0,0,4,1,0,0,0,0,2,0,8,3,11
+30203,OMEREQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+40101,ORURO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,1,0,0,2,3,5
+60201,PADCAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+70502,PAILON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+70902,PAMPA GRANDE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,2,3,5
+40602,PAZÑA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,3,1,4
+31401,PUNATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+50402,RAVELO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80201,RIBERALTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70503,ROBORE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+80304,RURRENABAQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,1,0,0,2,0,1,0,2,0,3,0,0,0,1,1,1,2,10,12
+70901,SAMAIPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80302,SAN BORJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+80501,SAN IGNACIO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,1,0,0,0,0,1,0,1,1,2,0,0,1,1,0,0,0,5,3,8
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,1,1,0,0,1,0,2,1,0,0,0,0,0,0,4,2,6
+80401,SANTA ANA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,1,4,2,1,1,1,1,2,1,11,5,2,2,5,2,1,4,27,19,46
+70602,SANTA ROSA DEL SARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40104,SORACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,1,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,1,6
+60101,TARIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+80101,TRINIDAD,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+50801,TUPIZA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+60401,URIONDO (A. CONCEPCION),otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,2,2,4
+71502,URUBICHA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30502,VACAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10704,VILLA CHARCAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,1,0,0,0,0,1,2,2,0,1,0,0,0,0,3,4,7
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,1,0,0,0,0,0,3,0,1,1,0,1,0,0,2,1,7,3,10
+70201,WARNES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,1,1,3,0,5,2,3,12,15,6,3,2,3,3,2,26,35,61
+10602,YAMPARAEZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70403,YAPACANI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+71501,ASCENCION DE GUARAYOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90104,BELLA FLOR,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,2,3,1,0,0,0,1,0,0,4,4,8
+22001,CARANAVI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+60302,CARAPARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,1,0,0,0,0,4,1,0,0,2,1,0,0,6,3,9
+90101,COBIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,2,2,3,2,1,0,2,3,8,12,2,4,0,1,4,3,22,27,49
+50901,"COLCHA ""K""",otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70603,COLPA BELGICA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+21402,CORIPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+21401,COROICO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50601,COTAGAITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,2,3,5
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,2,0,0,2,1,0,0,1,2,1,1,0,0,0,0,2,6,6,12
+71106,CUATRO CAÑADAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31405,CUCHUMUELA (V. G. VILLARROEL),otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+60502,EL PUENTE(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,2,0,0,0,0,2,5,7
+70105,EL TORNO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,1,0,0,0,1,1,0,0,2,0,0,0,0,0,1,1,5,6
+60601,ENTRE RIOS TRJ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,3,4
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,5,1,6
+71004,FERNANDEZ ALONSO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,1,4,0,0,1,0,0,0,4,0,0,0,1,0,0,0,7,4,11
+80202,GUAYARAMERIN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,1,0,0,2,0,1,0,1,0,0,0,0,0,0,0,4,1,5
+10304,ICLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21105,LA ASUNTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+70104,LA GUARDIA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,3,4
+20101,LA PAZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,1,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,2,3,5
+80801,MAGDALENA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,2,1,3
+20607,MAPIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+71003,MINEROS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51002,MOJINETE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+10303,MOJOCOYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,1,1,0,0,0,0,0,3,1,1,0,0,1,0,0,0,3,5,8
+50404,OCURI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60201,PADCAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+10401,PADILLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,2,0,3,2,7,9
+70502,PAILON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,3,1,4
+21104,PALOS BLANCOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70902,PAMPA GRANDE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0,0,4,3,7
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,2,1,3
+31401,PUNATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,3
+80201,RIBERALTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,2,0,1,0,0,0,0,3,0,0,0,0,1,0,0,3,4,7
+80304,RURRENABAQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,2,2,2,2,1,0,0,0,0,3,2,1,2,0,0,1,1,9,10,19
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+10702,SAN LUCAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+80401,SANTA ANA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,1,0,1,0,3,3,4,6,2,0,3,5,6,12,8,2,2,5,0,1,30,34,64
+70602,SANTA ROSA DEL SARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,3,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,4,4,8
+60101,TARIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+10202,TARVITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+20608,TEOPONTE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,1,3,4
+30803,TOLATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,3,3
+70802,TRIGAL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80101,TRINIDAD,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,2,1,1,0,0,1,0,0,0,2,0,0,0,0,0,0,3,4,7
+60401,URIONDO (A. CONCEPCION),otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,3,1,4
+60303,VILLA MONTES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,1,2,0,0,0,0,2,4,0,0,1,1,0,0,4,7,11
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,1,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,1,5,3,8
+51501,VILLAZON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,1,1,0,2,6,1,2,0,0,1,0,0,3,0,0,0,0,1,0,6,12,18
+30904,VINTO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+50602,VITICHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,2,0,1,1,0,0,0,1,0,0,0,0,0,0,3,2,5
+70201,WARNES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,1,0,0,1,4,3,2,4,4,2,7,7,3,2,2,4,5,3,28,26,54
+10602,YAMPARAEZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2,3
+21103,YANACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60402,YUNCHARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22002,ALTO BENI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20701,APOLO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+20502,AYATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,2,2,0,0,1,0,1,0,0,0,0,0,4,2,6
+90103,BOLPEBRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21003,CAJUATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+22001,CARANAVI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,2,3
+60302,CARAPARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,3,0,0,0,0,2,2,0,0,0,0,0,0,2,5,7
+31204,CHIMORE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90101,COBIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,2,1,1,1,1,1,1,5,11,0,4,0,1,4,0,12,21,33
+70603,COLPA BELGICA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+21402,CORIPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50601,COTAGAITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71106,CUATRO CAÑADAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+10902,CULPINA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60502,EL PUENTE(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,0,0,1,0,0,1,6,7
+70105,EL TORNO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+60601,ENTRE RIOS TRJ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,2,1,3
+71004,FERNANDEZ ALONSO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,4
+20602,GUANAY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+10304,ICLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,1,0,5,0,5
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,1,3
+70104,LA GUARDIA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2,2,4
+20101,LA PAZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+80801,MAGDALENA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+20607,MAPIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20103,MECAPACA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31301,MIZQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,1,4,5
+10501,MONTEAGUDO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71001,MONTERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,0,1,0,0,1,4,4,8
+40101,ORURO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,2,2,4
+70502,PAILON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,3,2,5
+70902,PAMPA GRANDE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,4
+40602,PAZÑA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70805,PUCARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20604,QUIABAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30901,QUILLACOLLO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,4,2,6
+80304,RURRENABAQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,1,1,1,1,0,0,1,0,2,3,0,2,0,0,0,0,5,7,12
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,2,2,2,1,0,0,0,1,0,0,1,0,0,1,1,0,6,5,11
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,2,2,4
+10702,SAN LUCAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,2,2,4,0,4,1,1,1,1,1,12,9,3,5,0,3,1,2,28,24,52
+20205,SANTIAGO DE HUATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,2,5
+20807,TARACO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60101,TARIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10202,TARVITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+30803,TOLATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,3,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,4,2,6
+80101,TRINIDAD,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,1,4,5
+60401,URIONDO (A. CONCEPCION),otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+30502,VACAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,1,1,1,3,5,5,10
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,2,2,4
+11001,VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,1,3,4
+51501,VILLAZON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,5,0,5
+50602,VITICHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,2,3
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,1,0,1,0,1,2,1,3,1,1,3,1,5,4,2,0,0,2,1,2,16,15,31
+10602,YAMPARAEZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+21103,YANACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+60402,YUNCHARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+41201,ANDAMARCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20701,APOLO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+90103,BOLPEBRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,2,4
+60302,CARAPARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+90101,COBIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,1,0,0,0,1,0,2,0,6,5,1,3,1,1,1,1,13,10,23
+70603,COLPA BELGICA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71101,CONCEPCION,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21402,CORIPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+21401,COROICO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,3,1,4
+50601,COTAGAITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,2
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2,3
+71106,CUATRO CAÑADAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,2,3
+60502,EL PUENTE(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70105,EL TORNO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71004,FERNANDEZ ALONSO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10304,ICLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,0,0,4,4
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20101,LA PAZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,4,1,5
+20901,LURIBAY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+80801,MAGDALENA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20607,MAPIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71003,MINEROS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31301,MIZQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+10303,MOJOCOYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,1,5,7,1,4,0,0,1,0,7,12,19
+10501,MONTEAGUDO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71001,MONTERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,2,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,5,1,6
+40101,ORURO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,1,0,1,3,3,6
+60201,PADCAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+10401,PADILLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,3,2,0,4,1,1,3,2,8,7,2,2,3,1,1,5,21,24,45
+70502,PAILON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,1,4,5
+70902,PAMPA GRANDE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+31401,PUNATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+30901,QUILLACOLLO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,2,0,1,1,0,1,0,1,0,0,0,0,0,0,0,3,3,6
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+70901,SAMAIPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31403,SAN BENITO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,1,0,1,0,0,1,0,0,0,0,2,3,1,1,3,1,1,0,9,6,15
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,1,0,0,0,0,4,1,5
+70303,SAN RAFAEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,1,1,1,4,7,5,1,0,0,0,2,5,8,0,4,0,3,1,1,16,28,44
+10101,SUCRE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,1,2,0,0,0,0,0,2,2,0,0,0,0,0,0,0,3,4,7
+20603,TACACOMA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10601,TARABUCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,2,3
+80101,TRINIDAD,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,6,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,7,3,10
+60303,VILLA MONTES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,1,0,0,0,3,3,6
+11001,VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,1,0,1,0,24,5,3,0,1,0,0,0,30,5,35
+30904,VINTO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50602,VITICHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70201,WARNES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,1,0,4,0,0,0,3,0,1,4,3,0,3,4,0,1,15,9,24
+10602,YAMPARAEZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+21103,YANACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-05-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20201,ACHACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+22002,ALTO BENI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20701,APOLO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+30501,ARANI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20503,AUCAPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,2,0,0,1,0,2,0,0,0,0,0,0,2,0,0,0,4,3,7
+70706,CAMIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,1,0,4,1,0,0,1,0,1,1,2,0,1,0,0,0,0,0,10,2,12
+22001,CARANAVI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,2,1,3
+60302,CARAPARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+20501,CHUMA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,1,1,1,0,0,3,1,4,4,8,2,3,1,1,3,2,13,22,35
+50601,COTAGAITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,3,3
+20105,EL ALTO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+40103,EL CHORO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+70105,EL TORNO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+60601,ENTRE RIOS TRJ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71004,FERNANDEZ ALONSO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,2,1,3
+80202,GUAYARAMERIN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+10304,ICLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+21105,LA ASUNTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20101,LA PAZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51401,LLICA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+11003,MACHARETI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71003,MINEROS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,2,2,0,0,0,0,0,1,2,0,0,0,0,3,0,1,4,7,11
+60201,PADCAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+70502,PAILON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+21104,PALOS BLANCOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70902,PAMPA GRANDE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,5,0,5
+31202,POJO (CBBA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71402,PUERTO QUIJARRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,3
+80201,RIBERALTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,3,1,4
+70503,ROBORE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+80304,RURRENABAQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+71302,SAIPINA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+70901,SAMAIPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+31403,SAN BENITO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,2,1,2,1,0,2,7,9
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,2,3
+50501,SAN PEDRO DE BUENA VISTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+70303,SAN RAFAEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80401,SANTA ANA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,1,0,2,4,0,3,5,2,2,1,1,5,3,1,4,0,0,0,0,16,18,34
+31602,SHINAOTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31404,TACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10601,TARABUCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+20807,TARACO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+80101,TRINIDAD,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,3,3,6
+60401,URIONDO (A. CONCEPCION),otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,2,2,4
+71502,URUBICHA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31302,VILA VILA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,0,0,0,2,1,0,2,1,0,0,0,0,1,1,4,4,8
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+51501,VILLAZON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70201,WARNES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,3,0,3
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,1,1,2,0,2,2,1,0,6,3,1,2,1,4,0,1,14,13,27
+10602,YAMPARAEZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+31303,ALALAY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30402,ANZALDO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20701,APOLO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+90104,BELLA FLOR,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+70706,CAMIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,1,2,0,1,0,1,0,1,0,0,0,1,0,0,0,6,1,7
+60302,CARAPARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+90101,COBIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,1,1,0,0,5,0,0,0,1,1,1,1,8,3,1,1,1,0,0,2,18,9,27
+21402,CORIPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+21401,COROICO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+71106,CUATRO CAÑADAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+10902,CULPINA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+60502,EL PUENTE(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+60601,ENTRE RIOS TRJ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,3,2,5,7
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,2,3
+71004,FERNANDEZ ALONSO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21105,LA ASUNTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,2,1,3
+20607,MAPIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20103,MECAPACA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+10303,MOJOCOYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,1,2,0,0,0,0,1,0,1,2,0,1,1,0,0,0,4,5,9
+30203,OMEREQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70103,PORONGO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+10302,PRESTO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31401,PUNATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+80304,RURRENABAQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,1,0,0,2,4,6
+80302,SAN BORJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,3,1,4
+70303,SAN RAFAEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,1,1,2,3,1,2,1,1,0,1,4,3,0,1,2,0,3,0,14,12,26
+31602,SHINAOTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10101,SUCRE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+31404,TACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20807,TARACO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30401,TARATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,2,1,3
+30903,TIQUIPAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30803,TOLATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30502,VACAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,3,3
+31402,VILLA RIVERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10801,VILLA SERRANO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,3,1,4
+11001,VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,2,1,0,2,2,0,1,3,2,5,4,4,3,3,2,3,16,21,37
+50602,VITICHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,4,1,3,1,0,0,0,0,3,4,1,0,1,0,0,0,12,6,18
+21103,YANACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+60402,YUNCHARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20201,ACHACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31303,ALALAY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30402,ANZALDO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20701,APOLO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3,3
+30501,ARANI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,2,3
+70706,CAMIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,3,2,5
+22001,CARANAVI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60302,CARAPARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,1,0,0,0,0,4,1,5
+51103,CKOCHAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90101,COBIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,1,0,1,0,0,0,0,0,3,0,5,10,1,2,0,2,1,1,12,15,27
+71101,CONCEPCION,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71106,CUATRO CAÑADAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2,3
+31405,CUCHUMUELA (V. G. VILLARROEL),otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60502,EL PUENTE(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+70105,EL TORNO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,1,0,0,0,0,0,0,2,0,1,2,0,0,0,1,0,4,3,7
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,5,5
+71004,FERNANDEZ ALONSO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+80202,GUAYARAMERIN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21005,ICHOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+20101,LA PAZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,2,1,2,4,6
+11003,MACHARETI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71003,MINEROS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,2,2,4
+31301,MIZQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10303,MOJOCOYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+71001,MONTERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,2,0,0,0,0,0,1,1,2,5,2,1,0,1,1,0,8,8,16
+40101,ORURO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+60201,PADCAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70502,PAILON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,3,1,4
+31202,POJO (CBBA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90301,PUERTO GONZALO MORENO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+90201,PUERTO RICO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,2,0,2,1,0,0,0,1,6,3,0,0,0,0,0,0,10,5,15
+31401,PUNATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+80201,RIBERALTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,1,0,0,0,1,0,0,1,0,0,5,4,5,0,2,0,0,0,0,5,14,19
+70503,ROBORE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+80304,RURRENABAQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,3,1,4
+21502,SAN BUENA VENTURA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70303,SAN RAFAEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,2,0,2,6,1,4,1,2,1,2,3,7,3,2,0,1,1,0,4,24,18,42
+10101,SUCRE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20807,TARACO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30401,TARATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10202,TARVITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20608,TEOPONTE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+50502,TORO TORO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70802,TRIGAL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,2,3,5
+71502,URUBICHA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60303,VILLA MONTES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,2,0,0,0,1,1,1,0,0,1,0,0,0,0,4,2,6
+51501,VILLAZON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,1,0,2,2,0,0,2,1,1,4,2,0,0,1,0,8,8,16
+60402,YUNCHARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10301,ZUDAÑEZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20201,ACHACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31303,ALALAY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,3
+20701,APOLO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+30501,ARANI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,2,4
+70706,CAMIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+22001,CARANAVI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+90101,COBIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,4,0,4
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,1,0,3,5,0,0,1,0,1,2,4,10,1,2,2,0,2,2,15,21,36
+71101,CONCEPCION,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50601,COTAGAITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+71106,CUATRO CAÑADAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10902,CULPINA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+70105,EL TORNO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,3,1,4
+71004,FERNANDEZ ALONSO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,3,1,4
+80202,GUAYARAMERIN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,3,4
+10304,ICLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10703,INCAHUASI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,1,0,7,2,9
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,1,0,1,0,1,0,0,1,0,1,1,0,0,0,1,1,5,3,8
+80801,MAGDALENA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71003,MINEROS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+31301,MIZQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+10303,MOJOCOYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30203,OMEREQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60201,PADCAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70502,PAILON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+70902,PAMPA GRANDE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+50101,POTOSI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31401,PUNATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20604,QUIABAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70503,ROBORE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80304,RURRENABAQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,1,1,0,0,3,4,1,1,1,0,0,0,6,6,12
+31403,SAN BENITO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,0,1,0,0,2,4,6
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+70303,SAN RAFAEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,1,2,0,5,2,3,2,1,3,2,0,5,9,3,3,1,1,1,0,23,21,44
+70602,SANTA ROSA DEL SARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+20205,SANTIAGO DE HUATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+31601,TIRAQUE (CBBA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+80101,TRINIDAD,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+60401,URIONDO (A. CONCEPCION),otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+30502,VACAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60303,VILLA MONTES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,2,0,4,2,6
+31402,VILLA RIVERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,3,0,2,0,0,1,0,0,0,1,1,0,0,0,1,0,7,2,9
+70201,WARNES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,1,0,2,2,0,1,3,2,3,2,2,0,1,1,1,8,13,21
+10602,YAMPARAEZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21103,YANACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60402,YUNCHARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+20201,ACHACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31303,ALALAY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+20701,APOLO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+50802,ATOCHA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+21003,CAJUATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70706,CAMIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,1,2,3,5
+22001,CARANAVI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60302,CARAPARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+20203,CHUA COCANI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+90101,COBIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,1,0,0,4,2,4,1,1,4,1,2,8,14,1,5,1,2,3,4,23,35,58
+31002,COLOMI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+21402,CORIPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,1,4
+21401,COROICO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,3,1,4
+50601,COTAGAITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,3,4
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,1,0,0,0,0,1,1,1,3,0,0,1,0,0,0,0,5,3,8
+20105,EL ALTO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60502,EL PUENTE(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,1,2,3,5
+70105,EL TORNO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,1,3,4
+60601,ENTRE RIOS TRJ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+10304,ICLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+10703,INCAHUASI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,1,10,9,3,0,0,1,0,0,0,1,0,0,13,12,25
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0,4,4
+21105,LA ASUNTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,1,0,1,0,0,0,0,0,1,3,0,0,0,0,0,0,3,3,6
+80801,MAGDALENA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,2,1,3
+71003,MINEROS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,0,1,0,0,0,4,1,5
+31301,MIZQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10303,MOJOCOYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+10501,MONTEAGUDO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+71001,MONTERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,3,2,5
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60201,PADCAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+21104,PALOS BLANCOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31202,POJO (CBBA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50101,POTOSI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90301,PUERTO GONZALO MORENO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+80304,RURRENABAQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,1,0,1,0,0,1,2,0,2,0,2,1,0,0,2,0,10,2,12
+80302,SAN BORJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70402,SAN CARLOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,1,0,1,0,1,2,0,0,3,2,0,0,0,4,6,10
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,1,0,0,0,3,2,5
+70303,SAN RAFAEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,1,0,1,1,4,2,0,1,1,1,1,2,0,8,0,2,0,0,0,1,8,18,26
+31602,SHINAOTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+10403,SOPACHUY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,1,1,2,0,0,0,1,0,0,1,0,0,0,2,4,6
+10101,SUCRE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,4,0,4
+10601,TARABUCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+10402,TOMINA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70802,TRIGAL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+60401,URIONDO (A. CONCEPCION),otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,1,1,0,0,0,4,2,6
+30502,VACAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20801,VIACHA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,2,1,0,0,0,0,1,0,3,1,0,0,0,0,0,0,6,2,8
+51501,VILLAZON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+30904,VINTO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50602,VITICHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,5,4,0,1,0,4,5,1,1,13,3,2,1,1,0,1,15,27,42
+10602,YAMPARAEZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+70403,YAPACANI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60402,YUNCHARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31303,ALALAY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22002,ALTO BENI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20701,APOLO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+30501,ARANI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+10201,AZURDUY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21203,BATALLAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+90104,BELLA FLOR,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,3,2,5
+21003,CAJUATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,2,0,0,1,0,0,0,1,1,0,1,0,0,0,0,1,4,3,7
+70706,CAMIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,1,0,1,0,0,2,0,0,1,0,0,1,0,1,0,1,3,5,8
+22001,CARANAVI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,3
+60302,CARAPARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,2,2,4
+31204,CHIMORE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+90101,COBIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,1,0,1,1,0,1,1,2,0,1,0,0,0,0,3,5,8
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,11,5,6,1,1,4,2,5,13,16,2,6,2,1,4,6,41,44,85
+30905,COLCAPIRHUA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31002,COLOMI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71301,COMARAPA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21402,CORIPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21401,COROICO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+50601,COTAGAITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,1,0,0,1,0,0,0,0,2,0,0,1,0,1,0,0,3,3,6
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,2,3
+10902,CULPINA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60502,EL PUENTE(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,2,1,3
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90203,FILADELFIA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+71002,GENERAL SAAVEDRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21601,GRAL. J.J. PEREZ (CHARAZANI),otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+10304,ICLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+70104,LA GUARDIA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,2,0,0,1,2,1,1,0,1,1,0,0,0,0,6,3,9
+20101,LA PAZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51401,LLICA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20901,LURIBAY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,2,1,3
+80801,MAGDALENA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+71003,MINEROS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+31301,MIZQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,2,3
+10303,MOJOCOYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+71001,MONTERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,1,1,0,0,2,0,0,0,1,1,0,2,0,0,0,3,4,7,11
+30203,OMEREQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,0,1,0,3,4,7
+40101,ORURO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60201,PADCAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,2,0,0,0,6,0,6
+70502,PAILON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,2,3
+40602,PAZÑA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+70103,PORONGO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+50101,POTOSI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+10302,PRESTO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71401,PUERTO SUAREZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,2,0,3,2,5
+80201,RIBERALTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70503,ROBORE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,1,0,0,0,0,1,1,2,0,1,0,0,0,0,1,0,3,4,7
+80304,RURRENABAQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,3,2,0,0,0,1,4,0,1,2,1,1,0,0,1,0,10,6,16
+31403,SAN BENITO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71102,SAN JAVIER(STC),otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,1,0,3,2,5
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,1,0,0,1,0,0,0,1,2,2,0,1,1,0,0,5,4,9
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,2,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,4,3,7
+90202,SAN PEDRO(PND),otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70303,SAN RAFAEL,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,2,0,1,2,5,4,5,1,2,1,16,8,2,4,0,6,3,2,36,28,64
+31602,SHINAOTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,1,0,1,0,0,2,1,0,0,0,0,1,0,3,3,6
+21301,SICA SICA (VILLA AROMA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10101,SUCRE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,1,1,0,0,0,0,2,1,0,1,0,0,0,0,3,3,6
+31101,TAPACARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30401,TARATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,2,3
+60101,TARIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,2,0,0,0,0,0,1,2,0,2,0,0,2,0,0,0,5,4,9
+31601,TIRAQUE (CBBA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+80101,TRINIDAD,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+60401,URIONDO (A. CONCEPCION),otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,2,2,4
+30502,VACAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20801,VIACHA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+31402,VILLA RIVERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+10801,VILLA SERRANO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,1,3,4
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,1,0,1,1,1,0,0,1,1,0,0,0,1,0,0,0,5,2,7
+11001,VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+30904,VINTO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,1,0,6,1,3,2,8,3,1,5,3,6,1,1,4,3,1,4,28,25,53
+60402,YUNCHARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10301,ZUDAÑEZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10404,ALCALA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+20701,APOLO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30501,ARANI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20502,AYATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10201,AZURDUY,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90104,BELLA FLOR,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,1,0,0,1,0,1,0,0,0,2,0,0,1,1,3,1,1,0,2,6,8,14
+70706,CAMIRI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,1,0,2,1,1,0,0,0,2,0,0,1,0,1,1,0,0,3,7,10
+22001,CARANAVI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,3,3
+60302,CARAPARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,1,1,0,3,0,3,3,5,0,0,0,0,0,12,4,16
+90101,COBIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,1,1,0,0,8,2,5,1,1,0,1,4,1,12,1,3,5,1,4,0,27,24,51
+70603,COLPA BELGICA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,3
+71101,CONCEPCION,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,2,1,3
+21402,CORIPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+50601,COTAGAITA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,3,4
+70102,COTOCA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+71106,CUATRO CAÑADAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+60502,EL PUENTE(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,1,0,0,0,0,0,1,0,3,4,2,2,0,0,0,0,7,6,13
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+71004,FERNANDEZ ALONSO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,2,4
+90203,FILADELFIA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80202,GUAYARAMERIN,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20206,HUATAJATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10304,ICLA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21501,IXIAMAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+70104,LA GUARDIA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,1,1,1,0,0,1,1,2,0,0,0,1,0,0,3,5,8
+20101,LA PAZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+21202,LAJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80801,MAGDALENA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0,0,1,0,3,2,5
+20402,MOCOMOCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,9,9
+71001,MONTERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+70803,MORO MORO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60201,PADCAYA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,1,1,0,0,5,3,8
+70502,PAILON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+21104,PALOS BLANCOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+70103,PORONGO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2
+90102,PORVENIR,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,3,1,4
+70805,PUCARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31401,PUNATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80304,RURRENABAQUE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+31001,SACABA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,3,1,0,1,2,0,4,2,2,3,2,1,0,2,0,0,13,10,23
+70901,SAMAIPATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80602,SAN ANDRES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31403,SAN BENITO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,2,0,1,1,1,2,2,0,0,2,1,0,7,5,12
+10702,SAN LUCAS,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,0,0,0,0,2,3,5
+71005,SAN PEDRO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,1,1,1,0,0,2,1,1,0,0,1,0,0,4,4,8
+80401,SANTA ANA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,1,0,4,1,2,4,2,1,4,3,12,11,0,0,1,2,1,3,27,25,52
+31602,SHINAOTA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,2,2,4
+10101,SUCRE,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,1,1,3,0,0,2,0,1,1,0,0,0,0,0,0,4,5,9
+30401,TARATA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,2,2,4
+60101,TARIJA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20606,TIPUANI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+31601,TIRAQUE (CBBA),otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+80101,TRINIDAD,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,3,2,5
+60401,URIONDO (A. CONCEPCION),otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,3,0,0,0,0,6,5,11
+31302,VILA VILA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,3,1,0,0,1,1,4,6,2,0,0,0,0,0,10,8,18
+31402,VILLA RIVERO,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,1,3,4,0,1,0,1,0,1,2,0,0,0,1,1,0,0,6,9,15
+51501,VILLAZON,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,3,2,5
+50602,VITICHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70201,WARNES,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60301,YACUIBA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,6,3,6,3,1,4,6,0,19,18,5,4,3,0,3,5,49,37,86
+10602,YAMPARAEZ,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21103,YANACACHI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70403,YAPACANI,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+60402,YUNCHARA,otras infecciones,n de personas con picadura de animales ponzonosos,2015-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1

@@ -1,0 +1,501 @@
+codigo_municipio,municipio,grupo,variable,mes,de-1-ano_masculino,de-1-ano-1_femenino,1-a-4-anos_masculino,1-a-4-anos-1_femenino,5-a-9-anos_masculino,5-a-9-anos-1_femenino,10-a-20-anos_masculino,10-a-20-anos-1_femenino,21-a-59-anos_masculino,21-a-59-anos-1_femenino,60-y-mas_masculino,60-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+71501,ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,1,0,3,0,0,0,4,0,4
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,5,3,4,8,5,1,0,4,3,8,3,0,20,24,44
+71403,CARMEN RIVERO TORREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,1,0,0,0,1,0,2,0,0,0,4,4
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,1,0,0,0,0,0,0,0,2,0,0,0,3,0,3
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,2,1,0,4,1,1,0,6,3,9
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,2,1,1,0,3,2,3,6,3,1,12,10,22
+70603,COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,1,1,2,1,0,0,3,2,5
+71106,CUATRO CAÑADAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,1,0,0,2,0,1,1,1,2,4,6
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,1,0,0,1,0,1,0,3,2,0,3,5,8
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,2,0,2,1,0,6,1,0,5,7,12
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,1,0,4,1,1,0,6,1,7
+71004,FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,1,0,0,3,0,0,0,1,0,0,1,4,5
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,4,2,0,4,3,6,1,1,8,13,21
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,1,0,2,0,0,0,3,3
+21202,LAJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50203,LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,1,0,1,0,0,1,1,1,0,1,3,3,6
+20901,LURIBAY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,3,0,1,0,0,0,4,4
+71003,MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,1,1,0,1,1,1,0,0,0,0,2,3,5
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,3,0,8,4,2,1,3,3,8,8,1,1,25,17,42
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,1,1,1,1,0,1,0,0,2,3,5
+20102,PALCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,1,0,1,3,1,0,3,3,6
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,1,0,1,1,3,9,4,1,9,11,20
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+31403,SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,2,0,1,0,1,0,0,0,1,0,0,0,5,5
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,1,0,0,1,0,6,0,0,1,7,8
+10702,SAN LUCAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,1,0,0,0,0,1,1,0,2,1,3
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,1,0,1,1,0,0,2,1,3
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,6,4,10,7,8,7,14,15,2,0,40,33,73
+80303,SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30702,SANTIVAÑES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,2,7,5,6,9,0,1,13,17,30
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,7,3,3,3,13,14,23,48,2,0,48,68,116
+20801,VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,1,2,1,4,0,1,2,7,9
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,6,3,2,2,5,13,20,32,1,2,34,52,86
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,3,1,1,2,3,3,5,5,3,1,15,12,27
+71403,CARMEN RIVERO TORREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,0,0,0,0,2,1,0,1,2,3
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,1,2,1,1,0,0,0,3,2,5
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,1,1,0,0,2,3,9,5,1,0,13,9,22
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,1,0,3,3,0,3,3,2,0,6,2,1,9,15,24
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,2,1,0,0,0,0,0,0,0,0,0,1,2,3
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,0,0,0,3,0,0,0,3,0,3
+71106,CUATRO CAÑADAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+20804,DESAGUADERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,3,1,1,0,0,0,2,2,1,1,7,4,11
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,1,1,0,1,1,0,1,6,2,3,4,11,9,20
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,1,0,1,2,0,1,4,2,0,0,6,5,11
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,1,1,1,1,0,0,0,2,2,4
+50203,LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70903,MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71003,MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,1,4,3,9,4,2,1,5,11,0,1,20,21,41
+90401,NACEBE (SANTA ROSA DEL ABUNA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,1,1,0,0,0,1,0,0,0,0,1,2,3
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,6,2,6,7,12,17,2,5,26,31,57
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,1,1,1,0,3,0,1,0,0,1,6,7
+31403,SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,1,0,0,0,2,2,1,3,0,0,4,5,9
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,1,1,0,2,4,0,1,3,6,9
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,1,0,0,0,2,0,0,0,0,0,3,0,3
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,0,2,0,2,2,1,0,5,2,7
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,7,5,10,11,20,25,15,25,7,4,59,70,129
+30702,SANTIVAÑES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,0,5,8,4,8,0,0,9,16,25
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,1,0,1,4,5,4,12,19,30,0,2,27,51,78
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,2,2,5,6,0,0,6,7,12,19,1,2,26,36,62
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,0,0,0,0,0,0,1,1,0,1,1,2,3
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,0,0,4,3,5,4,8,12,12,30,3,2,32,51,83
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-02-01,2,2,2,2,0,0,0,2,3,1,0,0,7,7,14
+20201,ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30501,ARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21304,CALAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,3,2,0,0,2,1,5,1,3,1,13,5,18
+71403,CARMEN RIVERO TORREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,1,0,3,0,0,0,4,4
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,1,0,4,4,1,2,2,3,0,0,8,9,17
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,0,0,2,4,2,4,6
+70603,COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,1,1,1,0,0,1,2,3
+71106,CUATRO CAÑADAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,2,0,2,0,3,0,1,1,0,1,8,2,10
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,1,0,1,0,0,2,2,0,1,1,5,4,10,7,17
+71004,FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,2,0,0,0,6,1,1,2,2,3,1,0,12,6,18
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,1,0,2,0,2,1,2,3,2,3,0,0,9,7,16
+50203,LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71003,MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,2,0,0,0,0,0,1,0,0,0,3,3
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,1,2,2,3,0,1,3,1,5,12,1,1,12,20,32
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,1,0,5,1,1,12,8,8,3,0,0,21,18,39
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,2,0,1,2,0,0,0,1,3,3,6
+51101,PUNA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,1,1,1,4,0,2,2,7,9
+80602,SAN ANDRES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31403,SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,0,3,0,0,0,3,3
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,1,1,1,4,0,1,2,6,8
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,1,0,1,1,1,2,0,1,3,4,7
+70404,SAN JUAN DE YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,1,1,2,0,0,1,0,1,3,3,6
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,1,1,0,1,0,0,0,0,1,0,2,2,4
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,1,1,2,2,4,1,3,4,10,14
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,1,2,6,3,9,8,10,15,16,21,3,2,45,51,96
+80303,SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30702,SANTIVAÑES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,1,1,0,1,0,0,1,2,3
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,4,3,6,8,0,2,10,13,23
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,3,7,4,6,7,16,15,19,1,2,30,50,80
+50801,TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,2,0,3,4,1,2,4,3,7,7,1,0,18,16,34
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,0,0,5,3,2,6,5,11,13,20,1,2,26,42,68
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-03-01,1,0,1,0,1,1,2,2,1,4,2,0,8,7,15
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,1,0,1,1,0,1,2,3
+30501,ARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,1,0,2,0,0,0,3,3
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,2,0,1,3,3,0,6,3,9
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,1,0,1,1,1,0,3,1,4
+31204,CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,1,0,1,1,0,1,2,2,4
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,1,0,1,1,0,1,4,2,0,2,0,0,6,6,12
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,2,0,2,1,3,3,1,0,11,2,3,2,22,8,30
+21701,COPACABANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,2,0,0,0,0,0,0,0,0,1,2,1,3
+71503,EL PUENTE(STC),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,1,0,0,1,4,2,6,2,5,5,16,21
+71002,GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,1,0,2,0,2,3,1,0,6,3,9
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,4,1,5,1,0,4,1,2,0,2,10,10,20
+71003,MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,1,1,2,2,2,2,5,10,4,0,1,15,15,30
+70803,MORO MORO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20702,PELECHUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,1,0,1,0,1,0,0,0,3,0,3
+40601,POOPO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,1,0,0,1,0,1,1,2,3
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,5,0,2,0,1,3,3,0,0,3,11,14
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,2,1,1,1,3,1,2,4,1,0,9,7,16
+51101,PUNA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,0,1,1,2,2,3,3,6
+70901,SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,0,5,0,0,0,5,0,5
+31403,SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,1,0,1,0,0,0,0,0,0,0,0,1,2,1,3
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+70404,SAN JUAN DE YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,1,0,2,0,0,0,3,0,3
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,1,0,0,0,1,2,1,1,2,3,5,8
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,1,0,1,1,2,7,11,10,13,9,6,1,34,28,62
+80303,SANTA ROSA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,1,1,5,2,6,7,0,0,12,10,22
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,2,4,0,2,1,3,4,8,0,0,7,17,24
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,1,0,0,1,1,1,2,3
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,1,0,1,1,2,5,7,19,0,5,11,30,41
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,5,2,3,0,3,7,8,2,0,0,19,11,30
+10102,YOTALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,1,1,1,0,0,0,2,1,3
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,1,0,0,3,1,3,4,1,1,7,7,14
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,1,0,0,0,1,1,0,0,1,0,0,1,3,4
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,1,0,0,2,0,0,1,2,3
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,4,2,3,3,2,2,1,0,0,0,10,7,17
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,5,4,2,4,4,1,1,0,3,3,3,0,18,12,30
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,1,0,0,0,2,0,0,0,1,0,4,4
+70704,CUEVO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,1,1,1,0,0,0,0,0,0,0,2,1,3
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,1,0,0,1,0,0,0,2,5,4,2,2,8,9,17
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,1,1,1,1,4,1,2,1,0,0,8,4,12
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,1,0,1,0,1,4,6,0,1,4,10,14
+71003,MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,1,3,8,3,1,2,7,7,12,2,0,17,29,46
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2
+70502,PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,2,1,2,2,0,7,1,0,8,5,2,0,15,15,30
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,2,2,2,0,0,0,1,1,1,1,6,4,10
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,2,1,8,3,0,1,10,5,15
+31403,SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+71104,SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,2,0,3,2,0,0,5,2,7
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,1,0,0,1,0,1,0,0,0,2,1,3
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,1,5,4,10,8,12,8,11,14,7,0,45,35,80
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,1,0,0,0,0,0,0,1,2,0,3,1,4
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,1,5,8,6,0,0,9,11,20
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,2,4,1,3,1,6,8,15,0,1,12,29,41
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,4,3,1,0,1,2,2,1,4,1,0,7,12,19
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,1,0,1,0,0,1,7,12,0,1,9,14,23
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21304,CALAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,4,0,6,1,3,4,5,3,1,1,19,9,28
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+31204,CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,3,2,2,0,1,2,0,0,0,0,6,4,10
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,8,0,7,2,5,1,7,3,8,6,35,41
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,1,0,0,0,2,0,1,0,1,0,5,5
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,1,2,0,0,0,0,0,0,0,0,1,2,3
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,1,1,1,0,0,2,1,0,0,0,0,3,3,6
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,1,0,0,0,0,0,1,0,3,3,0,1,5,4,9
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,0,0,0,0,0,3,0,3,3
+70705,GUTIERREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,1,0,0,0,1,0,1,0,3,3
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,1,0,1,0,0,2,3,1,0,0,5,3,8
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,1,0,1,0,2,1,4,2,6,5,0,0,14,8,22
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,1,5,5,2,0,1,3,11,8,1,0,20,17,37
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+70502,PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,1,0,5,2,2,4,6,2,9,8,0,2,23,18,41
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,1,1,1,2,0,0,0,1,1,1,3,5,8
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,0,2,7,5,0,0,7,7,14
+70503,ROBORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,2,0,1,0,3,1,2,0,0,1,8,9
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,1,0,0,1,0,1,1,1,0,3,2,5
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,1,0,0,0,0,0,0,0,2,1,1,0,4,1,5
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,1,0,3,1,1,0,5,1,6
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,1,0,0,0,0,0,0,1,1,1,0,2,2,4
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,2,6,12,13,12,13,20,13,1,0,47,45,92
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+30702,SANTIVAÑES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,1,0,5,4,8,5,2,1,16,10,26
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,6,1,8,5,4,3,4,6,7,11,0,0,29,26,55
+41001,TOLEDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20801,VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,1,0,1,0,0,1,0,3,2,2,0,2,4,8,12
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-06-01,1,1,2,2,1,1,3,5,5,17,2,1,14,27,41
+30501,ARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,1,0,0,3,3,2,0,0,4,5,9
+71403,CARMEN RIVERO TORREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+31204,CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,1,0,0,0,1,0,1,0,3,3
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,2,0,2,2,0,0,4,2,6
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,1,2,1,2,2,4,1,1,0,0,1,9,6,15
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,5,0,0,3,5,7,2,6,3,6,3,1,18,23,41
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,1,1,0,0,1,1,0,1,1,0,3,3,6
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,1,0,0,1,0,1,1,0,1,0,3,2,5
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,3,0,0,0,0,1,0,0,1,0,4,1,5
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,1,0,0,1,1,2,7,2,1,0,10,5,15
+71003,MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,2,2,8,3,3,1,5,5,10,10,1,0,29,21,50
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,1,0,0,0,0,1,1,1,0,0,2,2,4
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,1,3,0,0,0,0,0,0,0,0,1,3,4
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,1,1,0,2,3,4,5,2,5,9,14,23
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,1,0,2,1,1,1,2,1,0,3,0,2,6,8,14
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+31403,SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,0,1,0,1,0,1,0,3,3
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,1,0,0,4,1,0,2,4,6
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,1,0,0,0,0,2,1,1,0,0,1,3,3,6
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,1,0,4,0,0,0,5,0,5
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,1,0,0,1,0,1,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,2,4,7,13,12,7,19,13,4,1,44,38,82
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,0,2,0,0,2,0,2,2,4
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,1,0,0,1,0,3,4,7,2,0,7,11,18
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,1,0,7,1,3,3,4,1,0,5,15,20
+50801,TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,0,0,1,1,1,0,2,1,3
+20801,VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,3,2,4,1,0,2,1,1,3,2,0,8,11,19
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-07-01,0,0,0,0,0,1,1,5,6,10,4,3,11,19,30
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,1,0,1,0,1,0,3,0,3
+30501,ARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70401,BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,1,2,0,0,0,0,0,0,0,0,0,2,1,3
+70703,CABEZAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,1,0,4,0,4,1,6,6,2,4,17,11,28
+31204,CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,1,0,1,2,0,0,0,2,2,4
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,1,0,2,0,0,0,3,0,3
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,5,1,0,4,6,3,3,1,0,0,14,9,23
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,7,9,5,6,13,7,4,4,29,26,55
+70603,COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,1,0,1,0,0,0,1,0,0,0,3,3
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,1,0,2,2,2,0,1,2,6,8
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+71004,FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70705,GUTIERREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21105,LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,1,0,0,0,0,0,26,0,27,27
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,1,1,0,2,3,2,1,0,4,0,0,5,9,14
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,1,1,1,4,1,1,4,2,9,5,1,2,17,15,32
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,2,5,8,4,5,4,14,4,11,1,1,18,41,59
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,1,0,0,0,0,0,0,0,1,0,1,0,3,0,3
+70502,PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,0,0,3,1,1,1,4,5
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,1,1,1,1,2,5,3,4,5,3,2,14,14,28
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,1,0,2,1,1,1,1,0,5,2,7
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80304,RURRENABAQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,2,0,2,0,1,0,0,2,0,3,0,2,5,7,12
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,2,0,0,2,1,0,3,2,5
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,2,1,0,0,0,0,0,0,1,1,0,2,3,5
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,0,0,1,0,3,0,4,4
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,4,3,7,12,8,14,11,19,15,21,1,2,46,71,117
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,1,0,0,1,0,0,2,0,0,1,3,4
+31602,SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,1,1,7,5,4,12,0,2,12,20,32
+10601,TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,1,0,2,1,4,1,3,1,1,5,0,0,11,8,19
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,1,0,0,1,0,0,1,1,0,0,2,2,4
+20801,VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,1,3,0,0,1,1,1,0,0,0,0,4,3,7
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-08-01,0,0,3,0,0,1,4,8,5,17,0,3,12,29,41
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,1,0,0,2,0,1,1,3,4
+70401,BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21304,CALAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,1,0,0,0,2,1,1,2,1,3,5,8
+71403,CARMEN RIVERO TORREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+31204,CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+40903,CHIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,2,0,3,3,2,3,1,6,0,0,8,12,20
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,2,0,11,5,8,1,6,7,4,13,31,44
+71301,COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,1,0,0,0,1,0,0,1,0,0,0,1,2,3
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71106,CUATRO CAÑADAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,1,0,3,1,0,0,4,1,5
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,1,2,1,0,0,0,1,0,1,0,1,2,5,7
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,1,0,0,2,3,1,0,2,2,0,0,0,6,5,11
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,2,0,5,3,1,4,8,7,1,0,17,14,31
+70903,MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71003,MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,1,2,6,7,2,5,5,6,3,7,2,3,19,30,49
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,1,1,1,1,1,2,3,5
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,1,0,0,0,1,1,0,0,0,0,1,0,3,1,4
+70804,POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,1,2,2,0,0,0,0,0,0,2,3,5
+80304,RURRENABAQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,2,1,0,1,2,2,4
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,1,2,4,4,5,12,10,15,14,16,2,2,36,51,87
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,1,0,0,1,3,1,1,6,0,0,5,8,13
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,8,10,3,3,1,1,7,9,0,1,19,24,43
+41001,TOLEDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30502,VACAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,5,3,8,10,11,9,4,6,28,28,56
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,4,3,1,0,1,2,5,4,1,0,12,9,21
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,0,0,0,1,0,0,0,0,0,2,0,0,0,3,3
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-09-01,1,1,1,0,2,1,3,7,14,27,0,2,21,38,59
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,1,0,0,1,1,0,2,1,3
+71501,ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,2,0,0,2,0,0,2,2,4
+70707,BOYUIBE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,1,1,1,0,1,0,2,2,0,3,5,8
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+31204,CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,1,1,2,2,3,3,2,3,3,0,1,9,12,21
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,12,13,12,8,10,3,4,0,38,24,62
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,1,0,0,1,0,0,0,0,1,0,2,1,3
+71106,CUATRO CAÑADAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,1,1,1,0,1,2,0,0,0,3,3,6
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71004,FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+70705,GUTIERREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,1,2,2,0,0,1,5,2,0,1,8,6,14
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,1,0,3,2,2,3,0,3,4,8,2,1,12,17,29
+70903,MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,1,1,8,4,5,2,6,6,5,6,1,2,26,21,47
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,1,0,0,3,0,0,2,3,0,6,3,9
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,1,0,0,1,2,4,0,4,1,3,4,12,16
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,2,1,1,2,0,1,1,1,0,0,4,5,9
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,2,0,0,1,0,0,2,1,3
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,1,2,1,3,0,1,2,6,8
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,2,1,9,3,0,0,11,4,15
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,3,1,9,7,12,11,20,15,0,2,44,36,80
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,1,0,0,2,1,0,0,0,0,0,0,0,2,2,4
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,3,1,4,4,0,0,7,5,12
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,1,7,4,8,5,8,9,15,13,0,0,38,32,70
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,2,1,0,2,1,0,1,2,3,1,7,6,13
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,2,1,0,0,0,2,0,0,2,3,5
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,3,3,1,1,11,16,18,18,1,5,34,43,77
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,0,1,2,1,0,2,2,4
+70401,BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,0,1,2,2,0,3,2,5
+71403,CARMEN RIVERO TORREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,0,1,2,0,0,1,2,3
+31204,CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,1,0,1,0,0,0,1,0,0,0,3,0,3
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,2,0,4,5,4,3,4,0,0,0,0,0,14,8,22
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,4,24,22,10,13,20,19,6,2,60,60,120
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,1,1,1,3,0,3,1,0,0,0,3,7,10
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,1,0,0,0,1,1,0,0,1,0,0,1,3,4
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,1,0,3,2,1,4,3,2,3,2,11,10,21
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,1,0,3,1,4,16,13,3,1,20,22,42
+70903,MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,0,3,0,0,0,3,0,3
+71003,MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,1,0,7,4,4,3,3,3,3,6,0,2,18,18,36
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,1,1,3,1,3,2,7,9
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,1,0,2,0,0,1,1,1,4,2,6
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,1,0,2,0,0,0,0,1,3,1,1,2,7,9
+21201,PUCARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,1,0,2,0,0,0,4,0,1,0,8,8
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,2,0,0,0,4,2,0,2,6,8
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,1,2,1,1,0,1,2,0,1,4,5,9
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,1,0,3,3,11,10,22,8,19,21,3,4,59,46,105
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,1,2,3,2,0,1,0,0,2,0,0,5,6,11
+30702,SANTIVAÑES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,1,0,0,2,4,3,11,1,0,6,16,22
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,4,3,4,1,12,8,6,18,1,0,27,30,57
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+71502,URUBICHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,0,2,1,0,1,0,0,0,2,2,4
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,2,3,3,0,2,1,2,2,3,6,2,1,14,13,27
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,0,0,1,0,1,1,0,1,0,1,2,3,5
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,1,0,0,3,1,0,2,0,1,0,5,3,8
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-11-01,0,0,1,1,1,3,14,12,24,33,2,7,42,56,98
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,2,1,3,2,1,1,6,4,10
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,1,0,0,1,1,1,2,3
+31204,CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,1,3,2,4,1,0,0,1,0,0,0,8,4,12
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,5,9,7,15,7,5,5,3,9,3,33,35,68
+70603,COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,1,0,0,0,0,0,2,0,0,0,3,3
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,1,0,0,0,0,2,0,0,1,2,3
+71503,EL PUENTE(STC),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71004,FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70705,GUTIERREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+21501,IXIAMAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,0,32,3,0,0,32,3,35
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,1,1,3,2,0,2,1,4,1,1,6,10,16
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,1,1,2,2,2,3,4,2,2,8,11,19
+70903,MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,1,1,5,4,4,0,1,2,2,5,0,0,13,12,25
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,0,1,1,1,1,2,2,4
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,1,2,0,0,0,0,1,1,0,0,2,3,5
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,1,0,0,0,0,0,2,2,4,2,1,4,8,8,16
+21201,PUCARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,4,2,1,2,4,5,22,23,2,5,33,37,70
+90301,PUERTO GONZALO MORENO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+71401,PUERTO SUAREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,1,1,0,0,2,1,0,2,0,0,3,4,7
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,2,1,0,0,1,0,0,0,3,1,4
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,1,2,2,0,2,4,0,0,5,6,11
+80304,RURRENABAQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,2,1,3,0,0,1,5,6
+70901,SAMAIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,1,2,1,0,0,2,2,4
+31403,SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,1,0,0,0,2,1,3,0,0,1,6,7
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,1,0,0,1,1,5,3,0,0,6,5,11
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,1,2,2,1,10,6,19,15,32,26,10,2,74,52,126
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,3,1,1,0,1,0,0,2,0,1,5,4,9
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,3,3,17,3,4,4,6,7,2,1,32,18,50
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,1,0,1,2,1,6,3,4,10,16,0,0,16,28,44
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,2,0,1,0,0,0,3,1,2,2,0,0,8,3,11
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,1,1,2,0,0,0,1,1,4,5
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2011-12-01,0,0,3,6,2,1,3,9,5,17,0,1,13,34,47

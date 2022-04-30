@@ -1,0 +1,890 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+50301,BETANZOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70401,BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+21003,CAJUATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20303,CALACOTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,3
+10701,CAMARGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,1,0,1,3,3,0,0,0,1,1,0,4,6,10
+50202,CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+90101,COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,1,0,1,0,0,2,1,11,7,1,2,1,0,2,1,17,13,30
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,1,0,0,0,0,0,0,1,9,5,1,2,0,0,0,0,11,8,19
+21701,COPACABANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+21401,COROICO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50601,COTAGAITA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,6,1,0,0,0,1,0,16,70,14,19,1,3,0,0,0,98,33,131
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2,1,0,0,0,0,5,4,9
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+40701,HUANUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,1,0,0,3,4,3,1,2,3,0,3,30,23,50,11,1,7,2,6,91,59,150
+50203,LLALLAGUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+40702,MACHACAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+20103,MECAPACA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,4,0,4
+71001,MONTERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,2,0,3,1,0,1,0,2,0,0,5,4,9
+60201,PADCAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70902,PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+51203,PORCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,0,6,1,7
+10302,PRESTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+31205,PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,3
+30901,QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,4,1,5
+50402,RAVELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80201,RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70503,ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,1,0,0,1,0,6,9,3,1,0,1,0,2,0,14,10,24
+70901,SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+71201,SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,3,0,1,0,2,5,1,1,0,1,15,11,53,22,19,9,10,3,5,2,109,54,163
+70602,SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+30902,SIPE SIPE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,9,5,3,1,0,0,0,0,13,6,19
+51402,TAHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31101,TAPACARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,2,11,6,12,15,52,37,235,254,98,158,62,93,51,79,521,644,1165
+30903,TIQUIPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50502,TORO TORO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31201,TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,3,1,4
+80101,TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21302,UMALA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+51201,UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+20801,VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+51501,VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30904,VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,1,0,0,0,0,0,1,1,1,2,1,1,0,0,1,0,5,4,9
+70201,WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,1,1,0,0,0,0,2,0,1,3,0,0,0,0,0,0,4,4,8
+60402,YUNCHARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70401,BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70703,CABEZAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,1,3
+21003,CAJUATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,2,0,1,1,2,0,1,0,0,0,6,1,7
+40201,CHALLAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,5,11,6,5,1,2,0,1,1,19,13,32
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,1,0,0,0,2,2,5,7,1,1,0,0,0,0,9,10,19
+70603,COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+71301,COMARAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71101,CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21701,COPACABANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+40301,CORQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70102,COTOCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,1,2,0,0,0,0,3,1,53,27,13,2,2,0,1,0,73,32,105
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,2,2,4
+31206,ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+21601,GRAL. J.J. PEREZ (CHARAZANI),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,3,3
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+21105,LA ASUNTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,3,2,0,0,3,2,2,4,15,18,63,9,3,1,1,5,90,41,131
+70903,MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+71003,MINEROS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+30203,OMEREQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,1,3,4
+60201,PADCAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70502,PAILON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+70902,PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+20702,PELECHUCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+51203,PORCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+50101,POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,5,1,6
+20403,PUERTO CARABUCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,2,3
+31205,PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,3,2,1,3,2,1,0,0,0,0,6,6,12
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+80201,RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80304,RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,0,0,4,1,5
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,4,0,2,0,8,2,10
+70402,SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70404,SAN JUAN DE YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71104,SAN JULIAN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70303,SAN RAFAEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,1,0,5,3,0,2,2,0,18,12,38,31,19,3,8,7,2,2,93,60,153
+31602,SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,1,0,0,0,1,1,16,6,2,1,2,2,0,0,22,10,32
+20603,TACACOMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10601,TARABUCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30401,TARATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,2,0,1,1,0,9,1,64,21,12,0,11,1,3,0,100,26,126
+20803,TIAHUANACU,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30803,TOLATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31201,TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10704,VILLA CHARCAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+51501,VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30904,VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+70201,WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,1,0,0,0,0,0,0,1,0,2,0,1,1,0,1,0,3,4,7
+70403,YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,4,2,6
+30301,AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70401,BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+10901,CAMATAQUI (C. VILLA ABECIA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,1,3,4
+50302,CHAQUI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70702,CHARAGUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,2,0,0,0,2,1,0,0,0,1,4,6,6,7,3,0,1,2,2,0,20,17,37
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,1,2,0,3,8,4,0,0,1,0,0,3,10,12,22
+70603,COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,1,0,0,4,2,6
+71101,CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,2,2,1,1,0,0,2,2,54,6,17,1,3,0,0,0,79,12,91
+71503,EL PUENTE(STC),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,1,0,2,2,3,1,1,0,0,0,0,3,7,10
+31206,ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+41101,EUCALIPTUS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,3,1,4
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,2,1,3
+20806,JESUS DE MACHACA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,1,0,0,0,0,3,0,0,0,1,1,8,24,19,56,9,3,3,4,4,89,47,136
+80801,MAGDALENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70903,MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,3,3,6
+20904,MALLA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30302,MOROCHATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,2,3,0,2,1,0,0,1,1,0,4,6,10
+20102,PALCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70902,PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+30202,PASORAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20702,PELECHUCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+51203,PORCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70601,PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+50101,POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,8,2,2,0,1,0,0,0,11,2,13
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+31205,PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,2,5,7
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,2,1,2,0,0,1,0,1,0,1,1,0,0,0,0,0,0,4,5,9
+50402,RAVELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80201,RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70503,ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,1,0,4,3,7
+71302,SAIPINA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,1,0,0,0,1,4,3,7
+70501,SAN JOSE DE CHIQUITOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+70404,SAN JUAN DE YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10702,SAN LUCAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,1,5,1,3,0,0,0,0,0,0,0,0,2,8,10
+71005,SAN PEDRO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,2,1,1,0,1,3,7,18,63,32,23,7,11,1,3,1,111,63,174
+70602,SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,2,1,3
+30702,SANTIVAÑES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31602,SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,1,0,0,0,0,0,1,1,12,6,1,0,0,1,0,0,15,8,23
+30602,TACOPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,2,1,12,2,47,13,12,0,16,1,6,3,95,20,115
+30903,TIQUIPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51202,TOMAVE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31201,TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80101,TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2,1,3
+51201,UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,7,0,0,2,0,0,0,5,7,12
+20801,VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,3,3,6
+51501,VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30904,VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,1,0,0,0,0,0,0,4,2,0,0,0,0,0,0,4,3,7
+50602,VITICHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70201,WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70403,YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20701,APOLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30501,ARANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+21303,AYO AYO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80802,BAURES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+51102,"CAIZA ""D""",intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,4,0,4
+50202,CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,3,1,4
+31204,CHIMORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,2,2,0,1,0,0,1,1,1,2,7,5,4,0,0,0,2,2,17,13,30
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,1,0,0,0,2,1,6,3,0,0,0,0,0,0,9,4,13
+70603,COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+71301,COMARAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21701,COPACABANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31405,CUCHUMUELA (V. G. VILLARROEL),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,2,0,1,0,0,2,0,0,9,6,27,2,7,0,0,0,46,10,56
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,1,0,0,0,0,0,1,1,3,4,2,1,0,0,0,0,7,6,13
+71004,FERNANDEZ ALONSO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,4,0,4
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,1,1,0,0,0,2,3,5,11,23,52,15,2,4,8,12,77,62,139
+70701,LAGUNILLAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,3,0,3
+40702,MACHACAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,1,0,1,0,0,3,0,0,0,0,1,0,3,3,6
+20607,MAPIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71001,MONTERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,1,0,0,0,4,1,5
+60201,PADCAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40802,PAMPA AULLAGAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+21305,PATACAMAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+51203,PORCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10103,POROMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,1,0,1,0,2,1,0,1,0,0,0,0,0,0,4,2,6
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,1,0,0,0,0,0,1,1,5,0,2,1,0,0,0,0,9,2,11
+20403,PUERTO CARABUCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+31205,PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,1,2,0,0,0,0,1,1,1,0,1,0,0,0,0,0,4,3,7
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,2,3
+80201,RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70503,ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,2,0,0,0,1,2,1,0,4,0,1,0,1,0,0,0,10,2,12
+30404,SACABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70901,SAMAIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80602,SAN ANDRES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+70402,SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+60501,SAN LORENZO(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,3,0,0,1,0,3,0,0,0,0,12,11,38,27,31,5,17,5,4,0,105,52,157
+70602,SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31602,SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20601,SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,1,0,0,1,0,0,2,6,6,1,0,1,1,0,0,9,10,19
+20807,TARACO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30401,TARATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,2,0,0,0,9,1,37,7,13,1,6,1,5,0,72,10,82
+80101,TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+20801,VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+10801,VILLA SERRANO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30904,VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,1,3
+10602,YAMPARAEZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21103,YANACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+70403,YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+41201,ANDAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20701,APOLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+71501,ASCENCION DE GUARAYOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20503,AUCAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21303,AYO AYO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+50301,BETANZOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+70401,BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20303,CALACOTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,2,0,4,2,6
+40201,CHALLAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+90101,COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,2,1,3
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,1,1,0,0,0,1,0,0,0,0,4,2,7,5,5,1,2,0,1,0,20,10,30
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,2,0,2,1,1,2,0,4,9,6,0,0,0,0,0,0,14,13,27
+50901,"COLCHA ""K""",intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31002,COLOMI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70603,COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,2,1,3
+21701,COPACABANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50601,COTAGAITA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,1,0,0,0,0,0,2,0,0,1,1,2,47,16,34,3,1,0,0,0,86,22,108
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,1,0,0,5,0,1,1,0,0,0,0,6,2,8
+71002,GENERAL SAAVEDRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,3,1,4
+40701,HUANUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21005,ICHOCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21105,LA ASUNTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,1,1,0,3,2,2,2,1,2,4,6,26,24,52,14,5,4,2,5,96,60,156
+51401,LLICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+20901,LURIBAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,3
+11003,MACHARETI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80801,MAGDALENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70903,MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+31301,MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,1,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,3,1,4
+60201,PADCAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70502,PAILON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+40802,PAMPA AULLAGAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70902,PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,2,3
+21305,PATACAMAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40601,POOPO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10103,POROMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2,1,3
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,1,4
+90102,PORVENIR,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+50101,POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,1,0,0,0,0,3,4,7
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,3,0,0,0,8,0,8
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,1,1,0,0,0,0,0,2,0,1,1,0,0,0,0,0,2,4,6
+80201,RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+70503,ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40901,SABAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,1,1,0,0,0,0,0,0,7,8,1,1,0,0,0,2,9,12,21
+31403,SAN BENITO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,3,1,4
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,1,0,0,0,0,0,0,2,1,1,0,1,0,1,0,5,2,7
+70501,SAN JOSE DE CHIQUITOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+71104,SAN JULIAN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70303,SAN RAFAEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,2,1,0,0,4,0,0,0,3,0,8,11,50,35,32,17,14,8,11,0,124,72,196
+70602,SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+90303,SENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31602,SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,1,1,1,1,21,11,2,2,1,0,2,1,28,16,44
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,1,0,0,0,8,3,60,5,10,6,3,1,3,1,85,16,101
+20606,TIPUANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31201,TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+41301,TOTORA(ORR),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50801,TUPIZA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+60303,VILLA MONTES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+31003,VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+51501,VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30904,VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,2,4,7,11
+70201,WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,1,0,1,0,0,0,7,4,0,1,0,0,2,0,1,0,12,5,17
+70403,YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,2,1,3
+20701,APOLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,0,3
+30301,AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70401,BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40102,CARACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+51103,CKOCHAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,2,2,4
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,1,0,1,0,1,1,1,0,5,2,13,9,6,0,1,1,1,3,30,16,46
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,4,0,0,0,0,1,0,3,6,4,1,0,1,0,0,0,12,8,20
+70603,COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,3,0,3
+71301,COMARAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31405,CUCHUMUELA (V. G. VILLARROEL),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70704,CUEVO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,1,2,1,2,1,2,2,1,40,10,25,1,2,1,0,0,72,19,91
+71503,EL PUENTE(STC),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,3,2,5
+21601,GRAL. J.J. PEREZ (CHARAZANI),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,3,1,4
+40701,HUANUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10703,INCAHUASI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,3,1,2,1,0,2,3,5,24,22,42,14,5,6,5,7,84,58,142
+51401,LLICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20901,LURIBAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+11003,MACHARETI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,2,3
+31301,MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30203,OMEREQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,1,3,4
+60201,PADCAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70502,PAILON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+40802,PAMPA AULLAGAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,2,2,3,5
+70902,PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10103,POROMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,2,3
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70601,PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0,2,2,4
+50101,POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+90301,PUERTO GONZALO MORENO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,3,0,3
+31205,PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,2,0,0,0,0,2,5,7
+51101,PUNA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31304,RAQAYPAMPA(ETA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70503,ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,1,0,0,0,0,0,2,0,2,2,0,1,0,0,1,0,6,3,9
+71302,SAIPINA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80501,SAN IGNACIO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,1,4
+70501,SAN JOSE DE CHIQUITOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,5,0,5
+71104,SAN JULIAN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,2,3
+10702,SAN LUCAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+70303,SAN RAFAEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,2,1,0,1,5,3,0,0,1,1,7,8,37,11,22,11,16,5,3,1,93,42,135
+70602,SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90303,SENA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2,3
+20601,SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,1,0,0,0,0,1,2,20,7,1,1,0,0,1,0,23,11,34
+30602,TACOPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10601,TARABUCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,1,0,0,0,3,2,18,6,44,6,6,6,4,1,3,1,79,22,101
+10202,TARVITA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+51201,UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31003,VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+30904,VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21103,YANACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+70403,YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,4,1,5
+20104,ACHOCALLA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30201,AIQUILE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+20503,AUCAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,4,0,1,0,0,0,0,0,5,1,6
+50301,BETANZOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70401,BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,3,1,4
+70706,CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,2,4
+40102,CARACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20501,CHUMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+30303,COCAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,1,1,0,0,1,0,1,0,1,2,3,10,9,0,2,0,1,0,1,13,20,33
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,1,0,4,3,2,0,5,7,3,3,12,12,1,2,0,0,0,0,28,27,55
+70603,COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71301,COMARAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,2,0,1,4,0,2,7,5,51,9,25,3,8,1,2,0,96,24,120
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,2,2,4
+21601,GRAL. J.J. PEREZ (CHARAZANI),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+20602,GUANAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,3,1,4
+21105,LA ASUNTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,2,1,1,1,1,1,1,1,1,3,4,5,29,14,43,10,1,2,2,6,85,44,129
+50203,LLALLAGUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+51401,LLICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20901,LURIBAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+70903,MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,4,1,5
+71001,MONTERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,2,3
+50404,OCURI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60201,PADCAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20102,PALCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40802,PAMPA AULLAGAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2,2,3,5
+70902,PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+31202,POJO (CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+51203,PORCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+90102,PORVENIR,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,3,3,6
+20403,PUERTO CARABUCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90301,PUERTO GONZALO MORENO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,2,3,5
+31205,PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,1,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,2,3,5
+51101,PUNA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+30901,QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,1,0,0,0,1,0,0,5,1,0,0,0,0,0,0,5,3,8
+80201,RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70503,ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,1,0,0,1,0,1,0,1,0,0,6,2,1,1,2,1,1,0,11,7,18
+40801,SALINAS DE GARCI MENDOZA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80602,SAN ANDRES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31403,SAN BENITO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70402,SAN CARLOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,2,3,5
+70501,SAN JOSE DE CHIQUITOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+71104,SAN JULIAN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71201,SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,4,3,0,0,5,1,0,1,4,1,16,16,70,28,32,6,17,4,7,2,155,62,217
+70602,SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+20601,SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,1,3,3,16,9,2,1,4,0,2,0,27,14,41
+30602,TACOPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31101,TAPACARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,1,1,0,0,1,0,5,1,40,4,10,2,0,1,1,1,58,10,68
+30903,TIQUIPAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50201,UNCIA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51201,UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,1,0,5,0,5
+10704,VILLA CHARCAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31003,VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+51501,VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30904,VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,1,0,0,0,1,2,1,1,0,0,0,0,0,3,3,6
+70201,WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+20903,YACO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,1,0,0,0,1,1,6,7
+21103,YANACACHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10102,YOTALA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30201,AIQUILE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60202,BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,3,1,4
+50301,BETANZOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70401,BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21304,CALAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+70706,CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,4,1,5
+20302,CAQUIAVIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+22001,CARANAVI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40201,CHALLAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,1,0,0,0,2,0,0,1,2,1,3,3,10,1,0,2,0,2,0,10,18,28
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,1,0,2,0,2,2,5,7,0,0,2,0,1,1,13,10,23
+70603,COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,2,3
+50401,COLQUECHACA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+71101,CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40301,CORQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,1,0,0,3,1,0,2,3,5,0,7,2,42,9,11,3,2,1,0,0,71,21,92
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,3,1,4
+31206,ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+21601,GRAL. J.J. PEREZ (CHARAZANI),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,3
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,1,0,2,0,0,6,3,9
+40701,HUANUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20806,JESUS DE MACHACA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+21105,LA ASUNTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,1,0,0,1,2,2,2,2,3,3,4,20,27,33,8,19,9,5,8,85,64,149
+10903,LAS CARRERAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20901,LURIBAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+70903,MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+20607,MAPIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,1,0,0,0,1,3,2,3,0,0,1,0,0,0,5,6,11
+21104,PALOS BLANCOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70902,PAMPA GRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+51203,PORCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+70601,PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+90301,PUERTO GONZALO MORENO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+31205,PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,2,1,0,0,0,1,3,3,5,2,0,1,1,0,0,8,11,19
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,1,6,7
+31304,RAQAYPAMPA(ETA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,2,0,0,0,0,1,1,5,3,3,0,0,0,0,0,0,6,9,15
+31403,SAN BENITO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,2,4,2,6
+60501,SAN LORENZO(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,2,0,0,1,2,2,3,0,2,0,21,13,49,23,26,13,6,2,3,0,114,54,168
+70602,SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+41401,SANTIAGO DE HUARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+21301,SICA SICA (VILLA AROMA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20601,SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,1,2,17,6,5,4,0,0,0,0,23,12,35
+31101,TAPACARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,5,0,8,2,35,8,16,0,8,0,2,2,74,12,86
+21703,TITO YUPANQUI (PARQUIPUJIO),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10402,TOMINA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31201,TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+51201,UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+20801,VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,3,1,4
+60303,VILLA MONTES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2,3
+31003,VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,1,0,0,1,1,0,0,2,1,1,0,0,0,1,3,5,8
+30904,VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,3,4
+70201,WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,3,1,0,0,0,0,6,1,7
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,1,0,0,0,0,0,2,1,0,0,1,1,0,0,0,0,4,2,6
+70403,YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10301,ZUDAÑEZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30201,AIQUILE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+20202,ANCORAIMES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30501,ARANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70401,BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,3,2,5
+40201,CHALLAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+50202,CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31204,CHIMORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90101,COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,3,2,5
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,1,0,0,0,0,0,0,0,1,0,5,9,5,4,1,1,0,0,1,14,14,28
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,1,1,0,0,3,3,6,4,0,0,0,0,0,0,10,8,18
+70603,COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71301,COMARAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,1,1,11,0,0,1,0,0,0,0,12,2,14
+21402,CORIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50601,COTAGAITA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31405,CUCHUMUELA (V. G. VILLARROEL),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,3
+70704,CUEVO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,1,0,0,0,0,0,1,0,0,2,6,7,25,7,10,0,2,0,0,0,45,16,61
+71503,EL PUENTE(STC),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,1,1,0,1,3,5,8
+31206,ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,1,0,6,1,7
+41601,HUAYLLAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70104,LA GUARDIA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,1,0,0,0,3,4,1,3,1,2,2,25,18,8,3,6,1,7,5,55,35,90
+20901,LURIBAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,2,0,3,2,5
+31301,MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71001,MONTERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,2,3,0,0,1,1,0,0,4,4,8
+70502,PAILON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,2,2,4
+40802,PAMPA AULLAGAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,1,3,5,3,8
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70601,PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+90102,PORVENIR,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+50101,POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+90301,PUERTO GONZALO MORENO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,2,0,6,0,6
+31205,PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,1,0,0,0,0,1,1,1,5,0,0,0,0,0,0,2,7,9
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,1,3,4
+80201,RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70503,ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,8,0,1,0,0,0,0,0,9,0,9
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,1,0,0,1,0,2,3,1,0,0,0,0,0,4,4,8
+30404,SACABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71302,SAIPINA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31403,SAN BENITO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21502,SAN BUENA VENTURA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80501,SAN IGNACIO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,1,0,0,2,3,5
+70501,SAN JOSE DE CHIQUITOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+60501,SAN LORENZO(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+71201,SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,1,0,0,2,2,2,0,0,1,8,10,37,14,26,6,10,2,3,0,88,36,124
+70602,SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+20902,SAPAHAQUI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20601,SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2,3
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,1,0,0,0,1,1,25,14,4,1,0,0,0,0,31,16,47
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,1,1,0,0,0,0,7,4,41,14,8,0,3,0,1,0,61,19,80
+31201,TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30502,VACAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+20801,VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+60303,VILLA MONTES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+51501,VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,3
+70403,YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+30201,AIQUILE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+20701,APOLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50802,ATOCHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70401,BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+20905,CAIROMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70706,CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+40201,CHALLAPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50302,CHAQUI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70702,CHARAGUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,3,3,1,1,0,0,1,6,8,9,1,0,0,0,1,0,15,19,34
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,1,0,0,2,2,0,4,2,5,8,0,0,0,0,0,0,12,12,24
+70603,COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,4,1,5
+71101,CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,2,0,7,0,7
+21402,CORIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31405,CUCHUMUELA (V. G. VILLARROEL),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,2,2,4
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,1,7,3,39,12,20,6,3,0,0,1,69,23,92
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,1,0,0,0,3,3,6
+31206,ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,4,0,4
+20602,GUANAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,2,2,4
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,1,0,0,2,4,26,13,3,6,8,2,13,3,52,29,81
+21202,LAJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20901,LURIBAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,1,3
+11003,MACHARETI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,3,0,3
+71003,MINEROS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+31301,MIZQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50404,OCURI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30203,OMEREQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,1,0,0,1,0,3,3,6
+60201,PADCAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40802,PAMPA AULLAGAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,3,1,4
+21305,PATACAMAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51203,PORCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,1,0,0,1,0,2,0,1,2,1,0,0,0,1,0,6,3,9
+90301,PUERTO GONZALO MORENO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,1,2,2,3,0,0,0,0,0,0,3,5,8
+31205,PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80201,RIBERALTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70503,ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+80304,RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,4,1,5
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,1,2,2,1,3,4,1,1,2,1,0,0,9,9,18
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,1,0,2,0,0,0,2,0,0,0,0,0,5,0,5
+71104,SAN JULIAN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71201,SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2,1,3
+21801,SAN PEDRO DE CURAHUARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,1,3,0,8,8,3,4,1,2,6,4,42,26,14,4,7,3,0,1,84,53,137
+30702,SANTIVAÑES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20601,SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,2,4,41,22,9,1,4,3,1,0,57,30,87
+30401,TARATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,3,1,37,12,13,2,4,1,2,0,59,16,75
+20606,TIPUANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+80101,TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,3
+50801,TUPIZA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+60401,URIONDO (A. CONCEPCION),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71502,URUBICHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+31003,VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30904,VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,2,0,3,1,0,0,0,0,0,0,5,1,6
+50602,VITICHI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,6
+70201,WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,0,2,2,1,0,0,2,2,3,1,0,0,0,0,3,6,10,16
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,3,4
+70403,YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-10-01,0,0,0,0,1,2,0,0,0,0,0,1,1,1,2,0,0,0,1,0,5,4,9
+31303,ALALAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20202,ANCORAIMES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+41201,ANDAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30501,ARANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60202,BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+21003,CAJUATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+70706,CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,0,5
+30701,CAPINOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,2,2,4
+20302,CAQUIAVIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50202,CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+31204,CHIMORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,2,3
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,2,0,0,0,0,0,2,0,8,8,0,0,0,0,0,1,12,9,21
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,2,1,3,2,9,5,2,0,2,1,0,0,18,9,27
+70603,COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+71101,CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,3,0,3
+31405,CUCHUMUELA (V. G. VILLARROEL),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,2,1,0,0,0,2,0,2,6,5,4,2,0,0,0,0,12,12,24
+60502,EL PUENTE(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+60601,ENTRE RIOS TRJ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31206,ENTRE RIOS CBBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+20405,ESCOMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,0,0,1,4,5
+40701,HUANUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,2,1,1,1,1,1,4,3,12,17,25,9,3,3,3,2,51,37,88
+20901,LURIBAY,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20607,MAPIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10303,MOJOCOYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+71001,MONTERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30203,OMEREQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60201,PADCAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+40802,PAMPA AULLAGAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21305,PATACAMAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,2,1,3
+50101,POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,2,3
+90301,PUERTO GONZALO MORENO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,1,1,4,5
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+31205,PUERTO VILLARROEL,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,1,4,5
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,5,5
+30901,QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,3,1,4
+50402,RAVELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80304,RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,1,2,0,0,0,0,2,3,6,1,1,2,0,0,0,1,10,9,19
+31403,SAN BENITO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80501,SAN IGNACIO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,0,0,0,0,4,1,5
+60501,SAN LORENZO(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+71201,SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+50501,SAN PEDRO DE BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,1,0,0,3,4,4,0,0,0,1,5,29,13,11,6,4,2,6,0,58,31,89
+70602,SANTA ROSA DEL SARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21301,SICA SICA (VILLA AROMA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20601,SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,1,0,0,0,1,2,3,16,7,8,0,0,1,0,0,26,13,39
+30401,TARATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,1,0,0,4,0,3,1,43,12,8,0,7,1,2,0,67,15,82
+10202,TARVITA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+31201,TOTORA(CBBA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80101,TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,5,5
+50801,TUPIZA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31003,VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,1,3
+30904,VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,2,2,4
+70201,WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,1,1,0,2,0,0,0,3,4,0,0,0,0,0,0,6,5,11
+70403,YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+41201,ANDAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+70401,BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+21003,CAJUATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70706,CAMIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,6,0,6
+30701,CAPINOTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,2,2,4
+50202,CHAYANTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,4,0,4
+30101,COCHABAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,1,1,0,0,1,2,2,0,0,0,4,6,5,5,0,2,0,3,2,3,15,22,37
+30905,COLCAPIRHUA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,1,0,0,0,0,1,1,2,2,0,0,1,0,0,0,4,4,8
+70603,COLPA BELGICA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,2,2,4
+50401,COLQUECHACA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71301,COMARAPA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,0,3
+21402,CORIPATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,1,0,1,0,2,1,3,1,2,5,16,24,5,4,0,2,0,0,30,37,67
+60502,EL PUENTE(TJA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+20405,ESCOMA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+80202,GUAYARAMERIN,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+41601,HUAYLLAMARCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21005,ICHOCA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10703,INCAHUASI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,2
+70104,LA GUARDIA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+20101,LA PAZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,1,1,3,1,1,1,0,3,2,24,11,32,10,2,2,1,0,65,30,95
+70903,MAIRANA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,1,0,3,3,6
+20607,MAPIRI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+10303,MOJOCOYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71001,MONTERO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50404,OCURI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+40101,ORURO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,2,1,3
+60201,PADCAYA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40802,PAMPA AULLAGAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,4,1,8,9
+70103,PORONGO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,1,4
+50101,POTOSI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21201,PUCARANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90301,PUERTO GONZALO MORENO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31401,PUNATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,1,2,0,0,0,1,2,1,0,0,0,0,1,0,0,1,4,5,9
+30901,QUILLACOLLO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,1,0,0,0,1,5,6
+70904,QUIRUSILLAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70503,ROBORE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80304,RURRENABAQUE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,2,0,0,0,0,4,2,6
+31001,SACABA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,4,3,0,0,0,1,1,0,6,4,10
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,3,1,4
+70501,SAN JOSE DE CHIQUITOS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,1,0,0,0,3,3,6
+10702,SAN LUCAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+71201,SAN MATIAS,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+50501,SAN PEDRO DE BUENA VISTA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21801,SAN PEDRO DE CURAHUARA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,1,0,1,1,2,1,1,0,2,1,5,6,31,14,16,8,7,1,1,0,67,32,99
+21301,SICA SICA (VILLA AROMA),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+30902,SIPE SIPE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20601,SORATA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+10101,SUCRE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,13,8,3,1,1,0,1,0,19,9,28
+50303,TACOBAMBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60101,TARIJA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,1,0,2,2,42,13,10,1,7,1,1,0,63,17,80
+10202,TARVITA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+20803,TIAHUANACU,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50502,TORO TORO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+41301,TOTORA(ORR),intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80101,TRINIDAD,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50801,TUPIZA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+51201,UYUNI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+70801,VALLEGRANDE,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,3,1,4
+20801,VIACHA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,3
+51501,VILLAZON,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30904,VINTO,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70201,WARNES,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,2,4
+60301,YACUIBA,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+70403,YAPACANI,intoxicaciones,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2019-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1

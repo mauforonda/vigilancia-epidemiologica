@@ -1,0 +1,472 @@
+codigo_municipio,municipio,grupo,variable,mes,de-1-ano_masculino,de-1-ano-1_femenino,1-a-4-anos_masculino,1-a-4-anos-1_femenino,5-a-9-anos_masculino,5-a-9-anos-1_femenino,10-a-20-anos_masculino,10-a-20-anos-1_femenino,21-a-59-anos_masculino,21-a-59-anos-1_femenino,60-y-mas_masculino,60-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+31303,ALALAY,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20202,ANCORAIMES,intoxicaciones,plaguicidas,2014-01-01,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+21303,AYO AYO,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70703,CABEZAS,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,intoxicaciones,plaguicidas,2014-01-01,0,0,2,0,1,0,0,2,0,0,0,0,3,2,5
+31002,COLOMI,intoxicaciones,plaguicidas,2014-01-01,0,0,1,0,0,0,0,3,2,2,0,0,3,5,8
+50401,COLQUECHACA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,2,6,4,1,0,0,6,7,13
+31206,ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+20405,ESCOMA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71002,GENERAL SAAVEDRA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70104,LA GUARDIA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20101,LA PAZ,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,2,7,4,7,0,0,6,14,20
+70701,LAGUNILLAS,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70903,MAIRANA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31301,MIZQUE,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10501,MONTEAGUDO,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+71001,MONTERO,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+70803,MORO MORO,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+10401,PADILLA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+40602,PAZÑA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31203,POCONA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50101,POTOSI,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,1,2,4,0,0,2,5,7
+70805,PUCARA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71401,PUERTO SUAREZ,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,1,1,1,3,0,0,2,4,6
+31401,PUNATA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50402,RAVELO,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31001,SACABA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,1,0,4,1,2,0,0,1,7,8
+71302,SAIPINA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71005,SAN PEDRO,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,1,3,5,5,0,0,6,8,14
+20902,SAPAHAQUI,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21301,SICA SICA (VILLA AROMA),intoxicaciones,plaguicidas,2014-01-01,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+10101,SUCRE,intoxicaciones,plaguicidas,2014-01-01,0,0,1,0,0,0,1,0,1,0,0,0,3,0,3
+10601,TARABUCO,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30401,TARATA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21703,TITO YUPANQUI (PARQUIPUJIO),intoxicaciones,plaguicidas,2014-01-01,0,0,0,1,0,1,0,0,0,1,0,0,0,3,3
+70801,VALLEGRANDE,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,1,3,0,0,0,3,1,4
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-01-01,0,0,1,0,0,0,2,1,2,1,0,0,5,2,7
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,0,0,1,1,1,0,1,0,3,1,4
+70403,YAPACANI,intoxicaciones,plaguicidas,2014-01-01,0,0,0,0,1,0,1,0,1,1,0,0,3,1,4
+31303,ALALAY,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20202,ANCORAIMES,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21303,AYO AYO,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21003,CAJUATA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+40201,CHALLAPATA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,1,0,0,1,0,2,0,0,1,3,4
+31002,COLOMI,intoxicaciones,plaguicidas,2014-02-01,2,0,0,0,0,0,0,1,0,0,0,0,2,1,3
+21402,CORIPATA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70102,COTOCA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,1,0,3,0,0,0,4,0,4
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,1,0,4,0,3,0,0,0,8,8
+60502,EL PUENTE(TJA),intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70701,LAGUNILLAS,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20607,MAPIRI,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31301,MIZQUE,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71001,MONTERO,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30302,MOROCHATA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60201,PADCAYA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+31203,POCONA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21201,PUCARANI,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20403,PUERTO CARABUCO,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+31401,PUNATA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+50402,RAVELO,intoxicaciones,plaguicidas,2014-02-01,0,0,0,1,0,0,1,0,1,0,0,0,2,1,3
+31001,SACABA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,2,0,1,0,0,0,3,3
+70402,SAN CARLOS,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71104,SAN JULIAN,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71005,SAN PEDRO,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,4,0,0,0,4,0,4
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,2,2,1,1,0,0,3,3,6
+70602,SANTA ROSA DEL SARA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,1,2,0,0,0,2,1,3
+30902,SIPE SIPE,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10101,SUCRE,intoxicaciones,plaguicidas,2014-02-01,0,0,0,1,0,0,0,0,0,2,0,0,0,3,3
+31601,TIRAQUE (CBBA),intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+31302,VILA VILA,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-02-01,0,0,0,0,0,0,0,2,4,0,0,0,4,2,6
+60301,YACUIBA,intoxicaciones,plaguicidas,2014-02-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31303,ALALAY,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70703,CABEZAS,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+51102,"CAIZA ""D""",intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21003,CAJUATA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,2,0,1,0,1,0,0,0,4,0,4
+90101,COBIJA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30101,COCHABAMBA,intoxicaciones,plaguicidas,2014-03-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70603,COLPA BELGICA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71301,COMARAPA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70102,COTOCA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,2,2,2,1,0,0,4,3,7
+70105,EL TORNO,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+71002,GENERAL SAAVEDRA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10502,HUACARETA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10304,ICLA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21105,LA ASUNTA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+70104,LA GUARDIA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70903,MAIRANA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+20607,MAPIRI,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31301,MIZQUE,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10401,PADILLA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70502,PAILON,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+50403,POCOATA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,1,2,0,0,0,0,1,2,3
+20403,PUERTO CARABUCO,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,intoxicaciones,plaguicidas,2014-03-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-03-01,1,0,0,2,0,1,3,0,0,1,0,0,4,4,8
+70503,ROBORE,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31001,SACABA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,1,0,0,1,2,2,4,0,0,3,7,10
+50701,SACACA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71005,SAN PEDRO,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,3,2,0,0,0,0,3,2,5
+10403,SOPACHUY,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,1,0,2,0,0,0,3,0,3
+60101,TARIJA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,1,1,1,2,2,4
+31601,TIRAQUE (CBBA),intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,1,1,1,0,0,0,2,1,3
+41001,TOLEDO,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70801,VALLEGRANDE,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31302,VILA VILA,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,1,0,1,1,0,1,2,3
+21103,YANACACHI,intoxicaciones,plaguicidas,2014-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20202,ANCORAIMES,intoxicaciones,plaguicidas,2014-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20502,AYATA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70707,BOYUIBE,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70703,CABEZAS,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+20905,CAIROMA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21003,CAJUATA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31204,CHIMORE,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20501,CHUMA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30101,COCHABAMBA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,4,4,4,7,0,1,8,12,20
+70603,COLPA BELGICA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-04-01,0,0,0,1,0,0,4,4,1,2,0,0,5,7,12
+20602,GUANAY,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,3,1,0,0,3,1,4
+20101,LA PAZ,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70903,MAIRANA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20402,MOCOMOCO,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70502,PAILON,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21104,PALOS BLANCOS,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31203,POCONA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,1,2,0,1,0,3,1,4
+31001,SACABA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50701,SACACA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71005,SAN PEDRO,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,2,2,3,0,0,0,5,2,7
+20902,SAPAHAQUI,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+10403,SOPACHUY,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,4,0,3,0,0,0,7,7
+60101,TARIJA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,1,0,3,0,0,5,4,5,9
+31601,TIRAQUE (CBBA),intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10402,TOMINA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60401,URIONDO (A. CONCEPCION),intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30502,VACAS,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31302,VILA VILA,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-04-01,0,0,0,0,0,0,0,2,4,0,1,0,5,2,7
+20104,ACHOCALLA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21003,CAJUATA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,1,2,0,0,1,2,3
+51103,CKOCHAS,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,1,4,7,9,4,0,0,13,12,25
+71106,CUATRO CAÑADAS,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+10902,CULPINA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,3,4,2,2,0,1,5,7,12
+71503,EL PUENTE(STC),intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20405,ESCOMA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10502,HUACARETA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10703,INCAHUASI,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21105,LA ASUNTA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+70104,LA GUARDIA,intoxicaciones,plaguicidas,2014-05-01,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+20101,LA PAZ,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,2,0,0,1,0,0,2,1,3
+70903,MAIRANA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31301,MIZQUE,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10501,MONTEAGUDO,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31203,POCONA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+50101,POTOSI,intoxicaciones,plaguicidas,2014-05-01,0,0,1,0,1,0,0,1,0,0,0,0,2,1,3
+21201,PUCARANI,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,1,1,1,0,0,0,2,1,3
+31401,PUNATA,intoxicaciones,plaguicidas,2014-05-01,0,3,0,0,0,0,0,0,0,1,0,0,0,4,4
+31001,SACABA,intoxicaciones,plaguicidas,2014-05-01,0,0,1,0,0,0,0,1,1,2,0,0,2,3,5
+71104,SAN JULIAN,intoxicaciones,plaguicidas,2014-05-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,1,4,1,0,0,4,2,6
+70602,SANTA ROSA DEL SARA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,1,0,1,0,1,0,3,3
+20603,TACACOMA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30401,TARATA,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+30502,VACAS,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+70801,VALLEGRANDE,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-05-01,0,0,0,0,0,0,0,0,4,1,0,0,4,1,5
+20201,ACHACACHI,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70703,CABEZAS,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,1,2,1,0,0,2,2,4
+90101,COBIJA,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30101,COCHABAMBA,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,5,7,10,3,0,1,15,11,26
+31002,COLOMI,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21401,COROICO,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71106,CUATRO CAÑADAS,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,3,4,1,1,0,1,4,6,10
+20405,ESCOMA,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+40701,HUANUNI,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21105,LA ASUNTA,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70104,LA GUARDIA,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20101,LA PAZ,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,7,1,4,1,0,2,11,13
+70903,MAIRANA,intoxicaciones,plaguicidas,2014-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31203,POCONA,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+21201,PUCARANI,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,1,2,0,2,0,1,0,5,1,6
+31401,PUNATA,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31001,SACABA,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,1,0,3,4,2,4,0,0,6,8,14
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2014-06-01,0,0,1,0,0,0,1,2,4,1,0,0,6,3,9
+70602,SANTA ROSA DEL SARA,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20902,SAPAHAQUI,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21301,SICA SICA (VILLA AROMA),intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+10402,TOMINA,intoxicaciones,plaguicidas,2014-06-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+41301,TOTORA(ORR),intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31302,VILA VILA,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10704,VILLA CHARCAS,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-06-01,0,0,0,0,0,0,1,2,1,0,0,0,2,2,4
+20202,ANCORAIMES,intoxicaciones,plaguicidas,2014-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20502,AYATA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50301,BETANZOS,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+31204,CHIMORE,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,intoxicaciones,plaguicidas,2014-07-01,1,0,0,1,0,0,6,11,2,7,0,1,9,20,29
+21402,CORIPATA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,3,0,0,0,3,0,3
+21401,COROICO,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70102,COTOCA,intoxicaciones,plaguicidas,2014-07-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31405,CUCHUMUELA (V. G. VILLARROEL),intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70704,CUEVO,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,2,8,0,4,0,0,2,12,14
+71004,FERNANDEZ ALONSO,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20602,GUANAY,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10703,INCAHUASI,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+70104,LA GUARDIA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,1,0,10,4,0,0,11,4,15
+31301,MIZQUE,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20402,MOCOMOCO,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30203,OMEREQUE,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10401,PADILLA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31203,POCONA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,1,0,3,4,0,0,4,4,8
+31401,PUNATA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+31001,SACABA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,3,2,1,2,0,0,4,4,8
+70901,SAMAIPATA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71104,SAN JULIAN,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2014-07-01,1,0,1,0,0,0,0,3,5,1,0,0,7,4,11
+70602,SANTA ROSA DEL SARA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+30903,TIQUIPAYA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+31302,VILA VILA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-07-01,0,0,1,0,0,0,3,2,5,0,0,0,9,2,11
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,plaguicidas,2014-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60301,YACUIBA,intoxicaciones,plaguicidas,2014-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+22002,ALTO BENI,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50301,BETANZOS,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+22001,CARANAVI,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60302,CARAPARI,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,2,0,1,0,0,0,3,0,3
+90101,COBIJA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,intoxicaciones,plaguicidas,2014-08-01,1,0,2,4,0,0,2,6,7,6,0,0,12,16,28
+31002,COLOMI,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,1,0,0,2,0,0,1,2,3
+71301,COMARAPA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+21401,COROICO,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31405,CUCHUMUELA (V. G. VILLARROEL),intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-08-01,0,0,1,1,0,0,2,6,1,0,0,0,4,7,11
+31206,ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+20405,ESCOMA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3
+71004,FERNANDEZ ALONSO,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21601,GRAL. J.J. PEREZ (CHARAZANI),intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20101,LA PAZ,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,4,3,4,0,0,3,8,11
+70903,MAIRANA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31301,MIZQUE,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31203,POCONA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21201,PUCARANI,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20401,PUERTO ACOSTA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,4,0,2,0,0,0,6,6
+51101,PUNA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+31401,PUNATA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,3,0,3,0,0,0,6,6
+31001,SACABA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+71302,SAIPINA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71104,SAN JULIAN,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+71005,SAN PEDRO,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,1,0,0,0,0,5,1,0,0,5,2,7
+20902,SAPAHAQUI,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,1,1,4,0,0,1,5,6
+31101,TAPACARI,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60101,TARIJA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,1,2,0,0,0,0,1,2,3
+31601,TIRAQUE (CBBA),intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,1,1,2,0,0,0,3,1,4
+31201,TOTORA(CBBA),intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31302,VILA VILA,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-08-01,0,0,0,0,0,0,5,3,10,0,0,0,15,3,18
+51302,ACACIO,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20201,ACHACACHI,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,1,0,2,0,3,1,4
+30403,ARBIETO,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21303,AYO AYO,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2014-09-01,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+20501,CHUMA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,2,0,0,1,2,1,3
+90101,COBIJA,intoxicaciones,plaguicidas,2014-09-01,0,0,1,0,0,0,0,0,2,1,0,0,3,1,4
+30101,COCHABAMBA,intoxicaciones,plaguicidas,2014-09-01,1,1,0,1,0,0,0,0,0,0,0,0,1,2,3
+31002,COLOMI,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+21401,COROICO,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+31405,CUCHUMUELA (V. G. VILLARROEL),intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,1,2,5,5,0,0,0,7,6,13
+70105,EL TORNO,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+60601,ENTRE RIOS TRJ,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31206,ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20405,ESCOMA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20806,JESUS DE MACHACA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21105,LA ASUNTA,intoxicaciones,plaguicidas,2014-09-01,0,0,1,0,1,0,0,0,0,1,0,0,2,1,3
+70104,LA GUARDIA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+21202,LAJA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70903,MAIRANA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20103,MECAPACA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31301,MIZQUE,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21104,PALOS BLANCOS,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70902,PAMPA GRANDE,intoxicaciones,plaguicidas,2014-09-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50403,POCOATA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+10302,PRESTO,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-09-01,0,0,1,0,0,0,1,0,0,1,0,0,2,1,3
+31401,PUNATA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,1,2,1,0,0,0,2,2,4
+50402,RAVELO,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31001,SACABA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,0,2,0,0,0,3,3
+30404,SACABAMBA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,3,1,0,0,0,0,3,1,4
+40801,SALINAS DE GARCI MENDOZA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70901,SAMAIPATA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31403,SAN BENITO,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70404,SAN JUAN DE YAPACANI,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2014-09-01,0,1,0,0,0,0,0,1,4,1,0,0,4,3,7
+20601,SORATA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+10101,SUCRE,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,1,1,0,0,1,2,3
+60101,TARIJA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+20608,TEOPONTE,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,2,0,1,0,0,0,3,3
+30903,TIQUIPAYA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30502,VACAS,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31302,VILA VILA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,1,0,2,2,0,0,3,2,5
+21103,YANACACHI,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60402,YUNCHARA,intoxicaciones,plaguicidas,2014-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20201,ACHACACHI,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,3,0,0,1,0,0,3,1,4
+21003,CAJUATA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30701,CAPINOTA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,1,1,2,0,0,1,3,4
+30101,COCHABAMBA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+31002,COLOMI,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+21402,CORIPATA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70102,COTOCA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,1,2,5,0,0,2,6,8
+70105,EL TORNO,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+31206,ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+20404,HUMANATA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10703,INCAHUASI,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21105,LA ASUNTA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,1,3,1,0,0,3,2,5
+70104,LA GUARDIA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+20101,LA PAZ,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,1,3,2,1,0,4,3,7
+10501,MONTEAGUDO,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71001,MONTERO,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,1,0,2,2,0,0,3,2,5
+21104,PALOS BLANCOS,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70902,PAMPA GRANDE,intoxicaciones,plaguicidas,2014-10-01,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+20401,PUERTO ACOSTA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-10-01,0,0,1,0,0,0,0,0,5,3,0,0,6,3,9
+31401,PUNATA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,1,0,1,0,1,0,3,0,3
+50402,RAVELO,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31001,SACABA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+70901,SAMAIPATA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71005,SAN PEDRO,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21301,SICA SICA (VILLA AROMA),intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,3,2,0,0,0,2,3,5
+60101,TARIJA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+31601,TIRAQUE (CBBA),intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21703,TITO YUPANQUI (PARQUIPUJIO),intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10402,TOMINA,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-10-01,0,0,0,0,0,0,1,3,4,2,0,0,5,5,10
+20201,ACHACACHI,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+20202,ANCORAIMES,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20203,CHUA COCANI,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+30101,COCHABAMBA,intoxicaciones,plaguicidas,2014-11-01,2,1,1,0,0,5,3,4,5,5,0,0,11,15,26
+31002,COLOMI,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21402,CORIPATA,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,0,4,0,0,0,4,4
+20804,DESAGUADERO,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,1,0,3,2,0,1,4,3,7
+31206,ENTRE RIOS CBBA,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,1,1,2,0,0,1,3,4
+20405,ESCOMA,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70903,MAIRANA,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+71001,MONTERO,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,1,2,0,0,1,2,3
+40101,ORURO,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60201,PADCAYA,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+21104,PALOS BLANCOS,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,4,5,8,0,0,5,12,17
+31401,PUNATA,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31001,SACABA,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,2,0,0,2,0,0,2,2,4
+21502,SAN BUENA VENTURA,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,plaguicidas,2014-11-01,0,0,3,0,0,0,0,0,0,0,0,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,plaguicidas,2014-11-01,0,0,1,0,0,0,0,0,1,1,0,0,2,1,3
+70602,SANTA ROSA DEL SARA,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20902,SAPAHAQUI,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,2,2,0,0,2,2,4
+60101,TARIJA,intoxicaciones,plaguicidas,2014-11-01,0,0,1,0,0,0,0,1,0,2,0,0,1,3,4
+31201,TOTORA(CBBA),intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50801,TUPIZA,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30502,VACAS,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60303,VILLA MONTES,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,2,2,4,5,0,0,6,7,13
+70403,YAPACANI,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+10102,YOTALA,intoxicaciones,plaguicidas,2014-11-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20201,ACHACACHI,intoxicaciones,plaguicidas,2014-12-01,0,0,0,1,0,0,0,2,2,2,1,0,3,5,8
+30201,AIQUILE,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30501,ARANI,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,1,0,3,2,0,0,4,2,6
+30101,COCHABAMBA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,2,7,15,15,0,1,17,23,40
+31002,COLOMI,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21402,CORIPATA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20105,EL ALTO,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,2,4,6,0,0,4,8,12
+70105,EL TORNO,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+60601,ENTRE RIOS TRJ,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20405,ESCOMA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,1,0,1,1,0,1,2,3
+10304,ICLA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10703,INCAHUASI,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21105,LA ASUNTA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+70903,MAIRANA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31301,MIZQUE,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+10303,MOJOCOYA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10501,MONTEAGUDO,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+71001,MONTERO,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,3,1,0,1,3,2,5
+10401,PADILLA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20102,PALCA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+70902,PAMPA GRANDE,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31203,POCONA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+31202,POJO (CBBA),intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+51101,PUNA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31401,PUNATA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,1,2,1,0,0,2,2,4
+31001,SACABA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,1,0,0,2,2,1,0,0,3,3,6
+70901,SAMAIPATA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71104,SAN JULIAN,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71005,SAN PEDRO,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70602,SANTA ROSA DEL SARA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21301,SICA SICA (VILLA AROMA),intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20601,SORATA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,plaguicidas,2014-12-01,0,0,1,0,0,0,0,0,2,0,0,0,3,0,3
+60101,TARIJA,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+31601,TIRAQUE (CBBA),intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30502,VACAS,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70801,VALLEGRANDE,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31003,VILLA TUNARI,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,1,4,5,0,0,0,6,4,10
+30904,VINTO,intoxicaciones,plaguicidas,2014-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1

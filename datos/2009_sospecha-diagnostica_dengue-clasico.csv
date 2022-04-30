@@ -1,0 +1,693 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 1 año,1 a 4 años,5 a 9 años,10 a 20 años,21 a 59 años,60 y más,TOTAL
+30501,ARANI,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,1,3,0,4
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue clasico,2009-01-01,2,10,5,10,25,7,59
+80802,BAURES,sospecha diagnostica,dengue clasico,2009-01-01,0,1,0,0,0,0,1
+60202,BERMEJO,sospecha diagnostica,dengue clasico,2009-01-01,0,0,3,10,19,1,33
+70707,BOYUIBE,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,3,3,0,6
+70401,BUENA VISTA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,2,5,14,1,22
+70703,CABEZAS,sospecha diagnostica,dengue clasico,2009-01-01,0,0,1,8,12,1,22
+70706,CAMIRI,sospecha diagnostica,dengue clasico,2009-01-01,1,4,16,42,38,9,110
+30701,CAPINOTA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,0,2,0,2
+22001,CARANAVI,sospecha diagnostica,dengue clasico,2009-01-01,0,3,3,7,18,0,31
+60302,CARAPARI,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,4,2,0,6
+70702,CHARAGUA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,0,2,0,2
+31204,CHIMORE,sospecha diagnostica,dengue clasico,2009-01-01,15,26,31,105,184,18,379
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-01-01,2,25,23,60,107,5,222
+30101,COCHABAMBA,sospecha diagnostica,dengue clasico,2009-01-01,0,5,12,60,162,6,245
+31002,COLOMI,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,2,4,0,6
+70603,COLPA BELGICA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,1,5,5,0,11
+71101,CONCEPCION,sospecha diagnostica,dengue clasico,2009-01-01,0,2,4,3,21,3,33
+21401,COROICO,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,1,0,0,1
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-01-01,0,4,2,4,16,0,26
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2009-01-01,1,2,0,12,12,1,28
+71503,EL PUENTE(STC),sospecha diagnostica,dengue clasico,2009-01-01,0,4,4,8,28,3,47
+70105,EL TORNO,sospecha diagnostica,dengue clasico,2009-01-01,3,7,8,32,50,3,103
+60601,ENTRE RIOS,sospecha diagnostica,dengue clasico,2009-01-01,0,0,1,1,7,0,9
+60601,ENTRE RIOS,sospecha diagnostica,dengue clasico,2009-01-01,6,5,10,70,165,12,268
+90503,EUREKA (SANTOS MERCADO),sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,0,1,0,1
+71004,FERNANDEZ ALONSO,sospecha diagnostica,dengue clasico,2009-01-01,0,3,7,7,19,4,40
+90203,FILADELFIA,sospecha diagnostica,dengue clasico,2009-01-01,0,1,0,5,8,0,14
+71002,GENERAL SAAVEDRA,sospecha diagnostica,dengue clasico,2009-01-01,1,15,18,18,24,5,81
+20602,GUANAY,sospecha diagnostica,dengue clasico,2009-01-01,0,0,1,5,6,0,12
+80202,GUAYARAMERIN,sospecha diagnostica,dengue clasico,2009-01-01,4,9,19,43,131,76,282
+70705,GUTIERREZ,sospecha diagnostica,dengue clasico,2009-01-01,0,1,5,9,16,3,34
+90402,INGAVI (HUMAITA),sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,1,1,0,2
+21102,IRUPANA (VILLA DE LANZA),sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,1,2,0,3
+21501,IXIAMAS,sospecha diagnostica,dengue clasico,2009-01-01,0,1,0,1,10,2,14
+70104,LA GUARDIA,sospecha diagnostica,dengue clasico,2009-01-01,1,19,20,21,28,2,91
+20101,LA PAZ,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,2,55,2,59
+11003,MACHARETI,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,2,3,0,5
+70903,MAIRANA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,1,0,0,1
+20607,MAPIRI,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,0,3,0,3
+10501,MONTEAGUDO,sospecha diagnostica,dengue clasico,2009-01-01,1,2,2,11,29,5,50
+71001,MONTERO,sospecha diagnostica,dengue clasico,2009-01-01,22,56,109,126,177,87,577
+70803,MORO MORO,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,1,1,0,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue clasico,2009-01-01,0,1,0,0,1,0,2
+90501,NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,dengue clasico,2009-01-01,0,3,0,4,18,1,26
+70202,OKINAWA,sospecha diagnostica,dengue clasico,2009-01-01,0,1,1,23,17,0,42
+40101,ORURO,sospecha diagnostica,dengue clasico,2009-01-01,0,0,2,1,3,0,6
+10401,PADILLA,sospecha diagnostica,dengue clasico,2009-01-01,0,1,3,1,7,0,12
+70502,PAILON,sospecha diagnostica,dengue clasico,2009-01-01,3,7,18,56,94,12,190
+21104,PALOS BLANCOS,sospecha diagnostica,dengue clasico,2009-01-01,0,1,1,10,39,2,53
+70902,PAMPA GRANDE,sospecha diagnostica,dengue clasico,2009-01-01,0,1,0,1,4,0,6
+21305,PATACAMAYA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,0,1,0,1
+70103,PORONGO,sospecha diagnostica,dengue clasico,2009-01-01,0,2,0,8,10,1,21
+70601,PORTACHUELO,sospecha diagnostica,dengue clasico,2009-01-01,0,7,6,17,14,2,46
+90102,PORVENIR,sospecha diagnostica,dengue clasico,2009-01-01,0,0,2,4,6,0,12
+50101,POTOSI,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,2,2,0,4
+90301,PUERTO GONZALO MORENO,sospecha diagnostica,dengue clasico,2009-01-01,3,9,10,13,27,1,63
+71402,PUERTO QUIJARRO,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,4,3,0,7
+90201,PUERTO RICO,sospecha diagnostica,dengue clasico,2009-01-01,1,1,5,8,10,1,26
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,4,11,1,16
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue clasico,2009-01-01,7,22,17,62,108,5,221
+31401,PUNATA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,1,3,0,4
+30901,QUILLACOLLO,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,0,2,0,2
+80301,REYES,sospecha diagnostica,dengue clasico,2009-01-01,4,14,9,20,23,0,70
+80201,RIBERALTA,sospecha diagnostica,dengue clasico,2009-01-01,3,34,51,83,175,29,375
+80304,RURRENABAQUE,sospecha diagnostica,dengue clasico,2009-01-01,14,45,56,37,36,1,189
+31001,SACABA,sospecha diagnostica,dengue clasico,2009-01-01,1,1,2,33,53,2,92
+70901,SAMAIPATA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,2,0,0,2
+71105,SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue clasico,2009-01-01,0,4,1,4,6,2,17
+80302,SAN BORJA,sospecha diagnostica,dengue clasico,2009-01-01,1,0,4,6,21,10,42
+21502,SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,2,2,21,3,28
+70402,SAN CARLOS,sospecha diagnostica,dengue clasico,2009-01-01,0,4,4,9,23,2,42
+80501,SAN IGNACIO,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,1,5,0,6
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2009-01-01,0,8,20,39,45,9,121
+71102,SAN JAVIER(STC),sospecha diagnostica,dengue clasico,2009-01-01,2,4,8,19,12,2,47
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue clasico,2009-01-01,0,0,1,2,5,0,8
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue clasico,2009-01-01,11,2,15,32,51,4,115
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-01-01,16,43,35,121,203,13,431
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue clasico,2009-01-01,0,15,12,26,14,3,70
+71201,SAN MATIAS,sospecha diagnostica,dengue clasico,2009-01-01,0,0,3,24,15,0,42
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,2,5,2,9
+71005,SAN PEDRO,sospecha diagnostica,dengue clasico,2009-01-01,1,1,5,6,10,3,26
+90202,SAN PEDRO(PND),sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,3,2,0,5
+70303,SAN RAFAEL,sospecha diagnostica,dengue clasico,2009-01-01,0,0,2,8,5,0,15
+80702,SAN RAMON,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,6,8,2,16
+80401,SANTA ANA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,0,2,1,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-01-01,206,916,1481,3398,5033,610,11644
+80303,SANTA ROSA,sospecha diagnostica,dengue clasico,2009-01-01,1,1,1,5,12,0,20
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,1,6,8,0,15
+90303,SENA,sospecha diagnostica,dengue clasico,2009-01-01,1,5,3,8,6,0,23
+10101,SUCRE,sospecha diagnostica,dengue clasico,2009-01-01,2,1,1,12,29,2,47
+30401,TARATA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,1,0,0,1
+60101,TARIJA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,6,13,1,20
+31601,TIRAQUE (CBBA),sospecha diagnostica,dengue clasico,2009-01-01,0,2,7,70,116,15,210
+10402,TOMINA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,1,0,0,1
+80101,TRINIDAD,sospecha diagnostica,dengue clasico,2009-01-01,3,12,51,53,140,21,280
+50801,TUPIZA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,0,1,0,1
+71502,URUBICHA,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,0,3,0,3
+70801,VALLEGRANDE,sospecha diagnostica,dengue clasico,2009-01-01,0,2,1,6,12,0,21
+60303,VILLA MONTES,sospecha diagnostica,dengue clasico,2009-01-01,2,12,11,45,83,7,160
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,dengue clasico,2009-01-01,3,14,14,20,25,4,80
+10801,VILLA SERRANO,sospecha diagnostica,dengue clasico,2009-01-01,0,0,0,2,2,0,4
+31003,VILLA TUNARI,sospecha diagnostica,dengue clasico,2009-01-01,0,5,26,85,187,7,310
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,dengue clasico,2009-01-01,0,0,2,0,10,0,12
+70201,WARNES,sospecha diagnostica,dengue clasico,2009-01-01,0,1,12,34,62,10,119
+60301,YACUIBA,sospecha diagnostica,dengue clasico,2009-01-01,3,17,58,258,483,25,844
+70403,YAPACANI,sospecha diagnostica,dengue clasico,2009-01-01,0,4,3,9,19,2,37
+30201,AIQUILE,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,0,6,0,6
+10404,ALCALA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,1,0,0,1
+30501,ARANI,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,1,2,0,3
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue clasico,2009-02-01,3,7,11,17,24,3,65
+30301,AYOPAYA (V. DE INDEPENDENCIA),sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,0,1,0,1
+60202,BERMEJO,sospecha diagnostica,dengue clasico,2009-02-01,0,3,25,157,395,14,594
+90103,BOLPEBRA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,0,1,0,1
+70707,BOYUIBE,sospecha diagnostica,dengue clasico,2009-02-01,0,4,6,23,34,9,76
+70401,BUENA VISTA,sospecha diagnostica,dengue clasico,2009-02-01,0,1,4,10,18,4,37
+70703,CABEZAS,sospecha diagnostica,dengue clasico,2009-02-01,0,2,12,20,32,3,69
+10701,CAMARGO,sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,0,1,0,2
+70706,CAMIRI,sospecha diagnostica,dengue clasico,2009-02-01,13,84,160,364,436,62,1119
+30701,CAPINOTA,sospecha diagnostica,dengue clasico,2009-02-01,0,4,1,4,4,0,13
+22001,CARANAVI,sospecha diagnostica,dengue clasico,2009-02-01,0,0,2,13,24,2,41
+60302,CARAPARI,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,5,5,0,10
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,dengue clasico,2009-02-01,0,2,7,10,15,0,34
+70702,CHARAGUA,sospecha diagnostica,dengue clasico,2009-02-01,0,3,5,23,34,10,75
+31204,CHIMORE,sospecha diagnostica,dengue clasico,2009-02-01,1,12,15,80,101,10,219
+30801,CLIZA,sospecha diagnostica,dengue clasico,2009-02-01,0,1,0,4,4,0,9
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-02-01,3,19,29,39,101,6,197
+30101,COCHABAMBA,sospecha diagnostica,dengue clasico,2009-02-01,3,12,13,182,456,38,704
+30905,COLCAPIRHUA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,0,1,0,1
+31002,COLOMI,sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,8,12,2,23
+70603,COLPA BELGICA,sospecha diagnostica,dengue clasico,2009-02-01,0,1,3,2,4,0,10
+71301,COMARAPA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,4,13,1,18
+71101,CONCEPCION,sospecha diagnostica,dengue clasico,2009-02-01,0,0,3,5,14,5,27
+21401,COROICO,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,1,2,1,4
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-02-01,0,7,3,9,20,0,39
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2009-02-01,1,4,18,47,49,6,125
+70704,CUEVO,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,2,5,0,7
+71503,EL PUENTE(STC),sospecha diagnostica,dengue clasico,2009-02-01,0,5,16,14,46,4,85
+70105,EL TORNO,sospecha diagnostica,dengue clasico,2009-02-01,0,13,19,67,91,22,212
+60601,ENTRE RIOS,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,1,1,0,2
+60601,ENTRE RIOS,sospecha diagnostica,dengue clasico,2009-02-01,3,11,12,40,81,2,149
+71004,FERNANDEZ ALONSO,sospecha diagnostica,dengue clasico,2009-02-01,1,7,11,15,32,2,68
+90203,FILADELFIA,sospecha diagnostica,dengue clasico,2009-02-01,0,2,0,2,3,0,7
+71002,GENERAL SAAVEDRA,sospecha diagnostica,dengue clasico,2009-02-01,4,3,0,2,0,0,9
+20602,GUANAY,sospecha diagnostica,dengue clasico,2009-02-01,0,1,3,8,8,1,21
+80202,GUAYARAMERIN,sospecha diagnostica,dengue clasico,2009-02-01,8,16,29,78,184,69,384
+70705,GUTIERREZ,sospecha diagnostica,dengue clasico,2009-02-01,0,4,8,46,78,25,161
+10502,HUACARETA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,2,3,1,7
+40501,HUACHACALLA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,0,1,0,1
+10304,ICLA,sospecha diagnostica,dengue clasico,2009-02-01,0,1,0,1,2,0,4
+90402,INGAVI (HUMAITA),sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,1,3,1,5
+21501,IXIAMAS,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,2,15,2,19
+21105,LA ASUNTA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,0,2,0,3
+70104,LA GUARDIA,sospecha diagnostica,dengue clasico,2009-02-01,8,27,30,46,56,7,174
+20101,LA PAZ,sospecha diagnostica,dengue clasico,2009-02-01,0,2,2,13,79,10,106
+70701,LAGUNILLAS,sospecha diagnostica,dengue clasico,2009-02-01,5,12,12,37,56,8,130
+80601,LORETO,sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,2,2,1,6
+11003,MACHARETI,sospecha diagnostica,dengue clasico,2009-02-01,1,1,5,31,54,9,101
+80801,MAGDALENA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,0,1,2,4
+70903,MAIRANA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,3,19,24,5,51
+20607,MAPIRI,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,2,0,0,2
+71003,MINEROS,sospecha diagnostica,dengue clasico,2009-02-01,0,3,5,13,24,1,46
+10501,MONTEAGUDO,sospecha diagnostica,dengue clasico,2009-02-01,3,11,15,82,111,21,243
+71001,MONTERO,sospecha diagnostica,dengue clasico,2009-02-01,19,37,29,62,132,28,307
+70803,MORO MORO,sospecha diagnostica,dengue clasico,2009-02-01,0,1,1,2,2,0,6
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,1,0,0,1
+90501,NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,0,3,0,4
+70202,OKINAWA,sospecha diagnostica,dengue clasico,2009-02-01,0,3,2,10,18,0,33
+30203,OMEREQUE,sospecha diagnostica,dengue clasico,2009-02-01,0,0,12,55,104,11,182
+40101,ORURO,sospecha diagnostica,dengue clasico,2009-02-01,0,2,1,5,18,1,27
+10401,PADILLA,sospecha diagnostica,dengue clasico,2009-02-01,0,1,1,3,2,0,7
+70502,PAILON,sospecha diagnostica,dengue clasico,2009-02-01,1,9,22,77,108,5,222
+21104,PALOS BLANCOS,sospecha diagnostica,dengue clasico,2009-02-01,0,0,3,16,38,1,58
+70902,PAMPA GRANDE,sospecha diagnostica,dengue clasico,2009-02-01,5,8,10,34,53,5,115
+70103,PORONGO,sospecha diagnostica,dengue clasico,2009-02-01,2,11,24,65,67,11,180
+70601,PORTACHUELO,sospecha diagnostica,dengue clasico,2009-02-01,0,0,5,3,9,2,19
+90102,PORVENIR,sospecha diagnostica,dengue clasico,2009-02-01,0,10,6,13,29,1,59
+70804,POSTRER VALLE,sospecha diagnostica,dengue clasico,2009-02-01,0,1,4,3,2,2,12
+50101,POTOSI,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,5,3,0,8
+90301,PUERTO GONZALO MORENO,sospecha diagnostica,dengue clasico,2009-02-01,6,11,4,4,7,4,36
+71402,PUERTO QUIJARRO,sospecha diagnostica,dengue clasico,2009-02-01,0,2,7,7,14,1,31
+90201,PUERTO RICO,sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,6,17,0,24
+80703,PUERTO SILES,sospecha diagnostica,dengue clasico,2009-02-01,0,1,0,0,2,0,3
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-02-01,23,49,67,114,198,26,477
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue clasico,2009-02-01,23,44,36,103,168,11,385
+51101,PUNA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,0,4,0,4
+31401,PUNATA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,7,8,0,15
+30901,QUILLACOLLO,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,0,0,1,1
+80301,REYES,sospecha diagnostica,dengue clasico,2009-02-01,13,7,16,40,78,0,154
+80201,RIBERALTA,sospecha diagnostica,dengue clasico,2009-02-01,0,4,13,32,47,9,105
+70503,ROBORE,sospecha diagnostica,dengue clasico,2009-02-01,0,6,3,18,18,6,51
+80304,RURRENABAQUE,sospecha diagnostica,dengue clasico,2009-02-01,0,8,6,18,45,45,122
+31001,SACABA,sospecha diagnostica,dengue clasico,2009-02-01,0,9,11,54,116,7,197
+71302,SAIPINA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,2,3,1,6
+70901,SAMAIPATA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,8,15,1,24
+80602,SAN ANDRES,sospecha diagnostica,dengue clasico,2009-02-01,2,10,4,14,25,4,59
+71105,SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue clasico,2009-02-01,0,3,0,13,15,9,40
+80302,SAN BORJA,sospecha diagnostica,dengue clasico,2009-02-01,1,1,7,10,39,12,70
+21502,SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,2,14,16,7,39
+70402,SAN CARLOS,sospecha diagnostica,dengue clasico,2009-02-01,1,4,3,15,19,1,43
+80501,SAN IGNACIO,sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,0,0,0,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2009-02-01,4,28,49,108,103,8,300
+71102,SAN JAVIER(STC),sospecha diagnostica,dengue clasico,2009-02-01,3,26,33,47,70,13,192
+80701,SAN JOAQUIN,sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,1,2,0,4
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue clasico,2009-02-01,1,2,10,56,34,2,105
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue clasico,2009-02-01,0,3,7,18,20,3,51
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-02-01,35,65,77,229,466,17,889
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue clasico,2009-02-01,5,11,10,3,12,0,41
+60501,SAN LORENZO(TJA),sospecha diagnostica,dengue clasico,2009-02-01,0,1,0,0,6,0,7
+71201,SAN MATIAS,sospecha diagnostica,dengue clasico,2009-02-01,1,3,46,26,23,2,101
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue clasico,2009-02-01,0,0,8,17,17,3,45
+71005,SAN PEDRO,sospecha diagnostica,dengue clasico,2009-02-01,2,4,0,3,9,0,18
+90202,SAN PEDRO(PND),sospecha diagnostica,dengue clasico,2009-02-01,0,0,4,1,3,2,10
+70303,SAN RAFAEL,sospecha diagnostica,dengue clasico,2009-02-01,0,1,2,0,0,0,3
+80702,SAN RAMON,sospecha diagnostica,dengue clasico,2009-02-01,0,0,5,17,47,7,76
+80401,SANTA ANA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,8,5,1,14
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-02-01,342,1450,2470,5351,7850,865,18328
+80303,SANTA ROSA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,5,3,0,8
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,6,10,0,16
+90303,SENA,sospecha diagnostica,dengue clasico,2009-02-01,0,1,3,4,4,1,13
+10403,SOPACHUY,sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,2,1,0,4
+10101,SUCRE,sospecha diagnostica,dengue clasico,2009-02-01,0,2,3,34,63,1,103
+30602,TACOPAYA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,0,3,0,3
+10601,TARABUCO,sospecha diagnostica,dengue clasico,2009-02-01,0,1,0,2,0,0,3
+60101,TARIJA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,2,18,81,2,103
+20608,TEOPONTE,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,2,3,0,5
+50102,TINGUIPAYA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,0,1,0,1
+20606,TIPUANI,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,2,3,0,5
+31601,TIRAQUE (CBBA),sospecha diagnostica,dengue clasico,2009-02-01,3,6,15,56,95,8,183
+10402,TOMINA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,2,0,0,2
+70802,TRIGAL,sospecha diagnostica,dengue clasico,2009-02-01,0,0,1,0,1,0,2
+80101,TRINIDAD,sospecha diagnostica,dengue clasico,2009-02-01,7,46,113,307,730,47,1250
+50801,TUPIZA,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,1,1,0,2
+71502,URUBICHA,sospecha diagnostica,dengue clasico,2009-02-01,0,2,1,3,9,0,15
+70801,VALLEGRANDE,sospecha diagnostica,dengue clasico,2009-02-01,2,4,6,20,48,8,88
+60303,VILLA MONTES,sospecha diagnostica,dengue clasico,2009-02-01,3,53,103,184,272,42,657
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,dengue clasico,2009-02-01,0,0,11,0,0,0,11
+31402,VILLA RIVERO,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,2,0,0,2
+10801,VILLA SERRANO,sospecha diagnostica,dengue clasico,2009-02-01,0,3,3,7,5,1,19
+31003,VILLA TUNARI,sospecha diagnostica,dengue clasico,2009-02-01,6,19,54,146,386,26,637
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,dengue clasico,2009-02-01,0,1,2,7,23,2,35
+70201,WARNES,sospecha diagnostica,dengue clasico,2009-02-01,2,8,5,35,71,16,137
+60301,YACUIBA,sospecha diagnostica,dengue clasico,2009-02-01,11,72,159,390,783,186,1601
+10602,YAMPARAEZ,sospecha diagnostica,dengue clasico,2009-02-01,0,0,0,0,2,0,2
+70403,YAPACANI,sospecha diagnostica,dengue clasico,2009-02-01,0,4,5,13,7,0,29
+30201,AIQUILE,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,9,1,10
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue clasico,2009-03-01,0,3,5,9,15,2,34
+80802,BAURES,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,3,0,3
+90104,BELLA FLOR,sospecha diagnostica,dengue clasico,2009-03-01,1,0,0,0,0,0,1
+60202,BERMEJO,sospecha diagnostica,dengue clasico,2009-03-01,0,1,7,75,101,4,188
+50301,BETANZOS,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,1,0,1
+90103,BOLPEBRA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,1,1,2,0,4
+70707,BOYUIBE,sospecha diagnostica,dengue clasico,2009-03-01,0,4,13,27,35,10,89
+70401,BUENA VISTA,sospecha diagnostica,dengue clasico,2009-03-01,0,5,11,17,28,6,67
+70703,CABEZAS,sospecha diagnostica,dengue clasico,2009-03-01,8,22,21,55,115,11,232
+70706,CAMIRI,sospecha diagnostica,dengue clasico,2009-03-01,30,101,148,314,298,51,942
+22001,CARANAVI,sospecha diagnostica,dengue clasico,2009-03-01,0,0,1,4,4,0,9
+60302,CARAPARI,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,3,4,1,8
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,dengue clasico,2009-03-01,0,2,10,27,24,6,69
+70702,CHARAGUA,sospecha diagnostica,dengue clasico,2009-03-01,0,4,16,54,59,4,137
+31204,CHIMORE,sospecha diagnostica,dengue clasico,2009-03-01,2,9,5,24,37,6,83
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-03-01,6,15,25,48,106,5,205
+30101,COCHABAMBA,sospecha diagnostica,dengue clasico,2009-03-01,3,5,5,53,178,23,267
+31002,COLOMI,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,3,5,0,8
+70603,COLPA BELGICA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,1,2,1,0,4
+71301,COMARAPA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,3,11,22,1,37
+71101,CONCEPCION,sospecha diagnostica,dengue clasico,2009-03-01,0,6,1,5,14,4,30
+21401,COROICO,sospecha diagnostica,dengue clasico,2009-03-01,0,1,0,0,1,0,2
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-03-01,0,5,4,17,22,0,48
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2009-03-01,1,6,13,21,40,3,84
+70704,CUEVO,sospecha diagnostica,dengue clasico,2009-03-01,0,4,6,16,20,7,53
+71503,EL PUENTE(STC),sospecha diagnostica,dengue clasico,2009-03-01,0,7,16,30,74,12,139
+70105,EL TORNO,sospecha diagnostica,dengue clasico,2009-03-01,4,13,26,60,71,6,180
+60601,ENTRE RIOS,sospecha diagnostica,dengue clasico,2009-03-01,0,3,7,25,45,5,85
+90503,EUREKA (SANTOS MERCADO),sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,1,0,0,1
+71004,FERNANDEZ ALONSO,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,4,4,1,9
+90203,FILADELFIA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,1,1,0,2
+71002,GENERAL SAAVEDRA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,2,0,2
+20602,GUANAY,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,2,0,0,2
+80202,GUAYARAMERIN,sospecha diagnostica,dengue clasico,2009-03-01,4,11,7,59,118,33,232
+70705,GUTIERREZ,sospecha diagnostica,dengue clasico,2009-03-01,1,5,15,63,103,39,226
+10502,HUACARETA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,2,3,0,5
+40701,HUANUNI,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,1,0,1
+10304,ICLA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,1,0,0,1
+90402,INGAVI (HUMAITA),sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,0,1,1
+21501,IXIAMAS,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,2,0,2
+70104,LA GUARDIA,sospecha diagnostica,dengue clasico,2009-03-01,3,14,22,76,100,11,226
+20101,LA PAZ,sospecha diagnostica,dengue clasico,2009-03-01,0,0,1,3,44,5,53
+70701,LAGUNILLAS,sospecha diagnostica,dengue clasico,2009-03-01,6,15,18,29,69,12,149
+50203,LLALLAGUA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,1,0,1
+80601,LORETO,sospecha diagnostica,dengue clasico,2009-03-01,0,0,2,2,2,0,6
+11003,MACHARETI,sospecha diagnostica,dengue clasico,2009-03-01,0,1,6,19,30,3,59
+80801,MAGDALENA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,1,0,1
+70903,MAIRANA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,3,14,36,7,60
+71003,MINEROS,sospecha diagnostica,dengue clasico,2009-03-01,0,0,3,6,8,2,19
+10501,MONTEAGUDO,sospecha diagnostica,dengue clasico,2009-03-01,7,17,10,19,93,20,166
+71001,MONTERO,sospecha diagnostica,dengue clasico,2009-03-01,0,13,9,34,55,5,116
+70803,MORO MORO,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,1,2,1,4
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,1,0,1
+90501,NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,dengue clasico,2009-03-01,0,1,2,2,6,0,11
+70202,OKINAWA,sospecha diagnostica,dengue clasico,2009-03-01,1,0,2,9,26,1,39
+30203,OMEREQUE,sospecha diagnostica,dengue clasico,2009-03-01,1,0,9,24,50,11,95
+40101,ORURO,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,3,0,3
+70502,PAILON,sospecha diagnostica,dengue clasico,2009-03-01,2,3,18,50,65,4,142
+21104,PALOS BLANCOS,sospecha diagnostica,dengue clasico,2009-03-01,0,0,3,6,9,0,18
+70902,PAMPA GRANDE,sospecha diagnostica,dengue clasico,2009-03-01,1,6,13,52,76,11,159
+21305,PATACAMAYA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,1,2,0,3
+70103,PORONGO,sospecha diagnostica,dengue clasico,2009-03-01,1,11,15,50,51,4,132
+70601,PORTACHUELO,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,2,1,1,4
+90102,PORVENIR,sospecha diagnostica,dengue clasico,2009-03-01,0,3,9,20,37,2,71
+50101,POTOSI,sospecha diagnostica,dengue clasico,2009-03-01,0,3,0,3,10,0,16
+90301,PUERTO GONZALO MORENO,sospecha diagnostica,dengue clasico,2009-03-01,0,1,1,2,4,0,8
+71402,PUERTO QUIJARRO,sospecha diagnostica,dengue clasico,2009-03-01,0,2,0,6,1,1,10
+90201,PUERTO RICO,sospecha diagnostica,dengue clasico,2009-03-01,1,1,2,4,12,1,21
+80703,PUERTO SILES,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,3,3,0,6
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-03-01,19,50,89,100,148,39,445
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue clasico,2009-03-01,5,12,13,42,95,6,173
+31401,PUNATA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,2,2,0,4
+30901,QUILLACOLLO,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,1,0,1
+70904,QUIRUSILLAS,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,2,0,2
+80301,REYES,sospecha diagnostica,dengue clasico,2009-03-01,0,1,7,6,12,1,27
+80201,RIBERALTA,sospecha diagnostica,dengue clasico,2009-03-01,2,7,5,15,27,5,61
+70503,ROBORE,sospecha diagnostica,dengue clasico,2009-03-01,2,14,21,40,73,9,159
+80304,RURRENABAQUE,sospecha diagnostica,dengue clasico,2009-03-01,1,10,7,10,23,18,69
+31001,SACABA,sospecha diagnostica,dengue clasico,2009-03-01,1,3,0,5,22,4,35
+71302,SAIPINA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,1,13,10,4,28
+70901,SAMAIPATA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,4,15,0,19
+80602,SAN ANDRES,sospecha diagnostica,dengue clasico,2009-03-01,2,24,12,22,37,4,101
+71105,SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue clasico,2009-03-01,0,7,1,6,17,5,36
+80302,SAN BORJA,sospecha diagnostica,dengue clasico,2009-03-01,0,2,7,19,46,0,74
+21502,SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,3,8,2,13
+70402,SAN CARLOS,sospecha diagnostica,dengue clasico,2009-03-01,3,2,6,7,9,3,30
+80501,SAN IGNACIO,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,1,4,0,5
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2009-03-01,5,16,41,79,79,6,226
+71102,SAN JAVIER(STC),sospecha diagnostica,dengue clasico,2009-03-01,0,9,12,32,58,4,115
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue clasico,2009-03-01,1,4,30,76,71,8,190
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue clasico,2009-03-01,0,0,3,3,1,1,8
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-03-01,21,32,26,74,174,34,361
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue clasico,2009-03-01,1,2,0,2,0,0,5
+60501,SAN LORENZO(TJA),sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,2,0,2
+71201,SAN MATIAS,sospecha diagnostica,dengue clasico,2009-03-01,0,0,7,14,15,1,37
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue clasico,2009-03-01,0,2,7,11,28,6,54
+71005,SAN PEDRO,sospecha diagnostica,dengue clasico,2009-03-01,1,1,2,4,6,0,14
+90202,SAN PEDRO(PND),sospecha diagnostica,dengue clasico,2009-03-01,0,1,0,0,2,0,3
+70303,SAN RAFAEL,sospecha diagnostica,dengue clasico,2009-03-01,0,0,2,6,15,2,25
+80702,SAN RAMON,sospecha diagnostica,dengue clasico,2009-03-01,0,0,10,8,30,0,48
+80401,SANTA ANA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-03-01,256,825,1318,2732,5095,558,10784
+80303,SANTA ROSA,sospecha diagnostica,dengue clasico,2009-03-01,1,3,3,7,12,0,26
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,3,1,0,4
+90303,SENA,sospecha diagnostica,dengue clasico,2009-03-01,0,2,3,1,2,0,8
+10101,SUCRE,sospecha diagnostica,dengue clasico,2009-03-01,0,1,2,10,17,2,32
+30602,TACOPAYA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,1,0,1
+30401,TARATA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,9,36,5,50
+20608,TEOPONTE,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,1,3,0,4
+20606,TIPUANI,sospecha diagnostica,dengue clasico,2009-03-01,0,0,1,2,7,0,10
+31601,TIRAQUE (CBBA),sospecha diagnostica,dengue clasico,2009-03-01,0,1,4,19,34,3,61
+30803,TOLATA,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,1,0,1
+70802,TRIGAL,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,dengue clasico,2009-03-01,4,54,102,176,427,51,814
+71502,URUBICHA,sospecha diagnostica,dengue clasico,2009-03-01,0,1,2,5,7,2,17
+30502,VACAS,sospecha diagnostica,dengue clasico,2009-03-01,0,0,1,0,1,0,2
+70801,VALLEGRANDE,sospecha diagnostica,dengue clasico,2009-03-01,0,4,2,10,16,6,38
+60303,VILLA MONTES,sospecha diagnostica,dengue clasico,2009-03-01,1,24,54,103,195,19,396
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,dengue clasico,2009-03-01,0,0,1,2,2,0,5
+31003,VILLA TUNARI,sospecha diagnostica,dengue clasico,2009-03-01,3,10,18,51,129,8,219
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,dengue clasico,2009-03-01,0,1,0,2,17,3,23
+51501,VILLAZON,sospecha diagnostica,dengue clasico,2009-03-01,0,0,0,0,3,0,3
+70201,WARNES,sospecha diagnostica,dengue clasico,2009-03-01,0,2,7,29,45,5,88
+60301,YACUIBA,sospecha diagnostica,dengue clasico,2009-03-01,0,34,82,276,597,126,1115
+70403,YAPACANI,sospecha diagnostica,dengue clasico,2009-03-01,0,0,2,0,1,0,3
+10301,ZUDAÑEZ,sospecha diagnostica,dengue clasico,2009-03-01,0,1,0,0,2,0,3
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue clasico,2009-04-01,0,1,0,2,8,0,11
+60202,BERMEJO,sospecha diagnostica,dengue clasico,2009-04-01,0,1,2,18,32,1,54
+70707,BOYUIBE,sospecha diagnostica,dengue clasico,2009-04-01,0,1,4,7,10,1,23
+70401,BUENA VISTA,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,4,7,2,13
+70703,CABEZAS,sospecha diagnostica,dengue clasico,2009-04-01,1,2,6,24,46,5,84
+70706,CAMIRI,sospecha diagnostica,dengue clasico,2009-04-01,4,11,19,40,62,19,155
+22001,CARANAVI,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,1,2,0,3
+60302,CARAPARI,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,2,4,0,6
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,dengue clasico,2009-04-01,0,1,4,6,11,1,23
+70702,CHARAGUA,sospecha diagnostica,dengue clasico,2009-04-01,0,1,8,16,24,5,54
+31204,CHIMORE,sospecha diagnostica,dengue clasico,2009-04-01,1,5,5,11,8,0,30
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-04-01,1,9,9,35,41,3,98
+30101,COCHABAMBA,sospecha diagnostica,dengue clasico,2009-04-01,1,6,0,14,59,7,87
+31002,COLOMI,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,0,1,0,1
+71301,COMARAPA,sospecha diagnostica,dengue clasico,2009-04-01,0,1,1,7,27,1,37
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-04-01,0,3,1,10,9,1,24
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2009-04-01,0,1,2,11,12,4,30
+70704,CUEVO,sospecha diagnostica,dengue clasico,2009-04-01,1,0,1,2,6,0,10
+71503,EL PUENTE(STC),sospecha diagnostica,dengue clasico,2009-04-01,0,2,6,12,47,6,73
+70105,EL TORNO,sospecha diagnostica,dengue clasico,2009-04-01,0,2,3,14,29,3,51
+60601,ENTRE RIOS,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,0,0,1,1
+60601,ENTRE RIOS,sospecha diagnostica,dengue clasico,2009-04-01,0,0,1,6,18,2,27
+20602,GUANAY,sospecha diagnostica,dengue clasico,2009-04-01,0,0,2,1,2,0,5
+80202,GUAYARAMERIN,sospecha diagnostica,dengue clasico,2009-04-01,1,4,4,30,29,19,87
+70705,GUTIERREZ,sospecha diagnostica,dengue clasico,2009-04-01,1,3,12,16,54,18,104
+90402,INGAVI (HUMAITA),sospecha diagnostica,dengue clasico,2009-04-01,0,0,2,0,1,0,3
+70104,LA GUARDIA,sospecha diagnostica,dengue clasico,2009-04-01,2,7,9,17,33,3,71
+20101,LA PAZ,sospecha diagnostica,dengue clasico,2009-04-01,0,1,1,1,8,2,13
+70701,LAGUNILLAS,sospecha diagnostica,dengue clasico,2009-04-01,2,2,0,15,19,9,47
+11003,MACHARETI,sospecha diagnostica,dengue clasico,2009-04-01,0,0,1,7,14,2,24
+80801,MAGDALENA,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,0,2,0,2
+70903,MAIRANA,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,1,10,1,12
+10501,MONTEAGUDO,sospecha diagnostica,dengue clasico,2009-04-01,3,13,13,17,28,3,77
+71001,MONTERO,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,10,13,3,26
+90501,NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,1,7,0,8
+70202,OKINAWA,sospecha diagnostica,dengue clasico,2009-04-01,0,1,0,9,14,2,26
+30203,OMEREQUE,sospecha diagnostica,dengue clasico,2009-04-01,0,1,1,7,22,4,35
+60201,PADCAYA,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,0,1,0,1
+10401,PADILLA,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,0,2,0,2
+70502,PAILON,sospecha diagnostica,dengue clasico,2009-04-01,0,1,6,14,28,0,49
+21104,PALOS BLANCOS,sospecha diagnostica,dengue clasico,2009-04-01,0,0,1,0,0,0,1
+70902,PAMPA GRANDE,sospecha diagnostica,dengue clasico,2009-04-01,1,4,6,22,48,5,86
+70103,PORONGO,sospecha diagnostica,dengue clasico,2009-04-01,0,2,1,15,22,2,42
+70601,PORTACHUELO,sospecha diagnostica,dengue clasico,2009-04-01,0,0,1,0,0,0,1
+90102,PORVENIR,sospecha diagnostica,dengue clasico,2009-04-01,2,2,5,2,15,0,26
+50101,POTOSI,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,0,2,0,2
+71402,PUERTO QUIJARRO,sospecha diagnostica,dengue clasico,2009-04-01,0,1,0,1,4,1,7
+90201,PUERTO RICO,sospecha diagnostica,dengue clasico,2009-04-01,0,1,0,6,4,1,12
+80703,PUERTO SILES,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-04-01,4,11,16,15,23,10,79
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue clasico,2009-04-01,0,5,6,5,24,0,40
+70904,QUIRUSILLAS,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,2,4,1,7
+80301,REYES,sospecha diagnostica,dengue clasico,2009-04-01,1,4,0,0,9,0,14
+80201,RIBERALTA,sospecha diagnostica,dengue clasico,2009-04-01,1,2,1,1,5,0,10
+70503,ROBORE,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,7,10,1,18
+80304,RURRENABAQUE,sospecha diagnostica,dengue clasico,2009-04-01,0,0,1,3,3,0,7
+31001,SACABA,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,2,10,1,13
+71302,SAIPINA,sospecha diagnostica,dengue clasico,2009-04-01,0,0,1,1,5,0,7
+70901,SAMAIPATA,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,1,1,0,2
+80602,SAN ANDRES,sospecha diagnostica,dengue clasico,2009-04-01,1,4,4,2,2,0,13
+71105,SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue clasico,2009-04-01,0,1,1,6,7,0,15
+80302,SAN BORJA,sospecha diagnostica,dengue clasico,2009-04-01,0,0,2,0,5,1,8
+21502,SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2009-04-01,1,1,1,2,6,2,13
+70402,SAN CARLOS,sospecha diagnostica,dengue clasico,2009-04-01,0,1,0,2,1,1,5
+80501,SAN IGNACIO,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,1,1,0,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2009-04-01,0,5,11,17,37,4,74
+71102,SAN JAVIER(STC),sospecha diagnostica,dengue clasico,2009-04-01,0,0,2,6,11,0,19
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue clasico,2009-04-01,0,1,7,8,16,7,39
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue clasico,2009-04-01,0,1,1,0,0,0,2
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-04-01,11,15,11,18,97,4,156
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue clasico,2009-04-01,2,0,2,1,0,0,5
+71201,SAN MATIAS,sospecha diagnostica,dengue clasico,2009-04-01,0,2,0,1,1,1,5
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,1,1,0,2
+71005,SAN PEDRO,sospecha diagnostica,dengue clasico,2009-04-01,0,2,0,4,6,3,15
+70303,SAN RAFAEL,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,0,3,0,3
+80702,SAN RAMON,sospecha diagnostica,dengue clasico,2009-04-01,0,0,1,4,6,1,12
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-04-01,91,211,282,632,1328,181,2725
+80303,SANTA ROSA,sospecha diagnostica,dengue clasico,2009-04-01,0,2,0,0,0,0,2
+90303,SENA,sospecha diagnostica,dengue clasico,2009-04-01,3,1,1,3,5,0,13
+10101,SUCRE,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,1,3,0,4
+60101,TARIJA,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,2,8,0,10
+31601,TIRAQUE (CBBA),sospecha diagnostica,dengue clasico,2009-04-01,0,1,1,5,20,5,32
+80101,TRINIDAD,sospecha diagnostica,dengue clasico,2009-04-01,4,11,10,23,79,10,137
+71502,URUBICHA,sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,0,7,0,7
+70801,VALLEGRANDE,sospecha diagnostica,dengue clasico,2009-04-01,0,2,1,1,4,0,8
+60303,VILLA MONTES,sospecha diagnostica,dengue clasico,2009-04-01,0,12,26,62,120,20,240
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,dengue clasico,2009-04-01,0,0,0,0,1,0,1
+31003,VILLA TUNARI,sospecha diagnostica,dengue clasico,2009-04-01,0,2,0,19,38,6,65
+70201,WARNES,sospecha diagnostica,dengue clasico,2009-04-01,0,2,1,0,9,0,12
+60301,YACUIBA,sospecha diagnostica,dengue clasico,2009-04-01,1,13,35,150,315,62,576
+70403,YAPACANI,sospecha diagnostica,dengue clasico,2009-04-01,1,1,3,7,9,2,23
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,1,0,1
+60202,BERMEJO,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,4,17,2,23
+70707,BOYUIBE,sospecha diagnostica,dengue clasico,2009-05-01,0,2,1,4,2,1,10
+70401,BUENA VISTA,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,1,1,3
+70703,CABEZAS,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,2,1,0,3
+70706,CAMIRI,sospecha diagnostica,dengue clasico,2009-05-01,0,2,8,11,7,2,30
+22001,CARANAVI,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,1,0,2
+60302,CARAPARI,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,2,1,0,3
+70702,CHARAGUA,sospecha diagnostica,dengue clasico,2009-05-01,0,3,2,10,9,2,26
+31204,CHIMORE,sospecha diagnostica,dengue clasico,2009-05-01,0,1,0,1,0,0,2
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-05-01,0,0,2,6,23,0,31
+30101,COCHABAMBA,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,3,10,1,14
+71301,COMARAPA,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,3,6,0,9
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-05-01,0,2,0,4,9,0,15
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2009-05-01,0,0,3,13,11,0,27
+70704,CUEVO,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,2,2,0,4
+71503,EL PUENTE(STC),sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,4,2,1,7
+70105,EL TORNO,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,5,0,5
+60601,ENTRE RIOS,sospecha diagnostica,dengue clasico,2009-05-01,0,0,1,0,1,1,3
+90503,EUREKA (SANTOS MERCADO),sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,1,0,2
+80202,GUAYARAMERIN,sospecha diagnostica,dengue clasico,2009-05-01,1,1,0,7,6,5,20
+70705,GUTIERREZ,sospecha diagnostica,dengue clasico,2009-05-01,0,0,1,1,1,0,3
+70104,LA GUARDIA,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,2,7,2,11
+70701,LAGUNILLAS,sospecha diagnostica,dengue clasico,2009-05-01,3,1,0,1,11,2,18
+11003,MACHARETI,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,6,1,7
+70903,MAIRANA,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,2,0,3
+10501,MONTEAGUDO,sospecha diagnostica,dengue clasico,2009-05-01,0,3,0,1,2,0,6
+71001,MONTERO,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,8,0,9
+90501,NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,2,2,0,4
+70202,OKINAWA,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,3,0,4
+30203,OMEREQUE,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,2,6,1,9
+70502,PAILON,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,2,6,0,8
+21104,PALOS BLANCOS,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,3,0,3
+70902,PAMPA GRANDE,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,0,0,1
+70103,PORONGO,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,4,5,1,10
+70601,PORTACHUELO,sospecha diagnostica,dengue clasico,2009-05-01,0,1,0,0,0,0,1
+90102,PORVENIR,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,2,5,1,8
+50101,POTOSI,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,0,0,1
+71402,PUERTO QUIJARRO,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,2,0,3
+90201,PUERTO RICO,sospecha diagnostica,dengue clasico,2009-05-01,0,3,1,3,12,0,19
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-05-01,0,1,1,4,0,0,6
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue clasico,2009-05-01,0,1,0,2,1,0,4
+80201,RIBERALTA,sospecha diagnostica,dengue clasico,2009-05-01,0,1,3,0,2,0,6
+80304,RURRENABAQUE,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,2,0,2
+71105,SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,4,0,5
+21502,SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2009-05-01,0,1,1,1,5,0,8
+71102,SAN JAVIER(STC),sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,5,0,6
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,1,0,1
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-05-01,0,0,2,7,29,1,39
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue clasico,2009-05-01,1,0,0,0,0,0,1
+71201,SAN MATIAS,sospecha diagnostica,dengue clasico,2009-05-01,0,1,0,2,2,0,5
+71005,SAN PEDRO,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,3,0,3
+70303,SAN RAFAEL,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,2,0,2
+80702,SAN RAMON,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-05-01,23,79,87,183,440,63,875
+10101,SUCRE,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,1,1,0,2
+60101,TARIJA,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,3,0,3
+31601,TIRAQUE (CBBA),sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,2,4,1,7
+80101,TRINIDAD,sospecha diagnostica,dengue clasico,2009-05-01,1,0,2,6,6,1,16
+71502,URUBICHA,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,1,1,2
+70801,VALLEGRANDE,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,3,0,3
+60303,VILLA MONTES,sospecha diagnostica,dengue clasico,2009-05-01,0,2,15,16,35,2,70
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,dengue clasico,2009-05-01,0,1,0,1,1,0,3
+31003,VILLA TUNARI,sospecha diagnostica,dengue clasico,2009-05-01,0,1,2,13,15,2,33
+70201,WARNES,sospecha diagnostica,dengue clasico,2009-05-01,0,0,0,0,2,0,2
+60301,YACUIBA,sospecha diagnostica,dengue clasico,2009-05-01,2,2,11,49,106,15,185
+60202,BERMEJO,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,3,5,0,8
+70706,CAMIRI,sospecha diagnostica,dengue clasico,2009-06-01,0,1,1,0,1,0,3
+70702,CHARAGUA,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,1,2,0,3
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-06-01,0,2,4,9,12,0,27
+30101,COCHABAMBA,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,2,1,0,3
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-06-01,0,1,0,0,1,0,2
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,3,2,1,6
+70105,EL TORNO,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,sospecha diagnostica,dengue clasico,2009-06-01,0,0,1,0,4,0,5
+70705,GUTIERREZ,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,0,1,0,1
+11003,MACHARETI,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,2,1,0,3
+70502,PAILON,sospecha diagnostica,dengue clasico,2009-06-01,0,0,1,1,0,0,2
+21104,PALOS BLANCOS,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,0,1,0,1
+70103,PORONGO,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,2,0,0,2
+90102,PORVENIR,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,0,1,0,1
+90201,PUERTO RICO,sospecha diagnostica,dengue clasico,2009-06-01,0,4,1,2,0,0,7
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,1,0,1,2
+80201,RIBERALTA,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,0,1,0,1
+70503,ROBORE,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,0,1,0,1
+80304,RURRENABAQUE,sospecha diagnostica,dengue clasico,2009-06-01,0,1,0,0,0,0,1
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,1,1,0,2
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,0,1,0,1
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,1,4,0,5
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-06-01,9,27,20,39,130,14,239
+31601,TIRAQUE (CBBA),sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,3,1,1,5
+70801,VALLEGRANDE,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,0,2,0,2
+60303,VILLA MONTES,sospecha diagnostica,dengue clasico,2009-06-01,0,0,0,0,3,0,3
+31003,VILLA TUNARI,sospecha diagnostica,dengue clasico,2009-06-01,0,0,1,1,5,0,7
+60301,YACUIBA,sospecha diagnostica,dengue clasico,2009-06-01,0,0,1,3,13,5,22
+60202,BERMEJO,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,1,0,1
+70706,CAMIRI,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,2,0,2
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-07-01,0,1,1,2,6,0,10
+30101,COCHABAMBA,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,0,1,1
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,2,0,2
+70105,EL TORNO,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,1,2,0,3
+71001,MONTERO,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,3,0,3
+90501,NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,1,6,0,7
+70502,PAILON,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,2,0,2
+70601,PORTACHUELO,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,2,0,0,2
+90102,PORVENIR,sospecha diagnostica,dengue clasico,2009-07-01,0,1,0,0,1,0,2
+71402,PUERTO QUIJARRO,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,1,1,0,2
+80201,RIBERALTA,sospecha diagnostica,dengue clasico,2009-07-01,0,1,1,0,2,0,4
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2009-07-01,0,0,1,1,0,0,2
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,0,1,1
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,2,0,2
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-07-01,0,1,0,0,6,0,7
+71005,SAN PEDRO,sospecha diagnostica,dengue clasico,2009-07-01,0,1,2,2,0,0,5
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-07-01,2,3,5,8,31,1,50
+31601,TIRAQUE (CBBA),sospecha diagnostica,dengue clasico,2009-07-01,0,0,2,1,1,0,4
+70801,VALLEGRANDE,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,0,1,0,1
+31003,VILLA TUNARI,sospecha diagnostica,dengue clasico,2009-07-01,0,0,0,1,2,0,3
+60301,YACUIBA,sospecha diagnostica,dengue clasico,2009-07-01,0,1,0,0,2,0,3
+60202,BERMEJO,sospecha diagnostica,dengue clasico,2009-08-01,1,0,1,1,3,0,6
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-08-01,0,0,0,1,2,0,3
+30101,COCHABAMBA,sospecha diagnostica,dengue clasico,2009-08-01,0,0,0,0,5,1,6
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-08-01,0,0,0,1,0,0,1
+70105,EL TORNO,sospecha diagnostica,dengue clasico,2009-08-01,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,sospecha diagnostica,dengue clasico,2009-08-01,0,1,0,0,1,0,2
+30203,OMEREQUE,sospecha diagnostica,dengue clasico,2009-08-01,0,0,0,1,1,0,2
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-08-01,0,0,0,1,0,1,2
+21502,SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2009-08-01,0,0,0,1,2,0,3
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2009-08-01,0,0,0,1,1,0,2
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-08-01,0,3,3,3,0,0,9
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-08-01,1,2,5,14,20,0,42
+31601,TIRAQUE (CBBA),sospecha diagnostica,dengue clasico,2009-08-01,0,1,0,0,4,0,5
+60301,YACUIBA,sospecha diagnostica,dengue clasico,2009-08-01,0,0,0,0,1,0,1
+60202,BERMEJO,sospecha diagnostica,dengue clasico,2009-09-01,1,2,1,2,1,0,7
+70707,BOYUIBE,sospecha diagnostica,dengue clasico,2009-09-01,0,0,0,1,1,0,2
+70703,CABEZAS,sospecha diagnostica,dengue clasico,2009-09-01,0,0,1,0,0,0,1
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-09-01,0,0,0,2,6,0,8
+71101,CONCEPCION,sospecha diagnostica,dengue clasico,2009-09-01,0,1,0,0,0,0,1
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-09-01,0,0,0,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,dengue clasico,2009-09-01,0,0,0,0,1,0,1
+71001,MONTERO,sospecha diagnostica,dengue clasico,2009-09-01,0,0,0,1,3,0,4
+70502,PAILON,sospecha diagnostica,dengue clasico,2009-09-01,0,0,0,2,0,0,2
+70601,PORTACHUELO,sospecha diagnostica,dengue clasico,2009-09-01,0,0,0,1,0,0,1
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-09-01,0,0,2,6,3,0,11
+80201,RIBERALTA,sospecha diagnostica,dengue clasico,2009-09-01,0,0,2,0,1,0,3
+71105,SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue clasico,2009-09-01,0,0,0,0,1,0,1
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-09-01,0,0,2,5,6,0,13
+71005,SAN PEDRO,sospecha diagnostica,dengue clasico,2009-09-01,1,2,1,1,1,0,6
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-09-01,1,3,9,15,34,2,64
+10101,SUCRE,sospecha diagnostica,dengue clasico,2009-09-01,0,0,0,1,0,0,1
+31601,TIRAQUE (CBBA),sospecha diagnostica,dengue clasico,2009-09-01,0,0,0,1,0,0,1
+31003,VILLA TUNARI,sospecha diagnostica,dengue clasico,2009-09-01,0,0,0,2,2,0,4
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-10-01,2,3,4,15,38,1,63
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,0,1,0,1
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,0,2,0,2
+70903,MAIRANA,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,0,1,0,1
+71001,MONTERO,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,0,0,1,1
+70502,PAILON,sospecha diagnostica,dengue clasico,2009-10-01,0,0,2,0,2,0,4
+21104,PALOS BLANCOS,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,1,1,0,2
+90102,PORVENIR,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-10-01,1,0,0,3,1,0,5
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,3,0,0,3
+80304,RURRENABAQUE,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,1,2,0,3
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-10-01,0,0,1,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-10-01,3,2,6,17,66,5,99
+80303,SANTA ROSA,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,0,1,0,1
+31003,VILLA TUNARI,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,1,0,0,1
+60301,YACUIBA,sospecha diagnostica,dengue clasico,2009-10-01,0,0,0,0,2,0,2
+90103,BOLPEBRA,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,0,1,0,1
+70706,CAMIRI,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,2,2,0,4
+31204,CHIMORE,sospecha diagnostica,dengue clasico,2009-11-01,0,0,1,2,6,0,9
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-11-01,6,22,31,92,170,8,329
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,0,1,0,1
+71503,EL PUENTE(STC),sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,1,0,0,1
+70105,EL TORNO,sospecha diagnostica,dengue clasico,2009-11-01,0,0,1,1,0,4,6
+60601,ENTRE RIOS,sospecha diagnostica,dengue clasico,2009-11-01,0,2,0,2,4,1,9
+90203,FILADELFIA,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,1,1,0,2
+80202,GUAYARAMERIN,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,1,2,0,3
+71001,MONTERO,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,1,1,0,2
+21104,PALOS BLANCOS,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,4,9,0,13
+70601,PORTACHUELO,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,2,1,0,3
+90102,PORVENIR,sospecha diagnostica,dengue clasico,2009-11-01,0,0,1,1,3,0,5
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,4,2,0,6
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,3,0,0,3
+31001,SACABA,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,0,1,0,1
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,2,3,0,5
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-11-01,3,9,10,22,69,5,118
+90303,SENA,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,0,1,0,1
+31003,VILLA TUNARI,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,0,6,0,6
+70201,WARNES,sospecha diagnostica,dengue clasico,2009-11-01,0,0,0,0,2,0,2
+60202,BERMEJO,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,0,4,0,4
+90103,BOLPEBRA,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,0,3,0,3
+70706,CAMIRI,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,0,1,1,2
+31204,CHIMORE,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,9,6,0,15
+90101,COBIJA,sospecha diagnostica,dengue clasico,2009-12-01,7,18,35,80,153,5,298
+70102,COTOCA,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,2,3,0,5
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,2,2,0,4
+70105,EL TORNO,sospecha diagnostica,dengue clasico,2009-12-01,0,0,1,5,3,1,10
+90203,FILADELFIA,sospecha diagnostica,dengue clasico,2009-12-01,0,0,1,1,0,0,2
+80202,GUAYARAMERIN,sospecha diagnostica,dengue clasico,2009-12-01,0,0,1,8,5,5,19
+20101,LA PAZ,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,3,0,0,3
+80801,MAGDALENA,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,sospecha diagnostica,dengue clasico,2009-12-01,0,1,0,0,5,0,6
+90102,PORVENIR,sospecha diagnostica,dengue clasico,2009-12-01,0,1,2,2,3,0,8
+50101,POTOSI,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,1,1,0,2
+90201,PUERTO RICO,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,1,0,0,1
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue clasico,2009-12-01,0,0,1,3,3,1,8
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue clasico,2009-12-01,0,0,1,0,3,0,4
+80304,RURRENABAQUE,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,0,1,0,1
+80302,SAN BORJA,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,0,0,1,1
+71104,SAN JULIAN,sospecha diagnostica,dengue clasico,2009-12-01,0,3,1,3,3,0,10
+71201,SAN MATIAS,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,1,1,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue clasico,2009-12-01,1,6,16,32,70,3,128
+31601,TIRAQUE (CBBA),sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,0,4,0,4
+31003,VILLA TUNARI,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,5,9,0,14
+70201,WARNES,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,0,1,1,2
+60301,YACUIBA,sospecha diagnostica,dengue clasico,2009-12-01,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,dengue clasico,2009-12-01,0,1,0,1,2,0,4

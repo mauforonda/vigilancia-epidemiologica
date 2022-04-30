@@ -1,0 +1,694 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-meses-a-menor-de-1-ano_masculino,b-6-meses-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+22002,ALTO BENI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+71501,ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,1,4,5
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,1,3,4
+90103,BOLPEBRA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,0,0,0,2,3,2,0,1,0,0,0,0,4,5,9
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,1,0,0,0,2,4,6
+71403,CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,1,0,2,0,2,0,1,0,0,0,0,0,7,0,7
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,2,0,1,3,7,5,5,4,3,3,2,0,14,11,7,1,1,0,1,0,43,27,70
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,1,1,0,0,5,1,6
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,1,0,0,0,0,1,0,0,1,0,3,0,0,0,0,1,0,2,5,7
+70102,COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+71503,EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,1,0,1,2,1,1,0,0,1,1,1,1,6,5,11
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,1,0,4,2,3,4,2,3,9,20,2,3,0,0,3,3,25,35,60
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90203,FILADELFIA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20602,GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,10,8,17,7,9,10,4,11,14,27,6,9,12,11,11,8,84,91,175
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+80803,HUARACAJE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,1,0,0,0,0,2,6,8
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,0,2,3,5
+21105,LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,3,1,4
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,2,1,3
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+70701,LAGUNILLAS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,1,2,3
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,2,1,0,0,0,1,0,0,4,1,0,2,0,0,0,5,6,11
+70903,MAIRANA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,2,2,4
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,2,1,2,0,0,1,2,1,1,4,0,0,0,0,0,1,8,8,16
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70902,PAMPA GRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,1,2,2,0,0,0,0,0,1,3,4,7
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,2,1,3
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,1,0,1,1,0,1,1,2,1,2,0,0,0,0,0,0,4,6,10
+80703,PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,2,0,0,1,1,1,0,3,2,2,3,1,0,2,2,1,11,11,22
+71401,PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,2,2,4
+80301,REYES,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,2,2,4
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,3,1,3,0,4,5,4,9,1,1,3,7,27,19,4,11,8,5,6,5,63,63,126
+70503,ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,1,0,2,2,0,0,0,2,0,0,0,0,0,0,0,4,3,7
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,2,3,1,2,1,0,0,2,4,5,0,0,0,0,2,1,10,13,23
+31001,SACABA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70901,SAMAIPATA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80602,SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,1,1,4,4,8
+80302,SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,2,0,0,0,0,0,0,6,3,4,1,3,0,5,2,0,8,18,26
+70402,SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80102,SAN JAVIER(BNI),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80701,SAN JOAQUIN,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,4,0,4
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,3,1,4
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+71201,SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+80702,SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,1,1,1,0,0,1,1,1,1,7,0,0,0,0,0,1,4,11,15
+80401,SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,2,0,1,0,5,6,3,5,4,3,5,6,33,35,6,15,2,5,7,0,68,75,143
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90303,SENA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,1,0,1,0,1,1,0,2,0,1,0,0,2,0,5,4,9
+31602,SHINAOTA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,2,3,5
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,1,0,4,2,5,3,6,7,9,13,18,22,6,3,2,4,2,3,53,57,110
+71502,URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,1,1,0,0,4,2,6
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,1,0,0,0,1,0,0,0,2,1,0,1,0,0,0,1,0,3,4,7
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,1,0,2,0,1,1,0,0,0,0,0,1,0,2,4,6
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+70201,WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,1,0,1,1,0,1,0,6,0,1,0,1,3,9,0,0,0,0,1,2,6,21,27
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,1,0,0,1,1,1,1,1,2,3,1,1,2,1,0,0,2,8,10,18
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-01-01,0,0,0,0,0,1,1,0,0,0,0,2,2,1,0,1,0,1,1,0,4,6,10
+22002,ALTO BENI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,2,2,4
+71501,ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,2,2,0,0,1,1,0,0,0,0,0,0,4,3,7
+80802,BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,2,4
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,3
+70707,BOYUIBE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,1,0,0,2,1,2,3,1,1,1,1,0,0,6,7,13
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,5,1,6
+70703,CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,3
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,1,0,0,0,1,0,1,0,2,3,3,5,7,7,1,1,3,2,4,1,23,19,42
+71403,CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70702,CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,3,3,1,2,0,3,4,4,5,2,4,1,2,0,0,16,19,35
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,1,1,1,0,0,0,0,0,0,0,1,0,1,3,0,2,3,1,2,1,9,8,17
+70603,COLPA BELGICA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,2,0,0,0,0,0,1,3,2,0,0,0,0,1,5,4,9
+70102,COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,0,0,0,0,0,3,3,6
+71106,CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1,1,0,4,1,5
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,0,1,3,5,3,2,4,7,11,1,0,2,1,3,2,22,24,46
+31206,ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,2,3
+20602,GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,2,2,0,0,1,2,6,2,3,2,1,1,0,10,13,23
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,2,2,4,3,2,8,5,4,7,4,18,21,4,13,6,8,3,8,51,71,122
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+80803,HUARACAJE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,1,2,1,0,2,0,0,0,0,3,4,7
+21105,LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,0,0,1,0,0,2,4,6
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80601,LORETO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,0,0,1,0,0,2,0,1,0,1,1,1,0,0,0,6,2,8
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,2,0,0,0,2,6,3,7,10,4,4,2,13,20,1,11,5,4,8,9,48,63,111
+70903,MAIRANA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,3,0,0,1,0,1,0,4,3,7
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,5,1,1,0,0,0,0,4,6,10
+71001,MONTERO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,2,3
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,2
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,1,3,1,2,1,3,8,2,0,1,0,1,0,12,11,23
+70601,PORTACHUELO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,2,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,2,3,5
+71402,PUERTO QUIJARRO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,1,0,3,2,4,0,1,4,2,0,1,2,0,2,0,11,12,23
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80703,PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,1,0,1,0,0,2,0,2,1,2,2,0,0,0,0,1,0,7,5,12
+71401,PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,1,1,1,0,1,0,2,0,0,0,1,0,0,1,6,7
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,2,0,0,0,0,1,0,0,0,1,1,2,4,16,1,1,1,0,2,0,11,21,32
+30901,QUILLACOLLO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80301,REYES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,1,0,2,1,1,1,0,6,2,3,2,2,2,2,1,15,11,26
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,1,2,3,1,3,3,1,3,3,1,5,8,1,3,2,1,1,1,20,23,43
+70503,ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,2,3,2,4,2,1,1,7,6,0,2,2,2,6,3,24,20,44
+80602,SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,4,0,2,0,0,0,3,0,0,0,0,0,0,0,9,0,9
+80302,SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,0,0,0,1,0,3,4,4,5,0,0,1,1,2,5,12,15,27
+70402,SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,1,0,0,0,1,1,0,1,0,3,0,1,1,0,0,0,0,0,0,6,3,9
+80501,SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,1,0,0,3,3,1,2,1,0,0,0,5,6,11
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,1,0,0,0,0,2,0,1,1,0,1,1,0,0,2,4,5,9
+80102,SAN JAVIER(BNI),enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+80701,SAN JOAQUIN,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,1,0,1,0,3,4,7
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,2,0,0,0,1,0,0,2,1,2,0,0,0,0,0,0,4,4,8
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71201,SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,1,0,1,0,1,1,2,0,3,2,7,2,2,0,0,1,6,6,23,29
+80401,SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,1,0,0,0,0,0,0,0,5,6,0,1,0,1,1,2,7,10,17
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,1,0,0,0,8,7,7,11,5,10,6,11,32,36,4,5,7,10,10,5,80,95,175
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+90303,SENA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,2,0,0,0,0,0,1,1,1,0,0,0,0,0,4,1,5
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,3,2,5
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,2,0,2,2,1,0,3,2,0,0,8,4,12
+20606,TIPUANI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,1,1,0,11,8,16,9,24,14,12,26,54,106,17,25,9,14,8,9,152,212,364
+71502,URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,1,0,0,1,1,1,3,1,2,1,0,0,0,1,7,5,12
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+70201,WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,2,0,0,0,1,0,4,1,3,2,0,0,0,0,0,0,10,3,13
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,3,0,0,1,1,1,0,1,3,2,0,2,0,0,0,0,7,7,14
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-02-01,0,0,0,0,2,1,3,1,2,1,2,0,5,1,0,0,0,1,1,0,15,5,20
+22002,ALTO BENI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,3,4
+71501,ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+80802,BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,0,0,0,1,0,4,4,8
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,0,0,1,0,0,0,1,2,0,0,0,0,1,1,0,4,3,7
+70707,BOYUIBE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,1,4,2,9,12,6,9,6,27,5,7,3,8,3,7,37,73,110
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,0,0,0,0,1,1,0,1,0,1,1,0,2,0,0,0,0,0,0,4,4,8
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,0,1,2,1,2,3,1,1,4,0,4,0,0,1,0,8,13,21
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,2,4,1,0,1,1,0,1,0,6,4,10
+71403,CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+70702,CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,1,0,0,0,5,0,3,2,0,1,0,0,0,1,9,5,14
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,0,0,1,2,1,2,1,0,0,1,2,3,4,2,0,1,1,2,1,14,11,25
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,0,0,0,0,0,0,5,3,1,2,2,0,1,1,9,7,16
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,1,1,1,0,5,3,8
+70102,COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,3,0,0,1,5,0,1,2,3,1,0,2,0,0,0,0,12,6,18
+71106,CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70704,CUEVO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+20105,EL ALTO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71503,EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,2,0,3,4,0,1,1,0,1,0,8,5,13
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,4,3,0,7,6,10,13,15,15,3,7,2,1,7,1,47,47,94
+31206,ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+80402,EXALTACION,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,2,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,2,3,5
+20602,GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,2,0,1,2,1,2,9,11
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,8,6,5,1,5,4,4,6,15,20,6,7,5,6,2,6,50,56,106
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80803,HUARACAJE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,1,0,0,1,0,0,0,0,2,0,2,3,0,0,0,0,0,1,5,5,10
+21105,LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,3,0,0,1,0,0,0,0,2,1,2,0,0,0,0,2,7,9
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,3,1,0,1,4,2,0,0,0,0,0,0,7,4,11
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70701,LAGUNILLAS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,2,1,3
+80601,LORETO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,3,2,5
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,1,0,0,0,0,0,3,4,1,4,2,5,3,0,1,2,2,0,0,15,13,28
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,1,0,1,9,2,2,4,7,5,0,0,7,15,2,3,4,3,6,3,37,37,74
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,2,3
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,1,0,0,1,0,0,0,0,2,1,2,3,0,0,0,1,2,0,7,6,13
+71001,MONTERO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,1,0,0,0,1,2,1,0,0,1,0,0,0,0,3,3,6
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,0,0,1,0,0,1,2,1,0,0,0,0,0,0,3,3,6
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,0,2,2,7,0,2,2,9,16,2,5,0,3,5,6,28,34,62
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,0,0,0,0,0,1,1,1,1,4,0,2,4,0,1,0,0,0,0,9,7,16
+80703,PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,1,0,0,2,0,0,1,0,1,2,1,1,0,0,0,0,0,5,4,9
+71401,PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,0,1,0,0,2,1,0,1,0,2,0,0,2,0,4,6,10
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,1,0,0,0,0,0,4,4,11,3,3,0,0,1,3,9,22,31
+30901,QUILLACOLLO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+80301,REYES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,1,0,4,3,1,1,4,6,8,2,6,7,3,1,4,21,31,52
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,3,1,1,7,6,6,7,2,3,2,2,4,6,1,2,0,0,1,0,25,30,55
+70503,ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,1,2,5,5,3,4,3,3,6,4,12,16,5,9,2,6,7,3,44,52,96
+31001,SACABA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+70901,SAMAIPATA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80602,SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,1,0,4,1,7,3,5,5,2,3,3,9,3,1,1,3,3,2,29,27,56
+80302,SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,0,0,2,1,0,1,1,2,0,5,0,1,0,2,3,13,16
+70402,SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,4,0,4
+80501,SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,4,1,4,3,2,2,3,4,1,3,1,0,0,0,15,13,28
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,2,2,4
+80102,SAN JAVIER(BNI),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,0,2,3,0,1,0,0,0,0,3,4,7
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,2,1,3
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,3,4,3,1,4,1,1,3,2,1,1,0,0,2,4,12,18,30
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+71201,SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,2,4,6
+70302,SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+80702,SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,0,0,0,0,0,2,3,2,0,1,2,7,6,1,1,1,0,2,4,17,16,33
+80401,SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,4,0,2,0,3,1,2,8,0,2,0,0,1,6,12,17,29
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,0,1,1,14,12,26,21,20,18,25,22,53,62,12,18,4,16,15,17,171,187,358
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4,0,1,1,7,8
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,2,0,0,1,1,0,1,0,1,2,0,0,0,1,1,1,6,5,11
+31602,SHINAOTA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,1,3,4
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,2,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,2,0,1,0,7,2,9
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,1,0,0,0,0,1,1,3,0,0,2,1,0,0,4,5,9
+20606,TIPUANI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,1,1,1,25,25,46,40,38,39,31,24,61,87,29,37,18,24,8,21,258,299,557
+71502,URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,1,1,3,5,6,4,7,4,4,14,36,4,16,5,0,4,2,41,75,116
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,2,1,3
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,1,0,1,0,0,0,0,2,1,0,0,0,0,1,0,0,3,3,6
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,3,0,3
+70201,WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,1,2,0,0,0,2,1,1,1,0,2,0,0,0,5,6,11
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,1,2,0,0,2,1,3,3,10,9,8,8,18,32,6,9,10,10,6,7,64,81,145
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-03-01,0,0,0,0,0,1,1,0,1,0,1,0,4,0,0,1,0,0,0,0,7,2,9
+22002,ALTO BENI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,1,0,0,0,0,0,0,0,0,1,0,0,1,2,1,0,0,0,0,0,3,3,6
+80802,BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,1,0,0,0,0,3,3,1,3,1,1,0,0,5,8,13
+90103,BOLPEBRA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70707,BOYUIBE,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,1,2,3,0,6,3,1,9,15,2,1,1,6,0,3,18,36,54
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70703,CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,0,2,0,3,0,1,0,0,0,0,0,7,0,7
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,1,0,0,0,3,0,2,1,3,3,3,3,1,6,1,1,1,3,1,0,16,17,33
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,3,3,1,0,0,1,1,1,6,5,11
+70702,CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,1,0,0,0,1,2,4,6
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,2,1,0,3,0,0,2,1,1,3,3,3,1,0,0,0,1,0,10,11,21
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,6,4,0,1,1,2,1,0,8,8,16
+70603,COLPA BELGICA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,2,2,4
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,1,0,0,2,0,1,1,0,0,0,0,1,3,4,7
+70102,COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,2,0,1,1,2,2,2,6,7,0,0,0,3,3,2,13,19,32
+71503,EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,1,1,0,1,2,0,4,1,1,0,2,0,0,0,10,3,13
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,1,0,3,0,3,3,4,3,3,5,10,10,0,2,1,1,3,1,28,25,53
+80402,EXALTACION,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+20602,GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0,2,3,5
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,3,2,4,3,4,2,4,5,12,15,7,3,0,4,3,2,37,36,73
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21501,IXIAMAS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21105,LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,3,1,4
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,2,0,3,2,2,0,6,10,3,0,0,1,0,0,16,13,29
+70701,LAGUNILLAS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,2,2,4
+80601,LORETO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,0,0,3,3,6,5,0,2,0,3,0,2,10,15,25
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,2,0,4,5,4,4,4,2,4,3,6,13,3,5,0,5,1,2,28,39,67
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,0,1,0,2,2,3,1,1,0,0,0,8,3,11
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,3,0,0,0,1,1,0,1,5,1,1,1,1,0,0,0,11,4,15
+71001,MONTERO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2,3
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,1,2,7,6,5,4,5,2,3,7,7,15,5,1,2,2,2,1,37,40,77
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,2,0,1,0,2,1,1,3,1,1,0,0,7,5,12
+70103,PORONGO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70601,PORTACHUELO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71402,PUERTO QUIJARRO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+80703,PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+71401,PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,1,2,0,0,0,2,0,1,0,2,0,2,2,10,3,13
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,1,0,0,0,4,2,6
+80301,REYES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,1,0,0,0,0,2,1,3,6,0,3,2,4,1,5,8,20,28
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,2,0,0,0,0,1,0,1,0,2,1,2,0,1,1,0,4,7,11
+70503,ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,2,0,0,0,2,5,1,1,2,0,1,4,8,10,18
+80602,SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,1,0,2,1,1,1,0,0,1,1,0,3,5,8
+80302,SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,3
+80501,SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,1,0,1,0,0,1,5,6
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+80701,SAN JOAQUIN,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,3,0,1,0,0,2,0,4,4,8
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,1,0,2,1,1,1,0,3,0,0,0,0,0,0,4,5,9
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,1,0,0,0,1,1,2,0,0,0,0,0,0,2,4,6
+71201,SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,3,4
+70302,SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,1,3,4
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80702,SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,1,0,5,6,5,8,4,2,2,2,1,5,3,4,2,4,1,1,24,32,56
+80401,SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,2,0,0,1,2,2,7,9
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,1,2,2,2,17,20,16,22,21,19,16,24,47,76,11,28,10,13,9,20,150,226,376
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,2,4,6
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,2,3
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,1,2,0,2,0,1,0,1,0,7,1,8
+60101,TARIJA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,1,1,0,3,3,6
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,1,0,0,8,4,2,0,8,7,4,5,15,24,4,10,1,3,5,8,47,62,109
+71502,URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,2,0,0,1,3,9,9,15,10,11,10,15,37,67,17,17,5,9,4,14,97,158,255
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,1,3,4
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,2,0,0,0,5,1,6
+70201,WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,1,0,0,0,3,2,1,0,3,2,0,1,6,0,0,0,0,0,0,5,14,19
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,2,4,6,3,8,6,4,5,22,38,6,24,3,8,4,2,55,90,145
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-04-01,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,2,1,0,0,0,4,4,8
+71501,ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,2,1,0,0,0,0,0,2,0,3,0,0,0,0,0,0,2,6,8
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90103,BOLPEBRA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70707,BOYUIBE,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,2,0,0,3,2,5
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70703,CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,4,1,5
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,2,1,4,1,0,0,2,2,0,3,0,2,1,0,0,0,10,9,19
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,0,0,0,1,0,2,0,1,1,0,0,0,0,5,1,6
+60302,CARAPARI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71403,CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,2,0,2,0,0,1,0,2,2,0,2,0,0,0,0,0,8,3,11
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,0,0,1,2,4,6
+70603,COLPA BELGICA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,2,3
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,0,1,0,2,1,1,4,0,1,0,0,1,1,6,7,13
+70102,COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,1,1,0,3,1,0,1,2,1,1,0,0,0,1,1,8,5,13
+71106,CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20105,EL ALTO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71503,EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,1,0,2,0,3,0,0,0,1,1,0,1,7,8
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,1,1,3,4,1,4,5,6,8,3,1,4,1,2,0,24,20,44
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,1,3,4,1,2,1,1,4,0,5,8,2,4,1,2,0,1,17,23,40
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+21105,LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,2,1,5,2,7
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70701,LAGUNILLAS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,2,3
+80601,LORETO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,1,0,2,0,2,0,2,0,1,0,0,0,1,0,9,9
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,1,2,0,1,1,0,2,3,5,0,2,0,3,1,0,7,14,21
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,1,2,0,0,5,2,7
+71001,MONTERO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,2,1,3,3,6,4,6,0,1,0,0,1,1,10,19,29
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,2,2,4
+70902,PAMPA GRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+71402,PUERTO QUIJARRO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80703,PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+71401,PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80301,REYES,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,2,0,0,0,0,0,2,3,0,5,0,0,0,0,4,8,12
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,1,0,1,0,0,2,3,0,0,1,2,0,0,1,0,1,0,0,7,5,12
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,1,2,1,1,1,3,0,2,1,9,0,0,0,0,1,0,5,17,22
+31001,SACABA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80602,SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+70402,SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+80501,SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,3,3
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+80701,SAN JOAQUIN,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,2,4
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71201,SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,1,0,0,1,0,0,0,2,2,0,1,2,0,0,0,0,0,0,0,5,4,9
+70302,SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+70303,SAN RAFAEL,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,1,1,0,1,1,2,0,0,0,0,1,0,0,4,1,2,0,1,1,4,5,15,20
+71103,SAN RAMON SCZ,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+80401,SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,1,3,2,5
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,1,1,0,9,10,10,14,5,10,6,10,29,53,11,9,4,8,7,12,82,127,209
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+31602,SHINAOTA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,0,0,1,1,1,7,3,10
+20606,TIPUANI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,1,0,3,0,5,1,2,10,8,1,2,2,0,2,1,16,22,38
+71502,URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,1,0,1,0,0,0,1,0,2,0,1,0,0,0,0,1,0,1,6,7
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,1,0,0,0,1,0,0,4,2,1,2,0,5,17,1,0,6,3,0,1,18,26,44
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,2,2,4
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70201,WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,1,0,0,0,0,0,0,0,2,0,1,0,2,0,1,0,0,1,2,1,9,10
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,3,0,1,1,0,0,2,8,1,4,3,1,4,2,14,16,30
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+80802,BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70703,CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,3,0,3
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+71403,CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,3,4
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3,0,2,0,0,0,8,1,9
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+70102,COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,0,0,1,3,4
+71503,EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,0,0,0,1,3,4
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,1,0,2,0,0,2,3,1,2,0,1,0,0,3,9,12
+20602,GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,2,1,2,2,1,3,4,1,3,3,4,4,2,1,0,0,18,15,33
+21105,LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,4,0,4
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,2,2,4
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0,0,0,0,1,4,5
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70902,PAMPA GRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80703,PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71401,PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+80301,REYES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,1,0,2,1,0,0,1,1,5,1,0,0,1,0,0,4,10,14
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,1,0,0,0,0,0,0,2,0,0,0,0,0,1,2,3,5
+80602,SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,1,3,4
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,3,1,4
+70302,SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,3,0,2,4,1,2,4,2,4,3,4,12,8,4,3,5,1,1,3,33,33,66
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,1,2,0,0,1,4,1,1,1,1,0,2,4,10,14
+71502,URUBICHA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+70801,VALLEGRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,2,3,5
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,3,2,5
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,3
+70703,CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,1,1,0,0,0,4,4,8
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,1,0,0,1,0,0,0,0,0,1,1,1,2,0,0,0,0,0,4,3,7
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70102,COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+71106,CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,1,0,0,0,1,0,0,0,0,1,1,1,4,4,0,1,2,0,0,1,9,8,17
+20602,GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,1,0,0,2,0,0,0,1,2,3,0,0,1,1,0,0,4,7,11
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80601,LORETO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71001,MONTERO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,2,0,0,1,2,1,0,0,0,0,0,2,4,6
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21201,PUCARANI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80703,PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80301,REYES,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,1,0,0,0,0,1,0,0,3,4,1,0,0,0,0,0,5,5,10
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,4,0,4
+80602,SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,1,1,1,0,0,2,0,1,1,0,0,0,0,0,0,4,3,7
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,3
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,1,2,0,2,0,2,1,1,5,6,7,2,1,0,2,4,0,19,17,36
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,1,0,0,0,0,0,1,1,2,0,1,1,0,1,0,3,5,8
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,1,0,1,0,0,2,5,1,0,1,1,2,1,6,9,15
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70201,WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,3,4
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-07-01,0,0,0,0,0,0,1,0,0,0,0,0,2,2,0,1,0,0,0,0,3,3,6
+71501,ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80802,BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,2,0,0,0,4,1,5
+70702,CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,1,0,0,1,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,2,4,4,8
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,1,0,0,0,2,0,0,0,0,0,3,1,1,0,0,0,1,0,8,1,9
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,3
+70102,COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,1,1,2,1,0,1,4,4,0,1,0,0,0,1,7,9,16
+80402,EXALTACION,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20602,GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,2,5,3,3,1,3,0,0,0,6,4,1,1,2,3,3,4,23,18,41
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,2,2,4
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,1,1,0,1,1,0,0,0,1,2,0,1,0,0,0,0,0,5,3,8
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50404,OCURI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80301,REYES,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,1,0,0,2,2,1,2,0,0,4,1,0,1,2,1,0,0,2,0,0,8,11,19
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,0,2,2,4
+70402,SAN CARLOS,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+80102,SAN JAVIER(BNI),enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71201,SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+80401,SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,2,1,1,0,3,0,2,2,5,0,2,1,10,10,3,3,2,1,0,5,30,23,53
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,2,0,1,0,0,3,0,0,1,0,3,0,7,3,10
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,1,0,2,0,1,1,1,1,1,1,0,2,0,1,6,6,12
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,2,1,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,5,7
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,2,3
+22002,ALTO BENI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80802,BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70703,CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,4,5
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,4,4
+70102,COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+71503,EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20602,GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,2,2,4
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,1,3,1,0,1,0,2,3,1,2,0,0,0,2,6,10,16
+21105,LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,2,2,4
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,1,0,0,0,0,0,0,3,0,0,1,0,0,0,1,0,3,3,6
+80703,PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,0,3
+71401,PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,1,0,0,0,0,2,3,0,0,0,0,0,2,1,0,0,0,1,0,0,6,4,10
+70503,ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71201,SAN MATIAS,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,3,4
+71103,SAN RAMON SCZ,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,2,0,1,2,4,2,2,1,3,5,9,9,1,4,2,0,1,4,25,27,52
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60101,TARIJA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,1,0,0,3,1,5,1,0,4,0,4,0,1,8,12,20
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70201,WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80802,BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70707,BOYUIBE,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,1,1,0,0,0,0,1,2,2,0,0,0,0,0,0,3,4,7
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,1,1,1,1,3,1,0,0,1,0,0,2,1,0,0,0,0,1,0,6,7,13
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,2
+71503,EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,1,1,0,0,1,1,6,7
+31206,ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20602,GUANAY,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,1,2,0,0,2,0,2,1,4,1,2,1,2,0,0,5,13,18
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21501,IXIAMAS,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,3,4,7
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,1,0,0,1,0,0,0,1,2,0,0,0,0,0,0,2,3,5
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,1,0,1,1,1,0,2,2,0,0,1,0,0,0,6,3,9
+80302,SAN BORJA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,1,0,0,2,1,3,0,1,2,2,2,1,7,6,2,1,1,1,1,3,17,20,37
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,1,0,4,2,6
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,2,0,0,1,5,2,7
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+80802,BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,2
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70703,CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,3,0,3
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71403,CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+70702,CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,1,2,0,1,1,1,2,0,1,0,1,4,0,0,0,0,0,0,6,8,14
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+70603,COLPA BELGICA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71106,CUATRO CAÑADAS,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,1,0,2,3,5
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,1,0,0,3,0,2,1,1,3,6,0,1,0,0,1,0,6,13,19
+71002,GENERAL SAAVEDRA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,1,1,0,0,0,0,1,2,1,0,0,0,0,1,3,4,7
+11002,HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,3,2,5
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,2,1,3
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,3,4
+70903,MAIRANA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,2,3,5
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30203,OMEREQUE,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10401,PADILLA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,1,3
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71401,PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,1,0,0,0,1,3,3,6
+70904,QUIRUSILLAS,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,1,0,1,2,2,2,1,2,1,1,6,9,2,0,0,0,0,2,14,18,32
+70503,ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+80602,SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80501,SAN IGNACIO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2,2,4
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,1,1,0,1,2,5,7
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,1,0,6,1,0,0,0,0,0,0,7,1,8
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,2,0,1,0,4,6,4,4,3,2,2,7,20,17,3,5,4,5,3,3,46,49,95
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,1,0,0,1,1,1,3,5,4,0,2,1,2,0,0,8,13,21
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,3,1,1,0,0,0,0,0,4,2,6
+70201,WARNES,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,1,0,0,3,0,0,1,0,5,1,0,0,0,0,0,4,7,11
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-11-01,0,0,0,0,0,0,1,1,1,0,1,0,1,4,0,0,0,0,0,0,4,5,9
+80802,BAURES,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90103,BOLPEBRA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2,3
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,2,4
+60302,CARAPARI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70702,CHARAGUA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,1,0,0,0,0,0,2,0,0,1,2,3,1,0,0,0,1,1,7,5,12
+90101,COBIJA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,1,0,1,0,0,0,2,2,2,0,1,0,0,0,7,3,10
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,3,1,4
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,1,0,0,1,0,0,0,0,2,0,3,7,0,0,2,0,2,0,10,8,18
+31206,ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,1,0,0,0,0,1,0,0,0,1,1,1,2,2,2,0,0,1,0,0,6,6,12
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+21105,LA ASUNTA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,1,0,0,0,3,3,6
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,3,2,5
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,0,1,0,1,0,0,2,0,0,1,0,0,1,1,3,5,8
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70502,PAILON,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,1,0,0,0,0,2,1,1,0,1,0,1,3,1,1,0,0,0,0,0,6,6,12
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70902,PAMPA GRANDE,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31202,POJO (CBBA),enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80703,PUERTO SILES,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+71401,PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,3,1,4
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,1,0,0,0,4,2,0,1,0,0,0,1,5,8,0,2,0,1,4,1,14,16,30
+70503,ROBORE,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,2,0,2,3,5
+80602,SAN ANDRES,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+80102,SAN JAVIER(BNI),enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70404,SAN JUAN DE YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+80702,SAN RAMON BENI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,1,4,3,1,1,1,1,6,8,8,9,2,5,1,5,7,2,30,35,65
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+10101,SUCRE,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,1,0,0,0,0,1,0,0,0,0,1,4,0,0,0,0,0,0,0,5,2,7
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,1,0,0,0,2,0,1,1,0,2,1,4,0,2,2,3,0,0,7,12,19
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,3,1,4
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,2,1,3
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,0,1,1,0,0,0,1,0,1,3,2,0,0,0,0,0,5,4,9
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),dengue,2017-12-01,0,0,0,0,2,0,0,1,0,0,0,0,2,2,3,1,0,0,4,1,11,5,16

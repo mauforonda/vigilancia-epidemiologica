@@ -1,0 +1,645 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-meses-a-menor-de-1-ano_masculino,b-6-meses-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+22002,ALTO BENI,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+90104,BELLA FLOR,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,3,4
+60202,BERMEJO,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,2,0,1,2,3,1,1,3,7,11,3,4,0,4,2,3,19,28,47
+90103,BOLPEBRA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70401,BUENA VISTA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,1,4,0,5,5,10
+70706,CAMIRI,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,1,0,0,1,1,0,2,1,0,1,0,0,0,0,4,3,7
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,1,0,0,5,1,5,6,3,4,3,7,21,15,4,7,5,2,6,2,52,45,97
+60302,CARAPARI,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70702,CHARAGUA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,1,4,1,1,4,9,4,1,3,10,21,4,4,1,1,1,4,31,43,74
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,1,0,0,0,2,3,5
+31002,COLOMI,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,2,3,2,1,4,2,1,2,9,6,2,2,0,0,2,3,22,19,41
+20602,GUANAY,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,1,1,2,1,0,1,3,3,3,1,1,2,1,1,1,10,12,22
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,1,0,3,0,6,6,18,23,18,9,13,19,24,33,10,11,6,7,13,7,112,115,227
+90402,INGAVI (HUMAITA),sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,1,0,0,0,0,1,1,0,5,0,0,0,0,0,0,0,7,1,8
+80801,MAGDALENA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,1,1,0,0,1,0,1,0,0,1,0,0,3,1,2,0,2,0,0,3,10,13
+70903,MAIRANA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,2,1,3
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,1,1,4,3,1,1,2,5,9,10,3,1,3,1,2,1,25,23,48
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,1,0,0,0,0,0,0,2,1,1,2,0,0,0,1,3,5,8
+71001,MONTERO,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,1,1,1,2,1,1,1,0,0,0,0,0,4,4,8
+21104,PALOS BLANCOS,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,1,1,2,1,1,4,1,2,7,1,1,3,2,3,4,15,19,34
+70902,PAMPA GRANDE,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70103,PORONGO,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,1,0,0,1,2,0,1,1,2,0,0,0,0,0,0,2,6,8
+80703,PUERTO SILES,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,2,2,1,0,0,0,1,0,5,2,7
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,3
+80301,REYES,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,1,0,0,3,19,16,23,44,9,12,36,10,42,39,21,11,8,7,5,4,164,146,310
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,1,0,0,0,0,6,1,1,0,0,2,1,0,8,4,12
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,1,0,0,0,11,6,5,7,5,1,6,4,4,7,2,1,3,4,2,6,39,36,75
+70402,SAN CARLOS,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,3
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,0,2,0,3,4,7
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,1,0,0,0,0,1,1,0,0,0,0,2,1,0,0,0,1,0,0,3,4,7
+80702,SAN RAMON BENI,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,1,3,2,5
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,1,1,2,7,5,2,5,5,8,10,2,16,29,4,7,4,7,7,5,56,71,127
+80303,SANTA ROSA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,1,0,0,0,0,3,1,0,0,0,0,0,0,0,2,3,5
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,1,0,1,0,0,1,0,0,0,1,1,1,1,0,0,2,4,5,9
+90303,SENA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,1,1,0,0,1,1,1,1,2,3,0,1,0,1,1,0,6,8,14
+10101,SUCRE,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,3,2,5
+60101,TARIJA,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,1,0,0,0,7,0,7
+20608,TEOPONTE,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,3,0,2,1,1,1,1,0,4,0,1,1,0,0,0,0,12,3,15
+20606,TIPUANI,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,1,0,0,2,1,1,3,3,4,19,4,10,4,1,3,0,1,36,21,57
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,1,2,0,3,0,0,1,1,2,0,0,0,0,0,4,6,10
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-01-01,0,0,0,2,4,1,1,2,0,1,0,3,4,1,0,0,0,0,2,2,11,12,23
+22002,ALTO BENI,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,1,0,0,1,4,1,3,1,1,0,2,0,11,3,14
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,1,3,3,1,7,0,0,0,0,0,0,2,0,0,0,0,0,0,11,6,17
+80802,BAURES,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90104,BELLA FLOR,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,1,0,0,0,1,6,7
+60202,BERMEJO,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,1,1,10,7,16,26,34,18,18,18,53,92,20,32,13,23,10,19,175,236,411
+70401,BUENA VISTA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70706,CAMIRI,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2,1,0,0,2,3,5
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,1,3,1,0,1,0,1,4,8,1,0,0,1,0,3,8,16,24
+60302,CARAPARI,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70702,CHARAGUA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2,3
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,7,8,8,11,5,6,4,6,20,33,6,9,2,3,1,0,53,76,129
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,1,0,0,1,0,0,4,1,1,0,0,0,0,0,6,2,8
+31002,COLOMI,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+70603,COLPA BELGICA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,1,1,0,0,1,0,3,3,0,2,1,0,0,0,6,6,12
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,1,0,0,1,0,1,1,0,3,1,1,4,5,2,0,0,0,0,2,9,13,22
+90203,FILADELFIA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,1,1,1,3,4,7
+20602,GUANAY,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,1,1,0,0,1,1,0,1,0,2,0,2,3,0,1,0,1,7,7,14
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,1,0,2,2,5,8,5,7,7,4,9,6,21,24,9,8,1,5,5,3,65,67,132
+70104,LA GUARDIA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+20101,LA PAZ,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+11003,MACHARETI,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,3,1,4
+70903,MAIRANA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,1,0,0,0,2,1,1,8,3,3,6,12,10,2,0,1,1,2,1,29,25,54
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,2,0,1,0,0,0,1,1,0,1,0,0,2,1,6,3,9
+71001,MONTERO,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,2,3,5
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+21104,PALOS BLANCOS,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,1,9,4,8,6,10,8,9,7,34,36,5,8,6,5,12,7,93,82,175
+70601,PORTACHUELO,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+90102,PORVENIR,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,2,2,4
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,2,4
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,1,0,0,1,2,7,1,0,1,1,1,0,6,9,15
+80301,REYES,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,2,1,1,3,17,9,12,7,9,5,11,4,13,25,5,10,5,6,2,6,77,76,153
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,1,2,0,3,3,4,3,2,1,1,2,2,8,2,1,3,0,4,3,23,22,45
+21502,SAN BUENA VENTURA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+80501,SAN IGNACIO,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,2,0,1,1,0,4,4,8
+80102,SAN JAVIER(BNI),sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80701,SAN JOAQUIN,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,1,1,0,0,0,0,0,2,0,0,2,1,0,1,3,5,8
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,2,1,0,0,4,4,8
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,2,1,3
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+71201,SAN MATIAS,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80702,SAN RAMON BENI,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,0,0,0,0,0,2,4,6
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,1,2,5,3,4,3,4,4,1,3,21,17,8,7,4,4,4,3,52,46,98
+80303,SANTA ROSA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,3,2,5
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,0,1,0,0,0,4,2,6
+90303,SENA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,1,1,0,3,3,1,0,1,0,0,0,6,4,10
+10101,SUCRE,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+60101,TARIJA,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,3,2,4,0,3,0,0,0,11,2,13
+20608,TEOPONTE,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,1,0,1,2,0,0,0,0,2,1,1,2,0,0,1,0,6,5,11
+20606,TIPUANI,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,1,1,0,0,2,0,2,5,2,1,0,1,2,0,0,8,9,17
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,0,1,0,3,1,1,1,4,2,0,0,0,1,0,0,9,5,14
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,2,3,5
+70403,YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-02-01,0,0,0,0,1,0,1,0,0,0,0,1,2,2,3,0,0,0,0,0,7,3,10
+60202,BERMEJO,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,1,1,2,1,5,3,18,9,19,14,72,74,24,27,12,23,16,15,169,167,336
+70706,CAMIRI,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,2,2,4
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,2,0,0,3,6,6,8,6,5,7,15,20,6,8,3,3,4,5,49,58,107
+60302,CARAPARI,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,2,2,4
+70702,CHARAGUA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,1,1,1,6,13,9,11,9,8,10,6,5,30,26,8,11,6,9,2,0,86,86,172
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,0,0,2,0,5,3,8
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,0,0,0,0,0,1,4,5
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,1,0,0,0,1,0,0,1,0,1,0,1,3,1,0,1,0,2,1,7,6,13
+60601,ENTRE RIOS TRJ,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90203,FILADELFIA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20602,GUANAY,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,2,4,2,1,3,1,0,1,5,3,1,1,0,0,1,1,14,12,26
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,3,3,3,2,5,4,14,17,1,3,4,3,3,3,33,35,68
+20101,LA PAZ,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+11003,MACHARETI,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+80801,MAGDALENA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,1,0,1,1,0,1,0,0,0,2,1,1,0,0,1,0,0,5,4,9
+70903,MAIRANA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,3,0,0,3,4,3,3,5,3,1,5,10,24,0,5,3,2,3,2,28,51,79
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,1,1,1,1,0,0,2,2,0,0,2,1,0,1,6,6,12
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,1,2,2,0,1,0,4,1,8,4,1,0,1,1,1,0,19,8,27
+21104,PALOS BLANCOS,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,1,1,1,1,3,1,2,2,9,12,5,4,4,3,6,4,31,28,59
+90102,PORVENIR,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,1,0,0,0,1,0,0,1,1,0,1,1,2,1,0,1,0,0,0,0,6,4,10
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,1,0,2,0,2,0,0,1,2,0,0,1,0,0,0,2,7,9
+80703,PUERTO SILES,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,1,0,4,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,6,3,9
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,1,0,0,0,1,1,5,3,0,1,0,1,1,1,8,7,15
+80301,REYES,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,3,4
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,3,1,3,4,2,3,0,0,2,3,0,0,2,0,1,1,13,12,25
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,1,3,4
+31001,SACABA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,1,1,0,3,3,6
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,1,1,1,2,2,3,2,0,2,3,1,1,2,0,1,0,12,10,22
+70402,SAN CARLOS,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,1,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,2,3,5
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,3,1,4
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+71104,SAN JULIAN,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,2,3
+80702,SAN RAMON BENI,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,4,1,5
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,2,1,0,2,3,2,2,4,6,2,3,0,13,19,6,2,1,0,3,1,39,33,72
+80303,SANTA ROSA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,1,0,1,0,0,1,1,4,1,0,0,0,0,0,4,5,9
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+90303,SENA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,2,3,3,1,0,2,1,0,0,0,2,2,0,0,0,1,0,0,8,9,17
+10101,SUCRE,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+60101,TARIJA,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+20608,TEOPONTE,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,1,0,0,0,3,2,5
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,2,0,2,2,0,7,5,2,0,0,0,0,0,0,9,11,20
+70801,VALLEGRANDE,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+22002,ALTO BENI,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,2,1,0,0,1,0,2,0,1,2,0,0,0,0,0,0,0,0,0,0,6,3,9
+90104,BELLA FLOR,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,1,0,5,2,3,1,1,7,12,14,10,1,0,7,3,3,35,35,70
+90103,BOLPEBRA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,2,3,2,5,5,8,7,7,18,17,1,4,2,1,5,0,42,45,87
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,6,1,4,4,30,19,33,41,26,22,28,38,39,73,15,19,11,10,9,6,201,233,434
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,1,0,0,1,0,4,1,1,0,3,1,0,0,9,3,12
+70603,COLPA BELGICA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,1,0,1,1,3,4,5,7,2,2,2,0,0,0,14,14,28
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,1,0,2,1,0,5,3,8
+90203,FILADELFIA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,1,1,0,1,1,3,4,8,4,1,1,0,0,0,0,14,11,25
+20602,GUANAY,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,6,4,5,7,3,13,2,3,6,8,2,3,4,0,1,2,29,40,69
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,2,4,3,2,1,4,2,7,4,15,15,5,2,3,6,2,2,42,37,79
+20101,LA PAZ,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+80801,MAGDALENA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,2,3,4,3,3,3,2,0,10,10,2,3,2,1,2,3,27,26,53
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+71001,MONTERO,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,1,0,1,0,1,1,1,0,5,2,2,1,2,0,0,0,13,4,17
+10401,PADILLA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+21104,PALOS BLANCOS,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,2,0,0,0,2,4,2,1,1,0,0,0,7,5,12
+90102,PORVENIR,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,1,0,0,0,4,2,6
+70804,POSTRER VALLE,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,1,0,1,1,0,0,3,3,0,0,0,0,0,0,5,4,9
+80703,PUERTO SILES,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,2,0,1,0,1,0,0,2,4,5,0,1,3,1,1,0,12,9,21
+80301,REYES,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,1,1,2,2,2,2,0,1,1,2,1,3,9,2,2,0,0,3,1,16,19,35
+70503,ROBORE,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,1,2,2,4,1,3,3,0,3,1,1,2,0,12,11,23
+31001,SACABA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,3,1,9,9,8,10,11,18,4,11,15,13,4,5,4,0,1,2,59,69,128
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,2,2,4
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,1,0,0,0,0,0,0,0,2,0,0,0,1,1,0,2,0,0,0,0,4,3,7
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,3,3
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,1,0,0,2,0,0,2,0,1,0,0,0,0,0,4,2,6
+71201,SAN MATIAS,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2,3
+71005,SAN PEDRO,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80702,SAN RAMON BENI,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,3,4,4,1,8,2,5,4,19,20,5,5,2,2,3,3,49,41,90
+80303,SANTA ROSA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,1,1,1,0,4,1,2,1,3,0,1,0,1,3,13,16
+90303,SENA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,3,2,5
+10101,SUCRE,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,3,1,4
+60101,TARIJA,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+20608,TEOPONTE,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,1,0,0,0,3,5,1,3,3,4,6,2,0,3,4,4,1,0,19,21,40
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,1,0,0,1,1,2,1,0,5,5,1,1,2,1,0,0,11,10,21
+70201,WARNES,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+22002,ALTO BENI,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,2,1,3
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,1,2,5,7,1,0,3,2,1,1,2,1,2,1,0,0,0,0,15,14,29
+90104,BELLA FLOR,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,1,1,1,3,1,4,1,1,2,2,0,0,0,11,6,17
+70401,BUENA VISTA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,7,3,11,5,7,5,7,10,16,14,10,4,5,2,3,2,66,45,111
+60302,CARAPARI,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,3,0,3,4,11,12,17,19,13,9,9,11,19,49,11,5,6,4,3,8,95,121,216
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,1,0,2,0,0,6,6,12
+31002,COLOMI,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,1,0,6,0,6
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,1,0,0,0,1,0,0,0,3,0,1,0,0,0,0,0,6,0,6
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,1,1,0,0,2,2,2,3,2,0,1,0,0,6,8,14
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,1,0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,2,1,4,6,10
+60601,ENTRE RIOS TRJ,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,1,0,1,0,3,2,5
+90203,FILADELFIA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,1,0,0,2,0,0,0,0,1,4,4,0,0,0,0,0,1,6,7,13
+20602,GUANAY,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,6,0,1,0,11,15,9,20,8,6,10,4,16,23,4,7,6,6,13,3,84,84,168
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,1,1,2,7,3,4,5,2,2,3,1,11,13,2,3,1,2,4,5,35,37,72
+70104,LA GUARDIA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+20101,LA PAZ,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+80801,MAGDALENA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,2,1,0,2,3,0,0,2,4,11,2,3,1,1,2,2,14,22,36
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,2,0,1,2,1,1,0,1,2,1,6,5,11
+71001,MONTERO,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,1,2,0,0,2,1,1,5,3,2,1,0,1,0,0,10,9,19
+21104,PALOS BLANCOS,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,5,1,1,0,1,0,0,2,8,10
+90102,PORVENIR,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,2,1,0,0,0,0,0,1,0,0,1,2,0,0,1,0,3,0,7,4,11
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,1,2,2,0,1,2,4,0,0,0,0,0,0,4,8,12
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,1,0,0,1,0,0,1,1,3,2,1,0,0,0,0,4,6,10
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,1,2,3,0,0,2,2,1,2,6,12,1,0,0,0,0,0,12,20,32
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,1,0,0,5,1,0,0,5,4,0,0,2,2,0,0,12,8,20
+31001,SACABA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80602,SAN ANDRES,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,1,3,4
+71105,SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,1,0,0,3,8,13,4,3,7,9,5,5,11,5,2,2,1,0,1,40,40,80
+80501,SAN IGNACIO,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,1,0,1,2,0,1,0,0,1,1,1,0,0,0,0,0,4,4,8
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,3
+71104,SAN JULIAN,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,1,0,2,1,8,7,9,11,7,24,2,4,0,0,2,1,31,48,79
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,1,4,5
+71201,SAN MATIAS,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,1,0,2,4,6,6,11,14,19,7,10,7,23,22,5,3,5,3,7,3,89,69,158
+80303,SANTA ROSA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,2,3,3,6
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+90303,SENA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60101,TARIJA,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2,0,0,0,3,2,5
+20608,TEOPONTE,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,1,0,0,0,2,3,1,1,0,0,4,1,0,1,1,0,0,0,9,6,15
+20606,TIPUANI,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,1,0,1,1,0,1,2,1,0,1,10,13,6,3,1,4,3,3,24,27,51
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,1,0,0,1,7,1,2,5,6,1,10,8,2,5,3,5,0,1,31,27,58
+60303,VILLA MONTES,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,1,0,4,3,4,3,1,1,3,3,1,1,0,1,1,0,15,12,27
+31003,VILLA TUNARI,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-05-01,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,2,1,3
+22002,ALTO BENI,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+90104,BELLA FLOR,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,1,0,1,1,0,1,0,0,0,2,0,0,0,0,0,4,2,6
+60202,BERMEJO,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70707,BOYUIBE,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,2,1,0,1,2,4,2,4,7,6,1,1,1,1,1,0,16,18,34
+60302,CARAPARI,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,2,4,0,9,7,5,6,4,5,7,8,11,20,3,4,3,0,1,1,47,53,100
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,2,0,0,0,0,1,2,0,1,0,0,1,0,2,5,7
+71101,CONCEPCION,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,2,0,0,1,0,1,2,0,0,0,0,0,0,2,4,6
+20105,EL ALTO,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,1,0,1,2,0,1,1,1,0,2,0,0,1,0,4,6,10
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60601,ENTRE RIOS TRJ,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20602,GUANAY,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,2,0,2,1,0,4,1,4,2,0,0,3,2,0,3,1,0,1,12,14,26
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,2,4,4,6,5,2,2,1,7,9,4,4,0,2,3,5,27,33,60
+70104,LA GUARDIA,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,1,0,1,1,0,0,0,0,2,0,0,0,0,0,1,1,5,6
+80801,MAGDALENA,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,2,0,1,0,0,0,1,0,4,2,1,0,1,1,0,0,10,3,13
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+71001,MONTERO,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+21104,PALOS BLANCOS,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,2,0,2,0,4,0,1,0,2,0,0,0,11,11
+90102,PORVENIR,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,1,2,1,1,1,2,0,1,0,0,0,0,3,6,9
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0,2,4,6
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,1,0,2,0,3,5,0,1,0,1,0,0,6,7,13
+80301,REYES,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,1,2,0,0,1,2,0,1,3,4,0,0,1,0,1,0,7,9,16
+70503,ROBORE,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,1,0,1,1,0,0,3,0,3,6,0,1,1,2,0,0,9,10,19
+80602,SAN ANDRES,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,2,6,1,2,2,3,0,7,2,1,2,2,1,1,0,22,10,32
+21502,SAN BUENA VENTURA,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,2,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,5,1,6
+71102,SAN JAVIER(STC),sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,1,1,2,4,6
+71104,SAN JULIAN,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,3,2,2,2,4,4,6,8,14,21,2,3,3,3,1,3,35,46,81
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,3,0,3
+71201,SAN MATIAS,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+71005,SAN PEDRO,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,2,0,0,1,8,5,7,8,7,5,3,1,15,18,4,3,4,1,0,3,50,45,95
+80303,SANTA ROSA,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+10101,SUCRE,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+20608,TEOPONTE,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,3,2,5
+20606,TIPUANI,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,1,0,1,1,3,2,1,1,1,1,0,1,3,1,2,0,12,7,19
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,2,1,4,2,3,0,2,1,8,12,5,1,2,1,0,1,26,19,45
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,0,0,1,0,3,1,1,0,1,1,0,0,0,2,0,0,6,4,10
+70403,YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-06-01,0,0,0,0,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,3,4
+22002,ALTO BENI,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,1,0,0,4,1,1,0,1,0,0,0,6,2,8
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,1,3,0,2,11,7,12,12,11,5,4,4,9,13,0,2,0,0,2,3,50,51,101
+90104,BELLA FLOR,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+60202,BERMEJO,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,1,0,1,0,0,1,0,8,3,2,1,2,1,2,0,15,7,22
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,3,1,2,0,3,3,5,5,4,3,6,9,6,31,6,4,1,2,3,2,39,60,99
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,1,3,2,1,1,0,1,3,2,0,0,0,1,0,8,7,15
+31002,COLOMI,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,4,2,6
+20105,EL ALTO,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,3,1,4
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,1,0,0,2,1,0,1,0,3,3,2,0,2,1,2,0,12,6,18
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+20602,GUANAY,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2,0,0,0,0,0,2,4,6
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,1,3,4,3,2,7,5,3,4,9,8,5,3,2,2,3,4,35,33,68
+70104,LA GUARDIA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,2,3
+20101,LA PAZ,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,2,1,3
+11003,MACHARETI,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+80801,MAGDALENA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,2,0,0,0,0,2,1,0,0,0,0,0,2,2,0,0,0,0,0,0,5,4,9
+70903,MAIRANA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,1,0,0,0,2,5,2,0,0,1,1,0,0,6,6,12
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,4,0,4
+71001,MONTERO,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,2,2,4
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+70502,PAILON,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,1,3,4
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,1,0,0,0,0,0,1,1,0,0,2,0,1,0,0,0,0,0,0,1,5,6
+80703,PUERTO SILES,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,1,0,0,0,0,2,0,3,5,0,0,1,1,0,0,6,7,13
+80301,REYES,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,2,1,0,0,0,0,0,0,0,2,0,1,0,0,0,1,2,5,7
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,1,1,2,0,0,0,0,1,1,5,1,0,0,0,1,0,6,7,13
+70503,ROBORE,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,2,2,1,0,0,0,1,0,1,0,0,0,0,0,5,2,7
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,1,1,1,1,0,1,1,0,3,5,1,1,1,0,1,3,9,12,21
+31001,SACABA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80602,SAN ANDRES,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,1,2,3,3,4,0,0,0,0,2,4,4,0,1,1,0,1,12,14,26
+70402,SAN CARLOS,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,2,2,4
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,1,0,1,9,10
+71104,SAN JULIAN,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,3,1,1,2,7,5,2,1,5,8,4,2,0,2,2,0,24,21,45
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,2,0,2,1,5,7,5,9,6,8,4,2,16,20,5,9,3,4,3,2,51,62,113
+80303,SANTA ROSA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,2,2,4
+20608,TEOPONTE,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,1,0,5,0,3,1,0,0,0,1,1,1,1,1,0,0,2,2,13,6,19
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,6,3,2,5,9,5,8,12,5,5,2,3,1,3,33,36,69
+71502,URUBICHA,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70201,WARNES,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,0,0,0,0,3,0,2,3,0,0,0,0,0,0,5,3,8
+70403,YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-07-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,2,3
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,1,2,0,4,2,2,3,3,0,0,2,0,3,0,2,0,0,0,0,11,13,24
+80802,BAURES,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90104,BELLA FLOR,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70401,BUENA VISTA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,2,3
+60302,CARAPARI,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,2,2,2,3,5,5,10,10,4,2,5,8,15,26,1,2,2,3,1,2,47,63,110
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,2,0,0,0,0,0,2,5,7
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,1,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,3,2,5
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,0,0,0,3,0,3,7,10
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,1,1,0,0,0,0,0,1,2,0,1,0,0,0,0,2,4,6
+90503,EUREKA (SANTOS MERCADO),sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90203,FILADELFIA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2,2,4
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,1,0,0,3,0,1,1,2,3,2,2,3,5,4,4,2,8,3,4,1,28,21,49
+70104,LA GUARDIA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+80801,MAGDALENA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+70903,MAIRANA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,2,3
+71001,MONTERO,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80703,PUERTO SILES,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,1,0,0,0,6,0,6
+80301,REYES,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,1,0,0,1,1,1,3,1,1,3,2,4,1,0,1,0,0,2,0,12,10,22
+70503,ROBORE,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,3,4,7
+71105,SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,2,3,0,2,1,4,2,2,1,2,1,2,0,0,0,0,7,15,22
+21502,SAN BUENA VENTURA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+80501,SAN IGNACIO,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,2,3
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,1,2,1,0,0,2,0,0,1,0,0,0,1,4,4,8
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,4,5
+71104,SAN JULIAN,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,1,0,0,2,1,0,2,1,0,0,0,0,0,3,4,7
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80702,SAN RAMON BENI,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,2,1,2,3,5,5,3,1,7,1,11,17,2,5,1,2,1,3,34,38,72
+80303,SANTA ROSA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,3,0,3
+90303,SENA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10101,SUCRE,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+20608,TEOPONTE,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,4,2,6
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,1,5,2,0,2,2,4,5,2,3,2,1,0,1,3,17,16,33
+71502,URUBICHA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,sospecha diagnostica,dengue sin signos de alarma,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,5,2,0,0,2,6,5,2,2,1,0,0,1,2,0,1,0,0,0,0,15,14,29
+70401,BUENA VISTA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,0,0,0,0,0,3,2,5
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,4,1,7,7,7,7,15,10,2,4,7,20,5,5,3,2,2,2,52,58,110
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,3,2,4,6
+71101,CONCEPCION,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,1,3,1,4
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,0,1,1,0,3,1,1,0,1,1,1,3,7,10
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,1,0,0,1,1,0,0,0,2,0,0,0,0,2,0,3,4,7
+90503,EUREKA (SANTOS MERCADO),sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90203,FILADELFIA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,3,1,4,4,2,3,2,2,6,4,12,5,4,6,1,1,1,2,35,28,63
+70104,LA GUARDIA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,2,1,3
+80801,MAGDALENA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,1,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,5,0,5
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+21104,PALOS BLANCOS,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,1,0,1,2,3,5,8
+90102,PORVENIR,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,1,1,1,0,0,1,1,0,3,2,0,2,1,1,0,0,7,7,14
+80301,REYES,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,3
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,2,2,2,2,1,0,6,1,2,1,1,0,0,1,0,0,14,7,21
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,1,0,0,0,0,0,0,1,2,0,0,1,1,0,0,1,0,0,0,2,4,5,9
+31001,SACABA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,1,1,0,1,2,3,2,3,3,2,4,2,3,4,0,0,1,0,0,1,16,17,33
+80501,SAN IGNACIO,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,2,1,3
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,1,2,6,8
+80701,SAN JOAQUIN,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,1,2,3
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,1,1,3,1,5,2,6,0,4,3,5,1,1,0,0,1,3,1,28,10,38
+80303,SANTA ROSA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+20608,TEOPONTE,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,1,2,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,3,5,8
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,2,1,3,2,2,0,4,7,0,1,0,1,0,1,11,13,24
+31003,VILLA TUNARI,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,2,3
+70201,WARNES,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+60301,YACUIBA,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+70403,YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+22002,ALTO BENI,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,2,2,0,0,0,0,0,4,2,6
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,1,1,0,3,1,0,3,0,0,1,2,1,6,0,0,2,0,2,1,10,14,24
+90104,BELLA FLOR,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,0,0,0,3,1,4
+70401,BUENA VISTA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,3,0,1,2,0,3,1,0,0,0,1,0,0,5,6,11
+21101,CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,3,3,16,12,17,23,12,8,5,10,14,33,2,3,5,1,1,0,75,93,168
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,1,2,1,0,0,10,3,13
+31002,COLOMI,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,1,0,1,1,0,0,1,0,1,1,0,1,0,0,1,0,5,3,8
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,1,0,1,2,2,0,4,4,4,7,1,1,0,1,0,0,13,15,28
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,1,2,1,0,4,5,9
+90203,FILADELFIA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,3,1,4
+20602,GUANAY,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,1,0,0,1,4,2,8,4,2,4,8,3,12,15,3,3,2,2,3,2,43,36,79
+70104,LA GUARDIA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,3
+80801,MAGDALENA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+70903,MAIRANA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,1,2,0,0,1,0,1,3,0,0,0,0,0,0,3,5,8
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,1,0,0,2,1,0,2,2,1,0,1,0,0,0,6,4,10
+71001,MONTERO,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,1,0,1,0,2,0,0,1,0,0,2,1,0,0,0,2,0,0,6,4,10
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+40101,ORURO,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+21104,PALOS BLANCOS,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,2,1,0,1,0,0,0,2,4,5,1,2,1,1,0,0,8,12,20
+70601,PORTACHUELO,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+90102,PORVENIR,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+80301,REYES,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,2,0,0,1,1,4,1,1,0,1,2,2,0,1,0,0,0,0,6,10,16
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,1,1,4,5,4,7,3,1,0,1,9,5,1,4,0,0,1,1,23,25,48
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,1,0,0,0,1,0,2,2,0,4,0,1,1,0,2,0,7,7,14
+31001,SACABA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,3
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,2,1,4,2,7,7,5,4,7,8,6,4,11,9,1,4,0,0,2,1,45,40,85
+70402,SAN CARLOS,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+80501,SAN IGNACIO,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,2,1,1,2,7,1,1,0,0,0,0,4,11,15
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,1,2,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,5,3,8
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,2,2,4
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71104,SAN JULIAN,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,2,3
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,1,0,2,2,4,1,5,5,3,3,3,0,6,7,2,2,1,2,0,0,27,22,49
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+10101,SUCRE,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20608,TEOPONTE,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,1,0,0,0,3,0,0,0,1,2,0,0,0,1,0,0,0,3,5,8
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,4,3,4,4,1,1,2,3,0,2,0,0,1,0,12,13,25
+31003,VILLA TUNARI,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,2,0,1,1,4,2,4,4,5,2,9,22,7,4,2,1,0,3,34,39,73
+60301,YACUIBA,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,4,0,4
+70403,YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-10-01,0,0,0,0,1,0,0,0,2,1,0,0,1,1,0,0,0,0,0,0,4,2,6
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,2,0,0,0,7,3,3,1,0,3,0,2,0,2,0,0,2,0,2,0,16,11,27
+90104,BELLA FLOR,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,1,0,0,0,0,2,3,5
+60202,BERMEJO,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3,1,4
+90103,BOLPEBRA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,2,0,2,0,1,0,1,0,0,0,0,0,0,0,6,6
+70707,BOYUIBE,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,3,0,3
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,1,2,3,1,4,2,2,5,1,3,3,0,1,1,1,1,0,15,16,31
+70702,CHARAGUA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,2,0,0,4,27,30,48,42,26,26,17,22,42,52,4,5,7,6,3,3,176,190,366
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,1,2,0,0,0,0,9,9,5,4,2,0,0,1,17,16,33
+31002,COLOMI,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,2,2,4
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,2,2,9,5,4,5,1,7,13,14,5,6,4,1,2,1,40,41,81
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,1,0,0,0,1,0,1,1,1,3,0,2,1,0,0,0,5,6,11
+90203,FILADELFIA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,1,1,0,0,1,0,3,3,0,0,1,0,0,0,6,4,10
+20602,GUANAY,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,1,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,4,2,6
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,1,1,1,2,0,3,8,10,1,1,1,4,0,1,12,22,34
+70104,LA GUARDIA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,1,0,0,2,1,1,0,0,1,0,0,0,0,1,0,4,3,7
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,1,1,0,0,1,0,0,2,1,1,1,2,0,0,0,0,4,6,10
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,1,3
+71001,MONTERO,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70502,PAILON,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+70902,PAMPA GRANDE,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70601,PORTACHUELO,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90102,PORVENIR,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,1,0,0,1,1,2,4,4,1,0,1,2,3,1,0,0,0,0,1,10,12,22
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0,1,0,0,3,2,5
+80703,PUERTO SILES,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,3
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,1,2,0,4,0,2,0,10,9,6,1,2,0,2,0,28,11,39
+30901,QUILLACOLLO,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80301,REYES,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,1,1,1,0,2,0,3,2,0,0,1,0,1,1,9,4,13
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,1,2,1,2,0,0,0,3,2,1,6,2,1,0,2,0,0,10,13,23
+70503,ROBORE,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,2,0,2,2,2,1,2,1,5,12,3,0,0,1,1,1,17,18,35
+31001,SACABA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,5,5,1,1,1,1,0,0,8,7,15
+71105,SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,1,0,0,1,5,0,3,1,2,4,0,2,1,2,3,0,15,10,25
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,2,0,2,3,29,18,15,20,9,11,11,7,16,24,7,4,6,7,8,10,105,104,209
+70402,SAN CARLOS,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+80501,SAN IGNACIO,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,2,2,4
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,2,2,4
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80702,SAN RAMON BENI,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,3,0,0,0,1,1,3,0,0,0,0,1,0,2,7,9
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,1,0,1,1,3,2,3,8,7,0,1,4,6,5,0,2,2,0,3,1,27,23,50
+10101,SUCRE,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20608,TEOPONTE,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,3,0,0,0,0,1,3,0,0,0,0,1,0,2,6,8
+20606,TIPUANI,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,1,0,0,0,4,1,5,0,3,3,29,4,5,2,4,0,1,1,52,11,63
+31003,VILLA TUNARI,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,3,0,3,4,2,5,6,5,24,36,8,6,4,4,4,3,54,63,117
+60301,YACUIBA,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,2,1,3
+70403,YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-11-01,0,0,0,0,0,0,0,3,0,0,0,0,0,1,1,0,0,0,0,0,1,4,5
+30201,AIQUILE,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,3,0,1,1,1,0,0,0,0,0,5,1,6
+22002,ALTO BENI,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+90104,BELLA FLOR,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,3,2,0,0,0,1,4,1,1,0,0,0,0,4,8,12
+90103,BOLPEBRA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,1,1,0,1,0,2,1,0,0,0,0,0,2,4,6
+70707,BOYUIBE,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70401,BUENA VISTA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70706,CAMIRI,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,1,0,0,2,0,0,0,0,0,0,2,0,0,0,2,0,5,2,7
+30701,CAPINOTA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,3,0,2,1,0,1,0,0,1,0,6,2,8
+22001,CARANAVI,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,1,1,0,1,2,2,9,2,2,1,0,0,0,0,14,7,21
+60302,CARAPARI,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70702,CHARAGUA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,1,0,0,1,1,0,6,1,7
+31204,CHIMORE,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,3,4,3,5,3,2,2,4,6,4,4,6,21,12,4,5,7,1,0,4,53,47,100
+90101,COBIJA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,2,1,3,4,21,32,30,24,15,23,18,22,54,64,13,12,2,8,8,4,166,194,360
+30101,COCHABAMBA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,2,1,1,1,4,2,3,1,3,4,3,30,54,16,15,7,4,6,4,68,93,161
+31002,COLOMI,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,1,0,0,0,1,1,0,0,0,2,2,0,2,1,1,0,0,4,7,11
+70603,COLPA BELGICA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,2,0,0,0,0,0,2,1,1,0,1,0,0,0,0,0,6,1,7
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,2,3,5
+71503,EL PUENTE(STC),sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,1,1,11,7,6,4,2,5,11,11,9,4,2,1,4,2,46,35,81
+70105,EL TORNO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,1,1,0,0,1,3,2,1,0,0,0,0,0,0,4,5,9
+60601,ENTRE RIOS TRJ,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+31206,ENTRE RIOS CBBA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,2,0,8,12,1,0,6,6,9,15,16,22,37,44,11,13,1,9,1,3,92,124,216
+90203,FILADELFIA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,1,0,1,0,1,2,1,5,4,2,1,1,0,1,0,11,9,20
+20602,GUANAY,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,2,3,5
+80202,GUAYARAMERIN,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,1,0,0,1,2,2,6,1,1,2,0,1,1,7,11,18
+70104,LA GUARDIA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,1,0,0,0,2,3,2,1,6,3,7,11,1,1,1,2,0,0,20,21,41
+80801,MAGDALENA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20607,MAPIRI,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,1,3,3,6
+10501,MONTEAGUDO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,1,0,0,2,0,1,2,0,1,2,0,2,2,1,0,1,6,9,15
+71001,MONTERO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,2,0,1,2,1,0,1,1,1,0,0,0,1,0,0,3,7,10
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70502,PAILON,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,2,1,2,4,1,7,2,2,12,6,2,2,1,1,3,3,25,26,51
+70902,PAMPA GRANDE,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,2,1,3
+70103,PORONGO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70601,PORTACHUELO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,1,3,8,8,4,5,2,2,5,8,3,1,0,1,0,0,23,28,51
+90201,PUERTO RICO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+31205,PUERTO VILLARROEL,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,3,7,16,11,2,6,14,8,13,11,29,28,68,103,18,20,19,13,10,11,192,218,410
+30901,QUILLACOLLO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,3,1,4
+80301,REYES,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,2,2,2,0,0,0,2,4,1,0,0,1,0,0,7,7,14
+80201,RIBERALTA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,5,1,3,4,3,3,2,2,10,5,0,2,0,3,3,4,26,24,50
+70503,ROBORE,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,1,3,3,6
+80304,RURRENABAQUE,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,1,0,0,0,4,0,2,9,7,2,4,2,15,9,3,2,1,4,3,2,40,30,70
+31001,SACABA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,1,3,1,2,2,5,5,8,8,4,40,36,9,13,6,10,4,9,76,90,166
+71302,SAIPINA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80602,SAN ANDRES,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,1,3,4,1,2,0,2,4,8,0,1,1,1,0,1,9,20,29
+71105,SAN ANTONIO DE LOMERIO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,1,0,0,2,2,3,0,4,3,9,2,2,3,0,3,1,14,21,35
+80302,SAN BORJA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,1,0,1,3,16,9,20,7,11,10,17,18,23,40,11,8,9,11,4,9,113,115,228
+21502,SAN BUENA VENTURA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,1,1,0,1,1,1,0,1,1,3,7,1,0,0,0,1,3,9,13,22
+70402,SAN CARLOS,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,1,6,10,6,4,3,0,5,4,8,0,2,0,0,0,1,19,31,50
+80501,SAN IGNACIO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,1,0,1,1,0,2,0,1,3,1,3,1,2,0,2,0,12,6,18
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,1,6,4,0,2,0,4,2,0,1,1,0,0,0,0,0,2,9,14,23
+80701,SAN JOAQUIN,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,3
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,1,0,0,1,0,1,0,0,0,2,0,2,0,0,1,0,2,6,8
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,1,0,0,1,0,2,2,0,0,0,0,0,0,0,3,3,6
+71104,SAN JULIAN,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,3,2,2,2,2,2,11,10,3,1,0,1,1,2,22,20,42
+90302,SAN LORENZO(PND),sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80702,SAN RAMON BENI,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+80401,SANTA ANA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,1,0,2,2,0,3,1,1,0,1,0,7,4,11
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,1,0,3,1,10,11,21,23,25,26,20,18,42,60,12,14,7,8,3,5,144,166,310
+80303,SANTA ROSA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,2,4,5,3,3,1,2,6,4,1,2,1,0,0,1,16,19,35
+90303,SENA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+30902,SIPE SIPE,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+10101,SUCRE,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,2,0,2,0,3,1,0,0,2,0,0,0,9,1,10
+10601,TARABUCO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+60101,TARIJA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80101,TRINIDAD,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,1,0,8,4,17,14,6,6,4,4,21,18,4,4,5,9,7,3,73,62,135
+31003,VILLA TUNARI,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,1,1,2,0,7,3,10,8,6,8,3,4,15,41,3,14,8,10,3,4,58,93,151
+30904,VINTO,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,1,1,0,0,1,2,2,2,2,2,0,0,3,0,1,7,10,17
+70201,WARNES,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,2,3
+60301,YACUIBA,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,0,0,0,0,0,1,0,0,1,0,2,2,2,1,1,3,0,1,0,0,6,8,14
+70403,YAPACANI,sospecha diagnostica,dengue sin signos de alarma,2019-12-01,1,0,1,0,11,6,8,12,8,11,5,7,16,18,6,4,2,3,2,3,60,64,124

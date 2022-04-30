@@ -1,0 +1,1335 @@
+codigo_municipio,municipio,grupo,variable,mes,a-de-6-meses_masculino,a-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+20201,ACHACACHI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,4
+20104,ACHOCALLA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30201,AIQUILE,inmunoprevenibles,varicela,2020-01-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10404,ALCALA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,3,3,2,2,1,0,0,0,0,0,0,0,0,0,0,0,6,5,11
+20701,APOLO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,2,1,1,1,0,0,0,1,0,0,0,0,0,0,3,3,6
+30403,ARBIETO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+30601,ARQUE,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+71501,ASCENCION DE GUARAYOS,inmunoprevenibles,varicela,2020-01-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21303,AYO AYO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+30301,AYOPAYA (V. DE INDEPENDENCIA),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+10201,AZURDUY,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90104,BELLA FLOR,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,varicela,2020-01-01,2,0,1,1,6,3,5,1,4,0,0,1,2,0,1,0,0,0,0,0,21,6,27
+50301,BETANZOS,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+70401,BUENA VISTA,inmunoprevenibles,varicela,2020-01-01,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+20303,CALACOTO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21304,CALAMARCA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+30701,CAPINOTA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+40102,CARACOLLO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,2,2,4
+22001,CARANAVI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,2,0,3,0,0,0,0,2,0,0,0,0,0,0,0,2,5,7
+71403,CARMEN RIVERO TORREZ,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+40201,CHALLAPATA,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50302,CHAQUI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70702,CHARAGUA,inmunoprevenibles,varicela,2020-01-01,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6
+31204,CHIMORE,inmunoprevenibles,varicela,2020-01-01,0,0,1,1,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,5
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+51103,CKOCHAS,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30801,CLIZA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+90101,COBIJA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,3,6,4,2,0,0,1,0,1,1,0,0,0,0,0,0,9,9,18
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-01-01,0,1,3,2,15,13,2,10,6,9,2,1,5,7,0,1,0,1,0,0,33,45,78
+30905,COLCAPIRHUA,inmunoprevenibles,varicela,2020-01-01,1,0,0,1,2,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,6,3,9
+31002,COLOMI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+70603,COLPA BELGICA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71301,COMARAPA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+21701,COPACABANA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,4,1,5
+20301,CORO CORO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+40301,CORQUE,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50601,COTAGAITA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70102,COTOCA,inmunoprevenibles,varicela,2020-01-01,2,0,1,3,7,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11,5,16
+71106,CUATRO CAÑADAS,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70704,CUEVO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10902,CULPINA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+20105,EL ALTO,inmunoprevenibles,varicela,2020-01-01,1,0,0,0,3,3,2,5,5,3,1,2,8,8,0,0,0,0,2,0,22,21,43
+71503,EL PUENTE(STC),inmunoprevenibles,varicela,2020-01-01,0,1,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6
+60502,EL PUENTE(TJA),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2
+70105,EL TORNO,inmunoprevenibles,varicela,2020-01-01,0,0,1,0,4,7,4,3,1,1,0,0,0,0,0,0,0,0,0,0,10,11,21
+60601,ENTRE RIOS TRJ,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+31206,ENTRE RIOS CBBA,inmunoprevenibles,varicela,2020-01-01,0,0,0,2,9,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,10,7,17
+80402,EXALTACION,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+71004,FERNANDEZ ALONSO,inmunoprevenibles,varicela,2020-01-01,0,0,5,0,2,11,1,0,0,1,0,0,0,0,0,1,0,0,0,0,8,13,21
+90203,FILADELFIA,inmunoprevenibles,varicela,2020-01-01,0,0,2,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7
+71002,GENERAL SAAVEDRA,inmunoprevenibles,varicela,2020-01-01,0,1,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,3,7
+20602,GUANAY,inmunoprevenibles,varicela,2020-01-01,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,2,3
+80202,GUAYARAMERIN,inmunoprevenibles,varicela,2020-01-01,0,0,0,3,5,4,2,2,1,0,0,0,0,0,0,0,0,0,0,0,8,9,17
+70705,GUTIERREZ,inmunoprevenibles,varicela,2020-01-01,0,0,0,2,2,3,0,2,1,0,0,0,0,0,0,0,0,0,0,0,3,7,10
+11002,HUACAYA (VILLA DE HUACAYA),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40501,HUACHACALLA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,inmunoprevenibles,varicela,2020-01-01,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,3,1,4
+21005,ICHOCA,inmunoprevenibles,varicela,2020-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21001,INQUISIVI,inmunoprevenibles,varicela,2020-01-01,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,3,4
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+21501,IXIAMAS,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20806,JESUS DE MACHACA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-01-01,0,0,1,5,22,7,2,3,0,1,0,0,0,0,0,0,0,0,0,0,25,16,41
+20101,LA PAZ,inmunoprevenibles,varicela,2020-01-01,0,1,2,0,13,9,10,5,2,5,3,8,5,9,1,1,0,0,0,0,36,38,74
+21202,LAJA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10903,LAS CARRERAS,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,2,1,0,1,1,0,1,0,1,0,0,0,0,0,0,2,5,7
+40702,MACHACAMARCA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+11003,MACHARETI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+80801,MAGDALENA,inmunoprevenibles,varicela,2020-01-01,1,0,0,3,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,9
+70903,MAIRANA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,2,4
+20607,MAPIRI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,4
+20103,MECAPACA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71003,MINEROS,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,3
+31301,MIZQUE,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10501,MONTEAGUDO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,4
+71001,MONTERO,inmunoprevenibles,varicela,2020-01-01,1,1,4,2,12,21,4,2,1,2,1,0,0,0,0,0,0,0,0,0,23,28,51
+90401,NACEBE (SANTA ROSA DEL ABUNA),inmunoprevenibles,varicela,2020-01-01,0,0,1,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,4
+70202,OKINAWA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30203,OMEREQUE,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,varicela,2020-01-01,0,0,1,0,7,5,5,5,5,7,3,2,1,4,1,0,0,0,0,0,23,23,46
+60201,PADCAYA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10401,PADILLA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,4
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,3,6,1,2,0,1,0,0,1,0,0,0,0,0,0,0,5,10,15
+21802,PAPEL PAMPA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,3
+30202,PASORAPA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+40602,PAZÑA,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31202,POJO (CBBA),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51203,PORCO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10103,POROMA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70103,PORONGO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,varicela,2020-01-01,0,0,1,0,4,4,3,1,3,1,2,2,4,2,0,1,0,1,1,0,18,12,30
+21201,PUCARANI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,1,0,1,1,3,0,0,1,1,0,0,0,6,2,8
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,varicela,2020-01-01,1,0,0,0,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,3,3,6
+71402,PUERTO QUIJARRO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+90201,PUERTO RICO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-01-01,0,1,3,3,2,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,8,13
+51101,PUNA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+31401,PUNATA,inmunoprevenibles,varicela,2020-01-01,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,2,3,5
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-01-01,1,0,0,0,3,3,2,1,1,2,1,0,0,0,1,0,0,0,0,0,9,6,15
+31304,RAQAYPAMPA(ETA),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-01-01,1,0,3,2,6,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,7,17
+70503,ROBORE,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,2,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,6,8
+80304,RURRENABAQUE,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+31001,SACABA,inmunoprevenibles,varicela,2020-01-01,0,1,0,0,3,5,1,5,0,1,1,1,0,1,0,0,0,0,0,0,5,14,19
+30404,SACABAMBA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70901,SAMAIPATA,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51601,SAN AGUSTIN,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+71105,SAN ANTONIO DE LOMERIO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7
+31403,SAN BENITO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,1,4
+80302,SAN BORJA,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,4,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,11,15
+21502,SAN BUENA VENTURA,inmunoprevenibles,varicela,2020-01-01,0,0,2,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6
+70402,SAN CARLOS,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,varicela,2020-01-01,1,0,2,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,8
+80701,SAN JOAQUIN,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70404,SAN JUAN DE YAPACANI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,inmunoprevenibles,varicela,2020-01-01,0,1,0,1,2,6,2,0,2,0,1,0,0,1,0,0,0,0,0,0,7,9,16
+60501,SAN LORENZO(TJA),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+71005,SAN PEDRO,inmunoprevenibles,varicela,2020-01-01,1,0,3,0,3,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,6,13
+70303,SAN RAFAEL,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+80702,SAN RAMON BENI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,2,0,0,0,0,1,4,5
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-01-01,0,1,3,6,30,33,5,5,2,3,2,3,3,2,0,0,0,0,0,0,45,53,98
+70602,SANTA ROSA DEL SARA,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30702,SANTIVAÑES,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+90303,SENA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,inmunoprevenibles,varicela,2020-01-01,1,0,1,3,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,5,12
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30703,SICAYA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+10403,SOPACHUY,inmunoprevenibles,varicela,2020-01-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,varicela,2020-01-01,0,0,2,1,5,7,2,6,0,4,1,1,0,2,0,0,0,0,2,0,12,21,33
+20603,TACACOMA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30401,TARATA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,inmunoprevenibles,varicela,2020-01-01,0,1,1,0,8,6,3,7,2,5,0,0,3,1,0,0,1,0,0,0,18,20,38
+10202,TARVITA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20606,TIPUANI,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,1,1,1,3,0,1,0,1,1,0,0,0,0,0,0,0,3,7,10
+31601,TIRAQUE (CBBA),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30802,TOCO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+10402,TOMINA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50502,TORO TORO,inmunoprevenibles,varicela,2020-01-01,0,0,0,1,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,3,5
+31201,TOTORA(CBBA),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,4,4
+41301,TOTORA(ORR),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70802,TRIGAL,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,varicela,2020-01-01,1,1,2,3,8,5,0,3,1,0,0,0,1,0,1,0,0,0,2,0,16,12,28
+50801,TUPIZA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,1,3
+71502,URUBICHA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+20801,VIACHA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,1,0,1,3,0,0,0,0,0,0,0,0,0,0,2,4,6
+60303,VILLA MONTES,inmunoprevenibles,varicela,2020-01-01,1,0,2,1,6,6,2,4,2,3,1,1,1,0,0,0,0,0,0,0,15,15,30
+90502,VILLA NUEVA (LOMA ALTA),inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31402,VILLA RIVERO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,3
+31003,VILLA TUNARI,inmunoprevenibles,varicela,2020-01-01,2,1,3,2,9,6,2,4,1,0,0,0,1,3,1,1,0,0,0,0,19,17,36
+51501,VILLAZON,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,4
+30904,VINTO,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,3,4,4,0,0,0,0,3,2,0,0,1,0,0,0,0,9,8,17
+70201,WARNES,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+60301,YACUIBA,inmunoprevenibles,varicela,2020-01-01,1,0,1,1,6,10,1,2,4,1,1,0,4,0,0,0,0,0,0,0,18,14,32
+70403,YAPACANI,inmunoprevenibles,varicela,2020-01-01,1,0,2,5,6,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,11,9,20
+10102,YOTALA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60402,YUNCHARA,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10301,ZUDAÑEZ,inmunoprevenibles,varicela,2020-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+20104,ACHOCALLA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+30201,AIQUILE,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+41201,ANDAMARCA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+40603,ANTEQUERA,inmunoprevenibles,varicela,2020-02-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30403,ARBIETO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3,2,5
+50802,ATOCHA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,2,3
+21303,AYO AYO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+30301,AYOPAYA (V. DE INDEPENDENCIA),inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,2,1,3
+10201,AZURDUY,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21203,BATALLAS,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90104,BELLA FLOR,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+60202,BERMEJO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,2,5,1,0,0,0,0,0,1,0,0,0,0,0,0,5,4,9
+70401,BUENA VISTA,inmunoprevenibles,varicela,2020-02-01,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+21003,CAJUATA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+70706,CAMIRI,inmunoprevenibles,varicela,2020-02-01,0,0,2,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+30701,CAPINOTA,inmunoprevenibles,varicela,2020-02-01,0,0,2,1,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,4,4,8
+40102,CARACOLLO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+50702,CARIPUYO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+71403,CARMEN RIVERO TORREZ,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70702,CHARAGUA,inmunoprevenibles,varicela,2020-02-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50202,CHAYANTA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,inmunoprevenibles,varicela,2020-02-01,0,1,0,1,4,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,12
+30801,CLIZA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,inmunoprevenibles,varicela,2020-02-01,0,0,1,2,5,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,9,5,14
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-02-01,0,2,0,0,12,9,12,8,3,2,0,2,4,2,0,0,0,0,0,0,31,25,56
+30905,COLCAPIRHUA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,3,0,1,1,0,1,1,0,0,0,0,0,0,0,0,2,5,7
+31002,COLOMI,inmunoprevenibles,varicela,2020-02-01,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,3
+21701,COPACABANA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,1,2,1,1,0,0,1,0,0,0,0,0,0,3,4,7
+21401,COROICO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+40301,CORQUE,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50601,COTAGAITA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+70102,COTOCA,inmunoprevenibles,varicela,2020-02-01,0,0,2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6
+70704,CUEVO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+21602,CURVA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,varicela,2020-02-01,0,0,2,1,1,0,4,4,5,2,5,5,0,8,0,0,0,0,0,0,17,20,37
+40103,EL CHORO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),inmunoprevenibles,varicela,2020-02-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+60502,EL PUENTE(TJA),inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+70105,EL TORNO,inmunoprevenibles,varicela,2020-02-01,1,0,4,2,4,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,10,4,14
+60601,ENTRE RIOS TRJ,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,varicela,2020-02-01,0,0,7,2,6,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13,11,24
+71004,FERNANDEZ ALONSO,inmunoprevenibles,varicela,2020-02-01,0,0,2,0,1,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,9,12
+90203,FILADELFIA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+71002,GENERAL SAAVEDRA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,6
+20602,GUANAY,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,inmunoprevenibles,varicela,2020-02-01,0,0,5,1,14,10,7,8,4,2,3,1,6,6,2,2,2,2,0,2,43,34,77
+70705,GUTIERREZ,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10502,HUACARETA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+11002,HUACAYA (VILLA DE HUACAYA),inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10304,ICLA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10703,INCAHUASI,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+21001,INQUISIVI,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+20806,JESUS DE MACHACA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-02-01,1,0,2,1,8,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,13,4,17
+20101,LA PAZ,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,6,4,3,7,6,4,4,4,8,12,0,3,0,0,0,1,27,35,62
+70701,LAGUNILLAS,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+21202,LAJA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10903,LAS CARRERAS,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+11003,MACHARETI,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+70903,MAIRANA,inmunoprevenibles,varicela,2020-02-01,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,4,5
+20607,MAPIRI,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,3,4
+20103,MECAPACA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71003,MINEROS,inmunoprevenibles,varicela,2020-02-01,0,0,0,1,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,2,5
+31301,MIZQUE,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+10501,MONTEAGUDO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,3
+71001,MONTERO,inmunoprevenibles,varicela,2020-02-01,1,4,6,6,13,10,2,2,0,2,0,0,0,0,2,0,0,0,0,0,24,24,48
+90401,NACEBE (SANTA ROSA DEL ABUNA),inmunoprevenibles,varicela,2020-02-01,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+40101,ORURO,inmunoprevenibles,varicela,2020-02-01,1,2,0,1,5,2,2,8,5,7,8,3,4,16,1,0,0,0,1,0,27,39,66
+60201,PADCAYA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10401,PADILLA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+70502,PAILON,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-02-01,1,0,0,1,1,2,1,2,1,1,0,0,0,0,0,0,0,0,0,0,4,6,10
+30202,PASORAPA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40602,PAZÑA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31203,POCONA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51203,PORCO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10103,POROMA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+90102,PORVENIR,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,varicela,2020-02-01,0,1,0,0,0,0,1,2,0,1,0,2,1,4,0,0,0,0,0,0,2,10,12
+21201,PUCARANI,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20401,PUERTO ACOSTA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3,2,5
+90201,PUERTO RICO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-02-01,0,0,3,1,3,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,7,9,16
+31401,PUNATA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-02-01,0,0,1,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,6
+80301,REYES,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-02-01,1,1,1,4,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,12,18
+70503,ROBORE,inmunoprevenibles,varicela,2020-02-01,0,0,2,1,5,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7,6,13
+80304,RURRENABAQUE,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+31001,SACABA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,3,6
+70901,SAMAIPATA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20805,SAN ANDRES DE MACHACA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71105,SAN ANTONIO DE LOMERIO,inmunoprevenibles,varicela,2020-02-01,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+80302,SAN BORJA,inmunoprevenibles,varicela,2020-02-01,0,0,1,0,3,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,4,9
+21502,SAN BUENA VENTURA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80501,SAN IGNACIO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,varicela,2020-02-01,0,0,2,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,9
+80102,SAN JAVIER(BNI),inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80701,SAN JOAQUIN,inmunoprevenibles,varicela,2020-02-01,0,0,0,1,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,4,6
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+70404,SAN JUAN DE YAPACANI,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,inmunoprevenibles,varicela,2020-02-01,0,0,5,1,8,3,4,1,0,0,1,0,0,0,0,0,0,0,0,0,18,5,23
+60501,SAN LORENZO(TJA),inmunoprevenibles,varicela,2020-02-01,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+10702,SAN LUCAS,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+71201,SAN MATIAS,inmunoprevenibles,varicela,2020-02-01,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,3,4
+71005,SAN PEDRO,inmunoprevenibles,varicela,2020-02-01,0,1,0,1,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7
+50501,SAN PEDRO DE BUENA VISTA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+21702,SAN PEDRO DE TIQUINA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70303,SAN RAFAEL,inmunoprevenibles,varicela,2020-02-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80702,SAN RAMON BENI,inmunoprevenibles,varicela,2020-02-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80401,SANTA ANA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-02-01,0,1,4,6,14,15,3,5,0,0,0,1,2,2,0,0,0,0,0,0,23,30,53
+80303,SANTA ROSA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70602,SANTA ROSA DEL SARA,inmunoprevenibles,varicela,2020-02-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30702,SANTIVAÑES,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+90303,SENA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+31602,SHINAOTA,inmunoprevenibles,varicela,2020-02-01,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+30902,SIPE SIPE,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,3,0,1,1,1,0,1,0,1,0,0,0,0,0,0,1,7,8
+10101,SUCRE,inmunoprevenibles,varicela,2020-02-01,0,0,2,0,2,2,6,3,1,2,0,0,0,4,0,0,0,0,0,0,11,11,22
+30401,TARATA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,5,0,1,1,0,2,0,0,0,1,0,0,0,0,0,0,6,4,10
+10202,TARVITA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20606,TIPUANI,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+31601,TIRAQUE (CBBA),inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,4,0,4
+30803,TOLATA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+10402,TOMINA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31201,TOTORA(CBBA),inmunoprevenibles,varicela,2020-02-01,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+41301,TOTORA(ORR),inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,varicela,2020-02-01,1,0,2,1,7,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,4,14
+50801,TUPIZA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50201,UNCIA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51201,UYUNI,inmunoprevenibles,varicela,2020-02-01,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30502,VACAS,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+20801,VIACHA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,2,1,1,0,2,0,1,1,0,1,0,0,0,1,0,0,6,4,10
+31302,VILA VILA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,4,5,1,1,0,1,1,1,0,0,0,0,0,0,0,0,6,8,14
+90502,VILLA NUEVA (LOMA ALTA),inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31402,VILLA RIVERO,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,5,4,0,1,2,1,0,0,1,1,0,0,0,0,0,0,8,7,15
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,varicela,2020-02-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+51501,VILLAZON,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,2,0,0,2,1,1,0,0,0,0,0,1,0,0,0,0,3,4,7
+30904,VINTO,inmunoprevenibles,varicela,2020-02-01,0,0,0,1,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6,7
+70201,WARNES,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,varicela,2020-02-01,0,0,2,2,8,6,1,1,0,0,1,0,2,0,0,0,0,0,0,0,14,9,23
+70403,YAPACANI,inmunoprevenibles,varicela,2020-02-01,1,0,1,1,4,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,9,16
+10102,YOTALA,inmunoprevenibles,varicela,2020-02-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+20201,ACHACACHI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,1,4,0,1,0,0,0,0,0,0,1,6,7
+20104,ACHOCALLA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30501,ARANI,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30403,ARBIETO,inmunoprevenibles,varicela,2020-03-01,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+71501,ASCENCION DE GUARAYOS,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21303,AYO AYO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,3,4
+10201,AZURDUY,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90104,BELLA FLOR,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,varicela,2020-03-01,0,0,2,0,4,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,7,5,12
+50301,BETANZOS,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,2,3,5
+70707,BOYUIBE,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70401,BUENA VISTA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+70703,CABEZAS,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20905,CAIROMA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+51102,"CAIZA ""D""",inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21003,CAJUATA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30701,CAPINOTA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,4,4
+40102,CARACOLLO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,2,1,2,0,0,0,0,0,0,0,0,0,0,1,5,6
+22001,CARANAVI,inmunoprevenibles,varicela,2020-03-01,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+60302,CARAPARI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,4,4,1,1,0,0,1,0,0,0,0,0,0,0,0,6,6,12
+71403,CARMEN RIVERO TORREZ,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40201,CHALLAPATA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50302,CHAQUI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70702,CHARAGUA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+31204,CHIMORE,inmunoprevenibles,varicela,2020-03-01,0,1,0,2,2,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,10,12
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+51103,CKOCHAS,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30801,CLIZA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,inmunoprevenibles,varicela,2020-03-01,1,1,1,0,9,11,5,0,1,0,0,0,0,1,0,0,0,0,0,0,17,13,30
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-03-01,0,0,0,3,6,8,10,5,4,3,1,2,1,0,0,0,0,0,0,0,22,21,43
+30905,COLCAPIRHUA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50901,"COLCHA ""K""",inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31002,COLOMI,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21306,COLQUENCHA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+21701,COPACABANA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,1,0,1,0,2,1,0,0,0,1,0,0,0,0,0,3,4,7
+21401,COROICO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,1,4,1,1,0,0,0,0,0,0,0,0,0,0,2,6,8
+70102,COTOCA,inmunoprevenibles,varicela,2020-03-01,0,1,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,2,5
+71106,CUATRO CAÑADAS,inmunoprevenibles,varicela,2020-03-01,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+20105,EL ALTO,inmunoprevenibles,varicela,2020-03-01,0,2,0,0,4,5,6,8,5,2,6,4,2,3,0,0,0,0,0,0,23,24,47
+71503,EL PUENTE(STC),inmunoprevenibles,varicela,2020-03-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+60502,EL PUENTE(TJA),inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,1,2,1,1,0,0,0,1,0,0,0,0,0,0,2,5,7
+70105,EL TORNO,inmunoprevenibles,varicela,2020-03-01,1,0,1,0,10,2,1,0,1,0,0,0,1,0,0,0,0,0,1,0,16,2,18
+60601,ENTRE RIOS TRJ,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+31206,ENTRE RIOS CBBA,inmunoprevenibles,varicela,2020-03-01,1,0,3,4,6,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,14,24
+80402,EXALTACION,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71004,FERNANDEZ ALONSO,inmunoprevenibles,varicela,2020-03-01,0,0,4,0,2,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,13
+90203,FILADELFIA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+71002,GENERAL SAAVEDRA,inmunoprevenibles,varicela,2020-03-01,0,0,1,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6
+20602,GUANAY,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20802,GUAQUI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,inmunoprevenibles,varicela,2020-03-01,1,0,4,3,12,6,3,0,1,0,3,0,0,2,0,0,1,0,0,0,25,11,36
+70705,GUTIERREZ,inmunoprevenibles,varicela,2020-03-01,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+10502,HUACARETA,inmunoprevenibles,varicela,2020-03-01,0,0,1,0,2,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,5,8
+11002,HUACAYA (VILLA DE HUACAYA),inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40701,HUANUNI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,2,3
+41601,HUAYLLAMARCA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,1,3
+10703,INCAHUASI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,2,3
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21501,IXIAMAS,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,inmunoprevenibles,varicela,2020-03-01,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-03-01,0,0,1,0,4,6,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6,7,13
+20101,LA PAZ,inmunoprevenibles,varicela,2020-03-01,0,0,2,0,5,7,7,8,7,6,5,2,8,14,1,0,0,0,1,0,36,37,73
+10903,LAS CARRERAS,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+50203,LLALLAGUA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,4,0,1,2,0,0,0,2,0,0,0,0,0,0,5,4,9
+11003,MACHARETI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,inmunoprevenibles,varicela,2020-03-01,0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,5
+70903,MAIRANA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+20607,MAPIRI,inmunoprevenibles,varicela,2020-03-01,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+20103,MECAPACA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+71003,MINEROS,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+10303,MOJOCOYA,inmunoprevenibles,varicela,2020-03-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71001,MONTERO,inmunoprevenibles,varicela,2020-03-01,2,0,4,14,21,19,1,3,0,0,0,0,1,0,0,0,0,1,0,4,29,41,70
+70803,MORO MORO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50404,OCURI,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,varicela,2020-03-01,0,0,1,0,3,5,9,6,4,5,2,3,0,4,0,0,0,0,0,0,19,23,42
+60201,PADCAYA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,3
+10401,PADILLA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70502,PAILON,inmunoprevenibles,varicela,2020-03-01,0,0,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-03-01,0,1,1,0,5,7,8,3,1,1,0,0,1,0,0,0,1,0,0,0,17,12,29
+40602,PAZÑA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+10103,POROMA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+70103,PORONGO,inmunoprevenibles,varicela,2020-03-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70601,PORTACHUELO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+90102,PORVENIR,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70804,POSTRER VALLE,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+50101,POTOSI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,3,1,0,0,2,0,1,0,5,2,0,1,0,0,0,0,11,4,15
+20403,PUERTO CARABUCO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,varicela,2020-03-01,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+71402,PUERTO QUIJARRO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+90201,PUERTO RICO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-03-01,0,0,2,1,2,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,4,5,9
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-03-01,0,0,1,0,1,0,2,1,1,2,1,0,0,2,0,0,0,0,0,0,6,5,11
+50402,RAVELO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-03-01,2,2,1,1,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,13
+70503,ROBORE,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,3,7
+80304,RURRENABAQUE,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6
+31001,SACABA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,3,4,0,0,0,1,0,0,0,0,0,0,0,0,0,6,3,9
+40801,SALINAS DE GARCI MENDOZA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80602,SAN ANDRES,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71105,SAN ANTONIO DE LOMERIO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+80302,SAN BORJA,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+21502,SAN BUENA VENTURA,inmunoprevenibles,varicela,2020-03-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6
+80501,SAN IGNACIO,inmunoprevenibles,varicela,2020-03-01,0,0,1,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,6
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,varicela,2020-03-01,0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+70404,SAN JUAN DE YAPACANI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,inmunoprevenibles,varicela,2020-03-01,0,0,1,2,5,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,8,8,16
+60501,SAN LORENZO(TJA),inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,3,4
+10702,SAN LUCAS,inmunoprevenibles,varicela,2020-03-01,1,0,0,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,7
+71201,SAN MATIAS,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+71005,SAN PEDRO,inmunoprevenibles,varicela,2020-03-01,0,0,1,3,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,6,11
+50501,SAN PEDRO DE BUENA VISTA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,3,4,7
+21702,SAN PEDRO DE TIQUINA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-03-01,2,2,6,8,28,27,6,8,1,1,0,1,0,5,0,0,0,0,0,0,43,52,95
+80303,SANTA ROSA,inmunoprevenibles,varicela,2020-03-01,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+70602,SANTA ROSA DEL SARA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90303,SENA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31602,SHINAOTA,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30703,SICAYA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,2,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,5,8
+20601,SORATA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,8,9,5,6,0,1,0,0,0,0,0,0,0,0,0,0,13,17,30
+20603,TACACOMA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30401,TARATA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,inmunoprevenibles,varicela,2020-03-01,0,1,0,0,1,1,1,2,0,0,0,1,1,1,0,0,0,0,0,0,3,6,9
+10202,TARVITA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20803,TIAHUANACU,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,varicela,2020-03-01,0,0,0,1,1,3,0,1,1,1,0,0,0,0,0,0,0,0,0,0,2,6,8
+30803,TOLATA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+41001,TOLEDO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+10402,TOMINA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31201,TOTORA(CBBA),inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,varicela,2020-03-01,3,0,3,2,7,6,0,0,0,1,0,0,0,1,0,0,0,0,0,0,13,10,23
+50801,TUPIZA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,varicela,2020-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+51201,UYUNI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+30502,VACAS,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,inmunoprevenibles,varicela,2020-03-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20801,VIACHA,inmunoprevenibles,varicela,2020-03-01,2,0,0,0,0,0,0,1,1,0,2,1,1,3,0,0,0,0,0,0,6,5,11
+60303,VILLA MONTES,inmunoprevenibles,varicela,2020-03-01,0,0,0,3,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,9
+31402,VILLA RIVERO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+31003,VILLA TUNARI,inmunoprevenibles,varicela,2020-03-01,0,0,1,0,2,5,5,3,1,0,0,0,0,0,0,2,0,0,0,1,9,11,20
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,3,2,5
+51501,VILLAZON,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,4,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,5,2,7
+30904,VINTO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50602,VITICHI,inmunoprevenibles,varicela,2020-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,inmunoprevenibles,varicela,2020-03-01,1,1,1,1,4,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,7,5,12
+20903,YACO,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,2,5,5,1,1,6,0,1,2,0,0,0,0,0,0,0,10,13,23
+21103,YANACACHI,inmunoprevenibles,varicela,2020-03-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70403,YAPACANI,inmunoprevenibles,varicela,2020-03-01,1,1,0,2,1,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,8,10
+51302,ACACIO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,2,2,4
+31303,ALALAY,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30403,ARBIETO,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,4
+71501,ASCENCION DE GUARAYOS,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21303,AYO AYO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10201,AZURDUY,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+80802,BAURES,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90104,BELLA FLOR,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,varicela,2020-04-01,0,0,3,0,2,0,2,0,0,0,1,0,1,0,0,1,0,0,0,0,9,1,10
+50301,BETANZOS,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,3
+70401,BUENA VISTA,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70703,CABEZAS,inmunoprevenibles,varicela,2020-04-01,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20905,CAIROMA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21003,CAJUATA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+10701,CAMARGO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,3,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,5,2,7
+30701,CAPINOTA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6
+60302,CARAPARI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,1,0,1,1,2,0,0,0,2,0,0,0,0,0,0,2,6,8
+50702,CARIPUYO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71403,CARMEN RIVERO TORREZ,inmunoprevenibles,varicela,2020-04-01,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+21902,CATACORA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+50302,CHAQUI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70702,CHARAGUA,inmunoprevenibles,varicela,2020-04-01,0,0,2,0,2,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,5,3,8
+50202,CHAYANTA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,inmunoprevenibles,varicela,2020-04-01,0,0,0,2,3,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,4,8
+51103,CKOCHAS,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,2,3
+90101,COBIJA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-04-01,0,0,4,0,4,3,0,1,1,0,1,2,1,1,0,0,0,1,0,0,11,8,19
+30905,COLCAPIRHUA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50901,"COLCHA ""K""",inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31002,COLOMI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20304,COMANCHE,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71101,CONCEPCION,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21402,CORIPATA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,inmunoprevenibles,varicela,2020-04-01,1,0,0,0,1,1,2,1,0,1,0,0,0,1,0,0,0,0,0,0,4,4,8
+50601,COTAGAITA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,7,0,7
+70102,COTOCA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,3,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,4,3,7
+71106,CUATRO CAÑADAS,inmunoprevenibles,varicela,2020-04-01,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+20105,EL ALTO,inmunoprevenibles,varicela,2020-04-01,0,1,0,1,3,3,7,1,1,7,4,5,1,2,0,2,1,0,0,0,17,22,39
+40103,EL CHORO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71503,EL PUENTE(STC),inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60502,EL PUENTE(TJA),inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,3,0,0,1,0,0,0,0,0,0,0,2,3,5
+70105,EL TORNO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+10405,EL VILLAR,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,inmunoprevenibles,varicela,2020-04-01,0,0,1,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+31206,ENTRE RIOS CBBA,inmunoprevenibles,varicela,2020-04-01,0,0,1,3,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,8,5,13
+71004,FERNANDEZ ALONSO,inmunoprevenibles,varicela,2020-04-01,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+90203,FILADELFIA,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+71002,GENERAL SAAVEDRA,inmunoprevenibles,varicela,2020-04-01,1,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,6
+80202,GUAYARAMERIN,inmunoprevenibles,varicela,2020-04-01,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+70705,GUTIERREZ,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6
+40701,HUANUNI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,3,1,4
+10304,ICLA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21501,IXIAMAS,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-04-01,0,0,2,1,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,10
+20101,LA PAZ,inmunoprevenibles,varicela,2020-04-01,0,0,1,0,1,0,2,2,2,1,2,6,4,5,0,1,0,0,0,0,12,15,27
+10903,LAS CARRERAS,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+50203,LLALLAGUA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40702,MACHACAMARCA,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80801,MAGDALENA,inmunoprevenibles,varicela,2020-04-01,0,5,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,9,9
+70903,MAIRANA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,3
+71003,MINEROS,inmunoprevenibles,varicela,2020-04-01,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+31301,MIZQUE,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,3,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,4,2,6
+70803,MORO MORO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),inmunoprevenibles,varicela,2020-04-01,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+50404,OCURI,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,varicela,2020-04-01,0,1,0,0,1,0,2,1,1,4,0,2,1,0,0,1,0,0,0,0,5,9,14
+70502,PAILON,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-04-01,0,0,1,2,3,1,0,2,2,2,0,2,0,0,0,0,0,0,0,0,6,9,15
+30202,PASORAPA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40602,PAZÑA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+31203,POCONA,inmunoprevenibles,varicela,2020-04-01,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+31202,POJO (CBBA),inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10103,POROMA,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70103,PORONGO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,inmunoprevenibles,varicela,2020-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,1,1,0,3,1,0,0,1,0,0,0,0,0,0,3,5,8
+21201,PUCARANI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,8,9
+51101,PUNA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,3
+31401,PUNATA,inmunoprevenibles,varicela,2020-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+31304,RAQAYPAMPA(ETA),inmunoprevenibles,varicela,2020-04-01,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+50402,RAVELO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-04-01,0,1,0,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,10
+70503,ROBORE,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+80304,RURRENABAQUE,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+40901,SABAYA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+40801,SALINAS DE GARCI MENDOZA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71105,SAN ANTONIO DE LOMERIO,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+80302,SAN BORJA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+21502,SAN BUENA VENTURA,inmunoprevenibles,varicela,2020-04-01,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80501,SAN IGNACIO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,4,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,5,5,10
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80102,SAN JAVIER(BNI),inmunoprevenibles,varicela,2020-04-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70404,SAN JUAN DE YAPACANI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+71104,SAN JULIAN,inmunoprevenibles,varicela,2020-04-01,0,4,2,0,7,6,2,0,1,1,0,0,0,0,0,0,0,0,0,0,12,11,23
+60501,SAN LORENZO(TJA),inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,varicela,2020-04-01,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+50501,SAN PEDRO DE BUENA VISTA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+80702,SAN RAMON BENI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+80401,SANTA ANA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-04-01,0,1,4,1,7,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,12,6,18
+70602,SANTA ROSA DEL SARA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+20205,SANTIAGO DE HUATA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30702,SANTIVAÑES,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30703,SICAYA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3,2,5
+30902,SIPE SIPE,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+10101,SUCRE,inmunoprevenibles,varicela,2020-04-01,0,0,1,1,2,1,1,2,1,2,1,1,0,1,0,0,0,0,0,0,6,8,14
+20603,TACACOMA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,inmunoprevenibles,varicela,2020-04-01,1,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,4,2,6
+10202,TARVITA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20803,TIAHUANACU,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,2,2,4
+30802,TOCO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+41502,TODOS SANTOS,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+30803,TOLATA,inmunoprevenibles,varicela,2020-04-01,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+41001,TOLEDO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+10402,TOMINA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+50502,TORO TORO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31201,TOTORA(CBBA),inmunoprevenibles,varicela,2020-04-01,0,0,1,0,1,0,0,1,0,1,1,0,2,0,0,0,0,0,0,0,5,2,7
+80101,TRINIDAD,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+50801,TUPIZA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+40402,TURCO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+71502,URUBICHA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51201,UYUNI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+30502,VACAS,inmunoprevenibles,varicela,2020-04-01,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+20801,VIACHA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+31302,VILA VILA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,inmunoprevenibles,varicela,2020-04-01,1,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,6,1,7
+31003,VILLA TUNARI,inmunoprevenibles,varicela,2020-04-01,1,1,6,4,8,8,2,1,0,1,1,0,0,1,0,0,0,0,0,0,18,16,34
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,varicela,2020-04-01,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+30904,VINTO,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,2,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,3,2,5
+70201,WARNES,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,varicela,2020-04-01,0,1,1,0,0,3,0,1,0,1,1,0,1,1,0,0,0,0,0,0,3,7,10
+10602,YAMPARAEZ,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70403,YAPACANI,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,3
+10102,YOTALA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60402,YUNCHARA,inmunoprevenibles,varicela,2020-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,3
+50802,ATOCHA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20502,AYATA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10201,AZURDUY,inmunoprevenibles,varicela,2020-05-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+80802,BAURES,inmunoprevenibles,varicela,2020-05-01,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60202,BERMEJO,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50301,BETANZOS,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+21003,CAJUATA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+60302,CARAPARI,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3,1,4
+71403,CARMEN RIVERO TORREZ,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70702,CHARAGUA,inmunoprevenibles,varicela,2020-05-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+31204,CHIMORE,inmunoprevenibles,varicela,2020-05-01,0,0,0,1,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,2,7
+30801,CLIZA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,4,3,1,1,2,1,0,1,0,0,0,0,0,0,0,0,7,6,13
+30905,COLCAPIRHUA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+50901,"COLCHA ""K""",inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31002,COLOMI,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21402,CORIPATA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21401,COROICO,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50601,COTAGAITA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2
+70102,COTOCA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+71106,CUATRO CAÑADAS,inmunoprevenibles,varicela,2020-05-01,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+40401,CURAHUARA DE CARANGAS,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+20105,EL ALTO,inmunoprevenibles,varicela,2020-05-01,0,0,0,1,0,0,4,0,0,1,0,0,1,1,0,0,0,0,0,0,5,3,8
+60502,EL PUENTE(TJA),inmunoprevenibles,varicela,2020-05-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+70105,EL TORNO,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,2,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,3,5
+60601,ENTRE RIOS TRJ,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+31206,ENTRE RIOS CBBA,inmunoprevenibles,varicela,2020-05-01,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,5
+90203,FILADELFIA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,2,3
+80202,GUAYARAMERIN,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70705,GUTIERREZ,inmunoprevenibles,varicela,2020-05-01,0,0,1,0,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,4,1,5
+40701,HUANUNI,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,2,2,4
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,varicela,2020-05-01,0,0,0,1,0,2,3,5,3,2,1,0,1,0,0,0,0,0,0,0,8,10,18
+70701,LAGUNILLAS,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50203,LLALLAGUA,inmunoprevenibles,varicela,2020-05-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40702,MACHACAMARCA,inmunoprevenibles,varicela,2020-05-01,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+20607,MAPIRI,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31301,MIZQUE,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+10501,MONTEAGUDO,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+30302,MOROCHATA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),inmunoprevenibles,varicela,2020-05-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+50404,OCURI,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+40101,ORURO,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,1,0,1,0,1,0,2,0,0,0,0,2,0,2,5,7
+60201,PADCAYA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+70502,PAILON,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,3,4
+10103,POROMA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,2,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,2,4,6
+71401,PUERTO SUAREZ,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+31401,PUNATA,inmunoprevenibles,varicela,2020-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+21002,QUIME,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-05-01,0,0,1,4,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,7,9
+80304,RURRENABAQUE,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,3,2,5
+40901,SABAYA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,2,3
+31001,SACABA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3
+80602,SAN ANDRES,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20805,SAN ANDRES DE MACHACA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+80302,SAN BORJA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2,4
+21502,SAN BUENA VENTURA,inmunoprevenibles,varicela,2020-05-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70402,SAN CARLOS,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+80501,SAN IGNACIO,inmunoprevenibles,varicela,2020-05-01,2,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,6
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,3
+80701,SAN JOAQUIN,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+60501,SAN LORENZO(TJA),inmunoprevenibles,varicela,2020-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+71005,SAN PEDRO,inmunoprevenibles,varicela,2020-05-01,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2,4
+80702,SAN RAMON BENI,inmunoprevenibles,varicela,2020-05-01,0,0,1,0,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,2,8
+80401,SANTA ANA,inmunoprevenibles,varicela,2020-05-01,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-05-01,1,2,1,0,5,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,10,5,15
+20205,SANTIAGO DE HUATA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,varicela,2020-05-01,0,0,1,1,0,2,1,3,0,0,0,2,1,0,0,0,0,0,0,0,3,8,11
+60101,TARIJA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10202,TARVITA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20608,TEOPONTE,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+31201,TOTORA(CBBA),inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+50801,TUPIZA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50201,UNCIA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+71502,URUBICHA,inmunoprevenibles,varicela,2020-05-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20801,VIACHA,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,varicela,2020-05-01,0,1,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,10
+30904,VINTO,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+70201,WARNES,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+60301,YACUIBA,inmunoprevenibles,varicela,2020-05-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10602,YAMPARAEZ,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70403,YAPACANI,inmunoprevenibles,varicela,2020-05-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10301,ZUDAÑEZ,inmunoprevenibles,varicela,2020-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,inmunoprevenibles,varicela,2020-06-01,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+30301,AYOPAYA (V. DE INDEPENDENCIA),inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10201,AZURDUY,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80802,BAURES,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70703,CABEZAS,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51102,"CAIZA ""D""",inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20303,CALACOTO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+70706,CAMIRI,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+50702,CARIPUYO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70702,CHARAGUA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,4,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,4,5,9
+21306,COLQUENCHA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,3
+21402,CORIPATA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71106,CUATRO CAÑADAS,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40401,CURAHUARA DE CARANGAS,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20804,DESAGUADERO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,1,1,1,0,0,2,0,0,2,0,1,0,0,0,0,4,5,9
+90203,FILADELFIA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71002,GENERAL SAAVEDRA,inmunoprevenibles,varicela,2020-06-01,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+80202,GUAYARAMERIN,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20204,HUARINA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+21105,LA ASUNTA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,4,4,0,0,0,1,2,7,0,0,0,0,0,0,6,12,18
+70701,LAGUNILLAS,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+10903,LAS CARRERAS,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20901,LURIBAY,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40702,MACHACAMARCA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,3,0,6,0,1,0,0,0,0,0,0,0,0,0,0,0,10,10
+20607,MAPIRI,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+20103,MECAPACA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,inmunoprevenibles,varicela,2020-06-01,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+10303,MOJOCOYA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+71001,MONTERO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,varicela,2020-06-01,0,0,1,0,1,2,2,2,0,1,0,1,2,2,0,0,0,0,1,0,7,8,15
+60201,PADCAYA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,2,3
+70502,PAILON,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,2,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,3,3,6
+40602,PAZÑA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50403,POCOATA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,2,3
+40601,POOPO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-06-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+51101,PUNA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80301,REYES,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-06-01,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+80304,RURRENABAQUE,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70901,SAMAIPATA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80302,SAN BORJA,inmunoprevenibles,varicela,2020-06-01,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,2,4,6
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90202,SAN PEDRO(PND),inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70303,SAN RAFAEL,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,inmunoprevenibles,varicela,2020-06-01,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,3,4
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+70602,SANTA ROSA DEL SARA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30702,SANTIVAÑES,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90303,SENA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20601,SORATA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,varicela,2020-06-01,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,1,0,0,0,2,3,6,9
+20603,TACACOMA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,inmunoprevenibles,varicela,2020-06-01,0,0,0,1,1,0,0,0,0,0,5,0,9,0,0,0,0,0,0,0,15,1,16
+10402,TOMINA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+41301,TOTORA(ORR),inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+51201,UYUNI,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,inmunoprevenibles,varicela,2020-06-01,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+20801,VIACHA,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,3,2,5
+30904,VINTO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+20903,YACO,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,varicela,2020-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70403,YAPACANI,inmunoprevenibles,varicela,2020-06-01,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,2,3
+20201,ACHACACHI,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+22002,ALTO BENI,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30403,ARBIETO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,0,6,0,0,0,0,1,0,0,0,0,0,0,0,0,7,1,8
+30301,AYOPAYA (V. DE INDEPENDENCIA),inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+51102,"CAIZA ""D""",inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10901,CAMATAQUI (C. VILLA ABECIA),inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,varicela,2020-07-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+22001,CARANAVI,inmunoprevenibles,varicela,2020-07-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60302,CARAPARI,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+71403,CARMEN RIVERO TORREZ,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+40201,CHALLAPATA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,inmunoprevenibles,varicela,2020-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20501,CHUMA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30303,COCAPATA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,5,5
+30905,COLCAPIRHUA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50901,"COLCHA ""K""",inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31002,COLOMI,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21306,COLQUENCHA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+71101,CONCEPCION,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+50601,COTAGAITA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+70102,COTOCA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,2,3
+70105,EL TORNO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60601,ENTRE RIOS TRJ,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,varicela,2020-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71004,FERNANDEZ ALONSO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90203,FILADELFIA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20602,GUANAY,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20101,LA PAZ,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,2,2,4
+70701,LAGUNILLAS,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+51401,LLICA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+20901,LURIBAY,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+40702,MACHACAMARCA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80801,MAGDALENA,inmunoprevenibles,varicela,2020-07-01,1,0,2,1,8,9,2,1,2,1,0,0,0,1,0,0,0,0,0,0,15,13,28
+71003,MINEROS,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20402,MOCOMOCO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+10303,MOJOCOYA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+40101,ORURO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,1,0,1,4,5
+60201,PADCAYA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21305,PATACAMAYA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40601,POOPO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+10302,PRESTO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51101,PUNA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,2,2,4
+80301,REYES,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-07-01,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+70503,ROBORE,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,inmunoprevenibles,varicela,2020-07-01,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+80602,SAN ANDRES,inmunoprevenibles,varicela,2020-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31403,SAN BENITO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,4
+21502,SAN BUENA VENTURA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+80501,SAN IGNACIO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,varicela,2020-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,1,4
+71005,SAN PEDRO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21702,SAN PEDRO DE TIQUINA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80702,SAN RAMON BENI,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-07-01,2,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+51201,UYUNI,inmunoprevenibles,varicela,2020-07-01,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70801,VALLEGRANDE,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20801,VIACHA,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+10704,VILLA CHARCAS,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,inmunoprevenibles,varicela,2020-07-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30904,VINTO,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50602,VITICHI,inmunoprevenibles,varicela,2020-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,varicela,2020-07-01,0,1,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5
+10102,YOTALA,inmunoprevenibles,varicela,2020-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20104,ACHOCALLA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30403,ARBIETO,inmunoprevenibles,varicela,2020-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90104,BELLA FLOR,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21304,CALAMARCA,inmunoprevenibles,varicela,2020-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+10901,CAMATAQUI (C. VILLA ABECIA),inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71403,CARMEN RIVERO TORREZ,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,3,1,4
+31002,COLOMI,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71101,CONCEPCION,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,0,4
+21701,COPACABANA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71106,CUATRO CAÑADAS,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20804,DESAGUADERO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,3,3,6
+70105,EL TORNO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,2,3
+71002,GENERAL SAAVEDRA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,inmunoprevenibles,varicela,2020-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21001,INQUISIVI,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20101,LA PAZ,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+70701,LAGUNILLAS,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,6
+40702,MACHACAMARCA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,inmunoprevenibles,varicela,2020-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,0,3
+71001,MONTERO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30203,OMEREQUE,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40101,ORURO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+70502,PAILON,inmunoprevenibles,varicela,2020-08-01,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-08-01,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+40802,PAMPA AULLAGAS,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40601,POOPO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+21201,PUCARANI,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+71402,PUERTO QUIJARRO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,2,3,0,1,0,2,0,0,0,0,0,0,0,0,0,0,2,6,8
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-08-01,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+31304,RAQAYPAMPA(ETA),inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-08-01,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+70503,ROBORE,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40801,SALINAS DE GARCI MENDOZA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+80102,SAN JAVIER(BNI),inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+71104,SAN JULIAN,inmunoprevenibles,varicela,2020-08-01,0,1,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+60501,SAN LORENZO(TJA),inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+71005,SAN PEDRO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,0,1,4,5
+80401,SANTA ANA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-08-01,0,0,1,0,3,2,3,0,0,0,1,0,0,0,0,0,0,0,0,0,8,2,10
+31602,SHINAOTA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+10101,SUCRE,inmunoprevenibles,varicela,2020-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10601,TARABUCO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20608,TEOPONTE,inmunoprevenibles,varicela,2020-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,varicela,2020-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10801,VILLA SERRANO,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,varicela,2020-08-01,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,3,4
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50602,VITICHI,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,varicela,2020-08-01,1,0,0,1,0,0,1,1,3,0,0,0,1,0,0,0,0,0,0,0,6,2,8
+10301,ZUDAÑEZ,inmunoprevenibles,varicela,2020-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20701,APOLO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30403,ARBIETO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30301,AYOPAYA (V. DE INDEPENDENCIA),inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+21203,BATALLAS,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70707,BOYUIBE,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30701,CAPINOTA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+60302,CARAPARI,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70702,CHARAGUA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40302,CHOQUE COTA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20203,CHUA COCANI,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,inmunoprevenibles,varicela,2020-09-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-09-01,0,0,0,1,4,2,0,1,0,0,0,0,0,2,0,0,0,0,0,0,4,6,10
+21306,COLQUENCHA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,3
+21701,COPACABANA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+20105,EL ALTO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,1,2,0,0,1,0,0,1,4,0,0,0,0,0,0,3,6,9
+70105,EL TORNO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+31206,ENTRE RIOS CBBA,inmunoprevenibles,varicela,2020-09-01,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+71002,GENERAL SAAVEDRA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20602,GUANAY,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,2,3
+80202,GUAYARAMERIN,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80803,HUARACAJE,inmunoprevenibles,varicela,2020-09-01,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+20806,JESUS DE MACHACA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+20101,LA PAZ,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,1,2,1,0,2,0,0,0,0,0,0,1,0,0,4,3,7
+70701,LAGUNILLAS,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+21202,LAJA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40702,MACHACAMARCA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80801,MAGDALENA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70903,MAIRANA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20103,MECAPACA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+31301,MIZQUE,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,1,3,4
+40101,ORURO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,2,3
+60201,PADCAYA,inmunoprevenibles,varicela,2020-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+50403,POCOATA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90102,PORVENIR,inmunoprevenibles,varicela,2020-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,2,3,5
+71402,PUERTO QUIJARRO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+31401,PUNATA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-09-01,0,0,0,2,0,4,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,8,9
+31001,SACABA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50701,SACACA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80102,SAN JAVIER(BNI),inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+10702,SAN LUCAS,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,varicela,2020-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80702,SAN RAMON BENI,inmunoprevenibles,varicela,2020-09-01,0,0,0,4,0,4,0,6,0,3,0,0,1,2,2,1,0,0,0,0,3,20,23
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-09-01,0,0,0,2,6,3,4,2,0,1,1,0,0,0,0,0,0,0,0,0,11,8,19
+90303,SENA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31602,SHINAOTA,inmunoprevenibles,varicela,2020-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10101,SUCRE,inmunoprevenibles,varicela,2020-09-01,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20603,TACACOMA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50303,TACOBAMBA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30401,TARATA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50102,TINGUIPAYA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20606,TIPUANI,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30803,TOLATA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,2,1,3
+50502,TORO TORO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+31201,TOTORA(CBBA),inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,varicela,2020-09-01,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+50201,UNCIA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71502,URUBICHA,inmunoprevenibles,varicela,2020-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20801,VIACHA,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+60303,VILLA MONTES,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+90502,VILLA NUEVA (LOMA ALTA),inmunoprevenibles,varicela,2020-09-01,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,2,3,5
+10801,VILLA SERRANO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+31003,VILLA TUNARI,inmunoprevenibles,varicela,2020-09-01,0,0,1,0,0,1,2,0,1,0,0,0,0,1,0,0,0,0,0,0,4,2,6
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,2,1,0,1,0,0,1,0,0,0,0,0,0,0,0,2,3,5
+30904,VINTO,inmunoprevenibles,varicela,2020-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,varicela,2020-09-01,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3,2,5
+20104,ACHOCALLA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+30403,ARBIETO,inmunoprevenibles,varicela,2020-10-01,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50802,ATOCHA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90104,BELLA FLOR,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+50301,BETANZOS,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+21304,CALAMARCA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30701,CAPINOTA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60302,CARAPARI,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+31204,CHIMORE,inmunoprevenibles,varicela,2020-10-01,1,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+51103,CKOCHAS,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-10-01,0,0,0,1,7,3,1,1,1,0,0,0,0,1,0,0,0,1,0,0,9,7,16
+70603,COLPA BELGICA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,3
+70102,COTOCA,inmunoprevenibles,varicela,2020-10-01,0,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,4,5
+40401,CURAHUARA DE CARANGAS,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,4,0,1,0,1,0,1,0,0,0,0,0,0,0,7,7
+70105,EL TORNO,inmunoprevenibles,varicela,2020-10-01,0,1,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,3,3,6
+10405,EL VILLAR,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,varicela,2020-10-01,0,0,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,4
+71004,FERNANDEZ ALONSO,inmunoprevenibles,varicela,2020-10-01,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+90203,FILADELFIA,inmunoprevenibles,varicela,2020-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+20602,GUANAY,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70705,GUTIERREZ,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80803,HUARACAJE,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-10-01,1,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+20101,LA PAZ,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,2,3,4,1,1,0,1,0,2,1,0,0,0,0,1,5,11,16
+10903,LAS CARRERAS,inmunoprevenibles,varicela,2020-10-01,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+80801,MAGDALENA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+20607,MAPIRI,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,varicela,2020-10-01,0,1,2,1,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,2,6,8
+70803,MORO MORO,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,varicela,2020-10-01,0,0,1,0,4,2,1,2,1,2,0,1,0,0,0,0,0,1,1,0,8,8,16
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-10-01,0,0,1,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+70902,PAMPA GRANDE,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10103,POROMA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+50101,POTOSI,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+71402,PUERTO QUIJARRO,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+90201,PUERTO RICO,inmunoprevenibles,varicela,2020-10-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-10-01,0,0,0,1,2,7,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,10,12
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-10-01,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-10-01,1,0,2,2,1,7,0,0,0,0,0,0,2,1,0,0,0,0,0,0,6,10,16
+70503,ROBORE,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+80304,RURRENABAQUE,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+31001,SACABA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,5,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,5,4,9
+80602,SAN ANDRES,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,inmunoprevenibles,varicela,2020-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71104,SAN JULIAN,inmunoprevenibles,varicela,2020-10-01,0,1,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,3,2,5
+60501,SAN LORENZO(TJA),inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+71201,SAN MATIAS,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+80401,SANTA ANA,inmunoprevenibles,varicela,2020-10-01,0,0,1,0,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,2,5
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-10-01,1,0,4,2,7,8,5,3,0,0,0,0,0,0,0,0,0,1,0,0,17,14,31
+30702,SANTIVAÑES,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+20601,SORATA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,2,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7
+50303,TACOBAMBA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,3
+60101,TARIJA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20608,TEOPONTE,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20606,TIPUANI,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30803,TOLATA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50502,TORO TORO,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31201,TOTORA(CBBA),inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,2,3
+30502,VACAS,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20801,VIACHA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+60303,VILLA MONTES,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+31402,VILLA RIVERO,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,varicela,2020-10-01,0,1,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,5,6
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+30904,VINTO,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+70201,WARNES,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+60301,YACUIBA,inmunoprevenibles,varicela,2020-10-01,0,0,0,0,1,2,0,1,0,2,0,0,3,0,0,0,0,0,0,0,4,5,9
+30201,AIQUILE,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40603,ANTEQUERA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30403,ARBIETO,inmunoprevenibles,varicela,2020-11-01,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+10201,AZURDUY,inmunoprevenibles,varicela,2020-11-01,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,3,1,4
+80802,BAURES,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90104,BELLA FLOR,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,varicela,2020-11-01,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3
+50301,BETANZOS,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70702,CHARAGUA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+90101,COBIJA,inmunoprevenibles,varicela,2020-11-01,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-11-01,1,0,0,0,5,1,2,1,1,1,0,1,0,0,0,0,0,0,0,0,9,4,13
+71101,CONCEPCION,inmunoprevenibles,varicela,2020-11-01,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,4
+21401,COROICO,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50601,COTAGAITA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,2,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7
+70102,COTOCA,inmunoprevenibles,varicela,2020-11-01,0,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,3,4
+71106,CUATRO CAÑADAS,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20105,EL ALTO,inmunoprevenibles,varicela,2020-11-01,0,0,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,3,4,7
+70105,EL TORNO,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,4,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2,6,8
+31206,ENTRE RIOS CBBA,inmunoprevenibles,varicela,2020-11-01,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,3,5
+80402,EXALTACION,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71004,FERNANDEZ ALONSO,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+71002,GENERAL SAAVEDRA,inmunoprevenibles,varicela,2020-11-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+80202,GUAYARAMERIN,inmunoprevenibles,varicela,2020-11-01,0,0,1,0,0,1,2,0,0,2,0,0,1,0,0,0,0,0,0,0,4,3,7
+10502,HUACARETA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+11002,HUACAYA (VILLA DE HUACAYA),inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+80803,HUARACAJE,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20806,JESUS DE MACHACA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-11-01,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+20101,LA PAZ,inmunoprevenibles,varicela,2020-11-01,0,0,1,0,5,1,0,3,1,0,0,3,3,5,0,0,0,0,0,0,10,12,22
+70701,LAGUNILLAS,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40702,MACHACAMARCA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+80801,MAGDALENA,inmunoprevenibles,varicela,2020-11-01,0,0,1,0,4,2,0,2,1,2,0,0,0,1,0,0,0,0,0,0,6,7,13
+20607,MAPIRI,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,4,1,5
+31301,MIZQUE,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,varicela,2020-11-01,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,2,3,5
+40101,ORURO,inmunoprevenibles,varicela,2020-11-01,0,0,1,1,3,0,1,3,0,0,0,0,1,0,0,0,0,0,0,0,6,4,10
+60201,PADCAYA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+70502,PAILON,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-11-01,0,0,0,1,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6
+21305,PATACAMAYA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70601,PORTACHUELO,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90102,PORVENIR,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,1,0,0,0,1,0,0,1,2,0,0,0,0,0,0,1,4,5
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-11-01,0,2,1,2,4,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6,10,16
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+31304,RAQAYPAMPA(ETA),inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80301,REYES,inmunoprevenibles,varicela,2020-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-11-01,1,0,3,2,2,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,8,14
+80304,RURRENABAQUE,inmunoprevenibles,varicela,2020-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,3,1,2,1,2,0,0,0,0,0,0,0,0,0,0,2,7,9
+80602,SAN ANDRES,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+31403,SAN BENITO,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,inmunoprevenibles,varicela,2020-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,inmunoprevenibles,varicela,2020-11-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71005,SAN PEDRO,inmunoprevenibles,varicela,2020-11-01,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+70303,SAN RAFAEL,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,inmunoprevenibles,varicela,2020-11-01,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71103,SAN RAMON SCZ,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-11-01,0,1,2,0,4,4,1,2,0,2,0,0,0,1,0,0,0,0,0,0,7,10,17
+90303,SENA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+31602,SHINAOTA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30902,SIPE SIPE,inmunoprevenibles,varicela,2020-11-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+40104,SORACACHI,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,varicela,2020-11-01,1,0,1,3,0,4,2,0,0,0,1,0,0,0,0,0,0,0,0,0,5,7,12
+31101,TAPACARI,inmunoprevenibles,varicela,2020-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20608,TEOPONTE,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50102,TINGUIPAYA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20606,TIPUANI,inmunoprevenibles,varicela,2020-11-01,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+30903,TIQUIPAYA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31201,TOTORA(CBBA),inmunoprevenibles,varicela,2020-11-01,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+80101,TRINIDAD,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71502,URUBICHA,inmunoprevenibles,varicela,2020-11-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,inmunoprevenibles,varicela,2020-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31302,VILA VILA,inmunoprevenibles,varicela,2020-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,inmunoprevenibles,varicela,2020-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,inmunoprevenibles,varicela,2020-11-01,0,0,2,0,2,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4,4,8
+30904,VINTO,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70201,WARNES,inmunoprevenibles,varicela,2020-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+60301,YACUIBA,inmunoprevenibles,varicela,2020-11-01,0,1,1,0,0,4,0,0,0,3,1,0,0,0,0,0,0,0,0,0,2,8,10
+20201,ACHACACHI,inmunoprevenibles,varicela,2020-12-01,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,3,4
+20104,ACHOCALLA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+30201,AIQUILE,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30402,ANZALDO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30403,ARBIETO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21303,AYO AYO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+30301,AYOPAYA (V. DE INDEPENDENCIA),inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+21203,BATALLAS,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,4,4
+90104,BELLA FLOR,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,varicela,2020-12-01,2,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,2,6
+50301,BETANZOS,inmunoprevenibles,varicela,2020-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31501,BOLIVAR,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21304,CALAMARCA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,inmunoprevenibles,varicela,2020-12-01,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+30701,CAPINOTA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40201,CHALLAPATA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31204,CHIMORE,inmunoprevenibles,varicela,2020-12-01,3,0,3,3,7,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,13,9,22
+51103,CKOCHAS,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30801,CLIZA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+90101,COBIJA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,2,4
+30101,COCHABAMBA,inmunoprevenibles,varicela,2020-12-01,0,0,0,1,4,7,1,2,1,1,0,0,2,0,0,0,0,0,0,0,8,11,19
+30905,COLCAPIRHUA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+31002,COLOMI,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71101,CONCEPCION,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1,0,0,0,4,1,5
+21402,CORIPATA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,2,1,0,3,0,0,0,1,0,0,0,0,0,0,3,5,8
+21401,COROICO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50601,COTAGAITA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70102,COTOCA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71106,CUATRO CAÑADAS,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,3,3,2,3,2,2,1,2,1,3,0,0,0,0,0,2,9,15,24
+71503,EL PUENTE(STC),inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,8,2,2,2,0,0,1,0,0,1,0,0,0,0,0,0,11,5,16
+60601,ENTRE RIOS TRJ,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,3
+31206,ENTRE RIOS CBBA,inmunoprevenibles,varicela,2020-12-01,1,0,1,3,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,10
+71004,FERNANDEZ ALONSO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90203,FILADELFIA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3
+80202,GUAYARAMERIN,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,2,2,2,1,0,1,0,0,0,0,0,0,0,0,0,0,4,4,8
+10502,HUACARETA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+80803,HUARACAJE,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21001,INQUISIVI,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20806,JESUS DE MACHACA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,varicela,2020-12-01,0,0,3,0,1,2,6,2,1,2,4,2,2,4,1,1,0,0,0,0,18,13,31
+51401,LLICA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80601,LORETO,inmunoprevenibles,varicela,2020-12-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80801,MAGDALENA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,3,2,5
+70903,MAIRANA,inmunoprevenibles,varicela,2020-12-01,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20607,MAPIRI,inmunoprevenibles,varicela,2020-12-01,0,1,0,0,0,1,1,1,0,2,0,0,1,0,0,0,0,0,0,0,2,5,7
+71003,MINEROS,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,inmunoprevenibles,varicela,2020-12-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10501,MONTEAGUDO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+71001,MONTERO,inmunoprevenibles,varicela,2020-12-01,0,0,1,0,2,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,5,4,9
+40101,ORURO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,2,0,1,1,0,2,4,1,0,0,0,0,0,0,8,4,12
+10401,PADILLA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+70502,PAILON,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+21104,PALOS BLANCOS,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,2,3,0,0,1,0,0,1,1,0,0,0,0,0,0,0,4,4,8
+70902,PAMPA GRANDE,inmunoprevenibles,varicela,2020-12-01,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,1,3
+30202,PASORAPA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20702,PELECHUCO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,1,0,1,3,4
+70805,PUCARA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71402,PUERTO QUIJARRO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,varicela,2020-12-01,0,0,4,2,8,4,1,2,1,1,0,0,0,0,0,0,0,0,0,0,14,9,23
+30901,QUILLACOLLO,inmunoprevenibles,varicela,2020-12-01,1,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,3,4,7
+31304,RAQAYPAMPA(ETA),inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,inmunoprevenibles,varicela,2020-12-01,2,0,1,4,0,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,4,9,13
+70503,ROBORE,inmunoprevenibles,varicela,2020-12-01,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+31001,SACABA,inmunoprevenibles,varicela,2020-12-01,0,0,4,0,2,4,0,1,1,0,0,0,0,0,0,0,0,0,0,0,7,5,12
+30404,SACABAMBA,inmunoprevenibles,varicela,2020-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70901,SAMAIPATA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80602,SAN ANDRES,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21502,SAN BUENA VENTURA,inmunoprevenibles,varicela,2020-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,inmunoprevenibles,varicela,2020-12-01,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+60501,SAN LORENZO(TJA),inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51001,SAN PABLO DE LIPEZ,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+71005,SAN PEDRO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+80401,SANTA ANA,inmunoprevenibles,varicela,2020-12-01,0,0,1,0,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,8
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,varicela,2020-12-01,1,1,4,1,12,8,4,3,1,0,0,0,2,2,0,0,0,0,0,0,24,15,39
+41401,SANTIAGO DE HUARI,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21901,SANTIAGO DE MACHACA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30702,SANTIVAÑES,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40202,SANTUARIO DE QUILLACAS,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31602,SHINAOTA,inmunoprevenibles,varicela,2020-12-01,0,1,2,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,11
+30703,SICAYA,inmunoprevenibles,varicela,2020-12-01,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20601,SORATA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,2,2,4
+10101,SUCRE,inmunoprevenibles,varicela,2020-12-01,2,0,0,3,6,3,3,1,0,0,0,1,0,1,0,0,0,0,0,1,11,10,21
+10601,TARABUCO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,3,3
+10202,TARVITA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20608,TEOPONTE,inmunoprevenibles,varicela,2020-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50102,TINGUIPAYA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20606,TIPUANI,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+41001,TOLEDO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50502,TORO TORO,inmunoprevenibles,varicela,2020-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31201,TOTORA(CBBA),inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,varicela,2020-12-01,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+50201,UNCIA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71502,URUBICHA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51201,UYUNI,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20801,VIACHA,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+90502,VILLA NUEVA (LOMA ALTA),inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,inmunoprevenibles,varicela,2020-12-01,0,1,1,1,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,14
+51501,VILLAZON,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+30904,VINTO,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,2,2,4
+70201,WARNES,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,varicela,2020-12-01,0,0,1,1,2,2,2,0,0,1,1,0,0,0,0,0,0,0,0,0,6,4,10
+70403,YAPACANI,inmunoprevenibles,varicela,2020-12-01,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3

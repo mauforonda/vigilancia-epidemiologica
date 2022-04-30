@@ -1,0 +1,55 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-meses-a-menor-de-1-ano_masculino,b-6-meses-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+30101,COCHABAMBA,sospecha diagnostica,dengue grave,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue grave,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6,6
+20606,TIPUANI,sospecha diagnostica,dengue grave,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,dengue grave,2019-01-01,0,0,0,0,0,0,0,0,0,1,1,0,1,2,0,0,1,1,4,4,7,8,15
+30101,COCHABAMBA,sospecha diagnostica,dengue grave,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21104,PALOS BLANCOS,sospecha diagnostica,dengue grave,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+30901,QUILLACOLLO,sospecha diagnostica,dengue grave,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue grave,2019-02-01,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,4,0,4
+20701,APOLO,sospecha diagnostica,dengue grave,2019-03-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+90101,COBIJA,sospecha diagnostica,dengue grave,2019-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,dengue grave,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20607,MAPIRI,sospecha diagnostica,dengue grave,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue grave,2019-03-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+60101,TARIJA,sospecha diagnostica,dengue grave,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+20608,TEOPONTE,sospecha diagnostica,dengue grave,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,dengue grave,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,3,1,4
+20602,GUANAY,sospecha diagnostica,dengue grave,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue grave,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+60101,TARIJA,sospecha diagnostica,dengue grave,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,dengue grave,2019-04-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,sospecha diagnostica,dengue grave,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20602,GUANAY,sospecha diagnostica,dengue grave,2019-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80801,MAGDALENA,sospecha diagnostica,dengue grave,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue grave,2019-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20608,TEOPONTE,sospecha diagnostica,dengue grave,2019-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20606,TIPUANI,sospecha diagnostica,dengue grave,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,sospecha diagnostica,dengue grave,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,1,3,4
+30101,COCHABAMBA,sospecha diagnostica,dengue grave,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,sospecha diagnostica,dengue grave,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue grave,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+30101,COCHABAMBA,sospecha diagnostica,dengue grave,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,1,3
+80803,HUARACAJE,sospecha diagnostica,dengue grave,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,dengue grave,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue grave,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,sospecha diagnostica,dengue grave,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70201,WARNES,sospecha diagnostica,dengue grave,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+20101,LA PAZ,sospecha diagnostica,dengue grave,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue grave,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue grave,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,sospecha diagnostica,dengue grave,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,dengue grave,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,dengue grave,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31206,ENTRE RIOS CBBA,sospecha diagnostica,dengue grave,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue grave,2019-11-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+31602,SHINAOTA,sospecha diagnostica,dengue grave,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30701,CAPINOTA,sospecha diagnostica,dengue grave,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,dengue grave,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+20101,LA PAZ,sospecha diagnostica,dengue grave,2019-12-01,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+31401,PUNATA,sospecha diagnostica,dengue grave,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+80302,SAN BORJA,sospecha diagnostica,dengue grave,2019-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue grave,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+10601,TARABUCO,sospecha diagnostica,dengue grave,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,sospecha diagnostica,dengue grave,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31003,VILLA TUNARI,sospecha diagnostica,dengue grave,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1

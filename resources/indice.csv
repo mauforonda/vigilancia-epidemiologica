@@ -1,0 +1,1571 @@
+year,filename,grvar,grupo,subvar,variable
+2001,2001_clasificacion-general-sistemica_enfermedades-del-sistema-nervioso.csv,00,clasificacion general sistemica,01,enfermedades del sistema nervioso
+2001,2001_clasificacion-general-sistemica_enfermedades-del-ojo-y-anexos.csv,00,clasificacion general sistemica,02,enfermedades del ojo y anexos
+2001,2001_clasificacion-general-sistemica_enfermedades-del-oido-y-apofisis-mastoides.csv,00,clasificacion general sistemica,03,enfermedades del oido y apofisis mastoides
+2001,2001_clasificacion-general-sistemica_enfermedades-del-sistema-cardio-circulatorio.csv,00,clasificacion general sistemica,04,enfermedades del sistema cardio circulatorio
+2001,2001_clasificacion-general-sistemica_enfermedades-del-sistema-respiratorio.csv,00,clasificacion general sistemica,05,enfermedades del sistema respiratorio
+2001,2001_clasificacion-general-sistemica_enfermedades-del-sistema-digestivo.csv,00,clasificacion general sistemica,06,enfermedades del sistema digestivo
+2001,2001_clasificacion-general-sistemica_enfermedades-del-sistema-genitourinario.csv,00,clasificacion general sistemica,07,enfermedades del sistema genitourinario
+2001,2001_clasificacion-general-sistemica_enfermedades-de-piel-y-celular-subcutanea.csv,00,clasificacion general sistemica,08,enfermedades de piel y celular subcutanea
+2001,2001_clasificacion-general-sistemica_enfermedades-endocrinas-nutricionales-metabolicas.csv,00,clasificacion general sistemica,09,enfermedades endocrinas - nutricionales - metabolicas
+2001,2001_clasificacion-general-sistemica_enfermedades-sistema-osteomuscular-y-tejido-conjuntivo.csv,00,clasificacion general sistemica,10,enfermedades sistema osteomuscular y tejido conjuntivo
+2001,2001_clasificacion-general-sistemica_enfermedades-de-la-sangre-y-transtornos-inmunitarios.csv,00,clasificacion general sistemica,11,enfermedades de la sangre y transtornos inmunitarios
+2001,2001_clasificacion-general-sistemica_enfermedades-tumorales.csv,00,clasificacion general sistemica,12,enfermedades tumorales
+2001,2001_clasificacion-general-sistemica_complicaciones-embarazo-parto-y-puerperio.csv,00,clasificacion general sistemica,13,"complicaciones embarazo, parto y puerperio"
+2001,2001_clasificacion-general-sistemica_malformaciones-congenitas.csv,00,clasificacion general sistemica,14,malformaciones congenitas
+2001,2001_clasificacion-general-sistemica_traumatismos-y-envenenamiento.csv,00,clasificacion general sistemica,15,traumatismos y envenenamiento
+2001,2001_clasificacion-general-sistemica_transtornos-mentales-y-del-comportamiento.csv,00,clasificacion general sistemica,16,transtornos mentales y del comportamiento
+2001,2001_clasificacion-general-sistemica_otras-causas.csv,00,clasificacion general sistemica,17,otras causas
+2001,2001_sospecha-diagnostica_sarampion.csv,01,sospecha diagnostica,01,sarampion
+2001,2001_sospecha-diagnostica_rubeola.csv,01,sospecha diagnostica,02,rubeola
+2001,2001_sospecha-diagnostica_tosferina.csv,01,sospecha diagnostica,03,tosferina
+2001,2001_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2001,2001_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2001,2001_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2001,2001_sospecha-diagnostica_poliomielitis.csv,01,sospecha diagnostica,09,poliomielitis
+2001,2001_sospecha-diagnostica_fiebre-hemorragica.csv,02,sospecha diagnostica,09,fiebre hemorragica
+2001,2001_sospecha-diagnostica_tifus-exantematico.csv,02,sospecha diagnostica,10,tifus exantematico
+2001,2001_sospecha-diagnostica_peste.csv,02,sospecha diagnostica,11,peste
+2001,2001_sospecha-diagnostica_meningitis-meningococcica.csv,02,sospecha diagnostica,12,meningitis meningococcica
+2001,2001_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2001,2001_sospecha-diagnostica_hantavirus.csv,02,sospecha diagnostica,14,hantavirus
+2001,2001_sospecha-diagnostica_rabia-humana-canina.csv,02,sospecha diagnostica,15,rabia (humana/canina)
+2001,2001_sospecha-diagnostica_sida-mujeres.csv,02,sospecha diagnostica,16,sida mujeres
+2001,2001_sospecha-diagnostica_sida-hombres.csv,02,sospecha diagnostica,17,sida hombres
+2001,2001_sospecha-diagnostica_sifilis.csv,02,sospecha diagnostica,18,sifilis
+2001,2001_sospecha-diagnostica_meningitis-por-hemophilus-influenzae.csv,02,sospecha diagnostica,19,meningitis por hemophilus influenzae
+2001,2001_sospecha-diagnostica_meningitis-tuberculosa.csv,02,sospecha diagnostica,20,meningitis tuberculosa
+2001,2001_inmunoprevenibles_tetanos-neonatal.csv,04,inmunoprevenibles,01,tetanos neonatal
+2001,2001_inmunoprevenibles_tetanos-de-adulto.csv,04,inmunoprevenibles,02,tetanos de adulto
+2001,2001_inmunoprevenibles_hepatitis-viral.csv,04,inmunoprevenibles,03,hepatitis viral
+2001,2001_inmunoprevenibles_eruptivas.csv,04,inmunoprevenibles,05,eruptivas
+2001,2001_inmunoprevenibles_paralisis-flacida.csv,04,inmunoprevenibles,06,paralisis flacida
+2001,2001_inmunoprevenibles_rabia-canina.csv,04,inmunoprevenibles,07,rabia canina
+2001,2001_inmunoprevenibles_tosferina-3.csv,04,inmunoprevenibles,08,tosferina (3*)
+2001,2001_inmunoprevenibles_difteria-4.csv,04,inmunoprevenibles,09,difteria (4*)
+2001,2001_inmunoprevenibles_fiebre-amarilla-6.csv,04,inmunoprevenibles,10,fiebre amarilla (6*)
+2001,2001_inmunoprevenibles_rabia-humana-7.csv,04,inmunoprevenibles,11,rabia humana (7*)
+2001,2001_infecciones-de-transmision-sexual_its-mujer-con-ulcera-genital.csv,05,infecciones de transmision sexual,01,its mujer con ulcera genital
+2001,2001_infecciones-de-transmision-sexual_its-hombre-con-ulcera-genital.csv,05,infecciones de transmision sexual,02,its hombre con ulcera genital
+2001,2001_infecciones-de-transmision-sexual_its-home-con-flujo-uretral.csv,05,infecciones de transmision sexual,03,its home con flujo uretral
+2001,2001_infecciones-de-transmision-sexual_sida-o-vih.csv,05,infecciones de transmision sexual,04,sida o vih +
+2001,2001_infecciones-de-transmision-sexual_sifilis-congenita-nacido-vivo.csv,05,infecciones de transmision sexual,05,sifilis congenita - nacido vivo
+2001,2001_infecciones-de-transmision-sexual_sifilis-congenita-mortinato.csv,05,infecciones de transmision sexual,06,sifilis congenita - mortinato
+2001,2001_otras-infecciones_diarrea.csv,06,otras infecciones,01,diarrea
+2001,2001_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2001,2001_otras-infecciones_enfermedad-de-hansen.csv,06,otras infecciones,05,enfermedad de hansen
+2001,2001_otras-infecciones_sintomatico-respiratorio.csv,06,otras infecciones,06,sintomatico respiratorio
+2001,2001_otras-infecciones_fiebre-hemorragica-13.csv,06,otras infecciones,07,fiebre hemorragica (13*)
+2001,2001_otras-infecciones_enfermedad-respiratoria-hanta-14.csv,06,otras infecciones,08,enfermedad respiratoria hanta (14*)
+2001,2001_otras-infecciones_tifus-exantematico-15.csv,06,otras infecciones,09,tifus exantematico (15*)
+2001,2001_otras-infecciones_meningitis-17-18-19.csv,06,otras infecciones,10,"meningitis (17, 18*, 19*)"
+2001,2001_tuberculosis-casos-confirmados_meningitis-tuberculosa-en-menores-de-5-anos.csv,07,tuberculosis (casos confirmados),02,meningitis tuberculosa en menores de 5 anos
+2001,2001_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis (casos confirmados),03,tuberculosis pulmonar baar (+) nuevos
+2001,2001_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar.csv,07,tuberculosis (casos confirmados),04,tuberculosis pulmonar baar (-)
+2001,2001_tuberculosis-casos-confirmados_tuberculosis-extrapulmonar.csv,07,tuberculosis (casos confirmados),05,tuberculosis extrapulmonar
+2001,2001_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-prevamente-tratados.csv,07,tuberculosis (casos confirmados),06,tuberculosis pulmonar baar (+) prevamente tratados
+2001,2001_violencia-intrafamiliar_violencia-contra-el-hombre.csv,08,violencia intrafamiliar,01,violencia contra el hombre
+2001,2001_violencia-intrafamiliar_violencia-contra-la-mujer.csv,08,violencia intrafamiliar,02,violencia contra la mujer
+2001,2001_violencia-intrafamiliar_violencia-contra-el-nino.csv,08,violencia intrafamiliar,03,violencia contra el nino
+2001,2001_violencia-intrafamiliar_violencia-contra-la-nina.csv,08,violencia intrafamiliar,04,violencia contra la nina
+2001,2001_mortalidad-en-el-establecimiento-leatalidad_muerte-materna.csv,09,mortalidad en el establecimiento ( leatalidad),01,muerte materna
+2001,2001_mortalidad-en-el-establecimiento-leatalidad_muerte-rn-menor-de-7-dias.csv,09,mortalidad en el establecimiento ( leatalidad),02,muerte rn menor de 7 dias
+2001,2001_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad en el establecimiento ( leatalidad),04,muerte menor de 5 anos por diarrea
+2001,2001_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad en el establecimiento ( leatalidad),05,muerte menor de 5 anos por neumonia
+2001,2001_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad en el establecimiento ( leatalidad),06,muerte menor de 5 anos por otras causas
+2001,2001_mortalidad-en-el-establecimiento-leatalidad_otras-muertes-en-personas-mayores-de-5-anos.csv,09,mortalidad en el establecimiento ( leatalidad),07,otras muertes en personas mayores de 5 anos
+2001,2001_mortalidad-en-el-establecimiento-leatalidad_muerte-por-malaria-p-falciparum.csv,09,mortalidad en el establecimiento ( leatalidad),08,muerte por malaria (p. falciparum)
+2001,2001_alto-riesgo-obstetrico_hemorragia-de-la-primera-mitad-del-embarazo.csv,10,alto riesgo obstetrico,05,hemorragia de la primera mitad del embarazo
+2001,2001_alto-riesgo-obstetrico_parto-de-adolecente-menor-de-20-anos.csv,10,alto riesgo obstetrico,06,parto de adolecente (menor de 20 anos)
+2001,2001_alto-riesgo-obstetrico_parto-de-mujer-anosa-mayor-de-35-anos.csv,10,alto riesgo obstetrico,07,parto de mujer anosa (mayor de 35 anos)
+2001,2001_alto-riesgo-obstetrico_parturienta-con-hijo-anterior-vivo.csv,10,alto riesgo obstetrico,08,parturienta con hijo anterior vivo
+2001,2001_alto-riesgo-obstetrico_parturienta-con-hijo-anterior-muerto.csv,10,alto riesgo obstetrico,09,parturienta con hijo anterior muerto
+2001,2001_estado-nutricional-en-menores-de-5-anos_clasificacion-a-y-b.csv,11,estado nutricional en menores de 5 anos,01,clasificacion a y b
+2001,2001_estado-nutricional-en-menores-de-5-anos_clasificacion-c.csv,11,estado nutricional en menores de 5 anos,02,clasificacion c
+2001,2001_estado-nutricional-en-menores-de-5-anos_clasificacion-d.csv,11,estado nutricional en menores de 5 anos,03,clasificacion d
+2001,2001_estado-nutricional-en-menores-de-5-anos_clasificacion-e.csv,11,estado nutricional en menores de 5 anos,04,clasificacion e
+2001,2001_estado-nutricional-en-menores-de-5-anos_clasificacion-f.csv,11,estado nutricional en menores de 5 anos,05,clasificacion f
+2001,2001_intoxicaciones_alimentos-brotes.csv,13,intoxicaciones,02,alimentos (brotes)
+2001,2001_intoxicaciones_alcohol.csv,13,intoxicaciones,03,alcohol
+2001,2001_intoxicaciones_drogas.csv,13,intoxicaciones,04,drogas
+2001,2001_intoxicaciones_organosfosforados.csv,13,intoxicaciones,05,organosfosforados
+2001,2001_enfermedades-metaxenicas_malaria.csv,14,enfermedades metaxenicas,01,malaria
+2001,2001_enfermedades-metaxenicas_leishmaniasis.csv,14,enfermedades metaxenicas,02,leishmaniasis
+2001,2001_enfermedades-metaxenicas_dengue.csv,14,enfermedades metaxenicas,03,dengue
+2001,2001_enfermedades-metaxenicas_enfermedades-de-chagas-aguda.csv,14,enfermedades metaxenicas,04,enfermedades de chagas aguda
+2001,2001_mortalidad-fuera-del-establecimiento_muerte-materna.csv,15,mortalidad fuera del establecimiento,01,muerte materna
+2001,2001_mortalidad-fuera-del-establecimiento_muerte-por-otras-causas.csv,15,mortalidad fuera del establecimiento,02,muerte por otras causas
+2002,2002_clasificacion-general-sistemica_enfermedades-del-sistema-nervioso.csv,00,clasificacion general sistemica,01,enfermedades del sistema nervioso
+2002,2002_clasificacion-general-sistemica_enfermedades-del-ojo-y-anexos.csv,00,clasificacion general sistemica,02,enfermedades del ojo y anexos
+2002,2002_clasificacion-general-sistemica_enfermedades-del-oido-y-apofisis-mastoides.csv,00,clasificacion general sistemica,03,enfermedades del oido y apofisis mastoides
+2002,2002_clasificacion-general-sistemica_enfermedades-del-sistema-cardio-circulatorio.csv,00,clasificacion general sistemica,04,enfermedades del sistema cardio circulatorio
+2002,2002_clasificacion-general-sistemica_enfermedades-del-sistema-respiratorio.csv,00,clasificacion general sistemica,05,enfermedades del sistema respiratorio
+2002,2002_clasificacion-general-sistemica_enfermedades-del-sistema-digestivo.csv,00,clasificacion general sistemica,06,enfermedades del sistema digestivo
+2002,2002_clasificacion-general-sistemica_enfermedades-del-sistema-genitourinario.csv,00,clasificacion general sistemica,07,enfermedades del sistema genitourinario
+2002,2002_clasificacion-general-sistemica_enfermedades-de-piel-y-celular-subcutanea.csv,00,clasificacion general sistemica,08,enfermedades de piel y celular subcutanea
+2002,2002_clasificacion-general-sistemica_enfermedades-endocrinas-nutricionales-metabolicas.csv,00,clasificacion general sistemica,09,enfermedades endocrinas - nutricionales - metabolicas
+2002,2002_clasificacion-general-sistemica_enfermedades-sistema-osteomuscular-y-tejido-conjuntivo.csv,00,clasificacion general sistemica,10,enfermedades sistema osteomuscular y tejido conjuntivo
+2002,2002_clasificacion-general-sistemica_enfermedades-de-la-sangre-y-transtornos-inmunitarios.csv,00,clasificacion general sistemica,11,enfermedades de la sangre y transtornos inmunitarios
+2002,2002_clasificacion-general-sistemica_enfermedades-tumorales.csv,00,clasificacion general sistemica,12,enfermedades tumorales
+2002,2002_clasificacion-general-sistemica_complicaciones-embarazo-parto-y-puerperio.csv,00,clasificacion general sistemica,13,"complicaciones embarazo, parto y puerperio"
+2002,2002_clasificacion-general-sistemica_malformaciones-congenitas.csv,00,clasificacion general sistemica,14,malformaciones congenitas
+2002,2002_clasificacion-general-sistemica_traumatismos-y-envenenamiento.csv,00,clasificacion general sistemica,15,traumatismos y envenenamiento
+2002,2002_clasificacion-general-sistemica_transtornos-mentales-y-del-comportamiento.csv,00,clasificacion general sistemica,16,transtornos mentales y del comportamiento
+2002,2002_clasificacion-general-sistemica_otras-causas.csv,00,clasificacion general sistemica,17,otras causas
+2002,2002_sospecha-diagnostica_sarampion.csv,01,sospecha diagnostica,01,sarampion
+2002,2002_sospecha-diagnostica_rubeola.csv,01,sospecha diagnostica,02,rubeola
+2002,2002_sospecha-diagnostica_tosferina.csv,01,sospecha diagnostica,03,tosferina
+2002,2002_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2002,2002_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2002,2002_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2002,2002_sospecha-diagnostica_poliomielitis.csv,01,sospecha diagnostica,09,poliomielitis
+2002,2002_sospecha-diagnostica_fiebre-hemorragica.csv,02,sospecha diagnostica,09,fiebre hemorragica
+2002,2002_sospecha-diagnostica_tifus-exantematico.csv,02,sospecha diagnostica,10,tifus exantematico
+2002,2002_sospecha-diagnostica_peste.csv,02,sospecha diagnostica,11,peste
+2002,2002_sospecha-diagnostica_meningitis-meningococcica.csv,02,sospecha diagnostica,12,meningitis meningococcica
+2002,2002_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2002,2002_sospecha-diagnostica_hantavirus.csv,02,sospecha diagnostica,14,hantavirus
+2002,2002_sospecha-diagnostica_rabia-humana-canina.csv,02,sospecha diagnostica,15,rabia (humana/canina)
+2002,2002_sospecha-diagnostica_sida-mujeres.csv,02,sospecha diagnostica,16,sida mujeres
+2002,2002_sospecha-diagnostica_sida-hombres.csv,02,sospecha diagnostica,17,sida hombres
+2002,2002_sospecha-diagnostica_sifilis.csv,02,sospecha diagnostica,18,sifilis
+2002,2002_sospecha-diagnostica_meningitis-por-hemophilus-influenzae.csv,02,sospecha diagnostica,19,meningitis por hemophilus influenzae
+2002,2002_sospecha-diagnostica_meningitis-tuberculosa.csv,02,sospecha diagnostica,20,meningitis tuberculosa
+2002,2002_inmunoprevenibles_tetanos-neonatal.csv,04,inmunoprevenibles,01,tetanos neonatal
+2002,2002_inmunoprevenibles_tetanos-de-adulto.csv,04,inmunoprevenibles,02,tetanos de adulto
+2002,2002_inmunoprevenibles_hepatitis-viral.csv,04,inmunoprevenibles,03,hepatitis viral
+2002,2002_inmunoprevenibles_eruptivas.csv,04,inmunoprevenibles,05,eruptivas
+2002,2002_inmunoprevenibles_paralisis-flacida.csv,04,inmunoprevenibles,06,paralisis flacida
+2002,2002_inmunoprevenibles_rabia-canina.csv,04,inmunoprevenibles,07,rabia canina
+2002,2002_inmunoprevenibles_tosferina-3.csv,04,inmunoprevenibles,08,tosferina (3*)
+2002,2002_inmunoprevenibles_difteria-4.csv,04,inmunoprevenibles,09,difteria (4*)
+2002,2002_inmunoprevenibles_fiebre-amarilla-6.csv,04,inmunoprevenibles,10,fiebre amarilla (6*)
+2002,2002_inmunoprevenibles_rabia-humana-7.csv,04,inmunoprevenibles,11,rabia humana (7*)
+2002,2002_infecciones-de-transmision-sexual_its-mujer-con-ulcera-genital.csv,05,infecciones de transmision sexual,01,its mujer con ulcera genital
+2002,2002_infecciones-de-transmision-sexual_its-hombre-con-ulcera-genital.csv,05,infecciones de transmision sexual,02,its hombre con ulcera genital
+2002,2002_infecciones-de-transmision-sexual_its-home-con-flujo-uretral.csv,05,infecciones de transmision sexual,03,its home con flujo uretral
+2002,2002_infecciones-de-transmision-sexual_sida-o-vih.csv,05,infecciones de transmision sexual,04,sida o vih +
+2002,2002_infecciones-de-transmision-sexual_sifilis-congenita-nacido-vivo.csv,05,infecciones de transmision sexual,05,sifilis congenita - nacido vivo
+2002,2002_infecciones-de-transmision-sexual_sifilis-congenita-mortinato.csv,05,infecciones de transmision sexual,06,sifilis congenita - mortinato
+2002,2002_otras-infecciones_diarrea.csv,06,otras infecciones,01,diarrea
+2002,2002_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2002,2002_otras-infecciones_enfermedad-de-hansen.csv,06,otras infecciones,05,enfermedad de hansen
+2002,2002_otras-infecciones_sintomatico-respiratorio.csv,06,otras infecciones,06,sintomatico respiratorio
+2002,2002_otras-infecciones_fiebre-hemorragica-13.csv,06,otras infecciones,07,fiebre hemorragica (13*)
+2002,2002_otras-infecciones_enfermedad-respiratoria-hanta-14.csv,06,otras infecciones,08,enfermedad respiratoria hanta (14*)
+2002,2002_otras-infecciones_tifus-exantematico-15.csv,06,otras infecciones,09,tifus exantematico (15*)
+2002,2002_otras-infecciones_meningitis-17-18-19.csv,06,otras infecciones,10,"meningitis (17, 18*, 19*)"
+2002,2002_tuberculosis-casos-confirmados_meningitis-tuberculosa-en-menores-de-5-anos.csv,07,tuberculosis (casos confirmados),02,meningitis tuberculosa en menores de 5 anos
+2002,2002_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis (casos confirmados),03,tuberculosis pulmonar baar (+) nuevos
+2002,2002_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar.csv,07,tuberculosis (casos confirmados),04,tuberculosis pulmonar baar (-)
+2002,2002_tuberculosis-casos-confirmados_tuberculosis-extrapulmonar.csv,07,tuberculosis (casos confirmados),05,tuberculosis extrapulmonar
+2002,2002_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-prevamente-tratados.csv,07,tuberculosis (casos confirmados),06,tuberculosis pulmonar baar (+) prevamente tratados
+2002,2002_violencia-intrafamiliar_violencia-contra-el-hombre.csv,08,violencia intrafamiliar,01,violencia contra el hombre
+2002,2002_violencia-intrafamiliar_violencia-contra-la-mujer.csv,08,violencia intrafamiliar,02,violencia contra la mujer
+2002,2002_violencia-intrafamiliar_violencia-contra-el-nino.csv,08,violencia intrafamiliar,03,violencia contra el nino
+2002,2002_violencia-intrafamiliar_violencia-contra-la-nina.csv,08,violencia intrafamiliar,04,violencia contra la nina
+2002,2002_mortalidad-en-el-establecimiento-leatalidad_muerte-materna.csv,09,mortalidad en el establecimiento ( leatalidad),01,muerte materna
+2002,2002_mortalidad-en-el-establecimiento-leatalidad_muerte-rn-menor-de-7-dias.csv,09,mortalidad en el establecimiento ( leatalidad),02,muerte rn menor de 7 dias
+2002,2002_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad en el establecimiento ( leatalidad),04,muerte menor de 5 anos por diarrea
+2002,2002_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad en el establecimiento ( leatalidad),05,muerte menor de 5 anos por neumonia
+2002,2002_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad en el establecimiento ( leatalidad),06,muerte menor de 5 anos por otras causas
+2002,2002_mortalidad-en-el-establecimiento-leatalidad_otras-muertes-en-personas-mayores-de-5-anos.csv,09,mortalidad en el establecimiento ( leatalidad),07,otras muertes en personas mayores de 5 anos
+2002,2002_mortalidad-en-el-establecimiento-leatalidad_muerte-por-malaria-p-falciparum.csv,09,mortalidad en el establecimiento ( leatalidad),08,muerte por malaria (p. falciparum)
+2002,2002_alto-riesgo-obstetrico_hemorragia-de-la-primera-mitad-del-embarazo.csv,10,alto riesgo obstetrico,05,hemorragia de la primera mitad del embarazo
+2002,2002_alto-riesgo-obstetrico_parto-de-adolecente-menor-de-20-anos.csv,10,alto riesgo obstetrico,06,parto de adolecente (menor de 20 anos)
+2002,2002_alto-riesgo-obstetrico_parto-de-mujer-anosa-mayor-de-35-anos.csv,10,alto riesgo obstetrico,07,parto de mujer anosa (mayor de 35 anos)
+2002,2002_alto-riesgo-obstetrico_parturienta-con-hijo-anterior-vivo.csv,10,alto riesgo obstetrico,08,parturienta con hijo anterior vivo
+2002,2002_alto-riesgo-obstetrico_parturienta-con-hijo-anterior-muerto.csv,10,alto riesgo obstetrico,09,parturienta con hijo anterior muerto
+2002,2002_estado-nutricional-en-menores-de-5-anos_clasificacion-a-y-b.csv,11,estado nutricional en menores de 5 anos,01,clasificacion a y b
+2002,2002_estado-nutricional-en-menores-de-5-anos_clasificacion-c.csv,11,estado nutricional en menores de 5 anos,02,clasificacion c
+2002,2002_estado-nutricional-en-menores-de-5-anos_clasificacion-d.csv,11,estado nutricional en menores de 5 anos,03,clasificacion d
+2002,2002_estado-nutricional-en-menores-de-5-anos_clasificacion-e.csv,11,estado nutricional en menores de 5 anos,04,clasificacion e
+2002,2002_estado-nutricional-en-menores-de-5-anos_clasificacion-f.csv,11,estado nutricional en menores de 5 anos,05,clasificacion f
+2002,2002_intoxicaciones_alimentos-brotes.csv,13,intoxicaciones,02,alimentos (brotes)
+2002,2002_intoxicaciones_alcohol.csv,13,intoxicaciones,03,alcohol
+2002,2002_intoxicaciones_drogas.csv,13,intoxicaciones,04,drogas
+2002,2002_intoxicaciones_organosfosforados.csv,13,intoxicaciones,05,organosfosforados
+2002,2002_enfermedades-metaxenicas_malaria.csv,14,enfermedades metaxenicas,01,malaria
+2002,2002_enfermedades-metaxenicas_leishmaniasis.csv,14,enfermedades metaxenicas,02,leishmaniasis
+2002,2002_enfermedades-metaxenicas_dengue.csv,14,enfermedades metaxenicas,03,dengue
+2002,2002_enfermedades-metaxenicas_enfermedades-de-chagas-aguda.csv,14,enfermedades metaxenicas,04,enfermedades de chagas aguda
+2002,2002_mortalidad-fuera-del-establecimiento_muerte-materna.csv,15,mortalidad fuera del establecimiento,01,muerte materna
+2002,2002_mortalidad-fuera-del-establecimiento_muerte-por-otras-causas.csv,15,mortalidad fuera del establecimiento,02,muerte por otras causas
+2003,2003_clasificacion-general-sistemica_enfermedades-del-sistema-nervioso.csv,00,clasificacion general sistemica,01,enfermedades del sistema nervioso
+2003,2003_clasificacion-general-sistemica_enfermedades-del-ojo-y-anexos.csv,00,clasificacion general sistemica,02,enfermedades del ojo y anexos
+2003,2003_clasificacion-general-sistemica_enfermedades-del-oido-y-apofisis-mastoides.csv,00,clasificacion general sistemica,03,enfermedades del oido y apofisis mastoides
+2003,2003_clasificacion-general-sistemica_enfermedades-del-sistema-cardio-circulatorio.csv,00,clasificacion general sistemica,04,enfermedades del sistema cardio circulatorio
+2003,2003_clasificacion-general-sistemica_enfermedades-del-sistema-respiratorio.csv,00,clasificacion general sistemica,05,enfermedades del sistema respiratorio
+2003,2003_clasificacion-general-sistemica_enfermedades-del-sistema-digestivo.csv,00,clasificacion general sistemica,06,enfermedades del sistema digestivo
+2003,2003_clasificacion-general-sistemica_enfermedades-del-sistema-genitourinario.csv,00,clasificacion general sistemica,07,enfermedades del sistema genitourinario
+2003,2003_clasificacion-general-sistemica_enfermedades-de-piel-y-celular-subcutanea.csv,00,clasificacion general sistemica,08,enfermedades de piel y celular subcutanea
+2003,2003_clasificacion-general-sistemica_enfermedades-endocrinas-nutricionales-metabolicas.csv,00,clasificacion general sistemica,09,enfermedades endocrinas - nutricionales - metabolicas
+2003,2003_clasificacion-general-sistemica_enfermedades-sistema-osteomuscular-y-tejido-conjuntivo.csv,00,clasificacion general sistemica,10,enfermedades sistema osteomuscular y tejido conjuntivo
+2003,2003_clasificacion-general-sistemica_enfermedades-de-la-sangre-y-transtornos-inmunitarios.csv,00,clasificacion general sistemica,11,enfermedades de la sangre y transtornos inmunitarios
+2003,2003_clasificacion-general-sistemica_enfermedades-tumorales.csv,00,clasificacion general sistemica,12,enfermedades tumorales
+2003,2003_clasificacion-general-sistemica_complicaciones-embarazo-parto-y-puerperio.csv,00,clasificacion general sistemica,13,"complicaciones embarazo, parto y puerperio"
+2003,2003_clasificacion-general-sistemica_malformaciones-congenitas.csv,00,clasificacion general sistemica,14,malformaciones congenitas
+2003,2003_clasificacion-general-sistemica_traumatismos-y-envenenamiento.csv,00,clasificacion general sistemica,15,traumatismos y envenenamiento
+2003,2003_clasificacion-general-sistemica_transtornos-mentales-y-del-comportamiento.csv,00,clasificacion general sistemica,16,transtornos mentales y del comportamiento
+2003,2003_clasificacion-general-sistemica_otras-causas.csv,00,clasificacion general sistemica,17,otras causas
+2003,2003_sospecha-diagnostica_sarampion.csv,01,sospecha diagnostica,01,sarampion
+2003,2003_sospecha-diagnostica_rubeola.csv,01,sospecha diagnostica,02,rubeola
+2003,2003_sospecha-diagnostica_tosferina.csv,01,sospecha diagnostica,03,tosferina
+2003,2003_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2003,2003_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2003,2003_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2003,2003_sospecha-diagnostica_poliomielitis.csv,01,sospecha diagnostica,09,poliomielitis
+2003,2003_sospecha-diagnostica_fiebre-hemorragica.csv,02,sospecha diagnostica,09,fiebre hemorragica
+2003,2003_sospecha-diagnostica_tifus-exantematico.csv,02,sospecha diagnostica,10,tifus exantematico
+2003,2003_sospecha-diagnostica_peste.csv,02,sospecha diagnostica,11,peste
+2003,2003_sospecha-diagnostica_meningitis-meningococcica.csv,02,sospecha diagnostica,12,meningitis meningococcica
+2003,2003_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2003,2003_sospecha-diagnostica_hantavirus.csv,02,sospecha diagnostica,14,hantavirus
+2003,2003_sospecha-diagnostica_rabia-humana-canina.csv,02,sospecha diagnostica,15,rabia (humana/canina)
+2003,2003_sospecha-diagnostica_sida-mujeres.csv,02,sospecha diagnostica,16,sida mujeres
+2003,2003_sospecha-diagnostica_sida-hombres.csv,02,sospecha diagnostica,17,sida hombres
+2003,2003_sospecha-diagnostica_sifilis.csv,02,sospecha diagnostica,18,sifilis
+2003,2003_sospecha-diagnostica_meningitis-por-hemophilus-influenzae.csv,02,sospecha diagnostica,19,meningitis por hemophilus influenzae
+2003,2003_sospecha-diagnostica_meningitis-tuberculosa.csv,02,sospecha diagnostica,20,meningitis tuberculosa
+2003,2003_inmunoprevenibles_tetanos-neonatal.csv,04,inmunoprevenibles,01,tetanos neonatal
+2003,2003_inmunoprevenibles_tetanos-de-adulto.csv,04,inmunoprevenibles,02,tetanos de adulto
+2003,2003_inmunoprevenibles_hepatitis-viral.csv,04,inmunoprevenibles,03,hepatitis viral
+2003,2003_inmunoprevenibles_eruptivas.csv,04,inmunoprevenibles,05,eruptivas
+2003,2003_inmunoprevenibles_paralisis-flacida.csv,04,inmunoprevenibles,06,paralisis flacida
+2003,2003_inmunoprevenibles_rabia-canina.csv,04,inmunoprevenibles,07,rabia canina
+2003,2003_inmunoprevenibles_tosferina-3.csv,04,inmunoprevenibles,08,tosferina (3*)
+2003,2003_inmunoprevenibles_difteria-4.csv,04,inmunoprevenibles,09,difteria (4*)
+2003,2003_inmunoprevenibles_fiebre-amarilla-6.csv,04,inmunoprevenibles,10,fiebre amarilla (6*)
+2003,2003_inmunoprevenibles_rabia-humana-7.csv,04,inmunoprevenibles,11,rabia humana (7*)
+2003,2003_infecciones-de-transmision-sexual_its-mujer-con-ulcera-genital.csv,05,infecciones de transmision sexual,01,its mujer con ulcera genital
+2003,2003_infecciones-de-transmision-sexual_its-hombre-con-ulcera-genital.csv,05,infecciones de transmision sexual,02,its hombre con ulcera genital
+2003,2003_infecciones-de-transmision-sexual_its-home-con-flujo-uretral.csv,05,infecciones de transmision sexual,03,its home con flujo uretral
+2003,2003_infecciones-de-transmision-sexual_sida-o-vih.csv,05,infecciones de transmision sexual,04,sida o vih +
+2003,2003_infecciones-de-transmision-sexual_sifilis-congenita-nacido-vivo.csv,05,infecciones de transmision sexual,05,sifilis congenita - nacido vivo
+2003,2003_infecciones-de-transmision-sexual_sifilis-congenita-mortinato.csv,05,infecciones de transmision sexual,06,sifilis congenita - mortinato
+2003,2003_otras-infecciones_diarrea.csv,06,otras infecciones,01,diarrea
+2003,2003_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2003,2003_otras-infecciones_enfermedad-de-hansen.csv,06,otras infecciones,05,enfermedad de hansen
+2003,2003_otras-infecciones_sintomatico-respiratorio.csv,06,otras infecciones,06,sintomatico respiratorio
+2003,2003_otras-infecciones_fiebre-hemorragica-13.csv,06,otras infecciones,07,fiebre hemorragica (13*)
+2003,2003_otras-infecciones_enfermedad-respiratoria-hanta-14.csv,06,otras infecciones,08,enfermedad respiratoria hanta (14*)
+2003,2003_otras-infecciones_tifus-exantematico-15.csv,06,otras infecciones,09,tifus exantematico (15*)
+2003,2003_otras-infecciones_meningitis-17-18-19.csv,06,otras infecciones,10,"meningitis (17, 18*, 19*)"
+2003,2003_tuberculosis-casos-confirmados_meningitis-tuberculosa-en-menores-de-5-anos.csv,07,tuberculosis (casos confirmados),02,meningitis tuberculosa en menores de 5 anos
+2003,2003_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis (casos confirmados),03,tuberculosis pulmonar baar (+) nuevos
+2003,2003_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar.csv,07,tuberculosis (casos confirmados),04,tuberculosis pulmonar baar (-)
+2003,2003_tuberculosis-casos-confirmados_tuberculosis-extrapulmonar.csv,07,tuberculosis (casos confirmados),05,tuberculosis extrapulmonar
+2003,2003_tuberculosis-casos-confirmados_tuberculosis-pulmonar-baar-prevamente-tratados.csv,07,tuberculosis (casos confirmados),06,tuberculosis pulmonar baar (+) prevamente tratados
+2003,2003_violencia-intrafamiliar_violencia-contra-el-hombre.csv,08,violencia intrafamiliar,01,violencia contra el hombre
+2003,2003_violencia-intrafamiliar_violencia-contra-la-mujer.csv,08,violencia intrafamiliar,02,violencia contra la mujer
+2003,2003_violencia-intrafamiliar_violencia-contra-el-nino.csv,08,violencia intrafamiliar,03,violencia contra el nino
+2003,2003_violencia-intrafamiliar_violencia-contra-la-nina.csv,08,violencia intrafamiliar,04,violencia contra la nina
+2003,2003_mortalidad-en-el-establecimiento-leatalidad_muerte-materna.csv,09,mortalidad en el establecimiento ( leatalidad),01,muerte materna
+2003,2003_mortalidad-en-el-establecimiento-leatalidad_muerte-rn-menor-de-7-dias.csv,09,mortalidad en el establecimiento ( leatalidad),02,muerte rn menor de 7 dias
+2003,2003_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad en el establecimiento ( leatalidad),04,muerte menor de 5 anos por diarrea
+2003,2003_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad en el establecimiento ( leatalidad),05,muerte menor de 5 anos por neumonia
+2003,2003_mortalidad-en-el-establecimiento-leatalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad en el establecimiento ( leatalidad),06,muerte menor de 5 anos por otras causas
+2003,2003_mortalidad-en-el-establecimiento-leatalidad_otras-muertes-en-personas-mayores-de-5-anos.csv,09,mortalidad en el establecimiento ( leatalidad),07,otras muertes en personas mayores de 5 anos
+2003,2003_mortalidad-en-el-establecimiento-leatalidad_muerte-por-malaria-p-falciparum.csv,09,mortalidad en el establecimiento ( leatalidad),08,muerte por malaria (p. falciparum)
+2003,2003_alto-riesgo-obstetrico_hemorragia-de-la-primera-mitad-del-embarazo.csv,10,alto riesgo obstetrico,05,hemorragia de la primera mitad del embarazo
+2003,2003_alto-riesgo-obstetrico_parto-de-adolecente-menor-de-20-anos.csv,10,alto riesgo obstetrico,06,parto de adolecente (menor de 20 anos)
+2003,2003_alto-riesgo-obstetrico_parto-de-mujer-anosa-mayor-de-35-anos.csv,10,alto riesgo obstetrico,07,parto de mujer anosa (mayor de 35 anos)
+2003,2003_alto-riesgo-obstetrico_parturienta-con-hijo-anterior-vivo.csv,10,alto riesgo obstetrico,08,parturienta con hijo anterior vivo
+2003,2003_alto-riesgo-obstetrico_parturienta-con-hijo-anterior-muerto.csv,10,alto riesgo obstetrico,09,parturienta con hijo anterior muerto
+2003,2003_estado-nutricional-en-menores-de-5-anos_clasificacion-a-y-b.csv,11,estado nutricional en menores de 5 anos,01,clasificacion a y b
+2003,2003_estado-nutricional-en-menores-de-5-anos_clasificacion-c.csv,11,estado nutricional en menores de 5 anos,02,clasificacion c
+2003,2003_estado-nutricional-en-menores-de-5-anos_clasificacion-d.csv,11,estado nutricional en menores de 5 anos,03,clasificacion d
+2003,2003_estado-nutricional-en-menores-de-5-anos_clasificacion-e.csv,11,estado nutricional en menores de 5 anos,04,clasificacion e
+2003,2003_estado-nutricional-en-menores-de-5-anos_clasificacion-f.csv,11,estado nutricional en menores de 5 anos,05,clasificacion f
+2003,2003_intoxicaciones_alimentos-brotes.csv,13,intoxicaciones,02,alimentos (brotes)
+2003,2003_intoxicaciones_alcohol.csv,13,intoxicaciones,03,alcohol
+2003,2003_intoxicaciones_drogas.csv,13,intoxicaciones,04,drogas
+2003,2003_intoxicaciones_organosfosforados.csv,13,intoxicaciones,05,organosfosforados
+2003,2003_enfermedades-metaxenicas_malaria.csv,14,enfermedades metaxenicas,01,malaria
+2003,2003_enfermedades-metaxenicas_leishmaniasis.csv,14,enfermedades metaxenicas,02,leishmaniasis
+2003,2003_enfermedades-metaxenicas_dengue.csv,14,enfermedades metaxenicas,03,dengue
+2003,2003_enfermedades-metaxenicas_enfermedades-de-chagas-aguda.csv,14,enfermedades metaxenicas,04,enfermedades de chagas aguda
+2003,2003_mortalidad-fuera-del-establecimiento_muerte-materna.csv,15,mortalidad fuera del establecimiento,01,muerte materna
+2003,2003_mortalidad-fuera-del-establecimiento_muerte-por-otras-causas.csv,15,mortalidad fuera del establecimiento,02,muerte por otras causas
+2004,2004_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,01,sarampion / rubeola
+2004,2004_sospecha-diagnostica_rubeola.csv,01,sospecha diagnostica,02,rubeola
+2004,2004_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2004,2004_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2004,2004_sospecha-diagnostica_paralisis-flacida-aguda.csv,01,sospecha diagnostica,05,paralisis flacida aguda
+2004,2004_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2004,2004_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2004,2004_sospecha-diagnostica_fiebre-hemorrag-bol.csv,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2004,2004_sospecha-diagnostica_tifus-exantematico.csv,02,sospecha diagnostica,10,tifus exantematico
+2004,2004_sospecha-diagnostica_peste.csv,02,sospecha diagnostica,11,peste
+2004,2004_sospecha-diagnostica_menin-meningococica.csv,02,sospecha diagnostica,12,menin. meningococica
+2004,2004_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2004,2004_sospecha-diagnostica_enfer-por-hanta-virus.csv,02,sospecha diagnostica,14,enfer. por hanta virus
+2004,2004_sospecha-diagnostica_numero-de-personas-mordidas-por-can-sospechoso-de-rabia.csv,03,sospecha diagnostica,14,numero de personas mordidas por can sospechoso de rabia
+2004,2004_sospecha-diagnostica_rabia-en-canes.csv,03,sospecha diagnostica,15,rabia en canes
+2004,2004_sospecha-diagnostica_desastres-y-emergencias.csv,03,sospecha diagnostica,16,desastres y emergencias
+2004,2004_inmunoprevenibles_tetanos-neonatal.csv,04,inmunoprevenibles,01,tetanos neonatal
+2004,2004_inmunoprevenibles_tetanos-del-adulto.csv,04,inmunoprevenibles,02,tetanos del adulto
+2004,2004_inmunoprevenibles_hepatitis.csv,04,inmunoprevenibles,03,hepatitis
+2004,2004_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,04,parotiditis
+2004,2004_infec-de-transmision-sexual_mujer-con-ulcera-genital.csv,05,infec de transmision sexual,01,mujer con ulcera genital
+2004,2004_infec-de-transmision-sexual_hombre-con-ulcera-genital.csv,05,infec de transmision sexual,02,hombre con ulcera genital
+2004,2004_infec-de-transmision-sexual_hombre-con-flujo-uretral-uretritis.csv,05,infec de transmision sexual,03,hombre con flujo uretral (uretritis)
+2004,2004_infec-de-transmision-sexual_sida.csv,05,infec de transmision sexual,04,sida
+2004,2004_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,01,enfermedad diarreica aguda
+2004,2004_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2004,2004_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2004,2004_otras-infecciones_lepra.csv,06,otras infecciones,04,lepra
+2004,2004_tuberculosis_sintomatico-respiratorio.csv,07,tuberculosis,01,sintomatico respiratorio
+2004,2004_tuberculosis_meningitis-tb-en-menores-de-5-anos.csv,07,tuberculosis,02,meningitis tb en menores de 5 anos
+2004,2004_tuberculosis_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis,03,tuberculosis pulmonar baar + nuevos
+2004,2004_tuberculosis_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis,04,tuberculosis pulmonar baar - nuevos
+2004,2004_tuberculosis_tuberculosis-extrapulmonar.csv,07,tuberculosis,05,tuberculosis extrapulmonar
+2004,2004_violencia-intrafamiliar_hombres.csv,08,violencia  intrafamiliar,01,hombres
+2004,2004_violencia-intrafamiliar_mujeres.csv,08,violencia  intrafamiliar,02,mujeres
+2004,2004_mortalidad-institucional_muerte-materna.csv,09,mortalidad institucional,01,muerte materna
+2004,2004_mortalidad-institucional_muerte-rn-menor-de-7-dias.csv,09,mortalidad institucional,02,muerte rn menor de 7 dias
+2004,2004_mortalidad-institucional_muerte-menor-de-1-ano.csv,09,mortalidad institucional,03,muerte menor de 1 ano
+2004,2004_mortalidad-institucional_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad institucional,04,muerte menor de 5 anos por diarrea
+2004,2004_mortalidad-institucional_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2004,2004_mortalidad-institucional_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad institucional,06,muerte menor de 5 anos por otras causas
+2004,2004_mortalidad-institucional_otras-muertes-en-personas-mayores-de-5-anos.csv,09,mortalidad institucional,07,otras muertes en personas mayores de 5 anos
+2004,2004_mortalidad-institucional_muerte-por-malaria-p-falciparum.csv,09,mortalidad institucional,08,muerte por malaria (p. falciparum)
+2004,2004_salud-sexual-y-reproductiva_aborto.csv,10,salud sexual y reproductiva,01,aborto
+2004,2004_salud-sexual-y-reproductiva_hemorragia-del-parto-o-puerperio.csv,10,salud sexual y reproductiva,02,hemorragia del parto o puerperio
+2004,2004_salud-sexual-y-reproductiva_51embarazo-en-adolecente-menor-de-20-anos.csv,10,salud sexual y reproductiva,03,51embarazo en adolecente (menor de 20 anos)
+2004,2004_salud-sexual-y-reproductiva_preeclampsia-severa-eclampsia.csv,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2004,2004_estado-nutricional_clasificacion-a-y-b.csv,11,estado nutricional,01,clasificacion a y b
+2004,2004_estado-nutricional_clasificacion-c.csv,11,estado nutricional,02,clasificacion c
+2004,2004_estado-nutricional_clasificacion-d.csv,11,estado nutricional,03,clasificacion d
+2004,2004_estado-nutricional_clasificacion-e.csv,11,estado nutricional,04,clasificacion e
+2004,2004_estado-nutricional_clasificacion-f.csv,11,estado nutricional,05,clasificacion f
+2004,2004_intoxicaciones_plaguicidas.csv,13,intoxicaciones,01,plaguicidas
+2004,2004_enfermedades-metaxenicas_malaria.csv,14,enfermedades metaxenicas,01,malaria
+2004,2004_enfermedades-metaxenicas_leishmaniasis.csv,14,enfermedades metaxenicas,02,leishmaniasis
+2004,2004_enfermedades-metaxenicas_dengue.csv,14,enfermedades metaxenicas,03,dengue
+2005,2005_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,01,sarampion / rubeola
+2005,2005_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2005,2005_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2005,2005_sospecha-diagnostica_paralisis-flacida-aguda.csv,01,sospecha diagnostica,05,paralisis flacida aguda
+2005,2005_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2005,2005_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2005,2005_sospecha-diagnostica_dengue-clasico.csv,01,sospecha diagnostica,08,dengue clasico
+2005,2005_sospecha-diagnostica_fiebre-hemorrag-bol.csv,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2005,2005_sospecha-diagnostica_peste.csv,02,sospecha diagnostica,11,peste
+2005,2005_sospecha-diagnostica_menin-meningococica.csv,02,sospecha diagnostica,12,menin. meningococica
+2005,2005_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2005,2005_sospecha-diagnostica_enfer-por-hanta-virus.csv,02,sospecha diagnostica,14,enfer. por hanta virus
+2005,2005_sospecha-diagnostica_rabia-humana.csv,02,sospecha diagnostica,15,rabia humana
+2005,2005_sospecha-diagnostica_numero-de-personas-mordidas-por-animal-sospechoso-de-rabia.csv,03,sospecha diagnostica,14,numero de personas mordidas por animal sospechoso de rabia
+2005,2005_inmunoprevenibles_tetanos-neonatal.csv,04,inmunoprevenibles,01,tetanos neonatal
+2005,2005_inmunoprevenibles_tetanos-del-adulto.csv,04,inmunoprevenibles,02,tetanos del adulto
+2005,2005_inmunoprevenibles_hepatitis.csv,04,inmunoprevenibles,03,hepatitis
+2005,2005_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,04,parotiditis
+2005,2005_infec-de-transmision-sexual_mujer-con-ulcera-genital.csv,05,infec de transmision sexual,01,mujer con ulcera genital
+2005,2005_infec-de-transmision-sexual_hombre-con-ulcera-genital.csv,05,infec de transmision sexual,02,hombre con ulcera genital
+2005,2005_infec-de-transmision-sexual_hombre-con-flujo-uretral-uretritis.csv,05,infec de transmision sexual,03,hombre con flujo uretral (uretritis)
+2005,2005_infec-de-transmision-sexual_sida.csv,05,infec de transmision sexual,04,sida
+2005,2005_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,01,enfermedad  diarreica aguda
+2005,2005_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2005,2005_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2005,2005_otras-infecciones_malaria.csv,06,otras infecciones,04,malaria
+2005,2005_otras-infecciones_leishmaniasis.csv,06,otras infecciones,05,leishmaniasis
+2005,2005_tuberculosis-y-lepra_sintomatico-respiratorio.csv,07,tuberculosis y lepra,01,sintomatico respiratorio
+2005,2005_tuberculosis-y-lepra_meningitis-tb-en-menores-de-5-anos.csv,07,tuberculosis y lepra,02, meningitis tb en menores de 5 anos
+2005,2005_tuberculosis-y-lepra_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis y lepra,03,tuberculosis pulmonar baar + nuevos
+2005,2005_tuberculosis-y-lepra_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis y lepra,04,tuberculosis pulmonar baar - nuevos
+2005,2005_tuberculosis-y-lepra_tuberculosis-extrapulmonar.csv,07,tuberculosis y lepra,05,tuberculosis extrapulmonar
+2005,2005_tuberculosis-y-lepra_enfermos-curados.csv,07,tuberculosis y lepra,06,enfermos curados
+2005,2005_tuberculosis-y-lepra_fracaso-terapeutico.csv,07,tuberculosis y lepra,07,fracaso terapeutico
+2005,2005_tuberculosis-y-lepra_lepra.csv,07,tuberculosis y lepra,08,lepra *
+2005,2005_violencia-intrafamiliar_hombres.csv,08,violencia  intrafamiliar,01,hombres
+2005,2005_violencia-intrafamiliar_mujeres.csv,08,violencia  intrafamiliar,02,mujeres
+2005,2005_mortalidad-institucional_muerte-materna.csv,09,mortalidad institucional,01,muerte materna
+2005,2005_mortalidad-institucional_muerte-rn-menor-de-7-dias.csv,09,mortalidad institucional,02,muerte rn menor de 7 dias
+2005,2005_mortalidad-institucional_muerte-menor-de-1-ano.csv,09,mortalidad institucional,03,muerte menor de 1 ano
+2005,2005_mortalidad-institucional_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad institucional,04,muerte  menor de 5 anos por diarrea
+2005,2005_mortalidad-institucional_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2005,2005_mortalidad-institucional_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad institucional,06,muerte menor de 5 anos por otras causas
+2005,2005_mortalidad-institucional_otras-muertes-en-personas-mayores-de-5-anos.csv,09,mortalidad institucional,07,otras muertes en personas mayores de 5 anos
+2005,2005_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem.csv,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22 sem)
+2005,2005_salud-sexual-y-reproductiva_hemorragia-del-parto-o-puerperio.csv,10,salud sexual y reproductiva,02,hemorragia del parto o puerperio
+2005,2005_salud-sexual-y-reproductiva_embarazo-en-adolecente-menor-de-20-anos.csv,10,salud sexual y reproductiva,03,embarazo en adolecente (menor de 20 anos)
+2005,2005_salud-sexual-y-reproductiva_preeclampsia-severa-eclampsia.csv,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2005,2005_desnutricion-global_sobrepeso-s.csv,11,desnutricion global,01,sobrepeso (s)
+2005,2005_desnutricion-global_nutricion-normal-n.csv,11,desnutricion global,02,nutricion normal (n)
+2005,2005_desnutricion-global_desnutricion-leve-l.csv,11,desnutricion global,03,desnutricion leve (l)
+2005,2005_desnutricion-global_desnutricion-moderada-m.csv,11,desnutricion global,04,desnutricion moderada (m)
+2005,2005_desnutricion-global_desnutricion-grave-g.csv,11,desnutricion global,05,desnutricion grave (g)
+2005,2005_desnutricion-cronica_talla-normal-n.csv,12,desnutricion cronica,01,talla normal (n)
+2005,2005_desnutricion-cronica_talla-baja-leve-l.csv,12,desnutricion cronica,02,talla baja leve (l)
+2005,2005_desnutricion-cronica_talla-baja-moderada-m.csv,12,desnutricion cronica,03,talla baja moderada (m)
+2005,2005_desnutricion-cronica_talla-baja-grave-g.csv,12,desnutricion cronica,04,talla baja grave (g)
+2005,2005_intoxicaciones_plaguicidas.csv,13,intoxicaciones,01,plaguicidas
+2006,2006_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,01,sarampion / rubeola
+2006,2006_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2006,2006_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2006,2006_sospecha-diagnostica_paralisis-flacida-aguda.csv,01,sospecha diagnostica,05,paralisis flacida aguda
+2006,2006_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2006,2006_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2006,2006_sospecha-diagnostica_dengue-clasico.csv,01,sospecha diagnostica,08,dengue clasico
+2006,2006_sospecha-diagnostica_fiebre-hemorrag-bol.csv,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2006,2006_sospecha-diagnostica_peste.csv,02,sospecha diagnostica,11,peste
+2006,2006_sospecha-diagnostica_menin-meningococica.csv,02,sospecha diagnostica,12,menin. meningococica
+2006,2006_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2006,2006_sospecha-diagnostica_enfer-por-hanta-virus.csv,02,sospecha diagnostica,14,enfer. por hanta virus
+2006,2006_sospecha-diagnostica_rabia-humana.csv,02,sospecha diagnostica,15,rabia humana
+2006,2006_sospecha-diagnostica_numero-de-personas-mordidas-por-animal-sospechoso-de-rabia.csv,03,sospecha diagnostica,14,numero de personas mordidas por animal sospechoso de rabia
+2006,2006_inmunoprevenibles_tetanos-neonatal.csv,04,inmunoprevenibles,01,tetanos neonatal
+2006,2006_inmunoprevenibles_tetanos-del-adulto.csv,04,inmunoprevenibles,02,tetanos del adulto
+2006,2006_inmunoprevenibles_hepatitis.csv,04,inmunoprevenibles,03,hepatitis
+2006,2006_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,04,parotiditis
+2006,2006_infec-de-transmision-sexual_mujer-con-ulcera-genital.csv,05,infec de transmision sexual,01,mujer con ulcera genital
+2006,2006_infec-de-transmision-sexual_hombre-con-ulcera-genital.csv,05,infec de transmision sexual,02,hombre con ulcera genital
+2006,2006_infec-de-transmision-sexual_hombre-con-flujo-uretral-uretritis.csv,05,infec de transmision sexual,03,hombre con flujo uretral (uretritis)
+2006,2006_infec-de-transmision-sexual_sida.csv,05,infec de transmision sexual,04,sida
+2006,2006_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,01,enfermedad  diarreica aguda
+2006,2006_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2006,2006_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2006,2006_otras-infecciones_malaria.csv,06,otras infecciones,04,malaria
+2006,2006_otras-infecciones_leishmaniasis.csv,06,otras infecciones,05,leishmaniasis
+2006,2006_tuberculosis-y-lepra_sintomatico-respiratorio.csv,07,tuberculosis y lepra,01,sintomatico respiratorio
+2006,2006_tuberculosis-y-lepra_meningitis-tb-en-menores-de-5-anos.csv,07,tuberculosis y lepra,02, meningitis tb en menores de 5 anos
+2006,2006_tuberculosis-y-lepra_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis y lepra,03,tuberculosis pulmonar baar + nuevos
+2006,2006_tuberculosis-y-lepra_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis y lepra,04,tuberculosis pulmonar baar - nuevos
+2006,2006_tuberculosis-y-lepra_tuberculosis-extrapulmonar.csv,07,tuberculosis y lepra,05,tuberculosis extrapulmonar
+2006,2006_tuberculosis-y-lepra_enfermos-curados.csv,07,tuberculosis y lepra,06,enfermos curados
+2006,2006_tuberculosis-y-lepra_fracaso-terapeutico.csv,07,tuberculosis y lepra,07,fracaso terapeutico
+2006,2006_tuberculosis-y-lepra_lepra.csv,07,tuberculosis y lepra,08,lepra *
+2006,2006_violencia-intrafamiliar_hombres.csv,08,violencia  intrafamiliar,01,hombres
+2006,2006_violencia-intrafamiliar_mujeres.csv,08,violencia  intrafamiliar,02,mujeres
+2006,2006_mortalidad-institucional_muerte-materna.csv,09,mortalidad institucional,01,muerte materna
+2006,2006_mortalidad-institucional_muerte-rn-menor-de-7-dias.csv,09,mortalidad institucional,02,muerte rn menor de 7 dias
+2006,2006_mortalidad-institucional_muerte-menor-de-1-ano.csv,09,mortalidad institucional,03,muerte menor de 1 ano
+2006,2006_mortalidad-institucional_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad institucional,04,muerte  menor de 5 anos por diarrea
+2006,2006_mortalidad-institucional_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2006,2006_mortalidad-institucional_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad institucional,06,muerte menor de 5 anos por otras causas
+2006,2006_mortalidad-institucional_otras-muertes-en-personas-mayores-de-5-anos.csv,09,mortalidad institucional,07,otras muertes en personas mayores de 5 anos
+2006,2006_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem.csv,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22 sem)
+2006,2006_salud-sexual-y-reproductiva_hemorragia-del-parto-o-puerperio.csv,10,salud sexual y reproductiva,02,hemorragia del parto o puerperio
+2006,2006_salud-sexual-y-reproductiva_embarazo-en-adolecente-menor-de-20-anos.csv,10,salud sexual y reproductiva,03,embarazo en adolecente (menor de 20 anos)
+2006,2006_salud-sexual-y-reproductiva_preeclampsia-severa-eclampsia.csv,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2006,2006_desnutricion-global_sobrepeso-s.csv,11,desnutricion global,01,sobrepeso (s)
+2006,2006_desnutricion-global_nutricion-normal-n.csv,11,desnutricion global,02,nutricion normal (n)
+2006,2006_desnutricion-global_desnutricion-leve-l.csv,11,desnutricion global,03,desnutricion leve (l)
+2006,2006_desnutricion-global_desnutricion-moderada-m.csv,11,desnutricion global,04,desnutricion moderada (m)
+2006,2006_desnutricion-global_desnutricion-grave-g.csv,11,desnutricion global,05,desnutricion grave (g)
+2006,2006_desnutricion-cronica_talla-normal-n.csv,12,desnutricion cronica,01,talla normal (n)
+2006,2006_desnutricion-cronica_talla-baja-leve-l.csv,12,desnutricion cronica,02,talla baja leve (l)
+2006,2006_desnutricion-cronica_talla-baja-moderada-m.csv,12,desnutricion cronica,03,talla baja moderada (m)
+2006,2006_desnutricion-cronica_talla-baja-grave-g.csv,12,desnutricion cronica,04,talla baja grave (g)
+2006,2006_intoxicaciones_plaguicidas.csv,13,intoxicaciones,01,plaguicidas
+2007,2007_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,01,sarampion / rubeola
+2007,2007_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2007,2007_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2007,2007_sospecha-diagnostica_paralisis-flacida-aguda.csv,01,sospecha diagnostica,05,paralisis flacida aguda
+2007,2007_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2007,2007_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2007,2007_sospecha-diagnostica_dengue-clasico.csv,01,sospecha diagnostica,08,dengue clasico
+2007,2007_sospecha-diagnostica_fiebre-hemorrag-bol.csv,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2007,2007_sospecha-diagnostica_peste.csv,02,sospecha diagnostica,11,peste
+2007,2007_sospecha-diagnostica_menin-meningococica.csv,02,sospecha diagnostica,12,menin. meningococica
+2007,2007_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2007,2007_sospecha-diagnostica_enfer-por-hanta-virus.csv,02,sospecha diagnostica,14,enfer. por hanta virus
+2007,2007_sospecha-diagnostica_rabia-humana.csv,02,sospecha diagnostica,15,rabia humana
+2007,2007_sospecha-diagnostica_numero-de-personas-mordidas-por-animal-sospechoso-de-rabia.csv,03,sospecha diagnostica,14,numero de personas mordidas por animal sospechoso de rabia
+2007,2007_inmunoprevenibles_tetanos-neonatal.csv,04,inmunoprevenibles,01,tetanos neonatal
+2007,2007_inmunoprevenibles_tetanos.csv,04,inmunoprevenibles,02,tetanos
+2007,2007_inmunoprevenibles_hepatitis.csv,04,inmunoprevenibles,03,hepatitis
+2007,2007_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,04,parotiditis
+2007,2007_infec-de-transmision-sexual_ulcera-genital.csv,05,infec de transmision sexual,01,ulcera genital
+2007,2007_infec-de-transmision-sexual_flujo-uretral-uretritis.csv,05,infec de transmision sexual,03,flujo uretral (uretritis)
+2007,2007_infec-de-transmision-sexual_sida.csv,05,infec de transmision sexual,04,sida *
+2007,2007_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,01,enfermedad  diarreica aguda
+2007,2007_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2007,2007_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2007,2007_otras-infecciones_malaria.csv,06,otras infecciones,04,malaria
+2007,2007_otras-infecciones_leishmaniasis.csv,06,otras infecciones,05,leishmaniasis
+2007,2007_tuberculosis-y-lepra_sintomatico-respiratorio.csv,07,tuberculosis y lepra,01,sintomatico respiratorio
+2007,2007_tuberculosis-y-lepra_meningitis-tb-en-menores-de-5-anos.csv,07,tuberculosis y lepra,02, meningitis tb en menores de 5 anos
+2007,2007_tuberculosis-y-lepra_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis y lepra,03,tuberculosis pulmonar baar + nuevos
+2007,2007_tuberculosis-y-lepra_tuberculosis-pulmonar-baar-nuevos.csv,07,tuberculosis y lepra,04,tuberculosis pulmonar baar - nuevos
+2007,2007_tuberculosis-y-lepra_tuberculosis-extrapulmonar.csv,07,tuberculosis y lepra,05,tuberculosis extrapulmonar
+2007,2007_tuberculosis-y-lepra_enfermos-curados.csv,07,tuberculosis y lepra,06,enfermos curados
+2007,2007_tuberculosis-y-lepra_fracaso-terapeutico.csv,07,tuberculosis y lepra,07,fracaso terapeutico
+2007,2007_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,08,lepra paucibacilar*
+2007,2007_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,09,lepra multibacilar *
+2007,2007_violencia-intrafamiliar_intrafamiliar.csv,08,violencia  intrafamiliar,01,intrafamiliar
+2007,2007_violencia-intrafamiliar_otras-violencias-causas-externas.csv,08,violencia  intrafamiliar,02,otras violencias (causas externas)
+2007,2007_mortalidad-institucional_muerte-materna.csv,09,mortalidad institucional,01,muerte materna
+2007,2007_mortalidad-institucional_muerte-rn-menor-de-7-dias.csv,09,mortalidad institucional,02,muerte rn menor de 7 dias
+2007,2007_mortalidad-institucional_muerte-menor-de-1-ano.csv,09,mortalidad institucional,03,muerte menor de 1 ano
+2007,2007_mortalidad-institucional_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad institucional,04,muerte  menor de 5 anos por diarrea
+2007,2007_mortalidad-institucional_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2007,2007_mortalidad-institucional_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad institucional,06,muerte menor de 5 anos por otras causas
+2007,2007_mortalidad-institucional_otras-muertes-en-personas-mayores-de-5-anos.csv,09,mortalidad institucional,07,otras muertes en personas mayores de 5 anos
+2007,2007_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem.csv,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22 sem)
+2007,2007_salud-sexual-y-reproductiva_nro-de-embarazadas-enflaquecidas-desnutridas.csv,10,salud sexual y reproductiva,02,nro. de embarazadas enflaquecidas (desnutridas)
+2007,2007_salud-sexual-y-reproductiva_embarazo-en-adolecente-menor-de-20-anos.csv,10,salud sexual y reproductiva,03,embarazo en adolecente (menor de 20 anos)
+2007,2007_salud-sexual-y-reproductiva_preeclampsia-severa-eclampsia.csv,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2007,2007_desnutricion-aguda_nutricion-superior-ns.csv,11,desnutricion aguda,01,nutricion superior (ns)
+2007,2007_desnutricion-aguda_nutricion-normal-n.csv,11,desnutricion aguda,02,nutricion normal (n)
+2007,2007_desnutricion-aguda_desnutricion-leve-l.csv,11,desnutricion aguda,03,desnutricion leve (l)
+2007,2007_desnutricion-aguda_desnutricion-moderada-m.csv,11,desnutricion aguda,04,desnutricion moderada (m)
+2007,2007_desnutricion-aguda_desnutricion-grave-g.csv,11,desnutricion aguda,05,desnutricion grave (g)
+2007,2007_desnutricion-global-cronica_global-peso-bajo-m-g.csv,12,desnutricion global - cronica,01,global peso bajo (m + g))
+2007,2007_desnutricion-global-cronica_cronica-talla-baja-m-g.csv,12,desnutricion global - cronica,02,cronica talla baja (m + g)
+2007,2007_intoxicaciones_plaguicidas.csv,13,intoxicaciones,01,plaguicidas
+2007,2007_intoxicaciones_otras-intoxicaciones.csv,13,intoxicaciones,02,otras intoxicaciones
+2008,2008_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,01,sarampion / rubeola
+2008,2008_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2008,2008_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2008,2008_sospecha-diagnostica_paralisis-flacida-aguda.csv,01,sospecha diagnostica,05,paralisis flacida aguda
+2008,2008_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2008,2008_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2008,2008_sospecha-diagnostica_dengue-clasico.csv,01,sospecha diagnostica,08,dengue clasico
+2008,2008_sospecha-diagnostica_fiebre-hemorrag-bol.csv,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2008,2008_sospecha-diagnostica_peste.csv,02,sospecha diagnostica,11,peste
+2008,2008_sospecha-diagnostica_menin-meningococica.csv,02,sospecha diagnostica,12,menin. meningococica
+2008,2008_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2008,2008_sospecha-diagnostica_enfer-por-hanta-virus.csv,02,sospecha diagnostica,14,enfer. por hanta virus
+2008,2008_sospecha-diagnostica_rabia-humana.csv,02,sospecha diagnostica,15,rabia humana
+2008,2008_sospecha-diagnostica_no-de-personas-mordidas-por-animal.csv,02,sospecha diagnostica,16,no de personas mordidas por animal
+2008,2008_sospecha-diagnostica_influenza-aviar-pandemica.csv,02,sospecha diagnostica,17,influenza aviar - pandemica
+2008,2008_inmunoprevenibles_tetanos-neonatal.csv,04,inmunoprevenibles,01,tetanos neonatal
+2008,2008_inmunoprevenibles_tetanos.csv,04,inmunoprevenibles,02,tetanos
+2008,2008_inmunoprevenibles_hepatitis-viral.csv,04,inmunoprevenibles,03,hepatitis viral
+2008,2008_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,04,parotiditis
+2008,2008_infec-de-transmision-sexual_ulcera-genital.csv,05,infec. de transmision sexual,01,ulcera genital
+2008,2008_infec-de-transmision-sexual_flujo-uretral-uretritis.csv,05,infec. de transmision sexual,03,flujo uretral (uretritis)
+2008,2008_infec-de-transmision-sexual_sida.csv,05,infec. de transmision sexual,04,sida *
+2008,2008_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,01,enfermedad diarreica aguda
+2008,2008_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2008,2008_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2008,2008_otras-infecciones_malaria.csv,06,otras infecciones,04,malaria
+2008,2008_otras-infecciones_leishmaniasis.csv,06,otras infecciones,05,leishmaniasis
+2008,2008_tuberculosis-y-lepra_meningitis-tb-en-menores-de-5-anos.csv,07,tuberculosis y lepra,02,meningitis tb en menores de 5 anos
+2008,2008_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,08,lepra paucibacilar*
+2008,2008_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,09,lepra multibacilar *
+2008,2008_tuberculosis-y-lepra_rafa-reacciones-adversas-leves-y-moderadas.csv,07,tuberculosis y lepra,10,rafa reacciones adversas (leves y moderadas)
+2008,2008_tuberculosis-y-lepra_rafa-reacciones-adversas-graves.csv,07,tuberculosis y lepra,11,rafa reacciones adversas (graves)
+2008,2008_violencia-intrafamiliar_intrafamiliar-domestica.csv,08,violencia  intrafamiliar,01,intrafamiliar/domestica
+2008,2008_violencia-intrafamiliar_otras-violencias-accidentes-agresiones-leer-instructivo.csv,08,violencia  intrafamiliar,02,"otras violencias (accidentes, agresiones, leer instructivo)"
+2008,2008_mortalidad-institucional_muerte-materna.csv,09,mortalidad institucional,01,muerte materna
+2008,2008_mortalidad-institucional_muerte-rn-menor-de-7-dias.csv,09,mortalidad institucional,02,muerte rn menor de 7 dias
+2008,2008_mortalidad-institucional_muerte-menor-de-1-ano.csv,09,mortalidad institucional,03,muerte menor de 1 ano
+2008,2008_mortalidad-institucional_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad institucional,04,muerte  menor de 5 anos por diarrea
+2008,2008_mortalidad-institucional_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2008,2008_mortalidad-institucional_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad institucional,06,muerte menor de 5 anos por otras causas
+2008,2008_mortalidad-institucional_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad institucional,07,otras muertes en mayores de 5 anos
+2008,2008_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem.csv,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22 sem)
+2008,2008_salud-sexual-y-reproductiva_embarazo-en-adolecente-menor-de-20-anos.csv,10,salud sexual y reproductiva,03,embarazo en adolecente (menor de 20 anos)
+2008,2008_salud-sexual-y-reproductiva_preeclampsia-severa-eclampsia.csv,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2008,2008_estado-nutricional_sobrepeso-s.csv,11,estado nutricional,01,sobrepeso (s)
+2008,2008_estado-nutricional_nutricion-normal-n.csv,11,estado nutricional,02,nutricion normal (n)
+2008,2008_estado-nutricional_desnutricion-leve-l.csv,11,estado nutricional,03,desnutricion leve (l)
+2008,2008_estado-nutricional_desnutricion-moderada-m.csv,11,estado nutricional,04,desnutricion moderada (m)
+2008,2008_estado-nutricional_desnutricion-grave-g.csv,11,estado nutricional,05,desnutricion grave (g)
+2008,2008_estado-nutricional_desnutrida.csv,11,estado nutricional,06,desnutrida
+2008,2008_estado-nutricional_obesidad-o.csv,11,estado nutricional,07,obesidad (o)
+2008,2008_intoxicaciones_plaguicidas.csv,13,intoxicaciones,01,plaguicidas
+2008,2008_intoxicaciones_otras-intoxicaciones-drogas-farmacos-alcohol-leer-instructivo.csv,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, alcohol, leer instructivo)"
+2008,2008_talla-para-la-edad-t-e_talla-normal-t-n.csv,14,talla para la edad (t/e),01,talla normal (t n)
+2008,2008_talla-para-la-edad-t-e_talla-baja-tb.csv,14,talla para la edad (t/e),02,talla baja (tb)
+2009,2009_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,01,sarampion / rubeola
+2009,2009_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2009,2009_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2009,2009_sospecha-diagnostica_paralisis-flacida-aguda.csv,01,sospecha diagnostica,05,paralisis flacida aguda
+2009,2009_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2009,2009_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2009,2009_sospecha-diagnostica_dengue-clasico.csv,01,sospecha diagnostica,08,dengue clasico
+2009,2009_sospecha-diagnostica_fiebre-hemorrag-bol.csv,02,sospecha diagnostica,09,fiebre hemorrag. bol
+2009,2009_sospecha-diagnostica_peste.csv,02,sospecha diagnostica,11,peste
+2009,2009_sospecha-diagnostica_menin-meningococica.csv,02,sospecha diagnostica,12,menin. meningococica
+2009,2009_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2009,2009_sospecha-diagnostica_enfer-por-hanta-virus.csv,02,sospecha diagnostica,14,enfer. por hanta virus
+2009,2009_sospecha-diagnostica_rabia-humana.csv,02,sospecha diagnostica,15,rabia humana
+2009,2009_sospecha-diagnostica_no-de-personas-mordidas-por-animal.csv,02,sospecha diagnostica,16,no de personas mordidas por animal
+2009,2009_sospecha-diagnostica_influenza-aviar-pandemica.csv,02,sospecha diagnostica,17,influenza aviar - pandemica
+2009,2009_inmunoprevenibles_tetanos-neonatal.csv,04,inmunoprevenibles,01,tetanos neonatal
+2009,2009_inmunoprevenibles_tetanos.csv,04,inmunoprevenibles,02,tetanos
+2009,2009_inmunoprevenibles_hepatitis-viral.csv,04,inmunoprevenibles,03,hepatitis viral
+2009,2009_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,04,parotiditis
+2009,2009_infec-de-transmision-sexual_ulcera-genital.csv,05,infec. de transmision sexual,01,ulcera genital
+2009,2009_infec-de-transmision-sexual_flujo-uretral-uretritis.csv,05,infec. de transmision sexual,03,flujo uretral (uretritis)
+2009,2009_infec-de-transmision-sexual_sida.csv,05,infec. de transmision sexual,04,sida *
+2009,2009_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,01,enfermedad diarreica aguda
+2009,2009_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2009,2009_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2009,2009_otras-infecciones_malaria.csv,06,otras infecciones,04,malaria
+2009,2009_otras-infecciones_leishmaniasis.csv,06,otras infecciones,05,leishmaniasis
+2009,2009_tuberculosis-y-lepra_meningitis-tb-en-menores-de-5-anos.csv,07,tuberculosis y lepra,02,meningitis tb en menores de 5 anos
+2009,2009_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,08,lepra paucibacilar*
+2009,2009_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,09,lepra multibacilar *
+2009,2009_tuberculosis-y-lepra_rafa-reacciones-adversas-leves-y-moderadas.csv,07,tuberculosis y lepra,10,rafa reacciones adversas (leves y moderadas)
+2009,2009_tuberculosis-y-lepra_rafa-reacciones-adversas-graves.csv,07,tuberculosis y lepra,11,rafa reacciones adversas (graves)
+2009,2009_violencia-intrafamiliar_intrafamiliar-domestica.csv,08,violencia  intrafamiliar,01,intrafamiliar/domestica
+2009,2009_violencia-intrafamiliar_otras-violencias-accidentes-agresiones-leer-instructivo.csv,08,violencia  intrafamiliar,02,"otras violencias (accidentes, agresiones, leer instructivo)"
+2009,2009_mortalidad-institucional_muerte-materna.csv,09,mortalidad institucional,01,muerte materna
+2009,2009_mortalidad-institucional_muerte-rn-menor-de-7-dias.csv,09,mortalidad institucional,02,muerte rn menor de 7 dias
+2009,2009_mortalidad-institucional_muerte-menor-de-1-ano.csv,09,mortalidad institucional,03,muerte menor de 1 ano
+2009,2009_mortalidad-institucional_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad institucional,04,muerte  menor de 5 anos por diarrea
+2009,2009_mortalidad-institucional_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad institucional,05,muerte menor de 5 anos por neumonia
+2009,2009_mortalidad-institucional_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad institucional,06,muerte menor de 5 anos por otras causas
+2009,2009_mortalidad-institucional_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad institucional,07,otras muertes en mayores de 5 anos
+2009,2009_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem.csv,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22 sem)
+2009,2009_salud-sexual-y-reproductiva_embarazo-en-adolecente-menor-de-20-anos.csv,10,salud sexual y reproductiva,03,embarazo en adolecente (menor de 20 anos)
+2009,2009_salud-sexual-y-reproductiva_preeclampsia-severa-eclampsia.csv,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2009,2009_estado-nutricional_sobrepeso-s.csv,11,estado nutricional,01,sobrepeso (s)
+2009,2009_estado-nutricional_nutricion-normal-n.csv,11,estado nutricional,02,nutricion normal (n)
+2009,2009_estado-nutricional_desnutricion-leve-l.csv,11,estado nutricional,03,desnutricion leve (l)
+2009,2009_estado-nutricional_desnutricion-moderada-m.csv,11,estado nutricional,04,desnutricion moderada (m)
+2009,2009_estado-nutricional_desnutricion-grave-g.csv,11,estado nutricional,05,desnutricion grave (g)
+2009,2009_estado-nutricional_desnutrida.csv,11,estado nutricional,06,desnutrida
+2009,2009_estado-nutricional_obesidad-o.csv,11,estado nutricional,07,obesidad (o)
+2009,2009_intoxicaciones_plaguicidas.csv,13,intoxicaciones,01,plaguicidas
+2009,2009_intoxicaciones_otras-intoxicaciones-drogas-farmacos-alcohol-leer-instructivo.csv,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, alcohol, leer instructivo)"
+2009,2009_talla-para-la-edad-t-e_talla-normal-t-n.csv,14,talla para la edad (t/e),01,talla normal (t n)
+2009,2009_talla-para-la-edad-t-e_talla-baja-tb.csv,14,talla para la edad (t/e),02,talla baja (tb)
+2010,2010_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,01,sarampion / rubeola
+2010,2010_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2010,2010_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2010,2010_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,05,paralisis flacida aguda (polio)
+2010,2010_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2010,2010_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2010,2010_sospecha-diagnostica_dengue-clasico.csv,01,sospecha diagnostica,08,dengue clasico
+2010,2010_sospecha-diagnostica_fiebre-hemorragica-boliviana.csv,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2010,2010_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,10,peste
+2010,2010_sospecha-diagnostica_meningitis-meningococica.csv,02,sospecha diagnostica,10,meningitis meningococica
+2010,2010_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2010,2010_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,02,sospecha diagnostica,14,enfermedad por hanta virus
+2010,2010_sospecha-diagnostica_rabia-humana.csv,02,sospecha diagnostica,15,rabia humana
+2010,2010_sospecha-diagnostica_influenza-pandemica.csv,02,sospecha diagnostica,17,influenza / pandemica
+2010,2010_sospecha-diagnostica_rabia-canina.csv,02,sospecha diagnostica,18,rabia canina
+2010,2010_sospecha-diagnostica_leptospirosis.csv,02,sospecha diagnostica,19,leptospirosis
+2010,2010_sospecha-diagnostica_mordedura-de-serpiente.csv,02,sospecha diagnostica,22,mordedura de serpiente
+2010,2010_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,01,tetanos neonatal / adulto
+2010,2010_inmunoprevenibles_hepatitis-viral.csv,04,inmunoprevenibles,03,hepatitis viral
+2010,2010_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,04,parotiditis
+2010,2010_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,01,ulcera genital
+2010,2010_infecc-de-transmision-sexual_flujo-uretral-uretritis.csv,05,infecc. de transmision sexual,03,flujo uretral (uretritis)
+2010,2010_infecc-de-transmision-sexual_sida.csv,05,infecc. de transmision sexual,04,sida *
+2010,2010_infecc-de-transmision-sexual_dolor-abdominal-edema-de-escroto.csv,05,infecc. de transmision sexual,05,dolor abdominal/ edema de escroto
+2010,2010_infecc-de-transmision-sexual_vih-mujer-embarazada.csv,05,infecc. de transmision sexual,06,vih mujer embarazada
+2010,2010_infecc-de-transmision-sexual_vih-poblacion-en-general.csv,05,infecc. de transmision sexual,07,vih poblacion en general
+2010,2010_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,01,enfermedad diarreica aguda
+2010,2010_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2010,2010_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2010,2010_otras-infecciones_malaria-sospechosos.csv,06,otras infecciones,04,malaria sospechosos
+2010,2010_otras-infecciones_leishmaniasis-sospechosos.csv,06,otras infecciones,05,leishmaniasis sospechosos
+2010,2010_otras-infecciones_no-de-personas-expuestas-al-virus-rabico-mordida.csv,06,otras infecciones,06,"no de personas expuestas al virus rabico(mordida,"
+2010,2010_otras-infecciones_chagas-agudo.csv,06,otras infecciones,07,chagas agudo
+2010,2010_otras-infecciones_malaria-confirmados.csv,06,otras infecciones,08,malaria confirmados
+2010,2010_otras-infecciones_leishmaniasis-confirmados.csv,06,otras infecciones,09,leishmaniasis confirmados
+2010,2010_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,02,tuberculosis meningea
+2010,2010_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,08,lepra paucibacilar*
+2010,2010_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,09,lepra multibacilar *
+2010,2010_tuberculosis-y-lepra_rafa-leves-y-moderadas.csv,07,tuberculosis y lepra,10,rafa (leves y moderadas)
+2010,2010_tuberculosis-y-lepra_rafa-graves.csv,07,tuberculosis y lepra,11,rafa (graves)
+2010,2010_violencia-hechos-de-transito-y-accidentes_intrafamiliar-domestica.csv,08,"violencia, hechos de transito y accidentes",01,intrafamiliar/domestica
+2010,2010_violencia-hechos-de-transito-y-accidentes_otras-violencias-accidentes-agresiones-leer-in.csv,08,"violencia, hechos de transito y accidentes",02,"otras violencias (accidentes, agresiones, leer in"
+2010,2010_violencia-hechos-de-transito-y-accidentes_hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",03,hechos de transito
+2010,2010_violencia-hechos-de-transito-y-accidentes_accidentes.csv,08,"violencia, hechos de transito y accidentes",04,accidentes
+2010,2010_mortalidad_muerte-materna.csv,09,mortalidad,01,muerte materna
+2010,2010_mortalidad_muerte-rn-menor-de-7-dias.csv,09,mortalidad,02,muerte rn menor de 7 dias
+2010,2010_mortalidad_muerte-menor-de-1-ano.csv,09,mortalidad,03,muerte menor de 1 ano
+2010,2010_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,04,muerte  menor de 5 anos por diarrea
+2010,2010_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,06,muerte menor de 5 anos por otras causas
+2010,2010_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,07,otras muertes en mayores de 5 anos
+2010,2010_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,08,muerte menor de 5 anos por neumonia
+2010,2010_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22.csv,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22
+2010,2010_salud-sexual-y-reproductiva_embarazo-en-adolescente-de-20-anos.csv,10,salud sexual y reproductiva,02,embarazo en adolescente (< de 20 anos)
+2010,2010_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22.csv,10,salud sexual y reproductiva,03,hemorragia de la primera mitad del embarazo (<22
+2010,2010_salud-sexual-y-reproductiva_preeclampsia-severa-eclampsia.csv,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2010,2010_estado-nutricional_sobrepeso-s.csv,11,estado nutricional,01,sobrepeso (s)
+2010,2010_estado-nutricional_nutricion-normal-n.csv,11,estado nutricional,02,nutricion normal (n)
+2010,2010_estado-nutricional_desnutricion-leve-l.csv,11,estado nutricional,03,desnutricion leve (l)
+2010,2010_estado-nutricional_desnutricion-moderada-m.csv,11,estado nutricional,04,desnutricion moderada (m)
+2010,2010_estado-nutricional_desnutricion-grave-g.csv,11,estado nutricional,05,desnutricion grave (g)
+2010,2010_estado-nutricional_embarazada-desnutrida.csv,11,estado nutricional,06,embarazada desnutrida
+2010,2010_estado-nutricional_obesidad-o.csv,11,estado nutricional,07,obesidad (o)
+2010,2010_intoxicaciones_plaguicidas.csv,13,intoxicaciones,01,plaguicidas
+2010,2010_intoxicaciones_otras-intoxicaciones-drogas-farmacos-etc.csv,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, etc.)"
+2010,2010_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,03,enf. transmitidas por alimentos (e.t.a.)
+2010,2010_talla-para-la-edad-t-e_talla-normal-t-n.csv,14,talla para la edad (t/e),01,talla normal (t n)
+2010,2010_talla-para-la-edad-t-e_talla-baja-tb.csv,14,talla para la edad (t/e),02,talla baja (tb)
+2010,2010_registro-de-eventos-de-notificacion-inmediata_riada.csv,15,registro de eventos de notificacion inmediata,01,riada
+2010,2010_registro-de-eventos-de-notificacion-inmediata_helada-granizo-nevada.csv,15,registro de eventos de notificacion inmediata,02,helada/granizo/nevada
+2010,2010_registro-de-eventos-de-notificacion-inmediata_incendio.csv,15,registro de eventos de notificacion inmediata,03,incendio
+2010,2010_registro-de-eventos-de-notificacion-inmediata_deslizamiento.csv,16,registro de eventos de notificacion inmediata,01,deslizamiento
+2010,2010_registro-de-eventos-de-notificacion-inmediata_inundacion.csv,16,registro de eventos de notificacion inmediata,02,inundacion
+2010,2010_registro-de-eventos-de-notificacion-inmediata_otros-de-excepcion.csv,16,registro de eventos de notificacion inmediata,03,otros de excepcion
+2011,2011_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,01,sarampion / rubeola
+2011,2011_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2011,2011_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2011,2011_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,05,paralisis flacida aguda (polio)
+2011,2011_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2011,2011_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2011,2011_sospecha-diagnostica_dengue-clasico.csv,01,sospecha diagnostica,08,dengue clasico
+2011,2011_sospecha-diagnostica_fiebre-hemorragica-boliviana.csv,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2011,2011_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,10,peste
+2011,2011_sospecha-diagnostica_meningitis-meningococica.csv,02,sospecha diagnostica,10,meningitis meningococica
+2011,2011_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2011,2011_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,02,sospecha diagnostica,14,enfermedad por hanta virus
+2011,2011_sospecha-diagnostica_rabia-humana.csv,02,sospecha diagnostica,15,rabia humana
+2011,2011_sospecha-diagnostica_influenza-pandemica.csv,02,sospecha diagnostica,17,influenza / pandemica
+2011,2011_sospecha-diagnostica_rabia-canina.csv,02,sospecha diagnostica,18,rabia canina
+2011,2011_sospecha-diagnostica_leptospirosis.csv,02,sospecha diagnostica,19,leptospirosis
+2011,2011_sospecha-diagnostica_mordedura-de-serpiente.csv,02,sospecha diagnostica,22,mordedura de serpiente
+2011,2011_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,01,tetanos neonatal / adulto
+2011,2011_inmunoprevenibles_hepatitis-viral.csv,04,inmunoprevenibles,03,hepatitis viral
+2011,2011_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,04,parotiditis
+2011,2011_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,01,ulcera genital
+2011,2011_infecc-de-transmision-sexual_flujo-uretral-vaginal.csv,05,infecc. de transmision sexual,03,flujo uretral (vaginal)
+2011,2011_infecc-de-transmision-sexual_sida.csv,05,infecc. de transmision sexual,04,sida *
+2011,2011_infecc-de-transmision-sexual_sifilis-en-la-mujer-embarazada.csv,05,infecc. de transmision sexual,05,sifilis en la mujer embarazada
+2011,2011_infecc-de-transmision-sexual_vih-mujer-embarazada.csv,05,infecc. de transmision sexual,06,vih mujer embarazada
+2011,2011_infecc-de-transmision-sexual_vih-poblacion-en-general.csv,05,infecc. de transmision sexual,07,vih poblacion en general
+2011,2011_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,01,enfermedad diarreica aguda
+2011,2011_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2011,2011_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2011,2011_otras-infecciones_malaria-sospechosos.csv,06,otras infecciones,04,malaria sospechosos
+2011,2011_otras-infecciones_leishmaniasis-sospechosos.csv,06,otras infecciones,05,leishmaniasis sospechosos
+2011,2011_otras-infecciones_no-de-personas-expuestas-al-virus-rabico-mordida.csv,06,otras infecciones,06,"no de personas expuestas al virus rabico(mordida,"
+2011,2011_otras-infecciones_chagas-agudo.csv,06,otras infecciones,07,chagas agudo
+2011,2011_otras-infecciones_malaria-confirmados.csv,06,otras infecciones,08,malaria confirmados
+2011,2011_otras-infecciones_leishmaniasis-confirmados.csv,06,otras infecciones,09,leishmaniasis confirmados
+2011,2011_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,02,tuberculosis meningea
+2011,2011_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,08,lepra paucibacilar*
+2011,2011_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,09,lepra multibacilar *
+2011,2011_tuberculosis-y-lepra_rafa-leves-y-moderadas.csv,07,tuberculosis y lepra,10,rafa (leves y moderadas)
+2011,2011_tuberculosis-y-lepra_rafa-graves.csv,07,tuberculosis y lepra,11,rafa (graves)
+2011,2011_violencia-hechos-de-transito-y-accidentes_intrafamiliar-domestica.csv,08,"violencia, hechos de transito y accidentes",01,intrafamiliar/domestica
+2011,2011_violencia-hechos-de-transito-y-accidentes_otras-violencias-accidentes-agresiones-leer-in.csv,08,"violencia, hechos de transito y accidentes",02,"otras violencias (accidentes, agresiones, leer in"
+2011,2011_violencia-hechos-de-transito-y-accidentes_hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",03,hechos de transito
+2011,2011_violencia-hechos-de-transito-y-accidentes_accidentes.csv,08,"violencia, hechos de transito y accidentes",04,accidentes
+2011,2011_mortalidad_muerte-materna.csv,09,mortalidad,01,muerte materna
+2011,2011_mortalidad_muerte-rn-menor-de-7-dias.csv,09,mortalidad,02,muerte rn menor de 7 dias
+2011,2011_mortalidad_muerte-menor-de-1-ano.csv,09,mortalidad,03,muerte menor de 1 ano
+2011,2011_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,04,muerte  menor de 5 anos por diarrea
+2011,2011_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2011,2011_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,06,muerte menor de 5 anos por otras causas
+2011,2011_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,07,otras muertes en mayores de 5 anos
+2011,2011_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-gra.csv,09,mortalidad,08,muerte menor de 5 anos por desnutricion aguda gra
+2011,2011_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22.csv,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22
+2011,2011_salud-sexual-y-reproductiva_embarazo-en-adolescente-de-20-anos.csv,10,salud sexual y reproductiva,02,embarazo en adolescente (< de 20 anos)
+2011,2011_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22.csv,10,salud sexual y reproductiva,03,hemorragia de la primera mitad del embarazo (<22
+2011,2011_salud-sexual-y-reproductiva_preeclampsia-severa-eclampsia.csv,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2011,2011_estado-nutricional_sobrepeso-s.csv,11,estado nutricional,01,sobrepeso (s)
+2011,2011_estado-nutricional_nutricion-normal-n.csv,11,estado nutricional,02,nutricion normal (n)
+2011,2011_estado-nutricional_desnutricion-leve-l.csv,11,estado nutricional,03,desnutricion leve (l)
+2011,2011_estado-nutricional_desnutricion-moderada-m.csv,11,estado nutricional,04,desnutricion moderada (m)
+2011,2011_estado-nutricional_desnutricion-grave-g.csv,11,estado nutricional,05,desnutricion grave (g)
+2011,2011_estado-nutricional_embarazada-desnutrida.csv,11,estado nutricional,06,embarazada desnutrida
+2011,2011_estado-nutricional_obesidad-o.csv,11,estado nutricional,07,obesidad (o)
+2011,2011_intoxicaciones_plaguicidas.csv,13,intoxicaciones,01,plaguicidas
+2011,2011_intoxicaciones_otras-intoxicaciones-drogas-farmacos-etc.csv,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, etc.)"
+2011,2011_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,03,enf. transmitidas por alimentos (e.t.a.)
+2011,2011_talla-para-la-edad-t-e_talla-normal-t-n.csv,14,talla para la edad (t/e),01,talla normal (t n)
+2011,2011_talla-para-la-edad-t-e_talla-baja-tb.csv,14,talla para la edad (t/e),02,talla baja (tb)
+2011,2011_registro-de-eventos-de-notificacion-inmediata_riada.csv,15,registro de eventos de notificacion inmediata,01,riada
+2011,2011_registro-de-eventos-de-notificacion-inmediata_helada-granizo-nevada.csv,15,registro de eventos de notificacion inmediata,02,helada/granizo/nevada
+2011,2011_registro-de-eventos-de-notificacion-inmediata_incendio.csv,15,registro de eventos de notificacion inmediata,03,incendio
+2011,2011_registro-de-eventos-de-notificacion-inmediata_deslizamiento.csv,16,registro de eventos de notificacion inmediata,01,deslizamiento
+2011,2011_registro-de-eventos-de-notificacion-inmediata_inundacion.csv,16,registro de eventos de notificacion inmediata,02,inundacion
+2011,2011_registro-de-eventos-de-notificacion-inmediata_otros-de-excepcion.csv,16,registro de eventos de notificacion inmediata,03,otros de excepcion
+2012,2012_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,01,sarampion / rubeola
+2012,2012_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2012,2012_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2012,2012_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,05,paralisis flacida aguda (polio)
+2012,2012_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2012,2012_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2012,2012_sospecha-diagnostica_dengue-clasico.csv,01,sospecha diagnostica,08,dengue clasico
+2012,2012_sospecha-diagnostica_fiebre-hemorragica-boliviana.csv,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2012,2012_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,10,peste
+2012,2012_sospecha-diagnostica_meningitis-meningococica.csv,02,sospecha diagnostica,10,meningitis meningococica
+2012,2012_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2012,2012_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,02,sospecha diagnostica,14,enfermedad por hanta virus
+2012,2012_sospecha-diagnostica_rabia-humana.csv,02,sospecha diagnostica,15,rabia humana
+2012,2012_sospecha-diagnostica_influenza-pandemica.csv,02,sospecha diagnostica,17,influenza / pandemica
+2012,2012_sospecha-diagnostica_rabia-canina.csv,02,sospecha diagnostica,18,rabia canina
+2012,2012_sospecha-diagnostica_leptospirosis.csv,02,sospecha diagnostica,19,leptospirosis
+2012,2012_sospecha-diagnostica_mordedura-de-serpiente.csv,02,sospecha diagnostica,22,mordedura de serpiente
+2012,2012_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,01,tetanos neonatal / adulto
+2012,2012_inmunoprevenibles_hepatitis-viral.csv,04,inmunoprevenibles,03,hepatitis viral
+2012,2012_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,04,parotiditis
+2012,2012_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,01,ulcera genital
+2012,2012_infecc-de-transmision-sexual_flujo-uretral-vaginal.csv,05,infecc. de transmision sexual,03,flujo uretral (vaginal)
+2012,2012_infecc-de-transmision-sexual_sida.csv,05,infecc. de transmision sexual,04,sida *
+2012,2012_infecc-de-transmision-sexual_sifilis-en-la-mujer-embarazada.csv,05,infecc. de transmision sexual,05,sifilis en la mujer embarazada
+2012,2012_infecc-de-transmision-sexual_vih-mujer-embarazada.csv,05,infecc. de transmision sexual,06,vih mujer embarazada
+2012,2012_infecc-de-transmision-sexual_vih-poblacion-en-general.csv,05,infecc. de transmision sexual,07,vih poblacion en general
+2012,2012_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,01,enfermedad diarreica aguda
+2012,2012_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2012,2012_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2012,2012_otras-infecciones_malaria-sospechosos.csv,06,otras infecciones,04,malaria sospechosos
+2012,2012_otras-infecciones_leishmaniasis-sospechosos.csv,06,otras infecciones,05,leishmaniasis sospechosos
+2012,2012_otras-infecciones_no-de-personas-expuestas-al-virus-rabico-mordida.csv,06,otras infecciones,06,"no de personas expuestas al virus rabico(mordida,"
+2012,2012_otras-infecciones_chagas-agudo.csv,06,otras infecciones,07,chagas agudo
+2012,2012_otras-infecciones_malaria-confirmados.csv,06,otras infecciones,08,malaria confirmados
+2012,2012_otras-infecciones_leishmaniasis-confirmados.csv,06,otras infecciones,09,leishmaniasis confirmados
+2012,2012_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,02,tuberculosis meningea
+2012,2012_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,08,lepra paucibacilar*
+2012,2012_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,09,lepra multibacilar *
+2012,2012_tuberculosis-y-lepra_rafa-leves-y-moderadas.csv,07,tuberculosis y lepra,10,rafa (leves y moderadas)
+2012,2012_tuberculosis-y-lepra_rafa-graves.csv,07,tuberculosis y lepra,11,rafa (graves)
+2012,2012_violencia-hechos-de-transito-y-accidentes_intrafamiliar-domestica.csv,08,"violencia, hechos de transito y accidentes",01,intrafamiliar/domestica
+2012,2012_violencia-hechos-de-transito-y-accidentes_otras-violencias-accidentes-agresiones-leer-in.csv,08,"violencia, hechos de transito y accidentes",02,"otras violencias (accidentes, agresiones, leer in"
+2012,2012_violencia-hechos-de-transito-y-accidentes_hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",03,hechos de transito
+2012,2012_violencia-hechos-de-transito-y-accidentes_accidentes.csv,08,"violencia, hechos de transito y accidentes",04,accidentes
+2012,2012_mortalidad_muerte-materna.csv,09,mortalidad,01,muerte materna
+2012,2012_mortalidad_muerte-rn-menor-de-7-dias.csv,09,mortalidad,02,muerte rn menor de 7 dias
+2012,2012_mortalidad_muerte-menor-de-1-ano.csv,09,mortalidad,03,muerte menor de 1 ano
+2012,2012_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,04,muerte  menor de 5 anos por diarrea
+2012,2012_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2012,2012_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,06,muerte menor de 5 anos por otras causas
+2012,2012_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,07,otras muertes en mayores de 5 anos
+2012,2012_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-gra.csv,09,mortalidad,08,muerte menor de 5 anos por desnutricion aguda gra
+2012,2012_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22.csv,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22
+2012,2012_salud-sexual-y-reproductiva_embarazo-en-adolescente-de-20-anos.csv,10,salud sexual y reproductiva,02,embarazo en adolescente (< de 20 anos)
+2012,2012_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22.csv,10,salud sexual y reproductiva,03,hemorragia de la primera mitad del embarazo (<22
+2012,2012_salud-sexual-y-reproductiva_preeclampsia-severa-eclampsia.csv,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2012,2012_estado-nutricional_sobrepeso-s.csv,11,estado nutricional,01,sobrepeso (s)
+2012,2012_estado-nutricional_nutricion-normal-n.csv,11,estado nutricional,02,nutricion normal (n)
+2012,2012_estado-nutricional_desnutricion-leve-l.csv,11,estado nutricional,03,desnutricion leve (l)
+2012,2012_estado-nutricional_desnutricion-moderada-m.csv,11,estado nutricional,04,desnutricion moderada (m)
+2012,2012_estado-nutricional_desnutricion-grave-g.csv,11,estado nutricional,05,desnutricion grave (g)
+2012,2012_estado-nutricional_embarazada-desnutrida.csv,11,estado nutricional,06,embarazada desnutrida
+2012,2012_estado-nutricional_obesidad-o.csv,11,estado nutricional,07,obesidad (o)
+2012,2012_intoxicaciones_plaguicidas.csv,13,intoxicaciones,01,plaguicidas
+2012,2012_intoxicaciones_otras-intoxicaciones-drogas-farmacos-etc.csv,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, etc.)"
+2012,2012_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,03,enf. transmitidas por alimentos (e.t.a.)
+2012,2012_talla-para-la-edad-t-e_talla-normal-t-n.csv,14,talla para la edad (t/e),01,talla normal (t n)
+2012,2012_talla-para-la-edad-t-e_talla-baja-tb.csv,14,talla para la edad (t/e),02,talla baja (tb)
+2012,2012_registro-de-eventos-de-notificacion-inmediata_riada.csv,15,registro de eventos de notificacion inmediata,01,riada
+2012,2012_registro-de-eventos-de-notificacion-inmediata_helada-granizo-nevada.csv,15,registro de eventos de notificacion inmediata,02,helada/granizo/nevada
+2012,2012_registro-de-eventos-de-notificacion-inmediata_incendio.csv,15,registro de eventos de notificacion inmediata,03,incendio
+2012,2012_registro-de-eventos-de-notificacion-inmediata_deslizamiento.csv,16,registro de eventos de notificacion inmediata,01,deslizamiento
+2012,2012_registro-de-eventos-de-notificacion-inmediata_inundacion.csv,16,registro de eventos de notificacion inmediata,02,inundacion
+2012,2012_registro-de-eventos-de-notificacion-inmediata_otros-de-excepcion.csv,16,registro de eventos de notificacion inmediata,03,otros de excepcion
+2013,2013_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,01,sarampion / rubeola
+2013,2013_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2013,2013_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2013,2013_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,05,paralisis flacida aguda (polio)
+2013,2013_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2013,2013_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2013,2013_sospecha-diagnostica_dengue-clasico.csv,01,sospecha diagnostica,08,dengue clasico
+2013,2013_sospecha-diagnostica_fiebre-hemorragica-boliviana.csv,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2013,2013_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,10,peste
+2013,2013_sospecha-diagnostica_meningitis-meningococica.csv,02,sospecha diagnostica,10,meningitis meningococica
+2013,2013_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2013,2013_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,02,sospecha diagnostica,14,enfermedad por hanta virus
+2013,2013_sospecha-diagnostica_rabia-humana.csv,02,sospecha diagnostica,15,rabia humana
+2013,2013_sospecha-diagnostica_influenza-pandemica.csv,02,sospecha diagnostica,17,influenza / pandemica
+2013,2013_sospecha-diagnostica_rabia-canina.csv,02,sospecha diagnostica,18,rabia canina
+2013,2013_sospecha-diagnostica_leptospirosis.csv,02,sospecha diagnostica,19,leptospirosis
+2013,2013_sospecha-diagnostica_mordedura-de-serpiente.csv,02,sospecha diagnostica,22,mordedura de serpiente
+2013,2013_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,01,tetanos neonatal / adulto
+2013,2013_inmunoprevenibles_hepatitis-viral.csv,04,inmunoprevenibles,03,hepatitis viral
+2013,2013_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,04,parotiditis
+2013,2013_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,01,ulcera genital
+2013,2013_infecc-de-transmision-sexual_flujo-uretral-vaginal.csv,05,infecc. de transmision sexual,03,flujo uretral (vaginal)
+2013,2013_infecc-de-transmision-sexual_sida.csv,05,infecc. de transmision sexual,04,sida *
+2013,2013_infecc-de-transmision-sexual_sifilis-en-la-mujer-embarazada.csv,05,infecc. de transmision sexual,05,sifilis en la mujer embarazada
+2013,2013_infecc-de-transmision-sexual_vih-mujer-embarazada.csv,05,infecc. de transmision sexual,06,vih mujer embarazada
+2013,2013_infecc-de-transmision-sexual_vih-poblacion-en-general.csv,05,infecc. de transmision sexual,07,vih poblacion en general
+2013,2013_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,01,enfermedad diarreica aguda
+2013,2013_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2013,2013_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2013,2013_otras-infecciones_malaria-sospechosos.csv,06,otras infecciones,04,malaria sospechosos
+2013,2013_otras-infecciones_leishmaniasis-sospechosos.csv,06,otras infecciones,05,leishmaniasis sospechosos
+2013,2013_otras-infecciones_no-de-personas-expuestas-al-virus-rabico-mordida.csv,06,otras infecciones,06,"no de personas expuestas al virus rabico(mordida,"
+2013,2013_otras-infecciones_chagas-agudo.csv,06,otras infecciones,07,chagas agudo
+2013,2013_otras-infecciones_malaria-confirmados.csv,06,otras infecciones,08,malaria confirmados
+2013,2013_otras-infecciones_leishmaniasis-confirmados.csv,06,otras infecciones,09,leishmaniasis confirmados
+2013,2013_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,02,tuberculosis meningea
+2013,2013_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,08,lepra paucibacilar*
+2013,2013_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,09,lepra multibacilar *
+2013,2013_tuberculosis-y-lepra_rafa-leves-y-moderadas.csv,07,tuberculosis y lepra,10,rafa (leves y moderadas)
+2013,2013_tuberculosis-y-lepra_rafa-graves.csv,07,tuberculosis y lepra,11,rafa (graves)
+2013,2013_violencia-hechos-de-transito-y-accidentes_intrafamiliar-domestica.csv,08,"violencia, hechos de transito y accidentes",01,intrafamiliar/domestica
+2013,2013_violencia-hechos-de-transito-y-accidentes_otras-violencias-accidentes-agresiones-leer-in.csv,08,"violencia, hechos de transito y accidentes",02,"otras violencias (accidentes, agresiones, leer in"
+2013,2013_violencia-hechos-de-transito-y-accidentes_hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",03,hechos de transito
+2013,2013_violencia-hechos-de-transito-y-accidentes_accidentes.csv,08,"violencia, hechos de transito y accidentes",04,accidentes
+2013,2013_mortalidad_muerte-materna.csv,09,mortalidad,01,muerte materna
+2013,2013_mortalidad_muerte-rn-menor-de-7-dias.csv,09,mortalidad,02,muerte rn menor de 7 dias
+2013,2013_mortalidad_muerte-menor-de-1-ano.csv,09,mortalidad,03,muerte menor de 1 ano
+2013,2013_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,04,muerte  menor de 5 anos por diarrea
+2013,2013_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2013,2013_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,06,muerte menor de 5 anos por otras causas
+2013,2013_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,07,otras muertes en mayores de 5 anos
+2013,2013_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-gra.csv,09,mortalidad,08,muerte menor de 5 anos por desnutricion aguda gra
+2013,2013_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22.csv,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22
+2013,2013_salud-sexual-y-reproductiva_embarazo-en-adolescente-de-20-anos.csv,10,salud sexual y reproductiva,02,embarazo en adolescente (< de 20 anos)
+2013,2013_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22.csv,10,salud sexual y reproductiva,03,hemorragia de la primera mitad del embarazo (<22
+2013,2013_salud-sexual-y-reproductiva_preeclampsia-severa-eclampsia.csv,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2013,2013_estado-nutricional_sobrepeso-s.csv,11,estado nutricional,01,sobrepeso (s)
+2013,2013_estado-nutricional_nutricion-normal-n.csv,11,estado nutricional,02,nutricion normal (n)
+2013,2013_estado-nutricional_desnutricion-leve-l.csv,11,estado nutricional,03,desnutricion leve (l)
+2013,2013_estado-nutricional_desnutricion-moderada-m.csv,11,estado nutricional,04,desnutricion moderada (m)
+2013,2013_estado-nutricional_desnutricion-grave-g.csv,11,estado nutricional,05,desnutricion grave (g)
+2013,2013_estado-nutricional_embarazada-desnutrida.csv,11,estado nutricional,06,embarazada desnutrida
+2013,2013_estado-nutricional_obesidad-o.csv,11,estado nutricional,07,obesidad (o)
+2013,2013_intoxicaciones_plaguicidas.csv,13,intoxicaciones,01,plaguicidas
+2013,2013_intoxicaciones_otras-intoxicaciones-drogas-farmacos-etc.csv,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, etc.)"
+2013,2013_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,03,enf. transmitidas por alimentos (e.t.a.)
+2013,2013_talla-para-la-edad-t-e_talla-normal-t-n.csv,14,talla para la edad (t/e),01,talla normal (t n)
+2013,2013_talla-para-la-edad-t-e_talla-baja-tb.csv,14,talla para la edad (t/e),02,talla baja (tb)
+2013,2013_registro-de-eventos-de-notificacion-inmediata_riada.csv,15,registro de eventos de notificacion inmediata,01,riada
+2013,2013_registro-de-eventos-de-notificacion-inmediata_helada-granizo-nevada.csv,15,registro de eventos de notificacion inmediata,02,helada/granizo/nevada
+2013,2013_registro-de-eventos-de-notificacion-inmediata_incendio.csv,15,registro de eventos de notificacion inmediata,03,incendio
+2013,2013_registro-de-eventos-de-notificacion-inmediata_deslizamiento.csv,16,registro de eventos de notificacion inmediata,01,deslizamiento
+2013,2013_registro-de-eventos-de-notificacion-inmediata_inundacion.csv,16,registro de eventos de notificacion inmediata,02,inundacion
+2013,2013_registro-de-eventos-de-notificacion-inmediata_otros-de-excepcion.csv,16,registro de eventos de notificacion inmediata,03,otros de excepcion
+2014,2014_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,01,sarampion / rubeola
+2014,2014_sospecha-diagnostica_tos-ferina.csv,01,sospecha diagnostica,03,tos ferina
+2014,2014_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,04,difteria
+2014,2014_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,05,paralisis flacida aguda (polio)
+2014,2014_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,06,fiebre amarilla
+2014,2014_sospecha-diagnostica_dengue-hemorragico.csv,01,sospecha diagnostica,07,dengue hemorragico
+2014,2014_sospecha-diagnostica_dengue-clasico.csv,01,sospecha diagnostica,08,dengue clasico
+2014,2014_sospecha-diagnostica_fiebre-hemorragica-boliviana.csv,01,sospecha diagnostica,09,fiebre hemorragica boliviana
+2014,2014_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,10,peste
+2014,2014_sospecha-diagnostica_meningitis-meningococica.csv,02,sospecha diagnostica,10,meningitis meningococica
+2014,2014_sospecha-diagnostica_colera.csv,02,sospecha diagnostica,13,colera
+2014,2014_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,02,sospecha diagnostica,14,enfermedad por hanta virus
+2014,2014_sospecha-diagnostica_rabia-humana.csv,02,sospecha diagnostica,15,rabia humana
+2014,2014_sospecha-diagnostica_influenza-pandemica.csv,02,sospecha diagnostica,17,influenza / pandemica
+2014,2014_sospecha-diagnostica_rabia-canina.csv,02,sospecha diagnostica,18,rabia canina
+2014,2014_sospecha-diagnostica_leptospirosis.csv,02,sospecha diagnostica,19,leptospirosis
+2014,2014_sospecha-diagnostica_mordedura-de-serpiente.csv,02,sospecha diagnostica,22,mordedura de serpiente
+2014,2014_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,01,tetanos neonatal / adulto
+2014,2014_inmunoprevenibles_hepatitis-viral.csv,04,inmunoprevenibles,03,hepatitis viral
+2014,2014_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,04,parotiditis
+2014,2014_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,01,ulcera genital
+2014,2014_infecc-de-transmision-sexual_flujo-uretral-vaginal.csv,05,infecc. de transmision sexual,03,flujo uretral (vaginal)
+2014,2014_infecc-de-transmision-sexual_sida.csv,05,infecc. de transmision sexual,04,sida *
+2014,2014_infecc-de-transmision-sexual_sifilis-en-la-mujer-embarazada.csv,05,infecc. de transmision sexual,05,sifilis en la mujer embarazada
+2014,2014_infecc-de-transmision-sexual_vih-mujer-embarazada.csv,05,infecc. de transmision sexual,06,vih mujer embarazada
+2014,2014_infecc-de-transmision-sexual_vih-poblacion-en-general.csv,05,infecc. de transmision sexual,07,vih poblacion en general
+2014,2014_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,01,enfermedad diarreica aguda
+2014,2014_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,02,ira sin neumonia
+2014,2014_otras-infecciones_neumonia.csv,06,otras infecciones,03,neumonia
+2014,2014_otras-infecciones_malaria-sospechosos.csv,06,otras infecciones,04,malaria sospechosos
+2014,2014_otras-infecciones_leishmaniasis-sospechosos.csv,06,otras infecciones,05,leishmaniasis sospechosos
+2014,2014_otras-infecciones_no-de-personas-expuestas-al-virus-rabico-mordida.csv,06,otras infecciones,06,"no de personas expuestas al virus rabico(mordida,"
+2014,2014_otras-infecciones_chagas-agudo.csv,06,otras infecciones,07,chagas agudo
+2014,2014_otras-infecciones_malaria-confirmados.csv,06,otras infecciones,08,malaria confirmados
+2014,2014_otras-infecciones_leishmaniasis-confirmados.csv,06,otras infecciones,09,leishmaniasis confirmados
+2014,2014_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,02,tuberculosis meningea
+2014,2014_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,08,lepra paucibacilar*
+2014,2014_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,09,lepra multibacilar *
+2014,2014_tuberculosis-y-lepra_rafa-leves-y-moderadas.csv,07,tuberculosis y lepra,10,rafa (leves y moderadas)
+2014,2014_tuberculosis-y-lepra_rafa-graves.csv,07,tuberculosis y lepra,11,rafa (graves)
+2014,2014_violencia-hechos-de-transito-y-accidentes_intrafamiliar-domestica.csv,08,"violencia, hechos de transito y accidentes",01,intrafamiliar/domestica
+2014,2014_violencia-hechos-de-transito-y-accidentes_otras-violencias-accidentes-agresiones-leer-in.csv,08,"violencia, hechos de transito y accidentes",02,"otras violencias (accidentes, agresiones, leer in"
+2014,2014_violencia-hechos-de-transito-y-accidentes_hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",03,hechos de transito
+2014,2014_violencia-hechos-de-transito-y-accidentes_accidentes.csv,08,"violencia, hechos de transito y accidentes",04,accidentes
+2014,2014_mortalidad_muerte-materna.csv,09,mortalidad,01,muerte materna
+2014,2014_mortalidad_muerte-rn-menor-de-7-dias.csv,09,mortalidad,02,muerte rn menor de 7 dias
+2014,2014_mortalidad_muerte-menor-de-1-ano.csv,09,mortalidad,03,muerte menor de 1 ano
+2014,2014_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,04,muerte  menor de 5 anos por diarrea
+2014,2014_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,05,muerte menor de 5 anos por neumonia
+2014,2014_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,06,muerte menor de 5 anos por otras causas
+2014,2014_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,07,otras muertes en mayores de 5 anos
+2014,2014_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-gra.csv,09,mortalidad,08,muerte menor de 5 anos por desnutricion aguda gra
+2014,2014_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22.csv,10,salud sexual y reproductiva,01,hemorragia de la primera mitad del embarazo (<22
+2014,2014_salud-sexual-y-reproductiva_embarazo-en-adolescente-de-20-anos.csv,10,salud sexual y reproductiva,02,embarazo en adolescente (< de 20 anos)
+2014,2014_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22.csv,10,salud sexual y reproductiva,03,hemorragia de la primera mitad del embarazo (<22
+2014,2014_salud-sexual-y-reproductiva_preeclampsia-severa-eclampsia.csv,10,salud sexual y reproductiva,04,preeclampsia severa/eclampsia
+2014,2014_estado-nutricional_sobrepeso-s.csv,11,estado nutricional,01,sobrepeso (s)
+2014,2014_estado-nutricional_nutricion-normal-n.csv,11,estado nutricional,02,nutricion normal (n)
+2014,2014_estado-nutricional_desnutricion-leve-l.csv,11,estado nutricional,03,desnutricion leve (l)
+2014,2014_estado-nutricional_desnutricion-moderada-m.csv,11,estado nutricional,04,desnutricion moderada (m)
+2014,2014_estado-nutricional_desnutricion-grave-g.csv,11,estado nutricional,05,desnutricion grave (g)
+2014,2014_estado-nutricional_embarazada-desnutrida.csv,11,estado nutricional,06,embarazada desnutrida
+2014,2014_estado-nutricional_obesidad-o.csv,11,estado nutricional,07,obesidad (o)
+2014,2014_intoxicaciones_plaguicidas.csv,13,intoxicaciones,01,plaguicidas
+2014,2014_intoxicaciones_otras-intoxicaciones-drogas-farmacos-etc.csv,13,intoxicaciones,02,"otras intoxicaciones (drogas, farmacos, etc.)"
+2014,2014_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,03,enf. transmitidas por alimentos (e.t.a.)
+2014,2014_talla-para-la-edad-t-e_talla-normal-t-n.csv,14,talla para la edad (t/e),01,talla normal (t n)
+2014,2014_talla-para-la-edad-t-e_talla-baja-tb.csv,14,talla para la edad (t/e),02,talla baja (tb)
+2014,2014_registro-de-eventos-de-notificacion-inmediata_riada.csv,15,registro de eventos de notificacion inmediata,01,riada
+2014,2014_registro-de-eventos-de-notificacion-inmediata_helada-granizo-nevada.csv,15,registro de eventos de notificacion inmediata,02,helada/granizo/nevada
+2014,2014_registro-de-eventos-de-notificacion-inmediata_incendio.csv,15,registro de eventos de notificacion inmediata,03,incendio
+2014,2014_registro-de-eventos-de-notificacion-inmediata_deslizamiento.csv,16,registro de eventos de notificacion inmediata,01,deslizamiento
+2014,2014_registro-de-eventos-de-notificacion-inmediata_inundacion.csv,16,registro de eventos de notificacion inmediata,02,inundacion
+2014,2014_registro-de-eventos-de-notificacion-inmediata_otros-de-excepcion.csv,16,registro de eventos de notificacion inmediata,03,otros de excepcion
+2015,2015_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,11,sarampion / rubeola
+2015,2015_sospecha-diagnostica_sindrome-de-rubeola-congenita.csv,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2015,2015_sospecha-diagnostica_tos-ferina-coqueluche.csv,01,sospecha diagnostica,13,tos ferina/coqueluche
+2015,2015_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,14,difteria
+2015,2015_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2015,2015_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,16,fiebre amarilla
+2015,2015_sospecha-diagnostica_dengue-grave.csv,01,sospecha diagnostica,17,dengue grave
+2015,2015_sospecha-diagnostica_fiebre-hemorragica-boliviana.csv,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2015,2015_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,19,peste
+2015,2015_sospecha-diagnostica_enfermedad-meningococica.csv,01,sospecha diagnostica,20,enfermedad meningococica
+2015,2015_sospecha-diagnostica_colera.csv,01,sospecha diagnostica,21,colera
+2015,2015_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,01,sospecha diagnostica,22,enfermedad por hanta virus
+2015,2015_sospecha-diagnostica_rabia-en-perros.csv,01,sospecha diagnostica,23,rabia en perros
+2015,2015_sospecha-diagnostica_rabia-humana.csv,01,sospecha diagnostica,24,rabia humana
+2015,2015_sospecha-diagnostica_influenza-irag-iragi-y-eti.csv,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2015,2015_sospecha-diagnostica_leptospirosis.csv,01,sospecha diagnostica,26,leptospirosis
+2015,2015_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2015,2015_inmunoprevenibles_hepatitis-viral-a.csv,04,inmunoprevenibles,06,hepatitis viral a*
+2015,2015_inmunoprevenibles_hepatitis-viral-b-o-c.csv,04,inmunoprevenibles,07,hepatitis viral b o c*
+2015,2015_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,08,parotiditis
+2015,2015_inmunoprevenibles_varicela.csv,04,inmunoprevenibles,09,varicela
+2015,2015_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,08,ulcera genital
+2015,2015_infecc-de-transmision-sexual_sifilis-congenita.csv,05,infecc. de transmision sexual,09,sifilis congenita
+2015,2015_infecc-de-transmision-sexual_sifilis-en-la-mujer-embarazada.csv,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2015,2015_infecc-de-transmision-sexual_flujo-uretral-vaginal.csv,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2015,2015_infecc-de-transmision-sexual_gonorrea.csv,05,infecc. de transmision sexual,12,gonorrea
+2015,2015_infecc-de-transmision-sexual_verruga-genital.csv,05,infecc. de transmision sexual,13,verruga genital
+2015,2015_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-mujer-embarazada.csv,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2015,2015_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-poblacion-en-general.csv,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2015,2015_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,10,enfermedad diarreica aguda
+2015,2015_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,11,ira sin neumonia
+2015,2015_otras-infecciones_neumonia.csv,06,otras infecciones,12,neumonia
+2015,2015_otras-infecciones_no-de-personas-expuestas-al-virus-rabico.csv,06,otras infecciones,13,no de personas expuestas al virus rabico
+2015,2015_otras-infecciones_n-de-personas-con-mordedura-de-serpientes.csv,06,otras infecciones,14,n de personas con mordedura de serpientes
+2015,2015_otras-infecciones_n-de-personas-con-picadura-de-animales-ponzonosos.csv,06,otras infecciones,15,n de personas con picadura de animales ponzonosos
+2015,2015_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,12,tuberculosis meningea
+2015,2015_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa.csv,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2015,2015_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa-graves.csv,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2015,2015_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,15,lepra paucibacilar
+2015,2015_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,16,lepra multibacilar
+2015,2015_violencia-hechos-de-transito-y-accidentes_violencia-en-la-familia.csv,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2015,2015_violencia-hechos-de-transito-y-accidentes_violencia-sexual-familiar-domestica-y-o-en-otros-ambitos.csv,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2015,2015_violencia-hechos-de-transito-y-accidentes_otras-violencias-por-lesiones-autoinflingidas-y-colectivas.csv,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2015,2015_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2015,2015_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-otros-accidentes.csv,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2015,2015_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2015,2015_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2015,2015_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2015,2015_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2015,2015_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2015,2015_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2015,2015_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2015,2015_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem-aborto.csv,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2015,2015_salud-sexual-y-reproductiva_gestantes-y-puerperas-con-sepsis.csv,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2015,2015_salud-sexual-y-reproductiva_preeclampsia-severa.csv,10,salud sexual y reproductiva,07,preeclampsia severa
+2015,2015_salud-sexual-y-reproductiva_eclampsia.csv,10,salud sexual y reproductiva,08,eclampsia
+2015,2015_intoxicaciones_plaguicidas.csv,13,intoxicaciones,04,plaguicidas
+2015,2015_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2015,2015_intoxicaciones_otras-intoxicaciones-drogas-farmacos-alcohol-etc.csv,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2015,2015_eventos-notificacion-inmediata-parte-i_riada.csv,15,eventos - notificacion inmediata parte i,01,riada
+2015,2015_eventos-notificacion-inmediata-parte-i_helada-granizo-nevada.csv,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2015,2015_eventos-notificacion-inmediata-parte-i_incendio.csv,15,eventos - notificacion inmediata parte i,03,incendio
+2015,2015_eventos-notificacion-inmediata-parte-ii_deslizamiento-sismo-terremoto.csv,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2015,2015_eventos-notificacion-inmediata-parte-ii_inundacion.csv,16,eventos - notificacion inmediata parte ii,02,inundacion
+2015,2015_eventos-notificacion-inmediata-parte-ii_otros-de-excepcion.csv,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2015,2015_enfermedades-transmitidas-por-vectores-etv_leishmaniasis.csv,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2015,2015_enfermedades-transmitidas-por-vectores-etv_chagas-agudo.csv,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2015,2015_enfermedades-transmitidas-por-vectores-etv_dengue.csv,17,enfermedades transmitidas por vectores (etv),03,dengue
+2015,2015_enfermedades-transmitidas-por-vectores-etv_malaria.csv,17,enfermedades transmitidas por vectores (etv),04,malaria
+2015,2015_mortalidad-materna_muerte-materna-notificada.csv,18,mortalidad materna,01,muerte materna notificada
+2015,2015_mortalidad-materna_muerte-materna-confirmada.csv,18,mortalidad materna,02,muerte materna confirmada
+2015,2015_mortalidad-perinatal-neonatal-e-infantil_muerte-fetal-obito-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2015,2015_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-temprana-0-6-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2015,2015_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-tardia-7-27-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2015,2015_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-sepsis.csv,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2015,2015_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-asfixia-perinatal.csv,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2015,2015_mortalidad-perinatal-neonatal-e-infantil_muerte-de-28-dias-a-menor-de-1-ano.csv,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2016,2016_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,11,sarampion / rubeola
+2016,2016_sospecha-diagnostica_sindrome-de-rubeola-congenita.csv,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2016,2016_sospecha-diagnostica_tos-ferina-coqueluche.csv,01,sospecha diagnostica,13,tos ferina/coqueluche
+2016,2016_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,14,difteria
+2016,2016_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2016,2016_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,16,fiebre amarilla
+2016,2016_sospecha-diagnostica_dengue-grave.csv,01,sospecha diagnostica,17,dengue grave
+2016,2016_sospecha-diagnostica_fiebre-hemorragica-boliviana.csv,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2016,2016_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,19,peste
+2016,2016_sospecha-diagnostica_enfermedad-meningococica.csv,01,sospecha diagnostica,20,enfermedad meningococica
+2016,2016_sospecha-diagnostica_colera.csv,01,sospecha diagnostica,21,colera
+2016,2016_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,01,sospecha diagnostica,22,enfermedad por hanta virus
+2016,2016_sospecha-diagnostica_rabia-en-perros.csv,01,sospecha diagnostica,23,rabia en perros
+2016,2016_sospecha-diagnostica_rabia-humana.csv,01,sospecha diagnostica,24,rabia humana
+2016,2016_sospecha-diagnostica_influenza-irag-iragi-y-eti.csv,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2016,2016_sospecha-diagnostica_leptospirosis.csv,01,sospecha diagnostica,26,leptospirosis
+2016,2016_sospecha-diagnostica_chikungunya.csv,01,sospecha diagnostica,27,chikungunya
+2016,2016_sospecha-diagnostica_zika.csv,01,sospecha diagnostica,28,zika
+2016,2016_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2016,2016_inmunoprevenibles_hepatitis-viral-a.csv,04,inmunoprevenibles,06,hepatitis viral a*
+2016,2016_inmunoprevenibles_hepatitis-viral-b-o-c.csv,04,inmunoprevenibles,07,hepatitis viral b o c*
+2016,2016_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,08,parotiditis
+2016,2016_inmunoprevenibles_varicela.csv,04,inmunoprevenibles,09,varicela
+2016,2016_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,08,ulcera genital
+2016,2016_infecc-de-transmision-sexual_sifilis-congenita.csv,05,infecc. de transmision sexual,09,sifilis congenita
+2016,2016_infecc-de-transmision-sexual_sifilis-en-la-mujer-embarazada.csv,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2016,2016_infecc-de-transmision-sexual_flujo-uretral-vaginal.csv,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2016,2016_infecc-de-transmision-sexual_gonorrea.csv,05,infecc. de transmision sexual,12,gonorrea
+2016,2016_infecc-de-transmision-sexual_verruga-genital.csv,05,infecc. de transmision sexual,13,verruga genital
+2016,2016_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-mujer-embarazada.csv,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2016,2016_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-poblacion-en-general.csv,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2016,2016_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,10,enfermedad diarreica aguda
+2016,2016_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,11,ira sin neumonia
+2016,2016_otras-infecciones_neumonia.csv,06,otras infecciones,12,neumonia
+2016,2016_otras-infecciones_no-de-personas-expuestas-al-virus-rabico.csv,06,otras infecciones,13,no de personas expuestas al virus rabico
+2016,2016_otras-infecciones_n-de-personas-con-mordedura-de-serpientes.csv,06,otras infecciones,14,n de personas con mordedura de serpientes
+2016,2016_otras-infecciones_n-de-personas-con-picadura-de-animales-ponzonosos.csv,06,otras infecciones,15,n de personas con picadura de animales ponzonosos
+2016,2016_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,12,tuberculosis meningea
+2016,2016_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa.csv,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2016,2016_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa-graves.csv,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2016,2016_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,15,lepra paucibacilar
+2016,2016_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,16,lepra multibacilar
+2016,2016_violencia-hechos-de-transito-y-accidentes_violencia-en-la-familia.csv,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2016,2016_violencia-hechos-de-transito-y-accidentes_violencia-sexual-familiar-domestica-y-o-en-otros-ambitos.csv,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2016,2016_violencia-hechos-de-transito-y-accidentes_otras-violencias-por-lesiones-autoinflingidas-y-colectivas.csv,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2016,2016_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2016,2016_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-otros-accidentes.csv,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2016,2016_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2016,2016_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2016,2016_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2016,2016_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2016,2016_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2016,2016_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2016,2016_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2016,2016_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem-aborto.csv,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2016,2016_salud-sexual-y-reproductiva_gestantes-y-puerperas-con-sepsis.csv,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2016,2016_salud-sexual-y-reproductiva_preeclampsia-severa.csv,10,salud sexual y reproductiva,07,preeclampsia severa
+2016,2016_salud-sexual-y-reproductiva_eclampsia.csv,10,salud sexual y reproductiva,08,eclampsia
+2016,2016_intoxicaciones_plaguicidas.csv,13,intoxicaciones,04,plaguicidas
+2016,2016_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2016,2016_intoxicaciones_otras-intoxicaciones-drogas-farmacos-alcohol-etc.csv,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2016,2016_eventos-notificacion-inmediata-parte-i_riada.csv,15,eventos - notificacion inmediata parte i,01,riada
+2016,2016_eventos-notificacion-inmediata-parte-i_helada-granizo-nevada.csv,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2016,2016_eventos-notificacion-inmediata-parte-i_incendio.csv,15,eventos - notificacion inmediata parte i,03,incendio
+2016,2016_eventos-notificacion-inmediata-parte-ii_deslizamiento-sismo-terremoto.csv,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2016,2016_eventos-notificacion-inmediata-parte-ii_inundacion.csv,16,eventos - notificacion inmediata parte ii,02,inundacion
+2016,2016_eventos-notificacion-inmediata-parte-ii_otros-de-excepcion.csv,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2016,2016_enfermedades-transmitidas-por-vectores-etv_leishmaniasis.csv,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2016,2016_enfermedades-transmitidas-por-vectores-etv_chagas-agudo.csv,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2016,2016_enfermedades-transmitidas-por-vectores-etv_dengue.csv,17,enfermedades transmitidas por vectores (etv),03,dengue
+2016,2016_enfermedades-transmitidas-por-vectores-etv_malaria.csv,17,enfermedades transmitidas por vectores (etv),04,malaria
+2016,2016_mortalidad-materna_muerte-materna-notificada.csv,18,mortalidad materna,01,muerte materna notificada
+2016,2016_mortalidad-materna_muerte-materna-confirmada.csv,18,mortalidad materna,02,muerte materna confirmada
+2016,2016_mortalidad-perinatal-neonatal-e-infantil_muerte-fetal-obito-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2016,2016_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-temprana-0-6-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2016,2016_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-tardia-7-27-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2016,2016_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-sepsis.csv,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2016,2016_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-asfixia-perinatal.csv,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2016,2016_mortalidad-perinatal-neonatal-e-infantil_muerte-de-28-dias-a-menor-de-1-ano.csv,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2017,2017_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,11,sarampion / rubeola
+2017,2017_sospecha-diagnostica_sindrome-de-rubeola-congenita.csv,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2017,2017_sospecha-diagnostica_tos-ferina-coqueluche.csv,01,sospecha diagnostica,13,tos ferina/coqueluche
+2017,2017_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,14,difteria
+2017,2017_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2017,2017_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,16,fiebre amarilla
+2017,2017_sospecha-diagnostica_dengue-grave.csv,01,sospecha diagnostica,17,dengue grave
+2017,2017_sospecha-diagnostica_fiebre-hemorragica-boliviana.csv,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2017,2017_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,19,peste
+2017,2017_sospecha-diagnostica_enfermedad-meningococica.csv,01,sospecha diagnostica,20,enfermedad meningococica
+2017,2017_sospecha-diagnostica_colera.csv,01,sospecha diagnostica,21,colera
+2017,2017_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,01,sospecha diagnostica,22,enfermedad por hanta virus
+2017,2017_sospecha-diagnostica_rabia-en-perros.csv,01,sospecha diagnostica,23,rabia en perros
+2017,2017_sospecha-diagnostica_rabia-humana.csv,01,sospecha diagnostica,24,rabia humana
+2017,2017_sospecha-diagnostica_influenza-irag-iragi-y-eti.csv,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2017,2017_sospecha-diagnostica_leptospirosis.csv,01,sospecha diagnostica,26,leptospirosis
+2017,2017_sospecha-diagnostica_chikungunya.csv,01,sospecha diagnostica,27,chikungunya
+2017,2017_sospecha-diagnostica_zika.csv,01,sospecha diagnostica,28,zika
+2017,2017_sospecha-diagnostica_anomalia-congenita.csv,01,sospecha diagnostica,29,anomalia congenita
+2017,2017_sospecha-diagnostica_microcefalia.csv,01,sospecha diagnostica,30,microcefalia
+2017,2017_sospecha-diagnostica_trastorno-neurologico.csv,01,sospecha diagnostica,31,trastorno neurologico
+2017,2017_sospecha-diagnostica_sind-guillain-barre.csv,01,sospecha diagnostica,32,sind. guillain barre
+2017,2017_sospecha-diagnostica_.csv,01,sospecha diagnostica,34,
+2017,2017_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2017,2017_inmunoprevenibles_hepatitis-viral-a.csv,04,inmunoprevenibles,06,hepatitis viral a*
+2017,2017_inmunoprevenibles_hepatitis-viral-b-o-c.csv,04,inmunoprevenibles,07,hepatitis viral b o c*
+2017,2017_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,08,parotiditis
+2017,2017_inmunoprevenibles_varicela.csv,04,inmunoprevenibles,09,varicela
+2017,2017_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,08,ulcera genital
+2017,2017_infecc-de-transmision-sexual_sifilis-congenita.csv,05,infecc. de transmision sexual,09,sifilis congenita
+2017,2017_infecc-de-transmision-sexual_sifilis-en-la-mujer-embarazada.csv,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2017,2017_infecc-de-transmision-sexual_flujo-uretral-vaginal.csv,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2017,2017_infecc-de-transmision-sexual_gonorrea.csv,05,infecc. de transmision sexual,12,gonorrea
+2017,2017_infecc-de-transmision-sexual_verruga-genital.csv,05,infecc. de transmision sexual,13,verruga genital
+2017,2017_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-mujer-embarazada.csv,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2017,2017_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-poblacion-en-general.csv,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2017,2017_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,10,enfermedad diarreica aguda
+2017,2017_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,11,ira sin neumonia
+2017,2017_otras-infecciones_neumonia.csv,06,otras infecciones,12,neumonia
+2017,2017_otras-infecciones_no-de-personas-expuestas-al-virus-rabico.csv,06,otras infecciones,13,no de personas expuestas al virus rabico
+2017,2017_otras-infecciones_n-de-personas-con-mordedura-de-serpientes.csv,06,otras infecciones,14,n de personas con mordedura de serpientes
+2017,2017_otras-infecciones_n-de-personas-con-picadura-de-animales-ponzonosos.csv,06,otras infecciones,15,n de personas con picadura de animales ponzonosos
+2017,2017_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,12,tuberculosis meningea
+2017,2017_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa.csv,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2017,2017_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa-graves.csv,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2017,2017_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,15,lepra paucibacilar
+2017,2017_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,16,lepra multibacilar
+2017,2017_violencia-hechos-de-transito-y-accidentes_violencia-en-la-familia.csv,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2017,2017_violencia-hechos-de-transito-y-accidentes_violencia-sexual-familiar-domestica-y-o-en-otros-ambitos.csv,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2017,2017_violencia-hechos-de-transito-y-accidentes_otras-violencias-por-lesiones-autoinflingidas-y-colectivas.csv,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2017,2017_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2017,2017_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-otros-accidentes.csv,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2017,2017_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2017,2017_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2017,2017_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2017,2017_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2017,2017_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2017,2017_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2017,2017_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2017,2017_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem-aborto.csv,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2017,2017_salud-sexual-y-reproductiva_gestantes-y-puerperas-con-sepsis.csv,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2017,2017_salud-sexual-y-reproductiva_preeclampsia-severa.csv,10,salud sexual y reproductiva,07,preeclampsia severa
+2017,2017_salud-sexual-y-reproductiva_eclampsia.csv,10,salud sexual y reproductiva,08,eclampsia
+2017,2017_intoxicaciones_plaguicidas.csv,13,intoxicaciones,04,plaguicidas
+2017,2017_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2017,2017_intoxicaciones_otras-intoxicaciones-drogas-farmacos-alcohol-etc.csv,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2017,2017_eventos-notificacion-inmediata-parte-i_riada.csv,15,eventos - notificacion inmediata parte i,01,riada
+2017,2017_eventos-notificacion-inmediata-parte-i_helada-granizo-nevada.csv,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2017,2017_eventos-notificacion-inmediata-parte-i_incendio.csv,15,eventos - notificacion inmediata parte i,03,incendio
+2017,2017_eventos-notificacion-inmediata-parte-ii_deslizamiento-sismo-terremoto.csv,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2017,2017_eventos-notificacion-inmediata-parte-ii_inundacion.csv,16,eventos - notificacion inmediata parte ii,02,inundacion
+2017,2017_eventos-notificacion-inmediata-parte-ii_otros-de-excepcion.csv,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2017,2017_enfermedades-transmitidas-por-vectores-etv_leishmaniasis.csv,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2017,2017_enfermedades-transmitidas-por-vectores-etv_chagas-agudo.csv,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2017,2017_enfermedades-transmitidas-por-vectores-etv_dengue.csv,17,enfermedades transmitidas por vectores (etv),03,dengue
+2017,2017_enfermedades-transmitidas-por-vectores-etv_malaria.csv,17,enfermedades transmitidas por vectores (etv),04,malaria
+2017,2017_mortalidad-materna_muerte-materna-notificada.csv,18,mortalidad materna,01,muerte materna notificada
+2017,2017_mortalidad-materna_muerte-materna-confirmada.csv,18,mortalidad materna,02,muerte materna confirmada
+2017,2017_mortalidad-perinatal-neonatal-e-infantil_muerte-fetal-obito-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2017,2017_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-temprana-0-6-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2017,2017_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-tardia-7-27-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2017,2017_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-sepsis.csv,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2017,2017_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-asfixia-perinatal.csv,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2017,2017_mortalidad-perinatal-neonatal-e-infantil_muerte-de-28-dias-a-menor-de-1-ano.csv,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2018,2018_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,11,sarampion / rubeola
+2018,2018_sospecha-diagnostica_sindrome-de-rubeola-congenita.csv,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2018,2018_sospecha-diagnostica_tos-ferina-coqueluche.csv,01,sospecha diagnostica,13,tos ferina/coqueluche
+2018,2018_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,14,difteria
+2018,2018_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2018,2018_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,16,fiebre amarilla
+2018,2018_sospecha-diagnostica_dengue-grave.csv,01,sospecha diagnostica,17,dengue grave
+2018,2018_sospecha-diagnostica_fiebre-hemorragica-boliviana.csv,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2018,2018_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,19,peste
+2018,2018_sospecha-diagnostica_enfermedad-meningococica.csv,01,sospecha diagnostica,20,enfermedad meningococica
+2018,2018_sospecha-diagnostica_colera.csv,01,sospecha diagnostica,21,colera
+2018,2018_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,01,sospecha diagnostica,22,enfermedad por hanta virus
+2018,2018_sospecha-diagnostica_rabia-en-perros.csv,01,sospecha diagnostica,23,rabia en perros
+2018,2018_sospecha-diagnostica_rabia-humana.csv,01,sospecha diagnostica,24,rabia humana
+2018,2018_sospecha-diagnostica_influenza-irag-iragi-y-eti.csv,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2018,2018_sospecha-diagnostica_leptospirosis.csv,01,sospecha diagnostica,26,leptospirosis
+2018,2018_sospecha-diagnostica_chikungunya.csv,01,sospecha diagnostica,27,chikungunya
+2018,2018_sospecha-diagnostica_zika.csv,01,sospecha diagnostica,28,zika
+2018,2018_sospecha-diagnostica_anomalia-congenita-asociado-al-zika.csv,01,sospecha diagnostica,29,anomalia congenita asociado al zika
+2018,2018_sospecha-diagnostica_microcefalia-asociado-al-zika.csv,01,sospecha diagnostica,30,microcefalia asociado al zika
+2018,2018_sospecha-diagnostica_trastorno-nuerologico-asociado-al-zika.csv,01,sospecha diagnostica,31,trastorno nuerologico asociado al zika
+2018,2018_sospecha-diagnostica_sind-guillain-barre-asociado-al-zika.csv,01,sospecha diagnostica,32,sind. guillain barre asociado al zika
+2018,2018_sospecha-diagnostica_.csv,01,sospecha diagnostica,34,
+2018,2018_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2018,2018_inmunoprevenibles_hepatitis-viral-a.csv,04,inmunoprevenibles,06,hepatitis viral a*
+2018,2018_inmunoprevenibles_hepatitis-viral-b-o-c.csv,04,inmunoprevenibles,07,hepatitis viral b o c*
+2018,2018_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,08,parotiditis
+2018,2018_inmunoprevenibles_varicela.csv,04,inmunoprevenibles,09,varicela
+2018,2018_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,08,ulcera genital
+2018,2018_infecc-de-transmision-sexual_sifilis-congenita.csv,05,infecc. de transmision sexual,09,sifilis congenita
+2018,2018_infecc-de-transmision-sexual_sifilis-en-la-mujer-embarazada.csv,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2018,2018_infecc-de-transmision-sexual_flujo-uretral-vaginal.csv,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2018,2018_infecc-de-transmision-sexual_gonorrea.csv,05,infecc. de transmision sexual,12,gonorrea
+2018,2018_infecc-de-transmision-sexual_verruga-genital.csv,05,infecc. de transmision sexual,13,verruga genital
+2018,2018_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-mujer-embarazada.csv,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2018,2018_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-poblacion-en-general.csv,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2018,2018_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,10,enfermedad diarreica aguda
+2018,2018_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,11,ira sin neumonia
+2018,2018_otras-infecciones_neumonia.csv,06,otras infecciones,12,neumonia
+2018,2018_otras-infecciones_no-de-personas-expuestas-al-virus-rabico.csv,06,otras infecciones,13,no de personas expuestas al virus rabico
+2018,2018_otras-infecciones_n-de-personas-con-mordedura-de-serpientes.csv,06,otras infecciones,14,n de personas con mordedura de serpientes
+2018,2018_otras-infecciones_n-de-personas-con-picadura-de-animales-ponzonosos.csv,06,otras infecciones,15,n de personas con picadura de animales ponzonosos
+2018,2018_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,12,tuberculosis meningea
+2018,2018_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa.csv,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2018,2018_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa-graves.csv,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2018,2018_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,15,lepra paucibacilar
+2018,2018_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,16,lepra multibacilar
+2018,2018_violencia-hechos-de-transito-y-accidentes_violencia-en-la-familia.csv,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2018,2018_violencia-hechos-de-transito-y-accidentes_violencia-sexual-familiar-domestica-y-o-en-otros-ambitos.csv,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2018,2018_violencia-hechos-de-transito-y-accidentes_otras-violencias-por-lesiones-autoinflingidas-y-colectivas.csv,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2018,2018_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2018,2018_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-otros-accidentes.csv,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2018,2018_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2018,2018_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2018,2018_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2018,2018_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2018,2018_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2018,2018_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2018,2018_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2018,2018_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem-aborto.csv,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2018,2018_salud-sexual-y-reproductiva_gestantes-y-puerperas-con-sepsis.csv,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2018,2018_salud-sexual-y-reproductiva_preeclampsia-severa.csv,10,salud sexual y reproductiva,07,preeclampsia severa
+2018,2018_salud-sexual-y-reproductiva_eclampsia.csv,10,salud sexual y reproductiva,08,eclampsia
+2018,2018_intoxicaciones_plaguicidas.csv,13,intoxicaciones,04,plaguicidas
+2018,2018_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2018,2018_intoxicaciones_otras-intoxicaciones-drogas-farmacos-alcohol-etc.csv,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2018,2018_eventos-notificacion-inmediata-parte-i_riada.csv,15,eventos - notificacion inmediata parte i,01,riada
+2018,2018_eventos-notificacion-inmediata-parte-i_helada-granizo-nevada.csv,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2018,2018_eventos-notificacion-inmediata-parte-i_incendio.csv,15,eventos - notificacion inmediata parte i,03,incendio
+2018,2018_eventos-notificacion-inmediata-parte-ii_deslizamiento-sismo-terremoto.csv,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2018,2018_eventos-notificacion-inmediata-parte-ii_inundacion.csv,16,eventos - notificacion inmediata parte ii,02,inundacion
+2018,2018_eventos-notificacion-inmediata-parte-ii_otros-de-excepcion.csv,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2018,2018_enfermedades-transmitidas-por-vectores-etv_leishmaniasis.csv,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2018,2018_enfermedades-transmitidas-por-vectores-etv_chagas-agudo.csv,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2018,2018_enfermedades-transmitidas-por-vectores-etv_dengue.csv,17,enfermedades transmitidas por vectores (etv),03,dengue
+2018,2018_enfermedades-transmitidas-por-vectores-etv_malaria.csv,17,enfermedades transmitidas por vectores (etv),04,malaria
+2018,2018_mortalidad-materna_muerte-materna-notificada.csv,18,mortalidad materna,01,muerte materna notificada
+2018,2018_mortalidad-materna_muerte-materna-confirmada.csv,18,mortalidad materna,02,muerte materna confirmada
+2018,2018_mortalidad-perinatal-neonatal-e-infantil_muerte-fetal-obito-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2018,2018_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-temprana-0-6-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2018,2018_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-tardia-7-27-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2018,2018_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-sepsis.csv,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2018,2018_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-asfixia-perinatal.csv,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2018,2018_mortalidad-perinatal-neonatal-e-infantil_muerte-de-28-dias-a-menor-de-1-ano.csv,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2019,2019_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,11,sarampion / rubeola
+2019,2019_sospecha-diagnostica_sindrome-de-rubeola-congenita.csv,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2019,2019_sospecha-diagnostica_tos-ferina-coqueluche.csv,01,sospecha diagnostica,13,tos ferina/coqueluche
+2019,2019_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,14,difteria
+2019,2019_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2019,2019_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,16,fiebre amarilla
+2019,2019_sospecha-diagnostica_dengue-grave.csv,01,sospecha diagnostica,17,dengue grave
+2019,2019_sospecha-diagnostica_fiebre-hemorragica-boliviana.csv,01,sospecha diagnostica,18,fiebre hemorragica boliviana
+2019,2019_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,19,peste
+2019,2019_sospecha-diagnostica_enfermedad-meningococica.csv,01,sospecha diagnostica,20,enfermedad meningococica
+2019,2019_sospecha-diagnostica_colera.csv,01,sospecha diagnostica,21,colera
+2019,2019_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,01,sospecha diagnostica,22,enfermedad por hanta virus
+2019,2019_sospecha-diagnostica_rabia-en-perros.csv,01,sospecha diagnostica,23,rabia en perros
+2019,2019_sospecha-diagnostica_rabia-humana.csv,01,sospecha diagnostica,24,rabia humana
+2019,2019_sospecha-diagnostica_influenza-irag-iragi-y-eti.csv,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2019,2019_sospecha-diagnostica_leptospirosis.csv,01,sospecha diagnostica,26,leptospirosis
+2019,2019_sospecha-diagnostica_chikungunya.csv,01,sospecha diagnostica,27,chikungunya
+2019,2019_sospecha-diagnostica_zika.csv,01,sospecha diagnostica,28,zika
+2019,2019_sospecha-diagnostica_dengue-con-signos-de-alarma.csv,01,sospecha diagnostica,29,dengue con signos de alarma
+2019,2019_sospecha-diagnostica_dengue-sin-signos-de-alarma.csv,01,sospecha diagnostica,30,dengue sin signos de alarma
+2019,2019_sospecha-diagnostica_muerte-de-mujer-10-59-anos.csv,01,sospecha diagnostica,31,muerte de mujer 10-59 anos
+2019,2019_sospecha-diagnostica_.csv,01,sospecha diagnostica,34,
+2019,2019_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2019,2019_inmunoprevenibles_hepatitis-viral-a.csv,04,inmunoprevenibles,06,hepatitis viral a*
+2019,2019_inmunoprevenibles_hepatitis-viral-b-o-c.csv,04,inmunoprevenibles,07,hepatitis viral b o c*
+2019,2019_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,08,parotiditis
+2019,2019_inmunoprevenibles_varicela.csv,04,inmunoprevenibles,09,varicela
+2019,2019_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,08,ulcera genital
+2019,2019_infecc-de-transmision-sexual_sifilis-congenita.csv,05,infecc. de transmision sexual,09,sifilis congenita
+2019,2019_infecc-de-transmision-sexual_sifilis-en-la-mujer-embarazada.csv,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2019,2019_infecc-de-transmision-sexual_flujo-uretral-vaginal.csv,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2019,2019_infecc-de-transmision-sexual_gonorrea.csv,05,infecc. de transmision sexual,12,gonorrea
+2019,2019_infecc-de-transmision-sexual_verruga-genital.csv,05,infecc. de transmision sexual,13,verruga genital
+2019,2019_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-mujer-embarazada.csv,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2019,2019_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-poblacion-en-general.csv,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2019,2019_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,10,enfermedad diarreica aguda
+2019,2019_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,11,ira sin neumonia
+2019,2019_otras-infecciones_neumonia.csv,06,otras infecciones,12,neumonia
+2019,2019_otras-infecciones_no-de-personas-expuestas-al-virus-rabico.csv,06,otras infecciones,13,no de personas expuestas al virus rabico
+2019,2019_otras-infecciones_n-de-personas-con-mordedura-de-serpientes.csv,06,otras infecciones,14,n de personas con mordedura de serpientes
+2019,2019_otras-infecciones_n-de-personas-con-picadura-de-animales-ponzonosos.csv,06,otras infecciones,15,n de personas con picadura de animales ponzonosos
+2019,2019_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,12,tuberculosis meningea
+2019,2019_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa.csv,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2019,2019_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa-graves.csv,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2019,2019_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,15,lepra paucibacilar
+2019,2019_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,16,lepra multibacilar
+2019,2019_violencia-hechos-de-transito-y-accidentes_violencia-en-la-familia.csv,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2019,2019_violencia-hechos-de-transito-y-accidentes_violencia-sexual-familiar-domestica-y-o-en-otros-ambitos.csv,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2019,2019_violencia-hechos-de-transito-y-accidentes_otras-violencias-por-lesiones-autoinflingidas-y-colectivas.csv,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2019,2019_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2019,2019_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-otros-accidentes.csv,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2019,2019_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2019,2019_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2019,2019_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2019,2019_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2019,2019_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2019,2019_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem-aborto.csv,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2019,2019_salud-sexual-y-reproductiva_gestantes-y-puerperas-con-sepsis.csv,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2019,2019_salud-sexual-y-reproductiva_preeclampsia-severa.csv,10,salud sexual y reproductiva,07,preeclampsia severa
+2019,2019_salud-sexual-y-reproductiva_eclampsia.csv,10,salud sexual y reproductiva,08,eclampsia
+2019,2019_intoxicaciones_plaguicidas.csv,13,intoxicaciones,04,plaguicidas
+2019,2019_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2019,2019_intoxicaciones_otras-intoxicaciones-drogas-farmacos-alcohol-etc.csv,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2019,2019_eventos-notificacion-inmediata-parte-i_riada.csv,15,eventos - notificacion inmediata parte i,01,riada
+2019,2019_eventos-notificacion-inmediata-parte-i_helada-granizo-nevada.csv,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2019,2019_eventos-notificacion-inmediata-parte-i_incendio.csv,15,eventos - notificacion inmediata parte i,03,incendio
+2019,2019_eventos-notificacion-inmediata-parte-ii_deslizamiento-sismo-terremoto.csv,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2019,2019_eventos-notificacion-inmediata-parte-ii_inundacion.csv,16,eventos - notificacion inmediata parte ii,02,inundacion
+2019,2019_eventos-notificacion-inmediata-parte-ii_otros-de-excepcion.csv,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2019,2019_enfermedades-transmitidas-por-vectores-etv_leishmaniasis.csv,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2019,2019_enfermedades-transmitidas-por-vectores-etv_chagas-agudo.csv,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2019,2019_enfermedades-transmitidas-por-vectores-etv_dengue.csv,17,enfermedades transmitidas por vectores (etv),03,dengue
+2019,2019_enfermedades-transmitidas-por-vectores-etv_malaria.csv,17,enfermedades transmitidas por vectores (etv),04,malaria
+2019,2019_mortalidad-materna_muerte-materna-notificada.csv,18,mortalidad materna,01,muerte materna notificada
+2019,2019_mortalidad-materna_muerte-materna-confirmada.csv,18,mortalidad materna,02,muerte materna confirmada
+2019,2019_mortalidad-perinatal-neonatal-e-infantil_muerte-fetal-obito-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2019,2019_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-temprana-0-6-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2019,2019_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-tardia-7-27-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2019,2019_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-sepsis.csv,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2019,2019_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-asfixia-perinatal.csv,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2019,2019_mortalidad-perinatal-neonatal-e-infantil_muerte-de-28-dias-a-menor-de-1-ano.csv,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2020,2020_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,11,sarampion / rubeola
+2020,2020_sospecha-diagnostica_sindrome-de-rubeola-congenita.csv,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2020,2020_sospecha-diagnostica_tos-ferina-coqueluche.csv,01,sospecha diagnostica,13,tos ferina/coqueluche
+2020,2020_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,14,difteria
+2020,2020_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2020,2020_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,16,fiebre amarilla
+2020,2020_sospecha-diagnostica_dengue-grave.csv,01,sospecha diagnostica,17,dengue grave
+2020,2020_sospecha-diagnostica_fiebre-hemorragica.csv,01,sospecha diagnostica,18,fiebre hemorragica
+2020,2020_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,19,peste
+2020,2020_sospecha-diagnostica_enfermedad-meningococica.csv,01,sospecha diagnostica,20,enfermedad meningococica
+2020,2020_sospecha-diagnostica_colera.csv,01,sospecha diagnostica,21,colera
+2020,2020_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,01,sospecha diagnostica,22,enfermedad por hanta virus
+2020,2020_sospecha-diagnostica_rabia-canina.csv,01,sospecha diagnostica,23,rabia canina
+2020,2020_sospecha-diagnostica_rabia-humana.csv,01,sospecha diagnostica,24,rabia humana
+2020,2020_sospecha-diagnostica_influenza-irag-iragi-y-eti.csv,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2020,2020_sospecha-diagnostica_leptospirosis.csv,01,sospecha diagnostica,26,leptospirosis
+2020,2020_sospecha-diagnostica_chikungunya.csv,01,sospecha diagnostica,27,chikungunya
+2020,2020_sospecha-diagnostica_zika.csv,01,sospecha diagnostica,28,zika
+2020,2020_sospecha-diagnostica_dengue-con-signos-de-alarma.csv,01,sospecha diagnostica,29,dengue con signos de alarma
+2020,2020_sospecha-diagnostica_dengue-sin-signos-de-alarma.csv,01,sospecha diagnostica,30,dengue sin signos de alarma
+2020,2020_sospecha-diagnostica_otras-meningitis.csv,01,sospecha diagnostica,31,otras meningitis
+2020,2020_sospecha-diagnostica_sindrome-hemolitico-uremico.csv,01,sospecha diagnostica,32,sindrome hemolitico uremico
+2020,2020_sospecha-diagnostica_covid-19.csv,01,sospecha diagnostica,33,covid-19
+2020,2020_sospecha-diagnostica_.csv,01,sospecha diagnostica,34,
+2020,2020_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2020,2020_inmunoprevenibles_hepatitis-viral-a.csv,04,inmunoprevenibles,06,hepatitis viral a*
+2020,2020_inmunoprevenibles_hepatitis-viral-b-o-c.csv,04,inmunoprevenibles,07,hepatitis viral b o c*
+2020,2020_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,08,parotiditis
+2020,2020_inmunoprevenibles_varicela.csv,04,inmunoprevenibles,09,varicela
+2020,2020_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,08,ulcera genital
+2020,2020_infecc-de-transmision-sexual_sifilis-congenita.csv,05,infecc. de transmision sexual,09,sifilis congenita
+2020,2020_infecc-de-transmision-sexual_sifilis-en-la-mujer-embarazada.csv,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2020,2020_infecc-de-transmision-sexual_flujo-uretral-vaginal.csv,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2020,2020_infecc-de-transmision-sexual_gonorrea.csv,05,infecc. de transmision sexual,12,gonorrea
+2020,2020_infecc-de-transmision-sexual_verruga-genital.csv,05,infecc. de transmision sexual,13,verruga genital
+2020,2020_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-mujer-embarazada.csv,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2020,2020_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-poblacion-en-general.csv,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2020,2020_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,10,enfermedad diarreica aguda
+2020,2020_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,11,ira sin neumonia
+2020,2020_otras-infecciones_neumonia.csv,06,otras infecciones,12,neumonia
+2020,2020_otras-infecciones_no-de-personas-expuestas-al-virus-rabico.csv,06,otras infecciones,13,no de personas expuestas al virus rabico
+2020,2020_otras-infecciones_n-de-personas-con-evenenamiento-por-mordedura-de-serpientes-venenosas.csv,06,otras infecciones,14,n de personas con evenenamiento por mordedura de serpientes venenosas
+2020,2020_otras-infecciones_n-de-personas-con-envenenamiento-por-aracnidos.csv,06,otras infecciones,15,n de personas con envenenamiento por aracnidos
+2020,2020_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,12,tuberculosis meningea
+2020,2020_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa.csv,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2020,2020_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa-graves.csv,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2020,2020_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,15,lepra paucibacilar
+2020,2020_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,16,lepra multibacilar
+2020,2020_violencia-hechos-de-transito-y-accidentes_violencia-en-la-familia.csv,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2020,2020_violencia-hechos-de-transito-y-accidentes_violencia-sexual-familiar-domestica-y-o-en-otros-ambitos.csv,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2020,2020_violencia-hechos-de-transito-y-accidentes_otras-violencias-por-lesiones-autoinflingidas-y-colectivas.csv,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2020,2020_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2020,2020_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-otros-accidentes.csv,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2020,2020_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2020,2020_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2020,2020_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2020,2020_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2020,2020_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2020,2020_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2020,2020_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2020,2020_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem-aborto.csv,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2020,2020_salud-sexual-y-reproductiva_gestantes-y-puerperas-con-sepsis.csv,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2020,2020_salud-sexual-y-reproductiva_preeclampsia-severa.csv,10,salud sexual y reproductiva,07,preeclampsia severa
+2020,2020_salud-sexual-y-reproductiva_eclampsia.csv,10,salud sexual y reproductiva,08,eclampsia
+2020,2020_intoxicaciones_plaguicidas.csv,13,intoxicaciones,04,plaguicidas
+2020,2020_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2020,2020_intoxicaciones_otras-intoxicaciones-drogas-farmacos-alcohol-etc.csv,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2020,2020_eventos-notificacion-inmediata-parte-i_riada.csv,15,eventos - notificacion inmediata parte i,01,riada
+2020,2020_eventos-notificacion-inmediata-parte-i_helada-granizo-nevada.csv,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2020,2020_eventos-notificacion-inmediata-parte-i_incendio.csv,15,eventos - notificacion inmediata parte i,03,incendio
+2020,2020_eventos-notificacion-inmediata-parte-ii_deslizamiento-sismo-terremoto.csv,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2020,2020_eventos-notificacion-inmediata-parte-ii_inundacion.csv,16,eventos - notificacion inmediata parte ii,02,inundacion
+2020,2020_eventos-notificacion-inmediata-parte-ii_otros-de-excepcion.csv,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2020,2020_enfermedades-transmitidas-por-vectores-etv_leishmaniasis.csv,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2020,2020_enfermedades-transmitidas-por-vectores-etv_chagas-agudo.csv,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2020,2020_enfermedades-transmitidas-por-vectores-etv_dengue.csv,17,enfermedades transmitidas por vectores (etv),03,dengue
+2020,2020_enfermedades-transmitidas-por-vectores-etv_malaria.csv,17,enfermedades transmitidas por vectores (etv),04,malaria
+2020,2020_mortalidad-materna_muerte-materna-notificada.csv,18,mortalidad materna,01,muerte materna notificada
+2020,2020_mortalidad-materna_muerte-materna-confirmada.csv,18,mortalidad materna,02,muerte materna confirmada
+2020,2020_mortalidad-perinatal-neonatal-e-infantil_muerte-fetal-obito-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",01,muerte fetal (obito) confirmada
+2020,2020_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-temprana-0-6-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",02,muerte neonatal  temprana (0-6 dias) confirmada
+2020,2020_mortalidad-perinatal-neonatal-e-infantil_muerte-neonatal-tardia-7-27-dias-confirmada.csv,19,"mortalidad perinatal, neonatal e infantil",03,muerte neonatal  tardia (7-27 dias) confirmada
+2020,2020_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-sepsis.csv,19,"mortalidad perinatal, neonatal e infantil",04,muerte menor de 28 dias por sepsis
+2020,2020_mortalidad-perinatal-neonatal-e-infantil_muerte-menor-de-28-dias-por-asfixia-perinatal.csv,19,"mortalidad perinatal, neonatal e infantil",05,muerte menor de 28 dias por asfixia perinatal
+2020,2020_mortalidad-perinatal-neonatal-e-infantil_muerte-de-28-dias-a-menor-de-1-ano.csv,19,"mortalidad perinatal, neonatal e infantil",06,muerte de 28 dias a menor de 1 ano
+2021,2021_sospecha-diagnostica_sarampion-rubeola.csv,01,sospecha diagnostica,11,sarampion / rubeola
+2021,2021_sospecha-diagnostica_sindrome-de-rubeola-congenita.csv,01,sospecha diagnostica,12,sindrome de rubeola congenita
+2021,2021_sospecha-diagnostica_tos-ferina-coqueluche.csv,01,sospecha diagnostica,13,tos ferina/coqueluche
+2021,2021_sospecha-diagnostica_difteria.csv,01,sospecha diagnostica,14,difteria
+2021,2021_sospecha-diagnostica_paralisis-flacida-aguda-polio.csv,01,sospecha diagnostica,15,paralisis flacida aguda (polio)
+2021,2021_sospecha-diagnostica_fiebre-amarilla.csv,01,sospecha diagnostica,16,fiebre amarilla
+2021,2021_sospecha-diagnostica_dengue-grave.csv,01,sospecha diagnostica,17,dengue grave
+2021,2021_sospecha-diagnostica_fiebre-hemorragica.csv,01,sospecha diagnostica,18,fiebre hemorragica
+2021,2021_sospecha-diagnostica_peste.csv,01,sospecha diagnostica,19,peste
+2021,2021_sospecha-diagnostica_enfermedad-meningococica.csv,01,sospecha diagnostica,20,enfermedad meningococica
+2021,2021_sospecha-diagnostica_colera.csv,01,sospecha diagnostica,21,colera
+2021,2021_sospecha-diagnostica_enfermedad-por-hanta-virus.csv,01,sospecha diagnostica,22,enfermedad por hanta virus
+2021,2021_sospecha-diagnostica_rabia-canina.csv,01,sospecha diagnostica,23,rabia canina
+2021,2021_sospecha-diagnostica_rabia-humana.csv,01,sospecha diagnostica,24,rabia humana
+2021,2021_sospecha-diagnostica_influenza-irag-iragi-y-eti.csv,01,sospecha diagnostica,25,"influenza  (irag ,iragi y eti)"
+2021,2021_sospecha-diagnostica_leptospirosis.csv,01,sospecha diagnostica,26,leptospirosis
+2021,2021_sospecha-diagnostica_chikungunya.csv,01,sospecha diagnostica,27,chikungunya
+2021,2021_sospecha-diagnostica_zika.csv,01,sospecha diagnostica,28,zika
+2021,2021_sospecha-diagnostica_dengue-con-signos-de-alarma.csv,01,sospecha diagnostica,29,dengue con signos de alarma
+2021,2021_sospecha-diagnostica_dengue-sin-signos-de-alarma.csv,01,sospecha diagnostica,30,dengue sin signos de alarma
+2021,2021_sospecha-diagnostica_otras-meningitis.csv,01,sospecha diagnostica,31,otras meningitis
+2021,2021_sospecha-diagnostica_sindrome-hemolitico-uremico.csv,01,sospecha diagnostica,32,sindrome hemolitico uremico
+2021,2021_sospecha-diagnostica_covid-19.csv,01,sospecha diagnostica,33,covid-19
+2021,2021_sospecha-diagnostica_sindrome-inflamatorio-multisistemico-asociado-con-covid-19.csv,01,sospecha diagnostica,34,sindrome inflamatorio multisistemico asociado con covid-19
+2021,2021_sospecha-diagnostica_esavi-eventos-supuestamente-atribuidos-a-la-vacunacion-y-o-inmunizacion.csv,01,sospecha diagnostica,35,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion)
+2021,2021_inmunoprevenibles_tetanos-neonatal-adulto.csv,04,inmunoprevenibles,05,tetanos neonatal / adulto
+2021,2021_inmunoprevenibles_hepatitis-viral-a.csv,04,inmunoprevenibles,06,hepatitis viral a*
+2021,2021_inmunoprevenibles_hepatitis-viral-b-o-c.csv,04,inmunoprevenibles,07,hepatitis viral b o c*
+2021,2021_inmunoprevenibles_parotiditis.csv,04,inmunoprevenibles,08,parotiditis
+2021,2021_inmunoprevenibles_varicela.csv,04,inmunoprevenibles,09,varicela
+2021,2021_inmunoprevenibles_otras-hepatitis-virales.csv,04,inmunoprevenibles,10,otras hepatitis virales
+2021,2021_infecc-de-transmision-sexual_ulcera-genital.csv,05,infecc. de transmision sexual,08,ulcera genital
+2021,2021_infecc-de-transmision-sexual_sifilis-congenita.csv,05,infecc. de transmision sexual,09,sifilis congenita
+2021,2021_infecc-de-transmision-sexual_sifilis-en-la-mujer-embarazada.csv,05,infecc. de transmision sexual,10,sifilis en la mujer embarazada*
+2021,2021_infecc-de-transmision-sexual_flujo-uretral-vaginal.csv,05,infecc. de transmision sexual,11,flujo uretral/vaginal
+2021,2021_infecc-de-transmision-sexual_gonorrea.csv,05,infecc. de transmision sexual,12,gonorrea
+2021,2021_infecc-de-transmision-sexual_verruga-genital.csv,05,infecc. de transmision sexual,13,verruga genital
+2021,2021_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-mujer-embarazada.csv,05,infecc. de transmision sexual,14,prueba rapida reactiva de vih en  mujer embarazada
+2021,2021_infecc-de-transmision-sexual_prueba-rapida-reactiva-de-vih-en-poblacion-en-general.csv,05,infecc. de transmision sexual,15,prueba rapida reactiva de vih en poblacion en general
+2021,2021_otras-infecciones_enfermedad-diarreica-aguda.csv,06,otras infecciones,10,enfermedad diarreica aguda
+2021,2021_otras-infecciones_ira-sin-neumonia.csv,06,otras infecciones,11,ira sin neumonia
+2021,2021_otras-infecciones_neumonia.csv,06,otras infecciones,12,neumonia
+2021,2021_otras-infecciones_no-de-personas-expuestas-al-virus-rabico.csv,06,otras infecciones,13,no de personas expuestas al virus rabico
+2021,2021_otras-infecciones_n-de-personas-con-evenenamiento-por-mordedura-de-serpientes-venenosas.csv,06,otras infecciones,14,n de personas con evenenamiento por mordedura de serpientes venenosas
+2021,2021_otras-infecciones_n-de-personas-con-envenenamiento-por-aracnidos.csv,06,otras infecciones,15,n de personas con envenenamiento por aracnidos
+2021,2021_tuberculosis-y-lepra_tuberculosis-meningea.csv,07,tuberculosis y lepra,12,tuberculosis meningea
+2021,2021_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa.csv,07,tuberculosis y lepra,13,reaccion adversa  a farmacos antituberculosos (rafa)
+2021,2021_tuberculosis-y-lepra_reaccion-adversa-a-farmacos-antituberculosos-rafa-graves.csv,07,tuberculosis y lepra,14,reaccion  adversa a farmacos antituberculosos rafa (graves)
+2021,2021_tuberculosis-y-lepra_lepra-paucibacilar.csv,07,tuberculosis y lepra,15,lepra paucibacilar
+2021,2021_tuberculosis-y-lepra_lepra-multibacilar.csv,07,tuberculosis y lepra,16,lepra multibacilar
+2021,2021_violencia-hechos-de-transito-y-accidentes_violencia-en-la-familia.csv,08,"violencia, hechos de transito y accidentes",05,violencia en la familia
+2021,2021_violencia-hechos-de-transito-y-accidentes_violencia-sexual-familiar-domestica-y-o-en-otros-ambitos.csv,08,"violencia, hechos de transito y accidentes",06,"violencia sexual (familiar, domestica y/o en otros ambitos)"
+2021,2021_violencia-hechos-de-transito-y-accidentes_otras-violencias-por-lesiones-autoinflingidas-y-colectivas.csv,08,"violencia, hechos de transito y accidentes",07,otras violencias por lesiones autoinflingidas y colectivas
+2021,2021_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-hechos-de-transito.csv,08,"violencia, hechos de transito y accidentes",08,no de casos presentados por hechos de transito
+2021,2021_violencia-hechos-de-transito-y-accidentes_no-de-casos-presentados-por-otros-accidentes.csv,08,"violencia, hechos de transito y accidentes",09,no de casos presentados por otros accidentes
+2021,2021_mortalidad_muerte-menor-de-5-anos-por-diarrea.csv,09,mortalidad,09,muerte menor de 5 anos por diarrea
+2021,2021_mortalidad_muerte-menor-de-5-anos-por-neumonia.csv,09,mortalidad,10,muerte menor de 5 anos por neumonia
+2021,2021_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2021,2021_mortalidad_muerte-menor-de-5-anos-por-desnutricion-aguda-grave.csv,09,mortalidad,11,muerte menor de 5 anos por desnutricion aguda grave
+2021,2021_mortalidad_muerte-menor-de-5-anos-por-otras-causas.csv,09,mortalidad,12,muerte menor de 5 anos por otras causas
+2021,2021_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2021,2021_mortalidad_otras-muertes-en-mayores-de-5-anos.csv,09,mortalidad,13,otras muertes en mayores de 5 anos
+2021,2021_mortalidad_sospecha-de-muerte-por-dengue.csv,09,mortalidad,14,sospecha de muerte por dengue
+2021,2021_mortalidad_sospecha-de-muerte-por-covid-19.csv,09,mortalidad,15,sospecha de muerte por covid-19
+2021,2021_salud-sexual-y-reproductiva_hemorragia-de-la-primera-mitad-del-embarazo-22-sem-aborto.csv,10,salud sexual y reproductiva,05,hemorragia de la primera mitad del embarazo (< 22 sem) aborto
+2021,2021_salud-sexual-y-reproductiva_gestantes-y-puerperas-con-sepsis.csv,10,salud sexual y reproductiva,06,gestantes y puerperas con sepsis
+2021,2021_salud-sexual-y-reproductiva_preeclampsia-severa.csv,10,salud sexual y reproductiva,07,preeclampsia severa
+2021,2021_salud-sexual-y-reproductiva_eclampsia.csv,10,salud sexual y reproductiva,08,eclampsia
+2021,2021_intoxicaciones_enf-transmitidas-por-alimentos-e-t-a.csv,13,intoxicaciones,05,enf. transmitidas por alimentos (e.t.a.)
+2021,2021_intoxicaciones_otras-intoxicaciones-drogas-farmacos-alcohol-etc.csv,13,intoxicaciones,06,"otras intoxicaciones (drogas, farmacos, alcohol etc.)"
+2021,2021_intoxicaciones_organofosforados-carbamatos.csv,13,intoxicaciones,07,"organofosforados , carbamatos"
+2021,2021_intoxicaciones_halogenados.csv,13,intoxicaciones,08,halogenados
+2021,2021_intoxicaciones_herbicida-y-fungicida.csv,13,intoxicaciones,09,herbicida y fungicida
+2021,2021_intoxicaciones_otros-plaguicidas-insecticidas.csv,13,intoxicaciones,10,otros plaguicidas/insecticidas
+2021,2021_eventos-notificacion-inmediata-parte-i_riada.csv,15,eventos - notificacion inmediata parte i,01,riada
+2021,2021_eventos-notificacion-inmediata-parte-i_helada-granizo-nevada.csv,15,eventos - notificacion inmediata parte i,02,helada/granizo/nevada
+2021,2021_eventos-notificacion-inmediata-parte-i_incendio.csv,15,eventos - notificacion inmediata parte i,03,incendio
+2021,2021_eventos-notificacion-inmediata-parte-ii_deslizamiento-sismo-terremoto.csv,16,eventos - notificacion inmediata parte ii,01,deslizamiento/sismo/terremoto
+2021,2021_eventos-notificacion-inmediata-parte-ii_inundacion.csv,16,eventos - notificacion inmediata parte ii,02,inundacion
+2021,2021_eventos-notificacion-inmediata-parte-ii_otros-de-excepcion.csv,16,eventos - notificacion inmediata parte ii,03,otros de excepcion
+2021,2021_enfermedades-transmitidas-por-vectores-etv_leishmaniasis.csv,17,enfermedades transmitidas por vectores (etv),01,leishmaniasis
+2021,2021_enfermedades-transmitidas-por-vectores-etv_chagas-agudo.csv,17,enfermedades transmitidas por vectores (etv),02,chagas agudo
+2021,2021_enfermedades-transmitidas-por-vectores-etv_malaria.csv,17,enfermedades transmitidas por vectores (etv),04,malaria
+2021,2021_mortalidad-materna_sospecha-de-muerte-materna.csv,18,mortalidad materna,01,sospecha de muerte materna

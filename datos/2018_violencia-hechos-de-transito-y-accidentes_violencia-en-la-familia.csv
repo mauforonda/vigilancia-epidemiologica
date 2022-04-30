@@ -1,0 +1,850 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+30201,AIQUILE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+71501,ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+50802,ATOCHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,4,4
+10701,CAMARGO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,1,1,0,1,1,2,8,0,0,1,0,0,0,5,10,15
+21803,CHACARILLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+50302,CHAQUI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,1,2,0,0,1,0,1,0,2,0,0,0,0,0,0,2,5,7
+30801,CLIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+90101,COBIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,1,0,0,0,0,0,5,5
+71301,COMARAPA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+21401,COROICO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+40301,CORQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,1,0,0,1,0,1,1,2,1,7,4,8,3,15,4,2,0,0,4,0,18,36,54
+60601,ENTRE RIOS TRJ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90203,FILADELFIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10502,HUACARETA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,3,3
+40701,HUANUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,1,3,4
+21102,IRUPANA (VILLA DE LANZA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,2,0,0,1,0,0,1,3,1,9,2,0,0,1,0,0,6,14,20
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,2,2,0,0,1,1,0,2,0,0,0,2,9,15,1,4,1,0,8,8,22,34,56
+21202,LAJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+50203,LLALLAGUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40702,MACHACAMARCA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+11003,MACHARETI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0,0,6,6
+31301,MIZQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10501,MONTEAGUDO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,1,3,4
+71001,MONTERO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70803,MORO MORO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,1,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,1,4,5
+10401,PADILLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,1,0,3,2,12,0,17,0,0,0,0,0,0,2,33,35
+70805,PUCARA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+51101,PUNA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30901,QUILLACOLLO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+50402,RAVELO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+80304,RURRENABAQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+31001,SACABA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+71105,SAN ANTONIO DE LOMERIO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4
+80302,SAN BORJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+30902,SIPE SIPE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10403,SOPACHUY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,5,0,1,1,0,1,0,3,0,1,0,0,0,0,6,6,12
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,1,0,1,0,4,0,1,0,0,0,0,0,7,7
+10202,TARVITA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+50102,TINGUIPAYA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10402,TOMINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31201,TOTORA(CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50801,TUPIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+50201,UNCIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+51201,UYUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,2,0,0,0,0,0,7,7
+20801,VIACHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,1,3,4
+60303,VILLA MONTES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,1,0,0,0,2,3,5
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,3,3
+30904,VINTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70201,WARNES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+21103,YANACACHI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+70403,YAPACANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80802,BAURES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90104,BELLA FLOR,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+10701,CAMARGO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+70706,CAMIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,1,0,0,0,0,0,1,1,8,0,0,1,1,2,0,4,11,15
+30801,CLIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+90101,COBIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,2,3
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,3,0,4,0,0,0,0,0,1,0,8,8
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31002,COLOMI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+71301,COMARAPA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+71101,CONCEPCION,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21402,CORIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,3,0,0,0,1,0,1,1,0,1,0,3,15,26,0,4,1,0,0,0,21,35,56
+71503,EL PUENTE(STC),"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31206,ENTRE RIOS CBBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90203,FILADELFIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+20602,GUANAY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+11002,HUACAYA (VILLA DE HUACAYA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+40701,HUANUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,2,3
+20204,HUARINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10703,INCAHUASI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,2,4,1,1,1,0,0,0,5,5,10
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,3,0,0,0,0,1,2,0,0,1,1,5,24,0,1,0,2,7,16,14,49,63
+10903,LAS CARRERAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50203,LLALLAGUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+40702,MACHACAMARCA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+80801,MAGDALENA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70903,MAIRANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10501,MONTEAGUDO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,5,0,4,0,0,0,0,0,0,0,9,9
+50403,POCOATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70601,PORTACHUELO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,4,5,6,15,0,23,0,13,0,5,0,0,0,0,10,61,71
+21201,PUCARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,3
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+51101,PUNA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30901,QUILLACOLLO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50402,RAVELO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+70503,ROBORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80304,RURRENABAQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,3,3
+31001,SACABA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+80501,SAN IGNACIO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71102,SAN JAVIER(STC),"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,1,0,5,5
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,11,0,12,1,14,0,4,2,5,0,0,3,46,49
+70602,SANTA ROSA DEL SARA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20902,SAPAHAQUI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30902,SIPE SIPE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,3
+30602,TACOPAYA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,9,0,0,0,0,0,15,15
+10202,TARVITA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+50102,TINGUIPAYA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,7,0,2,1,1,0,1,0,11,1,12
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+50502,TORO TORO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+31201,TOTORA(CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+80101,TRINIDAD,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,3
+51201,UYUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0,1,0,0,2,5,7
+51501,VILLAZON,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70201,WARNES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21103,YANACACHI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,3
+51302,ACACIO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+71501,ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+50802,ATOCHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,2,2,4
+60202,BERMEJO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70706,CAMIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30701,CAPINOTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,2,0,0,0,0,0,11,11
+30801,CLIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90101,COBIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,7,1,10,0,0,0,0,0,0,1,17,18
+50901,"COLCHA ""K""","violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31002,COLOMI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+70603,COLPA BELGICA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71301,COMARAPA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+71101,CONCEPCION,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+21402,CORIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10902,CULPINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,1,0,0,0,2,4,0,1,2,4,2,8,7,5,0,1,2,1,2,24,18,42
+70105,EL TORNO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90203,FILADELFIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20602,GUANAY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40701,HUANUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+10304,ICLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10703,INCAHUASI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,1,1,2,4,6
+21501,IXIAMAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,1,0,0,0,0,1,0,1,0,3,0,0,0,0,0,0,1,5,6
+70104,LA GUARDIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,2,0,0,0,4,0,0,0,1,0,0,7,3,18,2,2,1,3,6,10,19,40,59
+10903,LAS CARRERAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50203,LLALLAGUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,4,4
+31301,MIZQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+10501,MONTEAGUDO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71001,MONTERO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,2,0,14,2,8,0,14,0,0,0,0,0,0,2,38,40
+21201,PUCARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+51101,PUNA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,3,4
+30901,QUILLACOLLO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+70503,ROBORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31001,SACABA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50701,SACACA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70402,SAN CARLOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71104,SAN JULIAN,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90302,SAN LORENZO(PND),"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,2,3
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,4,4
+50902,SAN PEDRO DE QUEMES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,1,26,0,24,0,21,0,14,0,16,0,0,1,101,102
+70602,SANTA ROSA DEL SARA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+30902,SIPE SIPE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,4,4
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,17,0,0,0,0,0,22,22
+30903,TIQUIPAYA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+31201,TOTORA(CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50801,TUPIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50201,UNCIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70201,WARNES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21103,YANACACHI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+50103,YOCALLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+51302,ACACIO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+10701,CAMARGO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+70706,CAMIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,9,0,1,0,0,0,1,1,11,12
+70702,CHARAGUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,1,4,5
+30801,CLIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,2,2,4
+90101,COBIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,4,4
+50901,"COLCHA ""K""","violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31002,COLOMI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+71101,CONCEPCION,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21401,COROICO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+70102,COTOCA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70704,CUEVO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,2,0,0,0,0,1,2,1,0,0,3,3,8,7,8,0,1,0,0,1,24,13,37
+90203,FILADELFIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20602,GUANAY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+80202,GUAYARAMERIN,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10502,HUACARETA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+40701,HUANUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+10703,INCAHUASI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,5,5
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,1,0,1,0,0,1,3,3,0,1,1,0,0,0,6,5,11
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,6,3,0,0,0,0,1,0,2,0,0,8,7,22,0,1,1,4,13,14,30,52,82
+71003,MINEROS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,1,0,0,0,0,0,0,0,0,0,2,0,5,0,0,0,0,0,0,0,8,8
+10401,PADILLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70502,PAILON,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70601,PORTACHUELO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90102,PORVENIR,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,2,3,2,6,6,16,1,24,0,0,0,0,0,0,11,49,60
+21201,PUCARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20401,PUERTO ACOSTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+90201,PUERTO RICO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31401,PUNATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50402,RAVELO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+70503,ROBORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,2,2,4
+80304,RURRENABAQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+31001,SACABA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,3
+50701,SACACA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+71201,SAN MATIAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+21702,SAN PEDRO DE TIQUINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90202,SAN PEDRO(PND),"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,15,0,17,0,17,0,13,0,14,0,0,0,76,76
+30902,SIPE SIPE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,4,4
+31101,TAPACARI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,2,0,2,0,5,0,15,0,0,0,0,0,24,24
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10402,TOMINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50502,TORO TORO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31201,TOTORA(CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50801,TUPIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,18,14,0,1,0,1,0,0,0,0,0,0,18,16,34
+50201,UNCIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+51201,UYUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+10704,VILLA CHARCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+60303,VILLA MONTES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10801,VILLA SERRANO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30904,VINTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0,1,3,4
+21103,YANACACHI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30201,AIQUILE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+20202,ANCORAIMES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10201,AZURDUY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+60202,BERMEJO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70703,CABEZAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+10901,CAMATAQUI (C. VILLA ABECIA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30701,CAPINOTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,8,0,3,0,2,1,0,2,14,16
+31204,CHIMORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51103,CKOCHAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+30801,CLIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,2,2,1,2,9,11
+90101,COBIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,2,1,3
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,0,0,0,0,7,7
+31002,COLOMI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71101,CONCEPCION,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21402,CORIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+21401,COROICO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70704,CUEVO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,1,1,3,0,2,2,10,4,20,0,3,0,1,2,4,9,44,53
+80402,EXALTACION,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90203,FILADELFIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+10502,HUACARETA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40701,HUANUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,2,3
+10703,INCAHUASI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0,0,0,0,1,4,5
+21501,IXIAMAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,4,0,0,2,0,1,0,0,0,0,0,11,3,23,1,4,4,0,16,20,28,61,89
+21202,LAJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50203,LLALLAGUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70903,MAIRANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+20607,MAPIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,1,3,4
+10501,MONTEAGUDO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,1,0,0,0,0,1,6,7
+10401,PADILLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21305,PATACAMAYA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10103,POROMA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90102,PORVENIR,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,5,9,7,16,10,35,1,14,1,4,0,0,0,0,24,78,102
+21201,PUCARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+90201,PUERTO RICO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31401,PUNATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+30901,QUILLACOLLO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,3
+70503,ROBORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+80304,RURRENABAQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,1,0,0,3,2,0,0,0,0,0,0,3,3,6
+31001,SACABA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,1,5,6
+50701,SACACA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71302,SAIPINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+80602,SAN ANDRES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21502,SAN BUENA VENTURA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+70402,SAN CARLOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80102,SAN JAVIER(BNI),"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+90302,SAN LORENZO(PND),"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+60501,SAN LORENZO(TJA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,4,4
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+50902,SAN PEDRO DE QUEMES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,12,1,15,2,20,0,6,1,6,0,0,4,59,63
+30902,SIPE SIPE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+31101,TAPACARI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2,3
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,2,0,14,0,9,0,23,0,0,0,0,0,48,48
+10202,TARVITA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50102,TINGUIPAYA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,2,3
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10402,TOMINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50502,TORO TORO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,3
+31201,TOTORA(CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+50801,TUPIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50201,UNCIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+51201,UYUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,1,3,4
+10704,VILLA CHARCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90502,VILLA NUEVA (LOMA ALTA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10801,VILLA SERRANO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30904,VINTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,2,2,4
+20306,WALDO BALLIVIAN,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70201,WARNES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21103,YANACACHI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+51302,ACACIO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30201,AIQUILE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,0,0,1,0,1,2,5,7
+30501,ARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50802,ATOCHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+90103,BOLPEBRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+10701,CAMARGO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+70706,CAMIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,10,0,0,0,0,0,0,1,10,11
+50202,CHAYANTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+30801,CLIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,2,0,0,0,4,2,6
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+31002,COLOMI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21004,COLQUIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+21402,CORIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10902,CULPINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,4,0,7,0,2,0,0,0,3,0,16,16
+90503,EUREKA (SANTOS MERCADO),"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40701,HUANUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+10703,INCAHUASI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,3,3,1,2,2,2,0,0,1,1,0,7,4,19,0,4,0,2,4,6,15,46,61
+50203,LLALLAGUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+11003,MACHARETI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70903,MAIRANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,0,0,0,0,7,7
+20607,MAPIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+10401,PADILLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,1,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0,2,3,5
+21305,PATACAMAYA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31203,POCONA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,2,3
+90102,PORVENIR,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,1,4,3,13,2,18,6,27,0,0,0,0,0,0,12,62,74
+21201,PUCARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,4,4
+90201,PUERTO RICO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+51101,PUNA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31401,PUNATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+30901,QUILLACOLLO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70503,ROBORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40801,SALINAS DE GARCI MENDOZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,1,4,5
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80602,SAN ANDRES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80501,SAN IGNACIO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+71201,SAN MATIAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,17,0,17,2,16,0,8,0,3,0,0,2,61,63
+70602,SANTA ROSA DEL SARA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+31101,TAPACARI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+30401,TARATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,1,0,1,0,7,0,4,0,1,0,0,0,14,14
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50502,TORO TORO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,1,3,4
+31201,TOTORA(CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+40402,TURCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51201,UYUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+20801,VIACHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10704,VILLA CHARCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,3,4
+60303,VILLA MONTES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70201,WARNES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21103,YANACACHI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70403,YAPACANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+50802,ATOCHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+10201,AZURDUY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+90103,BOLPEBRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51102,"CAIZA ""D""","violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21304,CALAMARCA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10701,CAMARGO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+10901,CAMATAQUI (C. VILLA ABECIA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,1,4,5
+70702,CHARAGUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51103,CKOCHAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30801,CLIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,2,3,5
+90101,COBIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,6,6
+31002,COLOMI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71301,COMARAPA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71101,CONCEPCION,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21402,CORIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,2,0,1,0,0,0,0,1,2,0,5,0,11,1,3,0,2,2,0,4,26,30
+71503,EL PUENTE(STC),"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60601,ENTRE RIOS TRJ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20602,GUANAY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+40701,HUANUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+20204,HUARINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10703,INCAHUASI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70104,LA GUARDIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,2,1,2,0,0,0,0,0,0,1,0,4,6,15,0,5,3,3,5,4,18,33,51
+20901,LURIBAY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+70903,MAIRANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,3
+20607,MAPIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+70103,PORONGO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90102,PORVENIR,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,1,1,0,1,1,7,0,2,0,0,0,0,0,0,2,11,13
+10302,PRESTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21201,PUCARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,3,3
+90301,PUERTO GONZALO MORENO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31401,PUNATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+30901,QUILLACOLLO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70503,ROBORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+80304,RURRENABAQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,3,0,0,0,0,0,0,2,3,5
+31001,SACABA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,6,6
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,3,4
+21502,SAN BUENA VENTURA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+70501,SAN JOSE DE CHIQUITOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71104,SAN JULIAN,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71201,SAN MATIAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,3
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,1,8,1,11,0,9,0,6,0,5,0,0,2,39,41
+70602,SANTA ROSA DEL SARA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10403,SOPACHUY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,4,4
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,7,0,5,0,0,0,20,20
+10202,TARVITA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,1,3,4
+50801,TUPIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,7,2,6,4,0,0,0,0,0,0,0,0,13,6,19
+50201,UNCIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+51201,UYUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10704,VILLA CHARCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,1,0,4,1,1,2,11,13
+60303,VILLA MONTES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,2,2,4
+10801,VILLA SERRANO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+51501,VILLAZON,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60301,YACUIBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10102,YOTALA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10404,ALCALA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+51102,"CAIZA ""D""","violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0,4,4
+10701,CAMARGO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,11,0,0,0,0,1,1,1,13,14
+21803,CHACARILLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+31204,CHIMORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,3
+50204,CHUQUIHUTA AYLLU JUCUMANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51103,CKOCHAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+30303,COCAPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,1,0,0,0,0,1,2,0,6,0,0,1,0,0,1,2,10,12
+50901,"COLCHA ""K""","violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,1,0,2,1,7,8
+70603,COLPA BELGICA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21004,COLQUIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71101,CONCEPCION,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10902,CULPINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,1,0,0,0,0,0,0,0,0,1,1,4,3,16,2,1,0,2,0,1,7,25,32
+60601,ENTRE RIOS TRJ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20602,GUANAY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+20204,HUARINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10703,INCAHUASI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+21001,INQUISIVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,4,1,0,0,1,1,2,0,1,1,0,2,3,14,2,3,1,2,4,8,18,32,50
+10903,LAS CARRERAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51401,LLICA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,3,4
+20607,MAPIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+31301,MIZQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20402,MOCOMOCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,1,0,0,0,2,0,2,0,0,0,0,0,0,0,5,5
+10401,PADILLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21104,PALOS BLANCOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21305,PATACAMAYA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31203,POCONA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+51203,PORCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90102,PORVENIR,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,1,0,0,1,0,9,0,11,2,25,2,0,0,0,1,1,6,47,53
+21201,PUCARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+71401,PUERTO SUAREZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31401,PUNATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50402,RAVELO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70503,ROBORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31001,SACABA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,0,0,1,1,5,6
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+80501,SAN IGNACIO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+71104,SAN JULIAN,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,2,3
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,5,5
+71201,SAN MATIAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,13,0,14,1,15,0,5,0,4,0,0,1,51,52
+90303,SENA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,2,5,7
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,3,5,0,8,0,7,0,0,0,0,3,20,23
+10202,TARVITA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+50102,TINGUIPAYA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,0,0,2,2,4
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30802,TOCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10402,TOMINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+50502,TORO TORO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50801,TUPIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,4,6,1,7,0,0,0,0,0,0,0,0,5,13,18
+50201,UNCIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+51201,UYUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,5,5
+20801,VIACHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+10704,VILLA CHARCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,1,1,0,2,4,6
+10801,VILLA SERRANO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21103,YANACACHI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,6,6
+22002,ALTO BENI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30501,ARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,2,3
+50802,ATOCHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+20503,AUCAPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90104,BELLA FLOR,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50301,BETANZOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70703,CABEZAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51102,"CAIZA ""D""","violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70706,CAMIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,1,5,6
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,1,0,1,0,1,2,13,0,1,0,0,0,0,2,17,19
+70702,CHARAGUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,1,0,0,0,0,1,1,5,0,3,0,0,0,0,2,9,11
+90101,COBIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,6,6
+50901,"COLCHA ""K""","violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+70603,COLPA BELGICA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21306,COLQUENCHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10902,CULPINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,1,0,3,1,3,7,1,13,0,3,0,2,1,2,9,28,37
+70105,EL TORNO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+31206,ENTRE RIOS CBBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90203,FILADELFIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20602,GUANAY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+40701,HUANUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10703,INCAHUASI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,2,3
+21001,INQUISIVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,1,2,1,1,1,0,0,1,0,1,0,5,6,15,0,1,0,0,3,4,12,30,42
+10903,LAS CARRERAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+11003,MACHARETI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70903,MAIRANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,6,6
+31301,MIZQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+10501,MONTEAGUDO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,8,8
+21104,PALOS BLANCOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70902,PAMPA GRANDE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31203,POCONA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31202,POJO (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,2,0,8,6,17,0,15,0,0,0,1,0,0,6,43,49
+21201,PUCARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,4,4
+90301,PUERTO GONZALO MORENO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90201,PUERTO RICO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70503,ROBORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,1,0,0,0,0,3,3,6
+80304,RURRENABAQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,3,3
+31001,SACABA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30404,SACABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40801,SALINAS DE GARCI MENDOZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,1,0,0,0,0,0,2,0,1,0,1,0,1,0,0,0,6,6
+21502,SAN BUENA VENTURA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,2,3
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,1,0,7,0,11,0,11,2,5,0,5,0,0,2,40,42
+90303,SENA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,1,0,0,0,1,1,5,6
+51402,TAHUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+10601,TARABUCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,1,0,1,0,3,0,8,0,6,0,4,0,0,0,23,23
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+31201,TOTORA(CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+50801,TUPIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,3,0,0,4,0,0,0,0,0,0,3,4,7
+51201,UYUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,3,4
+70801,VALLEGRANDE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,1,3,4
+10704,VILLA CHARCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,2,0,0,0,4,0,2,0,0,1,0,1,8,9
+60303,VILLA MONTES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+10801,VILLA SERRANO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30904,VINTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21103,YANACACHI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30201,AIQUILE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30402,ANZALDO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30501,ARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+50802,ATOCHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,0,0,7,7
+90104,BELLA FLOR,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+51102,"CAIZA ""D""","violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21304,CALAMARCA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10701,CAMARGO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,4,4
+70706,CAMIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,1,0,0,0,0,0,0,3,0,3,0,2,0,0,0,0,1,8,9
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,3,1,8,0,3,1,0,1,1,3,15,18
+31204,CHIMORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+51103,CKOCHAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90101,COBIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,4,1,5
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,3,0,0,0,0,0,8,8
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31002,COLOMI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70603,COLPA BELGICA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,1,0,0,2,0,0,0,0,2,3,6,8,19,3,0,0,0,2,0,18,28,46
+60601,ENTRE RIOS TRJ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80402,EXALTACION,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20602,GUANAY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+80202,GUAYARAMERIN,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+10304,ICLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10703,INCAHUASI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20806,JESUS DE MACHACA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,3,0,1,0,1,0,2,0,0,1,0,3,1,24,0,1,0,1,6,5,14,35,49
+70701,LAGUNILLAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+11003,MACHARETI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70903,MAIRANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31301,MIZQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,2,3
+10501,MONTEAGUDO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,2,0,1,0,5,0,1,0,0,0,0,0,9,9
+10401,PADILLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70502,PAILON,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51203,PORCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+10103,POROMA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,3,0,8,0,17,0,23,0,0,0,0,0,1,0,52,52
+21201,PUCARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+71401,PUERTO SUAREZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,1,0,1,0,5,0,0,0,0,0,0,0,7,7
+31001,SACABA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,1,3,4
+50701,SACACA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+71104,SAN JULIAN,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,2
+60501,SAN LORENZO(TJA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71201,SAN MATIAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,10,0,13,1,12,1,6,0,1,0,0,2,42,44
+70602,SANTA ROSA DEL SARA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90303,SENA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,1,0,1,0,6,0,2,0,0,0,0,0,10,10
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,8,0,0,0,0,0,16,16
+20606,TIPUANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50502,TORO TORO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+31201,TOTORA(CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+50801,TUPIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,2,0,8,8
+51201,UYUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20801,VIACHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10704,VILLA CHARCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,4,0,1,0,0,2,8,10
+60303,VILLA MONTES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,1,1,1,0,0,4,0,1,0,1,0,0,2,7,9
+10801,VILLA SERRANO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,3
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,1,3,4
+60301,YACUIBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21103,YANACACHI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+51302,ACACIO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50802,ATOCHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,2,1,3
+31501,BOLIVAR,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70706,CAMIRI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,1,0,0,0,0,0,1,0,3,0,0,0,0,0,1,0,6,6
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,1,0,0,0,0,1,10,1,4,0,0,0,0,2,15,17
+50202,CHAYANTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31204,CHIMORE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+30801,CLIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,2,3
+90101,COBIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,1,0,0,1,4,5
+50901,"COLCHA ""K""","violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+21701,COPACABANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,1,0,0,3,0,10,0,5,0,0,0,2,1,20,21
+31206,ENTRE RIOS CBBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20405,ESCOMA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+10703,INCAHUASI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,4,4
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,1,2,0,0,0,0,0,0,0,2,0,0,6,22,0,2,0,2,7,9,14,39,53
+10903,LAS CARRERAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20901,LURIBAY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,3,4
+31301,MIZQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,4,0,4
+10501,MONTEAGUDO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+10401,PADILLA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,1,0,1,0,3,0,6,0,0,0,0,0,0,0,11,11
+21201,PUCARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,2,0,1,0,0,0,8,8
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31401,PUNATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+30901,QUILLACOLLO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31001,SACABA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,1,0,0,0,0,1,1,0,4,0,0,0,0,0,1,1,7,8
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,1,4,5
+70501,SAN JOSE DE CHIQUITOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,1,3,4
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,1,0,0,0,0,11,0,20,0,11,0,4,0,0,0,0,1,46,47
+70602,SANTA ROSA DEL SARA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,3
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,1,0,2,0,8,0,13,0,0,0,0,0,24,24
+10202,TARVITA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20608,TEOPONTE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50102,TINGUIPAYA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,2,1,4,5
+10402,TOMINA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50502,TORO TORO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31201,TOTORA(CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,3,3
+50801,TUPIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+50201,UNCIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51201,UYUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,1,3,4
+10704,VILLA CHARCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,1,0,0,1,5,6
+60303,VILLA MONTES,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21103,YANACACHI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,3,4
+41201,ANDAMARCA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+50802,ATOCHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,2,3
+51102,"CAIZA ""D""","violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10701,CAMARGO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,2,3,16,1,3,0,0,0,0,4,21,25
+71403,CARMEN RIVERO TORREZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70702,CHARAGUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+50202,CHAYANTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,0,0,0,0,0,8,8
+30801,CLIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,4,2,6
+90101,COBIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,3,3
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,1,0,0,0,0,0,0,0,2,0,0,0,5,0,1,0,0,0,3,0,12,12
+31002,COLOMI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21701,COPACABANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+20105,EL ALTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,2,0,0,0,2,2,0,8,1,14,0,1,0,1,0,0,5,26,31
+20405,ESCOMA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90203,FILADELFIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10502,HUACARETA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40701,HUANUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+10703,INCAHUASI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20101,LA PAZ,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,1,3,2,0,0,0,0,0,4,4,15,0,1,0,1,7,7,14,31,45
+20901,LURIBAY,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70903,MAIRANA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,3,0,3
+40101,ORURO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+21104,PALOS BLANCOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+40602,PAZÑA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31203,POCONA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+51203,PORCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,2,0,4,0,14,3,22,0,0,0,0,0,0,3,42,45
+10302,PRESTO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21201,PUCARANI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+90301,PUERTO GONZALO MORENO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+51101,PUNA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31401,PUNATA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70501,SAN JOSE DE CHIQUITOS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71201,SAN MATIAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,15,0,16,0,9,0,5,0,3,0,0,0,48,48
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+51402,TAHUA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,3,0,8,0,7,0,0,0,0,0,18,18
+20803,TIAWANACU,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,2,0,5,5
+50502,TORO TORO,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+50801,TUPIZA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,1,1,4,5
+50201,UNCIA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51201,UYUNI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,0,0,0,0,1,1,5,6
+20801,VIACHA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10704,VILLA CHARCAS,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,6,1,0,0,0,0,0,3,6,9
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21103,YANACACHI,"violencia, hechos de transito y accidentes",violencia en la familia,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2

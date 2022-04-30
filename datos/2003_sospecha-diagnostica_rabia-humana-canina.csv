@@ -1,0 +1,40 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 1 año,1 a 4 años,5 a 14 años,15 a 59 años,60 y más,TOTAL
+50601,COTAGAITA,sospecha diagnostica,rabia (humana/canina),2003-01-01,0.0,1.0,1.0,0.0,0.0,2.0
+50101,POTOSI,sospecha diagnostica,rabia (humana/canina),2003-01-01,0.0,0.0,1.0,1.0,0.0,2.0
+10101,SUCRE,sospecha diagnostica,rabia (humana/canina),2003-01-01,2.0,0.0,0.0,0.0,0.0,2.0
+50602,VITICHI,sospecha diagnostica,rabia (humana/canina),2003-01-01,0.0,1.0,0.0,1.0,0.0,2.0
+50601,COTAGAITA,sospecha diagnostica,rabia (humana/canina),2003-02-01,0.0,1.0,0.0,0.0,0.0,1.0
+50403,POCOATA,sospecha diagnostica,rabia (humana/canina),2003-02-01,0.0,0.0,1.0,0.0,0.0,1.0
+20101,LA PAZ,sospecha diagnostica,rabia (humana/canina),2003-04-01,2.0,0.0,0.0,0.0,0.0,2.0
+10101,SUCRE,sospecha diagnostica,rabia (humana/canina),2003-04-01,1.0,0.0,0.0,0.0,0.0,1.0
+10301,ZUDAÑEZ,sospecha diagnostica,rabia (humana/canina),2003-04-01,1.0,0.0,0.0,0.0,0.0,1.0
+20101,LA PAZ,sospecha diagnostica,rabia (humana/canina),2003-05-01,1.0,0.0,0.0,0.0,0.0,1.0
+21305,PATACAMAYA,sospecha diagnostica,rabia (humana/canina),2003-05-01,1.0,0.0,0.0,0.0,0.0,1.0
+10101,SUCRE,sospecha diagnostica,rabia (humana/canina),2003-05-01,1.0,0.0,0.0,0.0,0.0,1.0
+50301,BETANZOS,sospecha diagnostica,rabia (humana/canina),2003-06-01,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,sospecha diagnostica,rabia (humana/canina),2003-06-01,1.0,0.0,0.0,0.0,0.0,1.0
+10101,SUCRE,sospecha diagnostica,rabia (humana/canina),2003-06-01,0.0,0.0,0.0,1.0,0.0,1.0
+10601,TARABUCO,sospecha diagnostica,rabia (humana/canina),2003-06-01,2.0,0.0,0.0,0.0,0.0,2.0
+20801,VIACHA,sospecha diagnostica,rabia (humana/canina),2003-06-01,2.0,0.0,0.0,0.0,0.0,2.0
+20105,EL ALTO,sospecha diagnostica,rabia (humana/canina),2003-07-01,2.0,0.0,0.0,0.0,0.0,2.0
+10302,PRESTO,sospecha diagnostica,rabia (humana/canina),2003-07-01,1.0,0.0,0.0,0.0,0.0,1.0
+10101,SUCRE,sospecha diagnostica,rabia (humana/canina),2003-07-01,2.0,0.0,0.0,0.0,1.0,3.0
+10601,TARABUCO,sospecha diagnostica,rabia (humana/canina),2003-07-01,1.0,0.0,0.0,0.0,0.0,1.0
+10301,ZUDAÑEZ,sospecha diagnostica,rabia (humana/canina),2003-07-01,1.0,0.0,0.0,0.0,0.0,1.0
+20304,COMANCHE,sospecha diagnostica,rabia (humana/canina),2003-08-01,1.0,0.0,0.0,0.0,0.0,1.0
+20105,EL ALTO,sospecha diagnostica,rabia (humana/canina),2003-08-01,3.0,0.0,0.0,0.0,0.0,3.0
+10101,SUCRE,sospecha diagnostica,rabia (humana/canina),2003-08-01,1.0,0.0,0.0,0.0,0.0,1.0
+10402,TOMINA,sospecha diagnostica,rabia (humana/canina),2003-08-01,1.0,0.0,0.0,0.0,0.0,1.0
+20105,EL ALTO,sospecha diagnostica,rabia (humana/canina),2003-09-01,1.0,0.0,1.0,0.0,0.0,2.0
+10403,SOPACHUY,sospecha diagnostica,rabia (humana/canina),2003-09-01,2.0,0.0,0.0,0.0,0.0,2.0
+10101,SUCRE,sospecha diagnostica,rabia (humana/canina),2003-09-01,1.0,0.0,0.0,0.0,0.0,1.0
+20101,LA PAZ,sospecha diagnostica,rabia (humana/canina),2003-10-01,2.0,0.0,1.0,0.0,0.0,3.0
+10101,SUCRE,sospecha diagnostica,rabia (humana/canina),2003-10-01,3.0,0.0,0.0,1.0,0.0,4.0
+10202,TARVITA,sospecha diagnostica,rabia (humana/canina),2003-10-01,0.0,0.0,0.0,1.0,0.0,1.0
+10402,TOMINA,sospecha diagnostica,rabia (humana/canina),2003-10-01,1.0,0.0,0.0,0.0,0.0,1.0
+20105,EL ALTO,sospecha diagnostica,rabia (humana/canina),2003-11-01,2.0,0.0,0.0,0.0,0.0,2.0
+20101,LA PAZ,sospecha diagnostica,rabia (humana/canina),2003-11-01,1.0,0.0,0.0,0.0,0.0,1.0
+10302,PRESTO,sospecha diagnostica,rabia (humana/canina),2003-11-01,1.0,0.0,0.0,0.0,0.0,1.0
+10101,SUCRE,sospecha diagnostica,rabia (humana/canina),2003-11-01,1.0,0.0,0.0,0.0,0.0,1.0
+20101,LA PAZ,sospecha diagnostica,rabia (humana/canina),2003-12-01,2.0,0.0,0.0,0.0,0.0,2.0
+10101,SUCRE,sospecha diagnostica,rabia (humana/canina),2003-12-01,3.0,0.0,0.0,0.0,0.0,3.0

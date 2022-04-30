@@ -1,0 +1,587 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-meses-a-menor-de-1-ano_masculino,b-6-meses-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,2,2,0,1,0,2,1,1,2,4,2,4,2,1,9,15,24
+10701,CAMARGO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,6,12,0,8,2,4,14,12,22,36,58
+30905,COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,1,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,4,2,6
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,0,2,3,5
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+31206,ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+20405,ESCOMA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,1,4
+10304,ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,6,7
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,0,2,2,4
+71003,MINEROS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,3,4,3,9,12
+60201,PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,1,0,1,0,3,3,6
+31001,SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,1,6,2,0,4,6,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7,14,21
+30404,SACABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,2,0,1,4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5,10
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,3,0,4,2,6
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,1,3,4
+80401,SANTA ANA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,1,4,4,2,8,0,8,1,4,10,11,39,179,246,158,175,97,96,110,159,580,732,1312
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,3,4
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,1,2,7,2,5,1,9,3,3,8,25,33
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,3,0,0,2,1,2,2,1,2,11,12,7,10,4,7,3,1,30,38,68
+10202,TARVITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+30903,TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30803,TOLATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,1,0,2,2,0,5,6,11
+50801,TUPIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,1,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,1,6,7
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,1,0,0,0,0,0,0,0,3,4,1,1,1,2,1,0,7,7,14
+70201,WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,1,1,0,0,0,0,0,0,5,2,20,0,0,0,0,1,0,4,26,30
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,3,12,7,9,9,5,8,10,4,36,31,67
+21103,YANACACHI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,4,0,0,2,0,8,4,12
+10301,ZUDAÑEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-01-01,1,0,0,0,1,2,0,0,0,0,0,0,0,3,0,0,0,0,0,1,2,6,8
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50301,BETANZOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,1,0,9,8,1,5,3,7,15,15,29,35,64
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,3,1,4
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,3,3
+31206,ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+21102,IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,3,0,3,14,17
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,2,0,5,5
+70903,MAIRANA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+51002,MOJINETE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,2,3,4,7
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,1,4,3,5,7,12
+70803,MORO MORO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,1,1,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,5,5,10
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,1,0,0,0,0,0,1,2,1,0,1,0,0,1,0,3,4,7
+30901,QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,8,10,2,1,31,23,7,5,1,4,1,2,4,15,1,2,1,1,0,1,56,64,120
+70402,SAN CARLOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,2,2,0,2,18,2,18,1,5,37,33,58,322,399,187,321,184,215,153,236,922,1273,2195
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,3,4
+20601,SORATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,2,0,0,2,3,3,0,1,0,0,0,2,0,9,1,2,0,1,3,5,9,25,34
+31101,TAPACARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,1,1,2,8,1,6,0,9,1,0,5,24,29
+10202,TARVITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,1,5,6
+20606,TIPUANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30802,TOCO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,1,2,1,1,5,6,11
+50801,TUPIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,2,2,4
+60401,URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+70801,VALLEGRANDE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,4,5,1,2,1,0,1,1,7,8,15
+70201,WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,1,0,9,0,37,0,3,0,0,2,4,2,54,56
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,1,2,2,11,3,5,3,4,6,10,15,32,47
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,3,4
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,7,0,4,2,1,4,0,9,12,21
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,1,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,1,0,3,3,6
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,3,1,4,10,4,6,5,9,28,19,44,45,89
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,2,4
+20105,EL ALTO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+71503,EL PUENTE(STC),enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,3
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+31206,ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,4
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10304,ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+21102,IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,4,4
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,2,1,3
+51401,LLICA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20103,MECAPACA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,1,1,4,0,0,0,0,0,0,1,0,0,0,1,0,0,3,3,8,11
+71003,MINEROS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,1,0,0,0,0,1,3,0,1,0,0,0,2,1,7,8
+40101,ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,5,5
+60201,PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,2,2,4,6
+10401,PADILLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,1,0,4,0,2,0,0,0,1,2,0,0,2,0,0,0,0,2,10,12
+10103,POROMA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,6,1,0,0,2,0,0,0,0,0,0,0,0,1,0,1,8,3,11
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,2,1,0,5,5,10
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,1,1,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,4,6
+30901,QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+21002,QUIME,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,3,2,0,2,0,0,2,14,0,12,0,1,0,2,0,33,5,38
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71102,SAN JAVIER(STC),enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,2,3
+70303,SAN RAFAEL,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,2,5,1,1,23,6,27,11,12,48,44,91,569,713,412,503,298,324,226,351,1614,2053,3667
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,1,2,0,3,0,1,0,0,1,2,14,1,4,0,2,5,6,14,28,42
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,3,2,5,0,1,0,0,5,2,7,11,18
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,1,11,16,1,5,0,2,0,5,12,29,41
+51202,TOMAVE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,4,5
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,1,3,1,2,3,9,12
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+50801,TUPIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+60401,URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51201,UYUNI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70801,VALLEGRANDE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,2,3,3,8,11
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,3,0,2,1,12,4,0,0,0,1,0,0,0,0,0,0,0,0,0,2,17,8,25
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,3,2,1,1,4,7,11,18
+70201,WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,1,1,0,20,0,1,0,0,2,1,3,23,26
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,1,6,14,6,2,4,6,10,9,27,32,59
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-03-01,0,0,0,1,4,2,0,0,0,2,0,0,0,4,0,0,0,0,2,0,6,9,15
+71501,ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,3,0,2,0,1,0,10,10
+51102,"CAIZA ""D""",enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,1,1,1,1,0,0,2,1,1,0,1,0,1,0,0,1,7,4,11
+10701,CAMARGO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1,3,4
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,3,4,6,10
+21101,CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,1,0,0,0,0,0,0,2,0,0,1,1,1,0,0,0,0,3,3,6
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,4,3,6,6,35,21,3,7,0,1,0,3,6,15,4,10,8,5,26,23,92,94,186
+50901,"COLCHA ""K""",enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,1,3,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,4,4,8
+21401,COROICO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4,3,1,0,1,0,9,4,13
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,4,4
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,1,2,0,0,0,1,0,0,1,2,0,0,1,1,1,0,4,6,10
+21102,IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,4,4
+10903,LAS CARRERAS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,1,0,1,1,7,3,0,0,0,0,1,2,2,2,0,0,1,0,0,0,13,8,21
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,3,3
+71003,MINEROS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31301,MIZQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,3,3
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,2,1,0,1,0,3,3,3,1,2,1,1,1,0,0,0,1,4,9,15,24
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,1,0,0,0,5,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,8,3,11
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,3,2,3,11,12,15,20,35
+60201,PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2,3
+10401,PADILLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50403,POCOATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,3,2,4,6
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,1,3,0,0,0,0,0,0,2,1,1,1,2,0,0,0,6,5,11
+30901,QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+60501,SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,1,0,0,0,0,2,2,0,0,0,0,0,0,2,3,5
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,1,0,0,0,17,2,12,0,6,36,20,62,302,343,185,278,155,220,158,226,856,1167,2023
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,10,0,0,0,3,1,3,3,16,19
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,2,1,1,1,3,4,9,13
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,0,2,0,0,8,3,11
+60401,URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,2,3,0,1,6,9,15
+51501,VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+30904,VINTO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50602,VITICHI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,1,0,1,0,6,12,4,6,2,6,9,10,23,34,57
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,2,3
+10404,ALCALA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0,0,1,0,3,2,5
+30402,ANZALDO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,3,0,0,4,0,0,0,1,1,1,0,1,1,1,5,8,13
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,0,1,1,5,4,9
+50301,BETANZOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,3
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,1,1,1,5,4,9
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,5,0,0,0,0,0,1,1,2,0,1,0,0,0,0,1,9,10
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,1,0,0,0,0,0,0,0,1,2,7,8,6,6,8,3,16,14,39,33,72
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,2,1,0,0,1,1,3,1,3,1,0,2,1,6,10,16
+31405,CUCHUMUELA (V. G. VILLARROEL),enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,1,0,2,4,6
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,3,0,0,2,5,7
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,2,3,5
+31206,ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+40501,HUACHACALLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,1,0,0,0,2,2,0,0,0,1,0,2,0,0,0,0,0,2,2,7,5,12
+21102,IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,1,0,0,1,4,5
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,1,0,3,3,0,2,0,1,0,2,2,1,0,1,0,0,1,1,7,11,18
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,4,4,0,0,0,0,0,0,0,1,1,0,1,0,0,0,6,5,11
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,2,1,8,11,11,15,26
+40101,ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,4
+60201,PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,5
+10401,PADILLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2,3
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,1,0,0,0,0,0,1,0,0,1,0,1,2,2,1,0,0,0,0,4,5,9
+80703,PUERTO SILES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+30404,SACABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,2,1,0,3,5,8
+70402,SAN CARLOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,1,1,3,2,2,0,0,1,0,0,0,0,1,1,0,0,2,3,9,8,17
+60501,SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,1,3,4
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,2,3,7,11,7,124,59,115,39,40,42,56,76,349,232,581
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,3,0,0,0,0,0,0,0,0,2,1,8,1,1,0,0,1,2,6,13,19
+30401,TARATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,2,1,3
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,2,2,4
+30903,TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,5,2,6,5,19,16,1,1,1,0,0,0,0,1,0,0,0,0,3,0,35,25,60
+10402,TOMINA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,2,3
+50801,TUPIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,3,1,4
+60401,URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70801,VALLEGRANDE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,2,0,1,0,0,2,0,0,0,0,0,2,0,2,1,1,0,0,1,1,5,8,13
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,3,2,3,0,2,3,13,16
+51501,VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,1,3,0,1,2,8,10
+70201,WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,7,7
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,1,0,1,1,5,11,5,12,5,7,9,3,26,34,60
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+30501,ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+30601,ARQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+71501,ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,2,0,0,3,0,3,0,0,0,0,1,2,0,0,0,0,0,0,3,8,11
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,2,0,0,0,12,12
+51102,"CAIZA ""D""",enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,2,4,5,2,0,0,0,3,0,1,0,1,0,1,0,0,0,2,7,14,21
+50202,CHAYANTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,3,4,1,3,4,4,2,1,0,0,0,2,2,3,0,0,2,0,2,5,16,22,38
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,1,1,0,0,1,4,16,19,3,9,9,20,14,27,44,80,124
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,2,2,5,7
+70102,COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+31405,CUCHUMUELA (V. G. VILLARROEL),enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,3,2,5
+10902,CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,2,4
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,3,0,0,3,5,8
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,1,0,1,11,7,4,2,1,2,0,3,1,7,0,1,0,0,2,0,19,24,43
+31206,ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+21105,LA ASUNTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,1,0,0,1,0,0,1,0,0,0,0,1,1,4,0,1,0,1,0,0,3,8,11
+71003,MINEROS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,1,1,0,1,0,0,1,0,2,0,3,3,0,14,14,19,21,40
+40101,ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,3
+60201,PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,3,3
+10401,PADILLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,1,0,1,5,6
+70103,PORONGO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,2,1,3
+70804,POSTRER VALLE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,1,0,1,1,1,2,6,8
+70805,PUCARA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+20401,PUERTO ACOSTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,2,0,5,0,1,5,0,0,0,0,0,0,1,1,0,0,1,0,3,2,13,8,21
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,3
+30901,QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,2,2,4
+31403,SAN BENITO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,1,0,3,3,6
+60501,SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,1,0,3,0,0,0,0,0,0,0,5,5
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70303,SAN RAFAEL,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,25,12,4,2,0,0,2,2,0,3,3,2,108,80,76,45,55,66,59,61,332,273,605
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+31602,SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,1,0,0,1,3,3,13,2,2,1,1,2,4,9,24,33
+31101,TAPACARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,2,6,3,4,0,2,0,0,1,3,2,2,3,1,4,0,4,9,19,27,46
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,1,0,0,0,1,0,0,0,1,11,4,3,3,4,1,0,11,18,29
+30802,TOCO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,1,4,0,1,0,0,0,1,0,0,0,0,0,0,1,1,2,7,9
+10402,TOMINA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,1,0,1,3,2,0,0,1,1,0,0,0,3,1,0,1,0,3,0,9,8,17
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,2,0,2,1,1,0,1,0,0,1,6,2,8
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+50801,TUPIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,3,2,4,6
+70801,VALLEGRANDE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,3,0,3
+10704,VILLA CHARCAS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31402,VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,1,0,0,0,0,0,1,0,0,0,0,0,2,2,0,1,1,0,4,1,9,4,13
+30904,VINTO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,1,0,0,1,4,5
+50602,VITICHI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70201,WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,34,1,3,0,1,3,4,4,42,46
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-06-01,0,0,0,0,0,0,0,0,1,0,1,0,3,4,3,7,3,4,4,11,15,26,41
+30501,ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3
+80802,BAURES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,5,1,3,0,0,2,11,13
+51102,"CAIZA ""D""",enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,1,0,0,0,1,1,0,0,4,2,4,1,0,0,7,4,17,8,25
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,2,2,2,2,5,4,0,0,0,0,0,0,0,2,0,0,0,0,5,0,14,10,24
+21101,CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+30303,COCAPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,1,1,1,0,3,3,0,0,0,0,0,0,0,5,0,1,1,0,1,1,7,11,18
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,1,2,0,1,2,3,24,23,10,17,11,16,23,35,71,97,168
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,3,5,4,7,11
+70102,COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,2,2,1,0,5,4,9
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,1,6
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10304,ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,2,2,4
+21102,IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,2,3,5
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,4,5
+71003,MINEROS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2,0,2,2,4
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,3,0,0,1,0,9,4,12,18,23,25,48
+40101,ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,1,1,1,6,7
+60201,PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+70103,PORONGO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,3
+30901,QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+31403,SAN BENITO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,1,2,1,2,0,0,0,2,3,2,5,8,13
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,21,9,3,1,2,3,0,1,2,0,0,7,16,36,6,13,9,18,46,39,105,127,232
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+31602,SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,1,1,0,0,0,0,0,1,3,5,1,2,1,2,1,2,7,13,20
+30401,TARATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,4,2,6
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,6,1,4,0,2,2,2,4,14,18
+51202,TOMAVE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,1,0,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,3,3,6
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,1,0,0,0,0,4,4,8
+60401,URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2,1,3,4
+30502,VACAS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31402,VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,3,0,2,2,7,9
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,3,1,1,2,8,6,14
+51501,VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+70201,WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,2,0,14,0,2,0,0,2,3,2,21,23
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,1,5,7,3,5,4,5,2,8,14,26,40
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30501,ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,2,0,2,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,12
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,0,1,1,3,5,8
+10701,CAMARGO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30701,CAPINOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,1,2,0,0,1,1,0,0,2,1,2,1,0,0,2,2,8,7,15
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,3,3,6
+30801,CLIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,1,0,0,1,0,1,0,6,17,34,9,15,11,15,30,31,68,103,171
+30905,COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,2,3,3,5,8
+70102,COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10902,CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,2,0,0,0,4,2,6
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,2,1,3
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,2,2,6,4,1,3,1,1,0,5,5,3,3,1,3,4,1,23,22,45
+31206,ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2,3
+10304,ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,1,3
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,1,1,5,6
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,2,0,3,4,1,4,12,16
+71003,MINEROS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,1,2,6,5,0,1,4,4,7,7,18,19,37
+70803,MORO MORO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,4,1,2,0,1,1,1,0,0,2,1,0,0,1,0,2,9,7,16
+60201,PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+10401,PADILLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,5,1,2,0,0,0,2,2,9,11
+70805,PUCARA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,2,2,1,1,5,5,10
+30901,QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,1,3,4
+31001,SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31403,SAN BENITO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,2,1,3,0,1,1,1,2,2,4,9,13
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,2,0,3,1,6,5,11
+60501,SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1,1,3,4
+51001,SAN PABLO DE LIPEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,24,19,17,4,12,5,3,2,5,1,8,8,58,118,51,59,45,57,69,99,292,372,664
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,3,0,3
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,3,3,1,2,3,3,1,2,3,4,2,5,3,1,5,3,21,23,44
+30401,TARATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,1,0,1,1,11,7,5,5,1,1,0,1,1,6,0,2,1,2,6,5,27,30,57
+31601,TIRAQUE (CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,1,4,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,6,10
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,3,3
+31402,VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,2,1,2,0,1,8,2,1,0,0,0,2,0,2,1,0,2,0,2,3,12,17,29
+51501,VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1,3
+50602,VITICHI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+70201,WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,2,0,30,0,1,0,0,3,7,3,40,43
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,5,3,8,8,4,19,19,38
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,2,2,4
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,1,0,1,3,1,2,0,1,1,2,0,1,2,0,0,0,6,9,15
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,1,0,0,0,0,1,5,5,1,6,0,1,2,2,9,15,24
+50301,BETANZOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,4,5,2,2,2,0,0,4,6,1,4,3,3,3,2,2,23,20,43
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,1,5,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,16
+71403,CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3
+21101,CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,1,0,0,0,2,2,0,1,1,0,3,14,42,5,15,17,21,22,23,61,108,169
+21401,COROICO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,1,2,2,5,7
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,3,1,0,0,0,4,4,8
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,2,0,0,1,0,0,0,1,1,3,1,2,2,0,0,2,6,9,15
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,2,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,4,1,5
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10304,ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,3,1,1,0,1,0,0,0,1,0,0,0,0,1,6,7
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,2,2,2,8,10
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,1,2,15,17,18,22,40
+40101,ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60201,PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,0,2,0,0,3,6,9
+10302,PRESTO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,1,0,1,4,6,2,9,1,2,4,0,0,0,0,0,0,19,11,30
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0,1,1,2,1,0,4,10,14
+31001,SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,3
+80602,SAN ANDRES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,2,0,3,0,1,0,1,1,0,2,1,0,1,1,0,1,0,0,0,5,9,14
+71105,SAN ANTONIO DE LOMERIO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,2,0,2,5,7
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,3
+51001,SAN PABLO DE LIPEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70303,SAN RAFAEL,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,14,16,3,10,2,4,1,2,1,0,1,4,33,81,32,38,27,50,36,52,150,257,407
+31602,SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,2,0,3,2,7,9
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,2,1,2,1,5,9,14
+30903,TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,1,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,4,2,1,3,1,3,0,0,6,8,14
+50801,TUPIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31402,VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,2,1,3
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+51501,VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,4,1,5
+70201,WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,1,3,0,37,0,2,0,1,1,2,2,45,47
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,1,1,0,1,2,3,4,4,9,3,4,5,11,17,31,48
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+10404,ALCALA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30402,ANZALDO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50802,ATOCHA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,1,2,3,3,4,0,7,5,4,3,7,1,11,19,9,11,0,1,0,0,46,45,91
+30301,AYOPAYA (V. DE INDEPENDENCIA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,2,0,3,0,4,8,10,6,2,0,0,0,0,1,0,3,1,0,3,2,25,20,45
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,6,0,0,0,0,1,10,11
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,2,7,3,6,6,10,1,1,0,0,1,0,0,6,0,0,0,0,5,2,18,32,50
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,1,3
+60302,CARAPARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,0,0,0,0,1,4,5
+21101,CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+51103,CKOCHAS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,2,1,3
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,1,0,2,1,0,0,1,11,41,9,10,6,14,33,36,60,105,165
+31002,COLOMI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21402,CORIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,1,0,3,1,2,2,1,1,1,0,0,1,0,3,8,8,16
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,4,0,0,0,5,3,8
+31206,ENTRE RIOS CBBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,6,2,8,3,11
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,1,1,3,2,0,0,1,0,0,0,0,0,0,0,0,0,2,1,7,4,11
+10304,ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,1,1,0,3,0,1,0,1,0,0,0,0,0,0,1,6,7
+21102,IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,1,0,2,5,7
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,1,1,3,0,5,4,9
+50203,LLALLAGUA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,3
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70903,MAIRANA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,1,0,1,0,0,1,1,2,0,0,0,0,0,0,3,3,6
+31301,MIZQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,3,0,8,9,11,14,25
+60201,PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,1,0,0,2,5,7
+10103,POROMA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,1,3,4,0,0,0,0,0,1,0,1,0,0,1,0,0,1,4,8,12
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,1,0,3,1,4
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31001,SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,2,2,0,0,0,1,0,2,0,2,1,1,2,0,0,0,5,8,13
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+60501,SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,2,0,5,5,0,0,0,1,0,0,0,2,0,0,0,0,1,3,8,11,19
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70303,SAN RAFAEL,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,12,7,3,3,1,8,0,1,2,0,5,12,33,71,31,51,35,57,51,77,173,287,460
+31602,SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2,2,4
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,2,0,7,4,0,1,1,0,0,0,1,4,3,3,0,2,6,4,20,18,38
+30401,TARATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,1,0,1,4,8,3,1,1,4,1,4,9,19,28
+30903,TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,1,2,2,18,13,0,0,0,0,0,0,0,2,0,0,0,0,0,0,20,18,38
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,1,5,8,4,1,1,0,0,0,10,10,20
+60401,URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+51201,UYUNI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,3,4
+31402,VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,3,0,3
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+51501,VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+30904,VINTO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,1,0,1,4,5
+70201,WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,1,0,0,0,0,0,0,0,4,0,20,0,2,2,0,4,5,6,32,38
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,2,12,6,4,6,5,8,18,21,39,43,82
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,1,0,0,2,6,8
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,4
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,1,0,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,8
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+21101,CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51103,CKOCHAS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,1,0,3,1,2,0,0,0,0,0,0,1,2,0,0,0,0,1,2,3,10,13
+30801,CLIZA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,1,1,2,5,0,1,1,4,12,30,5,8,8,8,41,39,70,96,166
+30905,COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,3,1,5,4,15,21,8,3,1,1,0,2,0,5,0,0,1,0,3,4,36,41,77
+21401,COROICO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2,3
+70102,COTOCA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,3,1,4
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80402,EXALTACION,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,3,4
+10304,ICLA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,1,3,0,6,3,9
+70903,MAIRANA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,3,3
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,3,4
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,2,2,2,3,8,11
+30203,OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+40101,ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+60201,PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,1,4,5
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,2,1,3
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,4,0,4
+31401,PUNATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,2,1,5,1,6
+31001,SACABA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+30404,SACABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,3,0,4,3,1,2,0,0,0,1,0,0,2,0,0,0,0,0,0,6,10,16
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,2,3,0,3,6,9
+60501,SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,9,6,7,7,0,5,0,4,0,1,5,3,47,76,37,48,34,49,45,70,184,269,453
+70602,SANTA ROSA DEL SARA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30702,SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,0,1,3,4
+31602,SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3,4
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,1,0,1,4,2,0,0,0,0,0,1,3,3,1,0,2,4,1,2,11,14,25
+30401,TARATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,2,0,2,0,1,3,6,9
+50102,TINGUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,4
+30803,TOLATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10402,TOMINA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,2,0,0,0,1,3,8,11
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+31402,VILLA RIVERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,3,2,5,7
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,1,3,4
+51501,VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,3,1,4
+70201,WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,5,0,19,0,1,1,0,6,3,7,28,35
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,0,0,0,1,0,0,1,1,2,11,3,6,6,6,10,5,22,30,52
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-11-01,0,0,0,0,3,4,0,2,0,1,0,0,1,2,0,2,0,0,0,0,4,11,15
+30501,ARANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50802,ATOCHA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,1,0,2,1,5,5,0,0,0,0,0,0,2,7,0,0,1,1,1,1,12,15,27
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,0,1,1,0,0,4,4,8
+10701,CAMARGO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,5,5
+51103,CKOCHAS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,1,0,0,0,0,4,0,2,1,0,0,0,0,6,2,8
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,1,6,1,5,2,6,15,7,5,4,15,48,38,76,77,153
+40902,COIPASA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,2,4
+30905,COLCAPIRHUA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21402,CORIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+50601,COTAGAITA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,0,0,2,2,4
+10902,CULPINA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,3,4,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,6,10
+20105,EL ALTO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+60502,EL PUENTE(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,1,0,0,3,0,1,4,1,0,0,0,5,5,10
+71004,FERNANDEZ ALONSO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21102,IRUPANA (VILLA DE LANZA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0,2,3,3,6
+31301,MIZQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,1,0,3,2,1,0,0,1,0,0,5,3,8
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,1,4,6,8,8,16
+30203,OMEREQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,1,3
+40101,ORURO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60201,PADCAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,1,0,0,0,0,5,1,6
+30202,PASORAPA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+10103,POROMA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,1,4,0,0,0,0,0,0,0,2,0,1,0,0,0,2,1,9,10
+50101,POTOSI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,1,1,1,3,7,5,12
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,0,0,1,0,1,3,5,8
+30901,QUILLACOLLO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+70901,SAMAIPATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,1,0,0,0,5,5
+51003,SAN ANTONIO DE ESMORUCO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,3,2,4,5,9
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,2,3,0,5,4,9
+71104,SAN JULIAN,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,1,0,0,0,0,0,1,0,2,1,0,0,2,0,0,1,6,7
+60501,SAN LORENZO(TJA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,2,1,5,3,8
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,9,8,6,4,2,2,0,5,2,6,1,11,37,73,29,45,29,46,46,74,161,274,435
+30702,SANTIVAÑES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,2,1,5,6
+31602,SHINAOTA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10101,SUCRE,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,2,2,1,1,6,4,10
+31101,TAPACARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,4
+30401,TARATA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60101,TARIJA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,1,0,1,0,8,9,3,4,4,5,4,2,21,20,41
+30903,TIQUIPAYA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31201,TOTORA(CBBA),enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,7,1,3,0,1,4,5,8,16,24
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,1,0,0,0,1,1,0,2,0,1,1,3,1,1,0,0,0,0,4,8,12
+60401,URIONDO (A. CONCEPCION),enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1,4,5
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,0,1,1,1,5,6
+51501,VILLAZON,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2,3
+70201,WARNES,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,16,0,1,0,1,9,9,9,29,38
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,1,1,0,4,5,8,0,4,2,3,6,20,14,34
+70403,YAPACANI,enfermedades transmitidas por vectores (etv),chagas agudo,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,1,0,2,4,6

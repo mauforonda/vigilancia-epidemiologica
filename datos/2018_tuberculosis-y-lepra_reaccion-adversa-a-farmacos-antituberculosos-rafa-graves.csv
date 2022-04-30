@@ -1,0 +1,30 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+10101,SUCRE,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20105,EL ALTO,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10101,SUCRE,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80101,TRINIDAD,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+30601,ARQUE,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71201,SAN MATIAS,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-04-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30601,ARQUE,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30904,VINTO,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31204,CHIMORE,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20101,LA PAZ,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10103,POROMA,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+40101,ORURO,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60303,VILLA MONTES,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71401,PUERTO SUAREZ,tuberculosis y lepra,reaccion  adversa a farmacos antituberculosos rafa (graves),2018-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2

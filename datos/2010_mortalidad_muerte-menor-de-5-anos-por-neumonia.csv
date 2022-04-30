@@ -1,0 +1,51 @@
+codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+20101,LA PAZ,mortalidad,muerte menor de 5 anos por neumonia,2010-01-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+80201,RIBERALTA,mortalidad,muerte menor de 5 anos por neumonia,2010-01-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 5 anos por neumonia,2010-01-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+60303,VILLA MONTES,mortalidad,muerte menor de 5 anos por neumonia,2010-01-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+30101,COCHABAMBA,mortalidad,muerte menor de 5 anos por neumonia,2010-02-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+80202,GUAYARAMERIN,mortalidad,muerte menor de 5 anos por neumonia,2010-02-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 5 anos por neumonia,2010-02-01,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+70903,MAIRANA,mortalidad,muerte menor de 5 anos por neumonia,2010-03-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+80201,RIBERALTA,mortalidad,muerte menor de 5 anos por neumonia,2010-03-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 5 anos por neumonia,2010-03-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 5 anos por neumonia,2010-03-01,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+60101,TARIJA,mortalidad,muerte menor de 5 anos por neumonia,2010-03-01,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+60303,VILLA MONTES,mortalidad,muerte menor de 5 anos por neumonia,2010-03-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+31204,CHIMORE,mortalidad,muerte menor de 5 anos por neumonia,2010-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+60601,ENTRE RIOS TRJ,mortalidad,muerte menor de 5 anos por neumonia,2010-04-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+40101,ORURO,mortalidad,muerte menor de 5 anos por neumonia,2010-04-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+21802,PAPEL PAMPA,mortalidad,muerte menor de 5 anos por neumonia,2010-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+10302,PRESTO,mortalidad,muerte menor de 5 anos por neumonia,2010-04-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70402,SAN CARLOS,mortalidad,muerte menor de 5 anos por neumonia,2010-04-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 5 anos por neumonia,2010-04-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+51501,VILLAZON,mortalidad,muerte menor de 5 anos por neumonia,2010-04-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,mortalidad,muerte menor de 5 anos por neumonia,2010-05-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71102,SAN JAVIER(STC),mortalidad,muerte menor de 5 anos por neumonia,2010-05-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+21301,SICA SICA (VILLA AROMA),mortalidad,muerte menor de 5 anos por neumonia,2010-05-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,mortalidad,muerte menor de 5 anos por neumonia,2010-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,mortalidad,muerte menor de 5 anos por neumonia,2010-06-01,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+80201,RIBERALTA,mortalidad,muerte menor de 5 anos por neumonia,2010-06-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31001,SACABA,mortalidad,muerte menor de 5 anos por neumonia,2010-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50303,TACOBAMBA,mortalidad,muerte menor de 5 anos por neumonia,2010-06-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30301,AYOPAYA (V. DE INDEPENDENCIA),mortalidad,muerte menor de 5 anos por neumonia,2010-07-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+30101,COCHABAMBA,mortalidad,muerte menor de 5 anos por neumonia,2010-07-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,mortalidad,muerte menor de 5 anos por neumonia,2010-07-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+80201,RIBERALTA,mortalidad,muerte menor de 5 anos por neumonia,2010-07-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 5 anos por neumonia,2010-07-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10101,SUCRE,mortalidad,muerte menor de 5 anos por neumonia,2010-07-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10601,TARABUCO,mortalidad,muerte menor de 5 anos por neumonia,2010-07-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+30201,AIQUILE,mortalidad,muerte menor de 5 anos por neumonia,2010-08-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,mortalidad,muerte menor de 5 anos por neumonia,2010-08-01,0.0,1.0,2.0,0.0,2.0,1.0,3.0
+80304,RURRENABAQUE,mortalidad,muerte menor de 5 anos por neumonia,2010-08-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+60501,SAN LORENZO(TJA),mortalidad,muerte menor de 5 anos por neumonia,2010-10-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 5 anos por neumonia,2010-10-01,2.0,2.0,0.0,0.0,2.0,2.0,4.0
+70703,CABEZAS,mortalidad,muerte menor de 5 anos por neumonia,2010-11-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+40401,CURAHUARA DE CARANGAS,mortalidad,muerte menor de 5 anos por neumonia,2010-11-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+60201,PADCAYA,mortalidad,muerte menor de 5 anos por neumonia,2010-11-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+10101,SUCRE,mortalidad,muerte menor de 5 anos por neumonia,2010-11-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31002,COLOMI,mortalidad,muerte menor de 5 anos por neumonia,2010-12-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20101,LA PAZ,mortalidad,muerte menor de 5 anos por neumonia,2010-12-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+40101,ORURO,mortalidad,muerte menor de 5 anos por neumonia,2010-12-01,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+80304,RURRENABAQUE,mortalidad,muerte menor de 5 anos por neumonia,2010-12-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 5 anos por neumonia,2010-12-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0

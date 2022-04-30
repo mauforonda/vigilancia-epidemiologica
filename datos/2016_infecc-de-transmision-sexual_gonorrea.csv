@@ -1,0 +1,566 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+20701,APOLO,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21203,BATALLAS,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40102,CARACOLLO,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,3,3
+90101,COBIJA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,1,4,5
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,3,2,6,3,1,2,0,0,0,0,10,7,17
+30905,COLCAPIRHUA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50401,COLQUECHACA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,1,0,6,0,6
+70105,EL TORNO,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+21601,GRAL. J.J. PEREZ (CHARAZANI),infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,1,0,0,0,0,3,2,5
+21202,LAJA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+10903,LAS CARRERAS,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+20901,LURIBAY,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20702,PELECHUCO,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31203,POCONA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,5,1,0,0,0,0,0,0,6,1,7
+21201,PUCARANI,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+90201,PUERTO RICO,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+31401,PUNATA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,1,4,1,5
+50402,RAVELO,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,5,5
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,5,1,6
+50701,SACACA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80102,SAN JAVIER(BNI),infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50902,SAN PEDRO DE QUEMES,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,4,2,12,9,0,3,0,2,0,1,16,17,33
+70602,SANTA ROSA DEL SARA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+20601,SORATA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,4,2,6
+60101,TARIJA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,2,0,1,1,0,1,2,0,1,0,0,0,0,2,6,8
+30803,TOLATA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10402,TOMINA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+80101,TRINIDAD,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,1,5,6
+30904,VINTO,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+21203,BATALLAS,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+60202,BERMEJO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50301,BETANZOS,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10701,CAMARGO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,1,3,4,0,0,0,1,0,0,4,6,10
+21004,COLQUIRI,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21401,COROICO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71106,CUATRO CAÑADAS,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,1,0,0,0,0,0,0,2,2,1,0,2,0,0,0,5,3,8
+70105,EL TORNO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,2,5,7
+80202,GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80803,HUARACAJE,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+21001,INQUISIVI,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,3,2,5
+21202,LAJA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50203,LLALLAGUA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10501,MONTEAGUDO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+71001,MONTERO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,2,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,4,2,6
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+20102,PALCA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+20702,PELECHUCO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+90301,PUERTO GONZALO MORENO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+50402,RAVELO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+40901,SABAYA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+70402,SAN CARLOS,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,2,0,0,0,0,2,5,8,13,0,6,0,4,0,0,10,30,40
+31602,SHINAOTA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+10403,SOPACHUY,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,3,4
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,2,2,4
+31101,TAPACARI,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+10202,TARVITA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+10402,TOMINA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71502,URUBICHA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31003,VILLA TUNARI,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+11001,VILLA VACA GUZMAN (MUYUPAMPA),infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20903,YACO,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+20701,APOLO,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80802,BAURES,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,3
+31501,BOLIVAR,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,4,1,5,0,0,0,1,0,0,0,10,1,11
+30905,COLCAPIRHUA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+50901,"COLCHA ""K""",infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10902,CULPINA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,1,3,10,1,0,3,0,1,1,9,12,21
+70105,EL TORNO,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+20802,GUAQUI,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10502,HUACARETA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+20206,HUATAJATA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,6,1,7
+21202,LAJA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80601,LORETO,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,2,2,4
+70903,MAIRANA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+71001,MONTERO,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,1,0,1,2,3,3,2,1,1,0,0,0,0,6,8,14
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,2,2,4
+10401,PADILLA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+20102,PALCA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+21104,PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,1,1,0,0,4,8,0,1,0,0,4,0,9,10,19
+90301,PUERTO GONZALO MORENO,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21002,QUIME,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70904,QUIRUSILLAS,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50402,RAVELO,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80301,REYES,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+70503,ROBORE,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,3,1,4
+80602,SAN ANDRES,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,4,2,10,5,1,2,0,0,0,0,15,9,24
+20902,SAPAHAQUI,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20601,SORATA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+30602,TACOPAYA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31101,TAPACARI,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+60101,TARIJA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,1,4,5
+80101,TRINIDAD,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+50801,TUPIZA,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+60401,URIONDO (A. CONCEPCION),infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+31003,VILLA TUNARI,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30904,VINTO,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70201,WARNES,infecc. de transmision sexual,gonorrea,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-03-01,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,1,3
+60202,BERMEJO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10701,CAMARGO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70706,CAMIRI,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30701,CAPINOTA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+22001,CARANAVI,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20203,CHUA COCANI,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+51103,CKOCHAS,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,1,8,8,2,3,0,1,0,0,11,13,24
+40902,COIPASA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50901,"COLCHA ""K""",infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,1,1,5,6
+70105,EL TORNO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,4,1,5
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20806,JESUS DE MACHACA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,1,4,7,1,2,2,1,0,0,8,11,19
+51401,LLICA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,4,0,0,0,1,0,2,0,1,0,0,0,0,1,1,0,9,1,10
+70803,MORO MORO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20102,PALCA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+21104,PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,4
+31202,POJO (CBBA),infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+90201,PUERTO RICO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50402,RAVELO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,5,0,5
+80602,SAN ANDRES,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,5,5
+70302,SAN MIGUEL DE VELASCO,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,1,0,0,1,0,3,1,5,7,3,0,0,0,0,0,12,9,21
+31602,SHINAOTA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,3,1,4
+30602,TACOPAYA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60101,TARIJA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,1,3,0,0,0,0,0,0,1,4,5
+30903,TIQUIPAYA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,5
+60401,URIONDO (A. CONCEPCION),infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,3,1,1,0,0,0,1,0,5,2,7
+20201,ACHACACHI,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90101,COBIJA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,4,6,1,0,1,0,0,0,0,7,6,13
+10902,CULPINA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,5,2,11,2,0,0,0,0,0,5,16,21
+70105,EL TORNO,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+40501,HUACHACALLA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20806,JESUS DE MACHACA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+20901,LURIBAY,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31301,MIZQUE,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71001,MONTERO,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,1,3,1,3,0,2,2,0,0,2,4,0,0,0,0,0,0,10,8,18
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+20102,PALCA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+10103,POROMA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,5,1,6
+10302,PRESTO,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50402,RAVELO,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+80201,RIBERALTA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+80501,SAN IGNACIO,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,3,0,8,0,2,0,0,0,1,0,14,0,14
+21301,SICA SICA (VILLA AROMA),infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20601,SORATA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,8,3,1,0,0,0,0,0,9,4,13
+30602,TACOPAYA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10402,TOMINA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,1,0,1,0,0,2,5,7
+71502,URUBICHA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+51501,VILLAZON,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,3,1,4
+20201,ACHACACHI,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30403,ARBIETO,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80802,BAURES,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10701,CAMARGO,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+30701,CAPINOTA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,10,10
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,2,0,4,2,0,0,0,1,0,0,6,3,9
+70704,CUEVO,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,3,9,1,2,0,0,0,0,5,11,16
+70105,EL TORNO,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20602,GUANAY,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80803,HUARACAJE,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,1,8,9,0,0,0,0,0,0,9,10,19
+21202,LAJA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+50203,LLALLAGUA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71003,MINEROS,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+31301,MIZQUE,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,2,0,0,0,5,5
+10303,MOJOCOYA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,1,0,0,0,0,0,3,6,2,4,0,4,0,0,0,0,6,14,20
+30203,OMEREQUE,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2
+40602,PAZÑA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,2,12,4,2,2,0,0,1,3,15,11,26
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+50402,RAVELO,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,2,1,3
+80602,SAN ANDRES,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,0,2,3,5
+50501,SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,2,3,0,1,0,0,0,0,3,4,7
+30902,SIPE SIPE,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40104,SORACACHI,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20601,SORATA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,0,0,0,0,0,3,3,6
+30602,TACOPAYA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+31101,TAPACARI,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+10402,TOMINA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,2,1,3
+50801,TUPIZA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+20801,VIACHA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60303,VILLA MONTES,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90502,VILLA NUEVA (LOMA ALTA),infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31003,VILLA TUNARI,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,0,0,0,0,0,4,1,5
+21103,YANACACHI,infecc. de transmision sexual,gonorrea,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31303,ALALAY,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+21304,CALAMARCA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+22001,CARANAVI,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,7,3,1,0,0,0,0,0,9,3,12
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,2,0,3,2,0,0,1,1,0,0,6,3,9
+60502,EL PUENTE(TJA),infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,0,4,1,5
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,3,1,1,6,4,10
+21202,LAJA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,5,5
+71003,MINEROS,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71001,MONTERO,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,1,0,0,1,3,1,0,0,1,0,0,0,5,2,7
+30302,MOROCHATA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+60201,PADCAYA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,1,4,0,7,14,2,5,0,0,1,2,14,22,36
+10302,PRESTO,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,3,1,4
+31401,PUNATA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50402,RAVELO,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+70901,SAMAIPATA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80602,SAN ANDRES,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,2,0,0,0,0,1,2,8,19,5,1,0,0,0,0,14,24,38
+20902,SAPAHAQUI,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20601,SORATA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,2,1,2,0,0,0,0,0,0,2,4,6
+60101,TARIJA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,2,0,0,0,0,2,4,6
+20608,TEOPONTE,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20803,TIAWANACU,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70201,WARNES,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+21103,YANACACHI,infecc. de transmision sexual,gonorrea,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+30601,ARQUE,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,7,2,2,0,0,0,0,0,9,2,11
+70706,CAMIRI,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+90101,COBIJA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+30303,COCAPATA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,11,2,1,0,0,0,0,0,13,2,15
+30905,COLCAPIRHUA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70704,CUEVO,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,2,5,2,0,0,1,1,1,0,8,5,13
+70105,EL TORNO,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+60601,ENTRE RIOS TRJ,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,10,10
+70104,LA GUARDIA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,2,0,0,0,0,3,9,6,0,2,1,1,1,0,13,12,25
+50203,LLALLAGUA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+11003,MACHARETI,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+71001,MONTERO,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,1,0,0,0,0,4,2,6
+30203,OMEREQUE,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+70103,PORONGO,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,5,0,5
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,7,2,12,7,2,1,2,2,1,8,24,20,44
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,1,3
+31401,PUNATA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+50402,RAVELO,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,4,1,2,0,2,0,0,0,0,1,8,9
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,6,0,6
+80501,SAN IGNACIO,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,14,5,1,2,2,0,1,0,0,0,2,7,20,27
+20902,SAPAHAQUI,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21301,SICA SICA (VILLA AROMA),infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,2,1,3,2,0,2,0,0,0,0,5,5,10
+20608,TEOPONTE,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+51202,TOMAVE,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+50801,TUPIZA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+60401,URIONDO (A. CONCEPCION),infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51201,UYUNI,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-08-01,0,0,0,0,0,0,0,0,0,0,2,1,2,2,0,0,0,0,0,0,4,3,7
+20201,ACHACACHI,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31303,ALALAY,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+71501,ASCENCION DE GUARAYOS,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,2,0,5,0,19,0,2,0,2,0,0,0,30,30
+20503,AUCAPATA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0,0,6,0,6
+70401,BUENA VISTA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,2,3
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,2,0,7,1,1,1,0,0,0,0,10,2,12
+30905,COLCAPIRHUA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71301,COMARAPA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+70102,COTOCA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,6,5,0,1,1,1,0,0,7,7,14
+10703,INCAHUASI,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+21105,LA ASUNTA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,2,3
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,1,0,0,0,0,0,0,1,7,1,0,0,1,0,0,0,9,2,11
+20607,MAPIRI,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,2,3
+70803,MORO MORO,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,2,3,8,6,3,2,2,0,0,0,15,11,26
+71402,PUERTO QUIJARRO,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+71401,PUERTO SUAREZ,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31401,PUNATA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21002,QUIME,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+50402,RAVELO,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,2,0,4,1,1,1,0,0,0,0,7,2,9
+50701,SACACA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+10702,SAN LUCAS,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+70303,SAN RAFAEL,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,2,1,4,5,0,3,0,0,1,0,7,9,16
+20902,SAPAHAQUI,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31602,SHINAOTA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-09-01,30,0,0,0,0,0,0,0,0,0,1,2,8,5,0,0,0,0,0,0,39,7,46
+60101,TARIJA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+20608,TEOPONTE,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,3,1,4
+20606,TIPUANI,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30903,TIQUIPAYA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50201,UNCIA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70201,WARNES,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+71501,ASCENCION DE GUARAYOS,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80802,BAURES,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+21304,CALAMARCA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20302,CAQUIAVIRI,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90101,COBIJA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,5,2,0,0,0,0,0,0,5,3,8
+30905,COLCAPIRHUA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70704,CUEVO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+70105,EL TORNO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71004,FERNANDEZ ALONSO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+90402,INGAVI (HUMAITA),infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+21102,IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21105,LA ASUNTA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,0,0,8,2,10
+50203,LLALLAGUA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80601,LORETO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1,0,0,0,0,0,4,2,6
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,5,0,5
+21104,PALOS BLANCOS,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,3,8,13,3,1,1,3,0,6,13,26,39
+90301,PUERTO GONZALO MORENO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,2,2,4
+71402,PUERTO QUIJARRO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,1,3,2,5
+80501,SAN IGNACIO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,4,8,1,2,0,0,0,0,1,11,6,17
+31602,SHINAOTA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21301,SICA SICA (VILLA AROMA),infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,4,0,4
+20601,SORATA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,3,4,1,0,0,0,0,0,0,5,4,9
+30602,TACOPAYA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+60101,TARIJA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50502,TORO TORO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50201,UNCIA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31402,VILLA RIVERO,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+50103,YOCALLA,infecc. de transmision sexual,gonorrea,2016-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+51302,ACACIO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+50301,BETANZOS,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10701,CAMARGO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+22001,CARANAVI,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,1,0,0,0,0,3,2,5
+90101,COBIJA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,3,2,5
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,4,2,14,7,2,0,1,0,2,0,23,9,32
+70102,COTOCA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,4,0,1,1,1,0,7,3,10
+60502,EL PUENTE(TJA),infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20405,ESCOMA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+80202,GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+10304,ICLA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21105,LA ASUNTA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,1,0,0,0,6,6
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,1,0,0,0,0,1,0,5,2,0,0,0,0,0,0,6,3,9
+50203,LLALLAGUA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+31301,MIZQUE,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10501,MONTEAGUDO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,2,2,2,1,0,0,0,0,0,0,4,3,7
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+60201,PADCAYA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10103,POROMA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,4,0,16,6,4,4,0,2,3,9,27,21,48
+21201,PUCARANI,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20403,PUERTO CARABUCO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50402,RAVELO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+70503,ROBORE,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,3,2,5
+70901,SAMAIPATA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,4,0,4
+10702,SAN LUCAS,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80702,SAN RAMON BENI,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,2,1,7,4,0,0,1,0,1,0,11,5,16
+90303,SENA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+10403,SOPACHUY,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,3,5,0,2,0,0,0,0,4,7,11
+30602,TACOPAYA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+60101,TARIJA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6,6
+30903,TIQUIPAYA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+20801,VIACHA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,14,0,1,0,0,0,0,0,16,16
+60303,VILLA MONTES,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,0,0,0,0,0,7,0,7
+21103,YANACACHI,infecc. de transmision sexual,gonorrea,2016-11-01,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,2,1,3
+10404,ALCALA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20701,APOLO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,3,0,3
+21003,CAJUATA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,3,4
+21101,CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30303,COCAPATA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,2,0,6,3,0,0,0,0,0,0,8,3,11
+31002,COLOMI,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70102,COTOCA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+20105,EL ALTO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,0,0,0,0,0,2,4,6
+60502,EL PUENTE(TJA),infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70105,EL TORNO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+80202,GUAYARAMERIN,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+20101,LA PAZ,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,0,6,1,7
+70903,MAIRANA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+10501,MONTEAGUDO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71001,MONTERO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,2,2,1,0,2,0,0,1,0,4,5,9
+40101,ORURO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,0,4
+50101,POTOSI,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,5,10,11,3,2,0,1,9,25,23,44,67
+10302,PRESTO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20403,PUERTO CARABUCO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90301,PUERTO GONZALO MORENO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+31401,PUNATA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+70503,ROBORE,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80304,RURRENABAQUE,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31001,SACABA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,3,1,2,0,1,0,0,0,0,0,6,1,7
+80501,SAN IGNACIO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,2,1,3
+71005,SAN PEDRO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,3,2,0,0,2,0,0,4,5,9
+90303,SENA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+31602,SHINAOTA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+30703,SICAYA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,7,8,0,2,0,0,0,0,7,10,17
+60101,TARIJA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,3
+50801,TUPIZA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+60303,VILLA MONTES,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+10801,VILLA SERRANO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+51501,VILLAZON,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+30904,VINTO,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,3,1,4
+21103,YANACACHI,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10301,ZUDAÑEZ,infecc. de transmision sexual,gonorrea,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1

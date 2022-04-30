@@ -1,0 +1,843 @@
+codigo_municipio,municipio,grupo,variable,mes,total-H,total-M,TOTAL-H1,TOTAL-M1,TOTAL
+20201,ACHACACHI,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+20202,ANCORAIMES,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+41201,ANDAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+30402,ANZALDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+51301,ARAMPAMPA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+20503,AUCAPATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+21303,AYO AYO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,4,0,4,0,4
+60202,BERMEJO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+50301,BETANZOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,9,0,9,0,9
+70401,BUENA VISTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+21304,CALAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,3,0,3,0,3
+30701,CAPINOTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+40102,CARACOLLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+50702,CARIPUYO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,5,0,5,0,5
+50302,CHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,9,0,9,0,9
+30101,COCHABAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+50901,"COLCHA ""K""",mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+31002,COLOMI,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+50601,COTAGAITA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+70102,COTOCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+10902,CULPINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+40401,CURAHUARA DE CARANGAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,3,0,3,0,3
+20804,DESAGUADERO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,5,0,5,0,5
+60502,EL PUENTE(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+70105,EL TORNO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,3,0,3,0,3
+41101,EUCALIPTUS,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+20602,GUANAY,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+70104,LA GUARDIA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,3,0,3,0,3
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+71003,MINEROS,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,7,0,7,0,7
+10303,MOJOCOYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+40101,ORURO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,3,0,3,0,3
+60201,PADCAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+31202,POJO (CBBA),mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+51203,PORCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+10302,PRESTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,5,0,5,0,5
+20401,PUERTO ACOSTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+90201,PUERTO RICO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+71401,PUERTO SUAREZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,4,0,4,0,4
+70501,SAN JOSE DE CHIQUITOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+10702,SAN LUCAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+70602,SANTA ROSA DEL SARA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+41401,SANTIAGO DE HUARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+20902,SAPAHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+21301,SICA SICA (VILLA AROMA),mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+10403,SOPACHUY,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,5,0,5,0,5
+20601,SORATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,4,0,4,0,4
+30602,TACOPAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,7,0,7,0,7
+31101,TAPACARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+60101,TARIJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,9,0,9,0,9
+41001,TOLEDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,3,0,3,0,3
+50801,TUPIZA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+40402,TURCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+51201,UYUNI,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,6,0,6,0,6
+30502,VACAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+70801,VALLEGRANDE,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+20801,VIACHA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,1,0,1,0,1
+10102,YOTALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,3,0,3,0,3
+60402,YUNCHARA,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,2,0,2,0,2
+10301,ZUDAÑEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-01-01,5,0,5,0,5
+20201,ACHACACHI,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,7,0,7,0,7
+10404,ALCALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+30402,ANZALDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+60202,BERMEJO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,3,0,3,0,3
+50301,BETANZOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,12,0,12,0,12
+30701,CAPINOTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+22001,CARANAVI,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+50302,CHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,4,0,4,0,4
+50901,"COLCHA ""K""",mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+21307,COLLANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,3,0,3,0,3
+31002,COLOMI,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,6,0,6,0,6
+71301,COMARAPA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+20605,COMBAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+40401,CURAHUARA DE CARANGAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+20804,DESAGUADERO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+60502,EL PUENTE(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+70105,EL TORNO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,5,0,5,0,5
+60601,ENTRE RIOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+10304,ICLA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+21001,INQUISIVI,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+70104,LA GUARDIA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,3,0,3,0,3
+20901,LURIBAY,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+71003,MINEROS,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,4,0,4,0,4
+20402,MOCOMOCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+10303,MOJOCOYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,3,0,3,0,3
+10501,MONTEAGUDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+40101,ORURO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,4,0,4,0,4
+60201,PADCAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+21305,PATACAMAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+40602,PAZÑA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+10302,PRESTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,4,0,4,0,4
+20403,PUERTO CARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,3,0,3,0,3
+31205,PUERTO VILLARROEL,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,3,0,3,0,3
+51101,PUNA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+20604,QUIABAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+30901,QUILLACOLLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+21002,QUIME,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+80201,RIBERALTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+40901,SABAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+30404,SACABAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+80302,SAN BORJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+51001,SAN PABLO DE LIPEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+21801,SAN PEDRO DE CURAHUARA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+21301,SICA SICA (VILLA AROMA),mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+30902,SIPE SIPE,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+10403,SOPACHUY,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+20601,SORATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,7,0,7,0,7
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+31101,TAPACARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+60101,TARIJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,7,0,7,0,7
+10202,TARVITA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+51202,TOMAVE,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+10402,TOMINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+50801,TUPIZA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,5,0,5,0,5
+30502,VACAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+60303,VILLA MONTES,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,4,0,4,0,4
+10801,VILLA SERRANO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+31003,VILLA TUNARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,1,0,1,0,1
+50602,VITICHI,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,9,0,9,0,9
+20903,YACO,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,2,0,2,0,2
+10102,YOTALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,3,0,3,0,3
+60402,YUNCHARA,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,4,0,4,0,4
+10301,ZUDAÑEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-02-01,5,0,5,0,5
+30402,ANZALDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+20701,APOLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,3,0,3,0,3
+50802,ATOCHA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+60202,BERMEJO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+50301,BETANZOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,9,0,9,0,9
+20302,CAQUIAVIRI,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+40201,CHALLAPATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+50302,CHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,7,0,7,0,7
+31002,COLOMI,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+50401,COLQUECHACA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+40301,CORQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+70704,CUEVO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+10902,CULPINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+40401,CURAHUARA DE CARANGAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+20804,DESAGUADERO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,9,0,9,0,9
+40103,EL CHORO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+60502,EL PUENTE(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+70105,EL TORNO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+41101,EUCALIPTUS,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+20602,GUANAY,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,4,0,4,0,4
+70104,LA GUARDIA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+20901,LURIBAY,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,6,0,6,0,6
+11003,MACHARETI,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+70903,MAIRANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+71003,MINEROS,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,4,0,4,0,4
+20402,MOCOMOCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+10303,MOJOCOYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+10501,MONTEAGUDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,5,0,5,0,5
+40101,ORURO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,8,0,8,0,8
+60201,PADCAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+10401,PADILLA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,4,0,4,0,4
+40602,PAZÑA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+31202,POJO (CBBA),mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+10103,POROMA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+70601,PORTACHUELO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,5,0,5,0,5
+10302,PRESTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+20401,PUERTO ACOSTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,3,0,3,0,3
+20403,PUERTO CARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+90301,PUERTO GONZALO MORENO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+71402,PUERTO QUIJARRO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+71401,PUERTO SUAREZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+51101,PUNA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+20604,QUIABAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+50402,RAVELO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+70503,ROBORE,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+80304,RURRENABAQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,5,0,5,0,5
+31001,SACABA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+50701,SACACA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+40801,SALINAS DE GARCI MENDOZA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+51601,SAN AGUSTIN,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+80302,SAN BORJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+71201,SAN MATIAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+70302,SAN MIGUEL DE VELASCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+51001,SAN PABLO DE LIPEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+20902,SAPAHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+21301,SICA SICA (VILLA AROMA),mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+30902,SIPE SIPE,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+10403,SOPACHUY,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,4,0,4,0,4
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,3,0,3,0,3
+30602,TACOPAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+31101,TAPACARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+60101,TARIJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,4,0,4,0,4
+50102,TINGUIPAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+41001,TOLEDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+10402,TOMINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+50801,TUPIZA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+40402,TURCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+60401,URIONDO (A. CONCEPCION),mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+51201,UYUNI,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,11,0,11,0,11
+30502,VACAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,4,0,4,0,4
+31302,VILA VILA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+60303,VILLA MONTES,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+31003,VILLA TUNARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+50602,VITICHI,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,3,0,3,0,3
+10602,YAMPARAEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,1,0,1,0,1
+10102,YOTALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,3,0,3,0,3
+60402,YUNCHARA,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,2,0,2,0,2
+10301,ZUDAÑEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-03-01,5,0,5,0,5
+60202,BERMEJO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+50301,BETANZOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,14,0,14,0,14
+70401,BUENA VISTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+51102,"CAIZA ""D""",mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+21304,CALAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+30701,CAPINOTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,4,0,4,0,4
+40201,CHALLAPATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+70702,CHARAGUA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+30101,COCHABAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+21307,COLLANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+31002,COLOMI,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+50601,COTAGAITA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+70704,CUEVO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,5,0,5,0,5
+41101,EUCALIPTUS,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+20602,GUANAY,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+10502,HUACARETA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+11002,HUACAYA (VILLA DE HUACAYA),mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+41601,HUAYLLAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+71003,MINEROS,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,5,0,5,0,5
+20402,MOCOMOCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+10303,MOJOCOYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+50404,OCURI,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+70202,OKINAWA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+40101,ORURO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,23,0,23,0,23
+60201,PADCAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+21305,PATACAMAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+40602,PAZÑA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,3,0,3,0,3
+31202,POJO (CBBA),mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+51203,PORCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+70601,PORTACHUELO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+10302,PRESTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,7,0,7,0,7
+20403,PUERTO CARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+31205,PUERTO VILLARROEL,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,4,0,4,0,4
+51101,PUNA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+80301,REYES,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,3,0,3,0,3
+30404,SACABAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+70402,SAN CARLOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+80501,SAN IGNACIO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+60501,SAN LORENZO(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+71201,SAN MATIAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+41401,SANTIAGO DE HUARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+21301,SICA SICA (VILLA AROMA),mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+30902,SIPE SIPE,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+10403,SOPACHUY,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+20601,SORATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+31101,TAPACARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,3,0,3,0,3
+10601,TARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,3,0,3,0,3
+60101,TARIJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,8,0,8,0,8
+20803,TIAWANACU,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,4,0,4,0,4
+30903,TIQUIPAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+41001,TOLEDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+10402,TOMINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+40402,TURCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,2,0,2,0,2
+60401,URIONDO (A. CONCEPCION),mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+51201,UYUNI,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,4,0,4,0,4
+30502,VACAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+60303,VILLA MONTES,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+10801,VILLA SERRANO,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,3,0,3,0,3
+11001,VILLA VACA GUZMAN (MUYUPAMPA),mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,3,0,3,0,3
+51501,VILLAZON,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+70201,WARNES,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+70403,YAPACANI,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+50103,YOCALLA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+10102,YOTALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,7,0,7,0,7
+60402,YUNCHARA,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,1,0,1,0,1
+10301,ZUDAÑEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-04-01,6,0,6,0,6
+41201,ANDAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+30402,ANZALDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+21303,AYO AYO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+60202,BERMEJO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+50301,BETANZOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+51102,"CAIZA ""D""",mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+30701,CAPINOTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,3,0,3,0,3
+50302,CHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,4,0,4,0,4
+31002,COLOMI,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,3,0,3,0,3
+21306,COLQUENCHA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+40301,CORQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+70102,COTOCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+31405,CUCHUMUELA (V. G. VILLARROEL),mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+10902,CULPINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+40401,CURAHUARA DE CARANGAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,5,0,5,0,5
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,5,0,5,0,5
+40103,EL CHORO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+60502,EL PUENTE(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+70105,EL TORNO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,4,0,4,0,4
+41101,EUCALIPTUS,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+80402,EXALTACION,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+10502,HUACARETA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+41601,HUAYLLAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+10703,INCAHUASI,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,3,0,3,0,3
+70104,LA GUARDIA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,3,0,3,0,3
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,7,0,7,0,7
+10903,LAS CARRERAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+11003,MACHARETI,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,3,0,3,0,3
+71003,MINEROS,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,4,0,4,0,4
+20402,MOCOMOCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+10303,MOJOCOYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,3,0,3,0,3
+10501,MONTEAGUDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+40101,ORURO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,18,0,18,0,18
+10401,PADILLA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,3,0,3,0,3
+10103,POROMA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+10302,PRESTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+20401,PUERTO ACOSTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,5,0,5,0,5
+20403,PUERTO CARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,7,0,7,0,7
+51101,PUNA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+31401,PUNATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+30901,QUILLACOLLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+80201,RIBERALTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+31001,SACABA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+50701,SACACA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+21502,SAN BUENA VENTURA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+70402,SAN CARLOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+80501,SAN IGNACIO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+60501,SAN LORENZO(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+80401,SANTA ANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,3,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+70602,SANTA ROSA DEL SARA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+21301,SICA SICA (VILLA AROMA),mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+30902,SIPE SIPE,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,3,0,3,0,3
+10403,SOPACHUY,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+20603,TACACOMA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,4,0,4,0,4
+31101,TAPACARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+10601,TARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,3,0,3,0,3
+60101,TARIJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,5,0,5,0,5
+31601,TIRAQUE (CBBA),mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+41001,TOLEDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+40402,TURCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+71502,URUBICHA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+30502,VACAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,1,0,1,0,1
+60303,VILLA MONTES,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,4,0,4,0,4
+31003,VILLA TUNARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+70201,WARNES,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,4,0,4,0,4
+10102,YOTALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,2,0,2,0,2
+10301,ZUDAÑEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-05-01,4,0,4,0,4
+41201,ANDAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,3,0,3,0,3
+20502,AYATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+51102,"CAIZA ""D""",mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+30701,CAPINOTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,5,0,5,0,5
+40102,CARACOLLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+50302,CHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,6,0,6,0,6
+50202,CHAYANTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,5,0,5,0,5
+31002,COLOMI,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,3,0,3,0,3
+21306,COLQUENCHA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+21701,COPACABANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+40301,CORQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+70102,COTOCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+40401,CURAHUARA DE CARANGAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,24,0,24,0,24
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,8,0,8,0,8
+60502,EL PUENTE(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+60601,ENTRE RIOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+90503,EUREKA (SANTOS MERCADO),mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+70705,GUTIERREZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+21001,INQUISIVI,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+21501,IXIAMAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+70104,LA GUARDIA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,7,0,7,0,7
+11003,MACHARETI,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+71003,MINEROS,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,9,0,9,0,9
+10303,MOJOCOYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+90501,NUEVO MANOA (NUEVA ESPERANZA),mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+40101,ORURO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+10401,PADILLA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+21305,PATACAMAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,7,0,7,0,7
+31203,POCONA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+70601,PORTACHUELO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+10302,PRESTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+20401,PUERTO ACOSTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,6,0,6,0,6
+20403,PUERTO CARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,6,0,6,0,6
+90301,PUERTO GONZALO MORENO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+90201,PUERTO RICO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+71401,PUERTO SUAREZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,3,0,3,0,3
+31205,PUERTO VILLARROEL,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+51101,PUNA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+31401,PUNATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+80201,RIBERALTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+31001,SACABA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+30404,SACABAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+80501,SAN IGNACIO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+70302,SAN MIGUEL DE VELASCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+80401,SANTA ANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+41401,SANTIAGO DE HUARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+20902,SAPAHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+30902,SIPE SIPE,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,6,0,6,0,6
+10403,SOPACHUY,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+20601,SORATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,3,0,3,0,3
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,4,0,4,0,4
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+31101,TAPACARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+60101,TARIJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+50102,TINGUIPAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+20606,TIPUANI,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+31601,TIRAQUE (CBBA),mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+41301,TOTORA(ORR),mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+40402,TURCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+60401,URIONDO (A. CONCEPCION),mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+20801,VIACHA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,2,0,2,0,2
+10801,VILLA SERRANO,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+31003,VILLA TUNARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,3,0,3,0,3
+11001,VILLA VACA GUZMAN (MUYUPAMPA),mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+51501,VILLAZON,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+50602,VITICHI,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,4,0,4,0,4
+70201,WARNES,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+50103,YOCALLA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+10102,YOTALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,4,0,4,0,4
+60402,YUNCHARA,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,1,0,1,0,1
+10301,ZUDAÑEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-06-01,4,0,4,0,4
+20201,ACHACACHI,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,5,0,5,0,5
+20701,APOLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,4,0,4,0,4
+30301,AYOPAYA (V. DE INDEPENDENCIA),mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+50301,BETANZOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,12,0,12,0,12
+21304,CALAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,5,0,5,0,5
+22001,CARANAVI,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+40201,CHALLAPATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+50302,CHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+70702,CHARAGUA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+50202,CHAYANTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,7,0,7,0,7
+31204,CHIMORE,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+31002,COLOMI,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,4,0,4,0,4
+70102,COTOCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,7,0,7,0,7
+70704,CUEVO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+10902,CULPINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,4,0,4,0,4
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,4,0,4,0,4
+60502,EL PUENTE(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+60601,ENTRE RIOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+41101,EUCALIPTUS,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,3,0,3,0,3
+20602,GUANAY,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+10703,INCAHUASI,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+70104,LA GUARDIA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,4,0,4,0,4
+71003,MINEROS,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,4,0,4,0,4
+20402,MOCOMOCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+10303,MOJOCOYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,3,0,3,0,3
+10401,PADILLA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,4,0,4,0,4
+21104,PALOS BLANCOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+21305,PATACAMAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,7,0,7,0,7
+40602,PAZÑA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+31202,POJO (CBBA),mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+40601,POOPO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+50101,POTOSI,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+20401,PUERTO ACOSTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,3,0,3,0,3
+20403,PUERTO CARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,6,0,6,0,6
+71402,PUERTO QUIJARRO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+90201,PUERTO RICO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+71401,PUERTO SUAREZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,3,0,3,0,3
+31205,PUERTO VILLARROEL,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,7,0,7,0,7
+51101,PUNA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+31401,PUNATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,3,0,3,0,3
+20604,QUIABAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+31001,SACABA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,4,0,4,0,4
+40801,SALINAS DE GARCI MENDOZA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+21502,SAN BUENA VENTURA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+80501,SAN IGNACIO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,4,0,4,0,4
+70302,SAN MIGUEL DE VELASCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+80401,SANTA ANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,6,0,6,0,6
+41401,SANTIAGO DE HUARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+30702,SANTIVAÑES,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+21301,SICA SICA (VILLA AROMA),mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,6,0,6,0,6
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,8,0,8,0,8
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,4,0,4,0,4
+31101,TAPACARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+10601,TARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,4,0,4,0,4
+60101,TARIJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,9,0,9,0,9
+50102,TINGUIPAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+10402,TOMINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+80101,TRINIDAD,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+50801,TUPIZA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+40402,TURCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+50201,UNCIA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+60303,VILLA MONTES,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+31003,VILLA TUNARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,3,0,3,0,3
+20903,YACO,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+60301,YACUIBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+10602,YAMPARAEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+10102,YOTALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,1,0,1,0,1
+10301,ZUDAÑEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-07-01,2,0,2,0,2
+20201,ACHACACHI,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,5,0,5,0,5
+30402,ANZALDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,3,0,3,0,3
+20701,APOLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+30601,ARQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+30301,AYOPAYA (V. DE INDEPENDENCIA),mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+10201,AZURDUY,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+31501,BOLIVAR,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+70703,CABEZAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+21304,CALAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+30701,CAPINOTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,5,0,5,0,5
+40201,CHALLAPATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,4,0,4,0,4
+50302,CHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,3,0,3,0,3
+31204,CHIMORE,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+21307,COLLANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+21306,COLQUENCHA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+71301,COMARAPA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+21701,COPACABANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+70102,COTOCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+70704,CUEVO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,4,0,4,0,4
+60502,EL PUENTE(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+70105,EL TORNO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+40701,HUANUNI,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,3,0,3,0,3
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,8,0,8,0,8
+71003,MINEROS,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+31301,MIZQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,11,0,11,0,11
+20402,MOCOMOCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+10501,MONTEAGUDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+21104,PALOS BLANCOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+21305,PATACAMAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,6,0,6,0,6
+40602,PAZÑA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,5,0,5,0,5
+50101,POTOSI,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+10302,PRESTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,3,0,3,0,3
+20401,PUERTO ACOSTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,7,0,7,0,7
+20403,PUERTO CARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,3,0,3,0,3
+90301,PUERTO GONZALO MORENO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+90201,PUERTO RICO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+71401,PUERTO SUAREZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,3,0,3,0,3
+31205,PUERTO VILLARROEL,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,3,0,3,0,3
+21002,QUIME,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+80201,RIBERALTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+31001,SACABA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+30404,SACABAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+80501,SAN IGNACIO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+80701,SAN JOAQUIN,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+60501,SAN LORENZO(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+10702,SAN LUCAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,3,0,3,0,3
+80401,SANTA ANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,3,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+30902,SIPE SIPE,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,10,0,10,0,10
+20603,TACACOMA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+31101,TAPACARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+60101,TARIJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+10202,TARVITA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+40402,TURCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+21302,UMALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+71502,URUBICHA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+60303,VILLA MONTES,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+31003,VILLA TUNARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+51501,VILLAZON,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+70201,WARNES,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+10602,YAMPARAEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+50103,YOCALLA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,2,0,2,0,2
+10102,YOTALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,1,0,1,0,1
+10301,ZUDAÑEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-08-01,3,0,3,0,3
+20201,ACHACACHI,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,7,0,7,0,7
+30201,AIQUILE,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+20202,ANCORAIMES,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+30601,ARQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,4,0,4,0,4
+50802,ATOCHA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+20503,AUCAPATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+20502,AYATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,3,0,3,0,3
+50301,BETANZOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,10,0,10,0,10
+21304,CALAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+30701,CAPINOTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,3,0,3,0,3
+21803,CHACARILLA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+40201,CHALLAPATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,4,0,4,0,4
+50202,CHAYANTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,4,0,4,0,4
+20501,CHUMA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+31002,COLOMI,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,4,0,4,0,4
+20605,COMBAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+40301,CORQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+70102,COTOCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+70704,CUEVO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+10902,CULPINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,5,0,5,0,5
+70105,EL TORNO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+41101,EUCALIPTUS,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,3,0,3,0,3
+40701,HUANUNI,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,3,0,3,0,3
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,3,0,3,0,3
+31301,MIZQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,4,0,4,0,4
+20402,MOCOMOCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,11,0,11,0,11
+10501,MONTEAGUDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+30302,MOROCHATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+21802,PAPEL PAMPA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+21305,PATACAMAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+40602,PAZÑA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+31202,POJO (CBBA),mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+40601,POOPO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+50101,POTOSI,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+10302,PRESTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,5,0,5,0,5
+20401,PUERTO ACOSTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,8,0,8,0,8
+20403,PUERTO CARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,4,0,4,0,4
+90301,PUERTO GONZALO MORENO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+80703,PUERTO SILES,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+31205,PUERTO VILLARROEL,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,3,0,3,0,3
+51101,PUNA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,3,0,3,0,3
+31401,PUNATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+31001,SACABA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+30404,SACABAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,3,0,3,0,3
+21502,SAN BUENA VENTURA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+80501,SAN IGNACIO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+80102,SAN JAVIER(BNI),mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+60501,SAN LORENZO(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+51001,SAN PABLO DE LIPEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+80401,SANTA ANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+41401,SANTIAGO DE HUARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+21301,SICA SICA (VILLA AROMA),mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+10403,SOPACHUY,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,3,0,3,0,3
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,3,0,3,0,3
+20603,TACACOMA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+31101,TAPACARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,5,0,5,0,5
+31601,TIRAQUE (CBBA),mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+41001,TOLEDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+50801,TUPIZA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+40402,TURCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+50201,UNCIA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,7,0,7,0,7
+30502,VACAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+31302,VILA VILA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+60303,VILLA MONTES,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,3,0,3,0,3
+31402,VILLA RIVERO,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+31003,VILLA TUNARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+51501,VILLAZON,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,2,0,2,0,2
+10102,YOTALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+60402,YUNCHARA,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+10301,ZUDAÑEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-09-01,1,0,1,0,1
+20201,ACHACACHI,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,6,0,6,0,6
+30201,AIQUILE,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+20202,ANCORAIMES,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+20701,APOLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,5,0,5,0,5
+50301,BETANZOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,10,0,10,0,10
+21304,CALAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+30701,CAPINOTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,5,0,5,0,5
+40201,CHALLAPATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,4,0,4,0,4
+50302,CHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,10,0,10,0,10
+70702,CHARAGUA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+50202,CHAYANTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,6,0,6,0,6
+31204,CHIMORE,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+90101,COBIJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+30101,COCHABAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+31002,COLOMI,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+20605,COMBAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+21701,COPACABANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+70102,COTOCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,6,0,6,0,6
+31405,CUCHUMUELA (V. G. VILLARROEL),mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,5,0,5,0,5
+70705,GUTIERREZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+10502,HUACARETA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,9,0,9,0,9
+70701,LAGUNILLAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+50203,LLALLAGUA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+80601,LORETO,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+11003,MACHARETI,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,3,0,3,0,3
+20402,MOCOMOCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+10501,MONTEAGUDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+30302,MOROCHATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+60201,PADCAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+21802,PAPEL PAMPA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+21305,PATACAMAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,6,0,6,0,6
+40602,PAZÑA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,3,0,3,0,3
+31202,POJO (CBBA),mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,3,0,3,0,3
+10302,PRESTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+70805,PUCARA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+20401,PUERTO ACOSTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,3,0,3,0,3
+20403,PUERTO CARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+71401,PUERTO SUAREZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+31205,PUERTO VILLARROEL,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,4,0,4,0,4
+31401,PUNATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+31001,SACABA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,4,0,4,0,4
+30404,SACABAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,4,0,4,0,4
+80602,SAN ANDRES,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,3,0,3,0,3
+80501,SAN IGNACIO,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+60501,SAN LORENZO(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+10702,SAN LUCAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+51001,SAN PABLO DE LIPEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+21801,SAN PEDRO DE CURAHUARA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+41401,SANTIAGO DE HUARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+40202,SANTUARIO DE QUILLACAS,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+21301,SICA SICA (VILLA AROMA),mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+30902,SIPE SIPE,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,4,0,4,0,4
+10403,SOPACHUY,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,3,0,3,0,3
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,7,0,7,0,7
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,7,0,7,0,7
+31101,TAPACARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+60101,TARIJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,7,0,7,0,7
+50102,TINGUIPAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+21703,TITO YUPANQUI (PARQUIPUJIO),mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+80101,TRINIDAD,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+50801,TUPIZA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+40402,TURCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,2,0,2,0,2
+60303,VILLA MONTES,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+31402,VILLA RIVERO,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+51501,VILLAZON,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+10102,YOTALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-10-01,1,0,1,0,1
+20201,ACHACACHI,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,17,0,17,0,17
+30201,AIQUILE,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+30402,ANZALDO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+20701,APOLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,4,0,4,0,4
+21303,AYO AYO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,5,0,5,0,5
+60202,BERMEJO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+50301,BETANZOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,8,0,8,0,8
+31501,BOLIVAR,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+90103,BOLPEBRA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+21304,CALAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+30701,CAPINOTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+40201,CHALLAPATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+50302,CHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,4,0,4,0,4
+50202,CHAYANTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,4,0,4,0,4
+20501,CHUMA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+31002,COLOMI,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+21701,COPACABANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+70102,COTOCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,6,0,6,0,6
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,4,0,4,0,4
+60502,EL PUENTE(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,4,0,4,0,4
+70105,EL TORNO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+41101,EUCALIPTUS,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+10502,HUACARETA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+40701,HUANUNI,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,5,0,5,0,5
+41601,HUAYLLAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+21005,ICHOCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+70104,LA GUARDIA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,3,0,3,0,3
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,4,0,4,0,4
+80801,MAGDALENA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+71003,MINEROS,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,4,0,4,0,4
+31301,MIZQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,8,0,8,0,8
+20402,MOCOMOCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,3,0,3,0,3
+30302,MOROCHATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,3,0,3,0,3
+60201,PADCAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+10401,PADILLA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+20702,PELECHUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+31202,POJO (CBBA),mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+10302,PRESTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,4,0,4,0,4
+20401,PUERTO ACOSTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,3,0,3,0,3
+20403,PUERTO CARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+71401,PUERTO SUAREZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+31205,PUERTO VILLARROEL,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,6,0,6,0,6
+51101,PUNA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+31401,PUNATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+20604,QUIABAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+30901,QUILLACOLLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+80201,RIBERALTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+31001,SACABA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,3,0,3,0,3
+40801,SALINAS DE GARCI MENDOZA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+80602,SAN ANDRES,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+80501,SAN IGNACIO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+70501,SAN JOSE DE CHIQUITOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+60501,SAN LORENZO(TJA),mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+30702,SANTIVAÑES,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+21301,SICA SICA (VILLA AROMA),mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,3,0,3,0,3
+30902,SIPE SIPE,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+20601,SORATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,3,0,3,0,3
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,8,0,8,0,8
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+31101,TAPACARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,7,0,7,0,7
+60101,TARIJA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+21703,TITO YUPANQUI (PARQUIPUJIO),mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,3,0,3,0,3
+40402,TURCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+51201,UYUNI,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+51501,VILLAZON,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,2,0,2,0,2
+70201,WARNES,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+10102,YOTALA,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+10301,ZUDAÑEZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-11-01,1,0,1,0,1
+20201,ACHACACHI,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,3,0,3,0,3
+41201,ANDAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,3,0,3,0,3
+20701,APOLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+50301,BETANZOS,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,5,0,5,0,5
+21304,CALAMARCA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,8,0,8,0,8
+30701,CAPINOTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+40102,CARACOLLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+40201,CHALLAPATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,6,0,6,0,6
+50302,CHAQUI,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+50202,CHAYANTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,6,0,6,0,6
+40302,CHOQUE COTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+31002,COLOMI,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,3,0,3,0,3
+21701,COPACABANA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+40301,CORQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,3,0,3,0,3
+70704,CUEVO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+20105,EL ALTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,3,0,3,0,3
+70105,EL TORNO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,4,0,4,0,4
+41101,EUCALIPTUS,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+70705,GUTIERREZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,5,0,5,0,5
+40701,HUANUNI,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,3,0,3,0,3
+70104,LA GUARDIA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+20101,LA PAZ,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,8,0,8,0,8
+71003,MINEROS,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+31301,MIZQUE,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,4,0,4,0,4
+20402,MOCOMOCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+50404,OCURI,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+60201,PADCAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+40602,PAZÑA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+50101,POTOSI,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,3,0,3,0,3
+10302,PRESTO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,6,0,6,0,6
+20401,PUERTO ACOSTA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+20403,PUERTO CARABUCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+90201,PUERTO RICO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+31205,PUERTO VILLARROEL,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+30901,QUILLACOLLO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+31001,SACABA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,3,0,3,0,3
+80501,SAN IGNACIO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,4,0,4,0,4
+21702,SAN PEDRO DE TIQUINA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+41401,SANTIAGO DE HUARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+21301,SICA SICA (VILLA AROMA),mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+30703,SICAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+20601,SORATA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,3,0,3,0,3
+10101,SUCRE,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,5,0,5,0,5
+50303,TACOBAMBA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+30602,TACOPAYA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+80101,TRINIDAD,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+50801,TUPIZA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+40402,TURCO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+50201,UNCIA,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+60303,VILLA MONTES,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,1,0,1,0,1
+31402,VILLA RIVERO,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+31003,VILLA TUNARI,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,2,0,2,0,2
+70201,WARNES,mortalidad fuera del establecimiento,muerte por otras causas,2002-12-01,3,0,3,0,3

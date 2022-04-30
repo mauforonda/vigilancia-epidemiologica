@@ -1,0 +1,562 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 1 año-H,< de 1 año-M,1 a 4 años-H,1 a 4 años-M,5 a 14 años-H,5 a 14 años-M,15 a 59 años-H,15 a 59 años-M,60 y más-H,60 y más-M,TOTAL-H,TOTAL-M,TOTAL
+60202,BERMEJO,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+50301,BETANZOS,violencia  intrafamiliar,hombres,2004-01-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+90103,BOLPEBRA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70707,BOYUIBE,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,violencia  intrafamiliar,hombres,2004-01-01,0,0,1,0,0,0,6,0,0,0,7,0,7
+30701,CAPINOTA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40102,CARACOLLO,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+50202,CHAYANTA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50401,COLQUECHACA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21306,COLQUENCHA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21402,CORIPATA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-01-01,0,0,3,0,1,0,12,0,0,0,16,0,16
+21601,GRAL. J.J. PEREZ (CHARAZANI),violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+40701,HUANUNI,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+21102,IRUPANA (VILLA DE LANZA),violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-01-01,0,0,7,0,3,0,7,0,0,0,17,0,17
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,17,0,0,0,17,0,17
+71003,MINEROS,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+71001,MONTERO,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+30302,MOROCHATA,violencia  intrafamiliar,hombres,2004-01-01,0,0,3,0,0,0,2,0,0,0,5,0,5
+50404,OCURI,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40101,ORURO,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70502,PAILON,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21305,PATACAMAYA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40601,POOPO,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-01-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+70503,ROBORE,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+30404,SACABAMBA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40801,SALINAS DE GARCI MENDOZA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10702,SAN LUCAS,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21301,SICA SICA (VILLA AROMA),violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31101,TAPACARI,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10202,TARVITA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20803,TIAWANACU,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80101,TRINIDAD,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+70801,VALLEGRANDE,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60303,VILLA MONTES,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10801,VILLA SERRANO,violencia  intrafamiliar,hombres,2004-01-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+51501,VILLAZON,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+50602,VITICHI,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70403,YAPACANI,violencia  intrafamiliar,hombres,2004-01-01,0,0,0,0,1,0,5,0,0,0,6,0,6
+20201,ACHACACHI,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30201,AIQUILE,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+20202,ANCORAIMES,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50802,ATOCHA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50301,BETANZOS,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+70706,CAMIRI,violencia  intrafamiliar,hombres,2004-02-01,0,0,1,0,0,0,6,0,0,0,7,0,7
+30701,CAPINOTA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,6,0,1,0,7,0,7
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+50202,CHAYANTA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31002,COLOMI,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+21701,COPACABANA,violencia  intrafamiliar,hombres,2004-02-01,0,0,5,0,0,0,0,0,0,0,5,0,5
+10902,CULPINA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,1,0,8,0,0,0,9,0,9
+20602,GUANAY,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+10502,HUACARETA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21102,IRUPANA (VILLA DE LANZA),violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,2,0,0,0,0,0,2,0,2
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-02-01,0,0,5,0,2,0,10,0,1,0,18,0,18
+70701,LAGUNILLAS,violencia  intrafamiliar,hombres,2004-02-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+10903,LAS CARRERAS,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,1,0,10,0,0,0,11,0,11
+71003,MINEROS,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31301,MIZQUE,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20402,MOCOMOCO,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+71001,MONTERO,violencia  intrafamiliar,hombres,2004-02-01,0,0,1,0,0,0,6,0,0,0,7,0,7
+70502,PAILON,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20102,PALCA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70902,PAMPA GRANDE,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21305,PATACAMAYA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+31203,POCONA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20401,PUERTO ACOSTA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+71402,PUERTO QUIJARRO,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71401,PUERTO SUAREZ,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,10,0,0,0,10,0,10
+70503,ROBORE,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10702,SAN LUCAS,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+70302,SAN MIGUEL DE VELASCO,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,violencia  intrafamiliar,hombres,2004-02-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+20902,SAPAHAQUI,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21301,SICA SICA (VILLA AROMA),violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,violencia  intrafamiliar,hombres,2004-02-01,1,0,0,0,2,0,1,0,0,0,4,0,4
+30602,TACOPAYA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10202,TARVITA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+20606,TIPUANI,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+80101,TRINIDAD,violencia  intrafamiliar,hombres,2004-02-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51201,UYUNI,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+70801,VALLEGRANDE,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+60303,VILLA MONTES,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+31003,VILLA TUNARI,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70201,WARNES,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+70403,YAPACANI,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10102,YOTALA,violencia  intrafamiliar,hombres,2004-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30402,ANZALDO,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+90103,BOLPEBRA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+70706,CAMIRI,violencia  intrafamiliar,hombres,2004-03-01,0,0,2,0,0,0,18,0,0,0,20,0,20
+30701,CAPINOTA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+60302,CARAPARI,violencia  intrafamiliar,hombres,2004-03-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,8,0,0,0,8,0,8
+50202,CHAYANTA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50401,COLQUECHACA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+21701,COPACABANA,violencia  intrafamiliar,hombres,2004-03-01,0,0,2,0,0,0,0,0,0,0,2,0,2
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,1,0,13,0,5,0,19,0,19
+71503,EL PUENTE(STC),violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60601,ENTRE RIOS,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40701,HUANUNI,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,2,0,1,0,0,0,3,0,3
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-03-01,1,0,7,0,1,0,4,0,1,0,14,0,14
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,16,0,0,0,16,0,16
+31301,MIZQUE,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,3,0,6,0,1,0,10,0,10
+71001,MONTERO,violencia  intrafamiliar,hombres,2004-03-01,0,0,1,0,0,0,7,0,0,0,8,0,8
+40101,ORURO,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+21802,PAPEL PAMPA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+31203,POCONA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31202,POJO (CBBA),violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+70601,PORTACHUELO,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20401,PUERTO ACOSTA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,1,0,6,0,0,0,7,0,7
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,16,0,0,0,16,0,16
+80201,RIBERALTA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+70503,ROBORE,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30404,SACABAMBA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80401,SANTA ANA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+10403,SOPACHUY,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+10101,SUCRE,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,violencia  intrafamiliar,hombres,2004-03-01,2,0,1,0,1,0,0,0,0,0,4,0,4
+10202,TARVITA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10402,TOMINA,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50502,TORO TORO,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80101,TRINIDAD,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-03-01,0,0,3,0,1,0,1,0,0,0,5,0,5
+51201,UYUNI,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60303,VILLA MONTES,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,1,0,5,0,0,0,6,0,6
+10801,VILLA SERRANO,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,0,0,3,0,1,0,4,0,4
+51501,VILLAZON,violencia  intrafamiliar,hombres,2004-03-01,0,0,0,0,2,0,2,0,0,0,4,0,4
+30201,AIQUILE,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+20701,APOLO,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+30701,CAPINOTA,violencia  intrafamiliar,hombres,2004-04-01,1,0,0,0,0,0,5,0,0,0,6,0,6
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-04-01,0,0,1,0,2,0,2,0,0,0,5,0,5
+30101,COCHABAMBA,violencia  intrafamiliar,hombres,2004-04-01,0,0,1,0,0,0,3,0,0,0,4,0,4
+31002,COLOMI,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,4,0,1,0,5,0,5
+21701,COPACABANA,violencia  intrafamiliar,hombres,2004-04-01,0,0,3,0,0,0,0,0,0,0,3,0,3
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-04-01,0,0,1,0,0,0,12,0,0,0,13,0,13
+21501,IXIAMAS,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-04-01,1,0,6,0,0,0,7,0,0,0,14,0,14
+70701,LAGUNILLAS,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+20901,LURIBAY,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71003,MINEROS,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+10303,MOJOCOYA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+10501,MONTEAGUDO,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,1,0,5,0,0,0,6,0,6
+30302,MOROCHATA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+40101,ORURO,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10401,PADILLA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40802,PAMPA AULLAGAS,violencia  intrafamiliar,hombres,2004-04-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+31202,POJO (CBBA),violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,1,0,3,0,0,0,4,0,4
+71402,PUERTO QUIJARRO,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,5,0,1,0,6,0,6
+30901,QUILLACOLLO,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50402,RAVELO,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30404,SACABAMBA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70602,SANTA ROSA DEL SARA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30902,SIPE SIPE,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10101,SUCRE,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31101,TAPACARI,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30401,TARATA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+10202,TARVITA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20606,TIPUANI,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30903,TIQUIPAYA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+80101,TRINIDAD,violencia  intrafamiliar,hombres,2004-04-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-04-01,0,0,1,0,2,0,0,0,0,0,3,0,3
+50201,UNCIA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+20801,VIACHA,violencia  intrafamiliar,hombres,2004-04-01,1,0,0,0,0,0,1,0,0,0,2,0,2
+60303,VILLA MONTES,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,2,0,2,0,1,0,5,0,5
+31402,VILLA RIVERO,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+51501,VILLAZON,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,1,0,3,0,0,0,4,0,4
+70403,YAPACANI,violencia  intrafamiliar,hombres,2004-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50802,ATOCHA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21203,BATALLAS,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+50301,BETANZOS,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+30701,CAPINOTA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,2,0,25,0,3,0,30,0,30
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+70702,CHARAGUA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+30801,CLIZA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+31002,COLOMI,violencia  intrafamiliar,hombres,2004-05-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+21701,COPACABANA,violencia  intrafamiliar,hombres,2004-05-01,0,0,2,0,0,0,0,0,0,0,2,0,2
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-05-01,1,0,0,0,2,0,14,0,0,0,17,0,17
+80202,GUAYARAMERIN,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-05-01,0,0,2,0,0,0,3,0,0,0,5,0,5
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,7,0,1,0,8,0,8
+80801,MAGDALENA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71003,MINEROS,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+31301,MIZQUE,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20402,MOCOMOCO,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10303,MOJOCOYA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+10501,MONTEAGUDO,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40101,ORURO,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70502,PAILON,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70902,PAMPA GRANDE,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20702,PELECHUCO,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31203,POCONA,violencia  intrafamiliar,hombres,2004-05-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,1,0,1,0,1,0,3,0,3
+30404,SACABAMBA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+41401,SANTIAGO DE HUARI,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21301,SICA SICA (VILLA AROMA),violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+10101,SUCRE,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+60101,TARIJA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30903,TIQUIPAYA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50201,UNCIA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51201,UYUNI,violencia  intrafamiliar,hombres,2004-05-01,0,0,1,0,2,0,1,0,0,0,4,0,4
+20801,VIACHA,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+60303,VILLA MONTES,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+31003,VILLA TUNARI,violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),violencia  intrafamiliar,hombres,2004-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20503,AUCAPATA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+41202,BELEN DE ANDAMARCA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+60202,BERMEJO,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,7,0,2,0,9,0,9
+10701,CAMARGO,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30701,CAPINOTA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,3,0,1,0,4,0,4
+90101,COBIJA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,violencia  intrafamiliar,hombres,2004-06-01,0,0,1,0,1,0,2,0,0,0,4,0,4
+20304,COMANCHE,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+71301,COMARAPA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-06-01,2,0,0,0,1,0,17,0,4,0,24,0,24
+60502,EL PUENTE(TJA),violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60601,ENTRE RIOS,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40701,HUANUNI,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+21005,ICHOCA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-06-01,0,0,1,0,2,0,5,0,0,0,8,0,8
+21202,LAJA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,2,0,15,0,2,0,19,0,19
+71003,MINEROS,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70202,OKINAWA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+10401,PADILLA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20102,PALCA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21104,PALOS BLANCOS,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20702,PELECHUCO,violencia  intrafamiliar,hombres,2004-06-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+90301,PUERTO GONZALO MORENO,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-06-01,0,0,1,0,0,0,6,0,0,0,7,0,7
+30901,QUILLACOLLO,violencia  intrafamiliar,hombres,2004-06-01,2,0,6,0,0,0,0,0,0,0,8,0,8
+80201,RIBERALTA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+30404,SACABAMBA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50701,SACACA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70602,SANTA ROSA DEL SARA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+20601,SORATA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,violencia  intrafamiliar,hombres,2004-06-01,0,0,1,0,1,0,1,0,0,0,3,0,3
+60101,TARIJA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,0,0,2,0,2,0,2
+31201,TOTORA(CBBA),violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,2,0,2,0,0,0,4,0,4
+51201,UYUNI,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51501,VILLAZON,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70201,WARNES,violencia  intrafamiliar,hombres,2004-06-01,0,0,1,0,1,0,0,0,0,0,2,0,2
+70403,YAPACANI,violencia  intrafamiliar,hombres,2004-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+51302,ACACIO,violencia  intrafamiliar,hombres,2004-07-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,violencia  intrafamiliar,hombres,2004-07-01,0,0,1,0,2,0,22,0,2,0,27,0,27
+70703,CABEZAS,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+30701,CAPINOTA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+40102,CARACOLLO,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,9,0,0,0,9,0,9
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,3,0,1,0,4,0,4
+70702,CHARAGUA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,violencia  intrafamiliar,hombres,2004-07-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+30905,COLCAPIRHUA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+31002,COLOMI,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21701,COPACABANA,violencia  intrafamiliar,hombres,2004-07-01,0,0,1,0,3,0,0,0,0,0,4,0,4
+20301,CORO CORO,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-07-01,1,0,2,0,1,0,12,0,0,0,16,0,16
+71002,GENERAL SAAVEDRA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-07-01,1,0,7,0,2,0,1,0,0,0,11,0,11
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-07-01,0,0,1,0,0,0,8,0,1,0,10,0,10
+71003,MINEROS,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10501,MONTEAGUDO,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+30302,MOROCHATA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+40101,ORURO,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+60201,PADCAYA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40602,PAZÑA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+20702,PELECHUCO,violencia  intrafamiliar,hombres,2004-07-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20401,PUERTO ACOSTA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+80201,RIBERALTA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30404,SACABAMBA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+90303,SENA,violencia  intrafamiliar,hombres,2004-07-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+10101,SUCRE,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+30903,TIQUIPAYA,violencia  intrafamiliar,hombres,2004-07-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,2,0,3,0,0,0,5,0,5
+50201,UNCIA,violencia  intrafamiliar,hombres,2004-07-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+51201,UYUNI,violencia  intrafamiliar,hombres,2004-07-01,1,0,0,0,1,0,2,0,0,0,4,0,4
+70801,VALLEGRANDE,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51501,VILLAZON,violencia  intrafamiliar,hombres,2004-07-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+10602,YAMPARAEZ,violencia  intrafamiliar,hombres,2004-07-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+51302,ACACIO,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+20502,AYATA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,10,0,0,0,10,0,10
+50301,BETANZOS,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30701,CAPINOTA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+40102,CARACOLLO,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,9,0,5,0,14,0,14
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+70702,CHARAGUA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50202,CHAYANTA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+31204,CHIMORE,violencia  intrafamiliar,hombres,2004-08-01,0,0,1,0,0,0,0,0,1,0,2,0,2
+30101,COCHABAMBA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50401,COLQUECHACA,violencia  intrafamiliar,hombres,2004-08-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+21701,COPACABANA,violencia  intrafamiliar,hombres,2004-08-01,0,0,3,0,3,0,0,0,0,0,6,0,6
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,3,0,50,0,0,0,53,0,53
+20602,GUANAY,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21005,ICHOCA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+90402,INGAVI (HUMAITA),violencia  intrafamiliar,hombres,2004-08-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-08-01,0,0,2,0,4,0,2,0,0,0,8,0,8
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,1,0,17,0,1,0,19,0,19
+20901,LURIBAY,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10303,MOJOCOYA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,1,0,0,0,1,0,2,0,2
+10501,MONTEAGUDO,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40101,ORURO,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10401,PADILLA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,4,0,0,0,0,0,4,0,4
+31202,POJO (CBBA),violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+50101,POTOSI,violencia  intrafamiliar,hombres,2004-08-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+20401,PUERTO ACOSTA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+20403,PUERTO CARABUCO,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+31205,PUERTO VILLARROEL,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+51101,PUNA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,1,0,3,0,0,0,4,0,4
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+50402,RAVELO,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,1,0,0,0,1,0,2,0,2
+80201,RIBERALTA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80304,RURRENABAQUE,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70402,SAN CARLOS,violencia  intrafamiliar,hombres,2004-08-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,violencia  intrafamiliar,hombres,2004-08-01,1,0,1,0,0,0,0,0,0,0,2,0,2
+30703,SICAYA,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+30902,SIPE SIPE,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+10101,SUCRE,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,violencia  intrafamiliar,hombres,2004-08-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-08-01,0,0,2,0,2,0,3,0,0,0,7,0,7
+30502,VACAS,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70801,VALLEGRANDE,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+60303,VILLA MONTES,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31402,VILLA RIVERO,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51501,VILLAZON,violencia  intrafamiliar,hombres,2004-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20201,ACHACACHI,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+51301,ARAMPAMPA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50802,ATOCHA,violencia  intrafamiliar,hombres,2004-09-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,violencia  intrafamiliar,hombres,2004-09-01,2,0,0,0,1,0,8,0,0,0,11,0,11
+50301,BETANZOS,violencia  intrafamiliar,hombres,2004-09-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30701,CAPINOTA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40102,CARACOLLO,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31204,CHIMORE,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50401,COLQUECHACA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20304,COMANCHE,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+71301,COMARAPA,violencia  intrafamiliar,hombres,2004-09-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+21701,COPACABANA,violencia  intrafamiliar,hombres,2004-09-01,1,0,6,0,1,0,1,0,0,0,9,0,9
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,1,0,17,0,1,0,19,0,19
+60502,EL PUENTE(TJA),violencia  intrafamiliar,hombres,2004-09-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-09-01,2,0,6,0,5,0,2,0,1,0,16,0,16
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,9,0,0,0,9,0,9
+20901,LURIBAY,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+40101,ORURO,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,2,0,1,0,0,0,3,0,3
+60201,PADCAYA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10401,PADILLA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21104,PALOS BLANCOS,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+31203,POCONA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20401,PUERTO ACOSTA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+90201,PUERTO RICO,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+50402,RAVELO,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80201,RIBERALTA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80304,RURRENABAQUE,violencia  intrafamiliar,hombres,2004-09-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71104,SAN JULIAN,violencia  intrafamiliar,hombres,2004-09-01,0,0,3,0,0,0,0,0,0,0,3,0,3
+60501,SAN LORENZO(TJA),violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,1,0,5,0,0,0,6,0,6
+30902,SIPE SIPE,violencia  intrafamiliar,hombres,2004-09-01,0,0,1,0,0,0,5,0,0,0,6,0,6
+10101,SUCRE,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31101,TAPACARI,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,4,0,5,0,2,0,11,0,11
+30502,VACAS,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20801,VIACHA,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+31402,VILLA RIVERO,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,violencia  intrafamiliar,hombres,2004-09-01,0,0,2,0,1,0,3,0,1,0,7,0,7
+51501,VILLAZON,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+30904,VINTO,violencia  intrafamiliar,hombres,2004-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20201,ACHACACHI,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30201,AIQUILE,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10201,AZURDUY,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+60202,BERMEJO,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,2,0,7,0,1,0,10,0,10
+30701,CAPINOTA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,17,0,4,0,21,0,21
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,5,0,4,0,9,0,9
+50202,CHAYANTA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31204,CHIMORE,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,1,0,6,0,0,0,7,0,7
+21701,COPACABANA,violencia  intrafamiliar,hombres,2004-10-01,0,0,3,0,2,0,0,0,0,0,5,0,5
+21402,CORIPATA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-10-01,2,0,1,0,1,0,12,0,0,0,16,0,16
+60601,ENTRE RIOS,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80202,GUAYARAMERIN,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10304,ICLA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-10-01,0,0,11,0,7,0,2,0,0,0,20,0,20
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,1,0,13,0,1,0,15,0,15
+71003,MINEROS,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+10501,MONTEAGUDO,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21104,PALOS BLANCOS,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+30202,PASORAPA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,1,0,2,0,3,0,6,0,6
+31202,POJO (CBBA),violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40601,POOPO,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20401,PUERTO ACOSTA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+21204,PUERTO PEREZ,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+51101,PUNA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,2,0,3,0,3
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+21002,QUIME,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+50402,RAVELO,violencia  intrafamiliar,hombres,2004-10-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+80301,REYES,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80201,RIBERALTA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70503,ROBORE,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30404,SACABAMBA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70402,SAN CARLOS,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80702,SAN RAMON,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30902,SIPE SIPE,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,2,0,0,0,0,0,2,0,2
+60101,TARIJA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10202,TARVITA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,3,0,7,0,0,0,10,0,10
+31003,VILLA TUNARI,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+51501,VILLAZON,violencia  intrafamiliar,hombres,2004-10-01,0,0,1,0,1,0,1,0,0,0,3,0,3
+20306,WALDO BALLIVIAN,violencia  intrafamiliar,hombres,2004-10-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+10201,AZURDUY,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,violencia  intrafamiliar,hombres,2004-11-01,0,0,1,0,1,0,8,0,2,0,12,0,12
+70706,CAMIRI,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30701,CAPINOTA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+50202,CHAYANTA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20501,CHUMA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+71301,COMARAPA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-11-01,1,0,0,0,4,0,15,0,0,0,20,0,20
+60601,ENTRE RIOS,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20602,GUANAY,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40701,HUANUNI,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,0,0,2,0,2,0,2
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-11-01,2,0,4,0,4,0,13,0,2,0,25,0,25
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,1,0,5,0,1,0,7,0,7
+20901,LURIBAY,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71003,MINEROS,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,5,0,1,0,6,0,6
+10501,MONTEAGUDO,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40101,ORURO,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10401,PADILLA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21104,PALOS BLANCOS,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50403,POCOATA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20401,PUERTO ACOSTA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31205,PUERTO VILLARROEL,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,2,0,5,0,0,0,7,0,7
+51101,PUNA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,1,0,1,0,1,0,3,0,3
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+80304,RURRENABAQUE,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+30404,SACABAMBA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+60501,SAN LORENZO(TJA),violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+30902,SIPE SIPE,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,0,0,2,0,2,0,2
+10101,SUCRE,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+60101,TARIJA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+80101,TRINIDAD,violencia  intrafamiliar,hombres,2004-11-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-11-01,1,0,0,0,4,0,1,0,0,0,6,0,6
+50201,UNCIA,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+70801,VALLEGRANDE,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+31003,VILLA TUNARI,violencia  intrafamiliar,hombres,2004-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),violencia  intrafamiliar,hombres,2004-11-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+60202,BERMEJO,violencia  intrafamiliar,hombres,2004-12-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+70703,CABEZAS,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10701,CAMARGO,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+22001,CARANAVI,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+40201,CHALLAPATA,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+50202,CHAYANTA,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50601,COTAGAITA,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,2,0,5,0,0,0,7,0,7
+70105,EL TORNO,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60601,ENTRE RIOS,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,violencia  intrafamiliar,hombres,2004-12-01,1,0,7,0,9,0,8,0,0,0,25,0,25
+70701,LAGUNILLAS,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50203,LLALLAGUA,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,14,0,0,0,14,0,14
+71003,MINEROS,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10501,MONTEAGUDO,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,1,0,3,0,0,0,4,0,4
+30302,MOROCHATA,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+40101,ORURO,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70502,PAILON,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31203,POCONA,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,violencia  intrafamiliar,hombres,2004-12-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+80703,PUERTO SILES,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31401,PUNATA,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,9,0,0,0,9,0,9
+70402,SAN CARLOS,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+10101,SUCRE,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,1,0,2,0,0,0,3,0,3
+10402,TOMINA,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50801,TUPIZA,violencia  intrafamiliar,hombres,2004-12-01,0,0,1,0,2,0,0,0,0,0,3,0,3
+70801,VALLEGRANDE,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51501,VILLAZON,violencia  intrafamiliar,hombres,2004-12-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+70403,YAPACANI,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10301,ZUDAÑEZ,violencia  intrafamiliar,hombres,2004-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1

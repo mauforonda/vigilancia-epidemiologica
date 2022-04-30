@@ -1,0 +1,486 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+30201,AIQUILE,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+90104,BELLA FLOR,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70706,CAMIRI,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70702,CHARAGUA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,2,2,4
+30303,COCAPATA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+71101,CONCEPCION,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,2,1,3
+70105,EL TORNO,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+60601,ENTRE RIOS TRJ,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3
+80202,GUAYARAMERIN,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,3,2,5
+21501,IXIAMAS,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+11003,MACHARETI,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,1,3,1,4
+40101,ORURO,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,3,3
+70502,PAILON,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+90201,PUERTO RICO,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,1,0,3,0,1,1,1,2,0,1,1,0,7,4,11
+31401,PUNATA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80201,RIBERALTA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,2,3
+80304,RURRENABAQUE,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+80302,SAN BORJA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,3,2,5
+70402,SAN CARLOS,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,4,0,4
+71104,SAN JULIAN,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,1,1,0,1,1,2,4,0,4,4,2,2,1,0,13,10,23
+80303,SANTA ROSA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90303,SENA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10101,SUCRE,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+10202,TARVITA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80101,TRINIDAD,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31302,VILA VILA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,2,0,0,2,2,0,1,5,1,0,1,0,2,0,0,7,9,16
+11001,VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70201,WARNES,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,2,0,0,0,0,0,1,0,1,2,0,1,4,0,0,0,8,3,11
+60301,YACUIBA,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,3,1,4
+70403,YAPACANI,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,2,0,1,0,0,1,1,0,1,0,0,0,0,0,5,1,6
+10301,ZUDAÑEZ,otras infecciones,n de personas con mordedura de serpientes,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30201,AIQUILE,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60202,BERMEJO,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70707,BOYUIBE,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70703,CABEZAS,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+10701,CAMARGO,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+22001,CARANAVI,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90101,COBIJA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+30101,COCHABAMBA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70603,COLPA BELGICA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10902,CULPINA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+10502,HUACARETA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+11002,HUACAYA (VILLA DE HUACAYA),otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+10703,INCAHUASI,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90402,INGAVI (HUMAITA),otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21105,LA ASUNTA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70701,LAGUNILLAS,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71003,MINEROS,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+10501,MONTEAGUDO,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70202,OKINAWA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+40101,ORURO,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,2,3
+60201,PADCAYA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10401,PADILLA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70502,PAILON,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,0,3
+31202,POJO (CBBA),otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+90301,PUERTO GONZALO MORENO,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,0,0,0,0,1,7,3,10
+80201,RIBERALTA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+71302,SAIPINA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71105,SAN ANTONIO DE LOMERIO,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+80102,SAN JAVIER(BNI),otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,1,0,2,0,0,0,2,0,0,0,2,0,1,0,1,0,1,1,10,1,11
+90303,SENA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10704,VILLA CHARCAS,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,0,0,0,1,0,4,4,8
+70201,WARNES,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,1,0,0,1,0,1,1,0,0,2,0,0,0,0,0,0,2,4,6
+60301,YACUIBA,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,2,3
+70403,YAPACANI,otras infecciones,n de personas con mordedura de serpientes,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+51301,ARAMPAMPA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70401,BUENA VISTA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+22001,CARANAVI,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60302,CARAPARI,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,2,3
+31204,CHIMORE,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,1,2,3,5
+71101,CONCEPCION,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70105,EL TORNO,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60601,ENTRE RIOS TRJ,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+90503,EUREKA (SANTOS MERCADO),otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90203,FILADELFIA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+11003,MACHARETI,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10501,MONTEAGUDO,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,6,0,6
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40101,ORURO,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,4,1,5
+60201,PADCAYA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+10401,PADILLA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70805,PUCARA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90201,PUERTO RICO,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,1,1,0,0,0,2,2,0,8,3,1,1,0,1,0,0,12,8,20
+31401,PUNATA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80201,RIBERALTA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,2,0,1,0,0,2,5,7
+80304,RURRENABAQUE,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80102,SAN JAVIER(BNI),otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,3
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,1,1,0,2,1,1,0,1,1,2,1,0,0,0,0,7,4,11
+70602,SANTA ROSA DEL SARA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30702,SANTIVAÑES,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10601,TARABUCO,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+80101,TRINIDAD,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+60303,VILLA MONTES,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,3,1,4
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,2,2,4
+11001,VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60301,YACUIBA,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,2,1,3
+70403,YAPACANI,otras infecciones,n de personas con mordedura de serpientes,2018-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+31303,ALALAY,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20701,APOLO,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70703,CABEZAS,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10901,CAMATAQUI (C. VILLA ABECIA),otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+70702,CHARAGUA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,1,0,0,0,0,3,2,5
+71101,CONCEPCION,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+21402,CORIPATA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,2,3
+10902,CULPINA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70105,EL TORNO,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+60601,ENTRE RIOS TRJ,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,2,3
+80202,GUAYARAMERIN,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+70701,LAGUNILLAS,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+11003,MACHARETI,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,1,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,5,0,5
+40101,ORURO,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+21104,PALOS BLANCOS,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,3,3
+90301,PUERTO GONZALO MORENO,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90201,PUERTO RICO,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,1,0,0,1,0,3,1,3,2,2,0,0,1,9,5,14
+31401,PUNATA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80304,RURRENABAQUE,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,3,0,3
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,3,0,3
+80102,SAN JAVIER(BNI),otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71102,SAN JAVIER(STC),otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,3,4
+71201,SAN MATIAS,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,1,0,0,0,0,0,1,2,1,3,2,3,6,9,1,6,0,1,0,3,12,27,39
+31602,SHINAOTA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31101,TAPACARI,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10402,TOMINA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,1,0,0,0,1,3,1,0,0,0,1,0,0,3,4,7
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,1,0,0,0,2,0,2,0,1,2,2,3,2,0,10,5,15
+11001,VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+70201,WARNES,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+60301,YACUIBA,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,1,2,1,2,0,0,1,2,5,0,1,1,0,7,9,16
+70403,YAPACANI,otras infecciones,n de personas con mordedura de serpientes,2018-04-01,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,1,0,0,0,3,1,4
+20201,ACHACACHI,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20701,APOLO,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+71501,ASCENCION DE GUARAYOS,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10201,AZURDUY,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80802,BAURES,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90104,BELLA FLOR,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70401,BUENA VISTA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+70703,CABEZAS,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21003,CAJUATA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,1,3
+60302,CARAPARI,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71403,CARMEN RIVERO TORREZ,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+71101,CONCEPCION,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,3,1,4
+71503,EL PUENTE(STC),otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,1,0,1,2,4,6
+80402,EXALTACION,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2,0,2,0,6,1,7
+71001,MONTERO,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,1,3,4
+30302,MOROCHATA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,3,0,3
+70202,OKINAWA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10401,PADILLA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70902,PAMPA GRANDE,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,6,2,5,1,0,2,0,1,11,6,17
+80201,RIBERALTA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80304,RURRENABAQUE,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50701,SACACA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71302,SAIPINA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+80501,SAN IGNACIO,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+80102,SAN JAVIER(BNI),otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+60501,SAN LORENZO(TJA),otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71201,SAN MATIAS,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,1,1,1,0,0,2,0,1,4,3,1,0,1,0,1,0,9,7,16
+70602,SANTA ROSA DEL SARA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30702,SANTIVAÑES,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20601,SORATA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60101,TARIJA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+41001,TOLEDO,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80101,TRINIDAD,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,1,0,0,0,0,1,2,5,2,0,4,0,0,0,0,6,9,15
+70201,WARNES,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,2,1,3
+60301,YACUIBA,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,3,4
+70403,YAPACANI,otras infecciones,n de personas con mordedura de serpientes,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+90103,BOLPEBRA,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70702,CHARAGUA,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+90101,COBIJA,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+70603,COLPA BELGICA,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2,3
+90203,FILADELFIA,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+20101,LA PAZ,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+70502,PAILON,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+71401,PUERTO SUAREZ,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,2,2,4,6
+80201,RIBERALTA,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,3,2,5
+80101,TRINIDAD,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,5,2,3,0,1,1,1,0,10,3,13
+50602,VITICHI,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70201,WARNES,otras infecciones,n de personas con mordedura de serpientes,2018-06-01,0,0,0,0,2,1,0,0,0,0,0,1,1,2,0,0,0,0,0,0,3,4,7
+71501,ASCENCION DE GUARAYOS,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70401,BUENA VISTA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+70703,CABEZAS,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90101,COBIJA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71101,CONCEPCION,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70102,COTOCA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71503,EL PUENTE(STC),otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70105,EL TORNO,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+71004,FERNANDEZ ALONSO,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90203,FILADELFIA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+10501,MONTEAGUDO,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71401,PUERTO SUAREZ,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,4,0,0,2,2,1,2,0,2,3,2,0,12,6,18
+80201,RIBERALTA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+80304,RURRENABAQUE,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21502,SAN BUENA VENTURA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+71102,SAN JAVIER(STC),otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71201,SAN MATIAS,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70303,SAN RAFAEL,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,1,2,1,0,0,0,0,3,2,0,0,0,0,0,0,5,4,9
+60101,TARIJA,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+80101,TRINIDAD,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,3,0,3
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,1,0,0,0,0,2,4,6
+70201,WARNES,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,1,3
+70403,YAPACANI,otras infecciones,n de personas con mordedura de serpientes,2018-07-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,3
+20701,APOLO,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,4,0,4
+70401,BUENA VISTA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+31204,CHIMORE,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,4,0,4
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+30101,COCHABAMBA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,3,3,6
+70102,COTOCA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90203,FILADELFIA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+41601,HUAYLLAMARCA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21105,LA ASUNTA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,1,1,0,0,3,1,3,0,0,2,0,2,7,6,13
+80201,RIBERALTA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70503,ROBORE,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80302,SAN BORJA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+70402,SAN CARLOS,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+71102,SAN JAVIER(STC),otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71201,SAN MATIAS,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0,5,1,6
+80303,SANTA ROSA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70602,SANTA ROSA DEL SARA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80101,TRINIDAD,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,3,4
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,0,3,0,0,0,5,4,9
+70201,WARNES,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+60301,YACUIBA,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70403,YAPACANI,otras infecciones,n de personas con mordedura de serpientes,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70702,CHARAGUA,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+31204,CHIMORE,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+90101,COBIJA,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30303,COCAPATA,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,3,1,4
+71101,CONCEPCION,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+21401,COROICO,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,1,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,4,2,6
+80202,GUAYARAMERIN,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+21501,IXIAMAS,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71003,MINEROS,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70902,PAMPA GRANDE,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,3,1,3,0,0,0,10,2,12
+80302,SAN BORJA,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3
+70402,SAN CARLOS,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+71201,SAN MATIAS,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,1,0,2,0,0,0,1,0,0,1,4,1,0,0,0,0,1,0,9,2,11
+70602,SANTA ROSA DEL SARA,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31201,TOTORA(CBBA),otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80101,TRINIDAD,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,2,0,0,0,6,0,6
+70201,WARNES,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+60301,YACUIBA,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70403,YAPACANI,otras infecciones,n de personas con mordedura de serpientes,2018-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,0,0,0,3,1,4
+10201,AZURDUY,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71403,CARMEN RIVERO TORREZ,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70702,CHARAGUA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31204,CHIMORE,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,2,1,3
+90101,COBIJA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+30303,COCAPATA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,1,0,5,2,7
+71301,COMARAPA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71101,CONCEPCION,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+60601,ENTRE RIOS TRJ,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,1,3,4
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,0,0,0,0,0,3,3,6
+80202,GUAYARAMERIN,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71003,MINEROS,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+40101,ORURO,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70502,PAILON,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90201,PUERTO RICO,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,1,0,0,2,1,10,3,0,0,1,1,1,0,14,6,20
+31401,PUNATA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70901,SAMAIPATA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80501,SAN IGNACIO,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71201,SAN MATIAS,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71103,SAN RAMON SCZ,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80401,SANTA ANA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,1,0,0,0,1,0,1,1,1,2,4,2,0,0,1,1,9,6,15
+70602,SANTA ROSA DEL SARA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31602,SHINAOTA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,3,0,3
+10101,SUCRE,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10202,TARVITA,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+90502,VILLA NUEVA (LOMA ALTA),otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,1,0,0,0,13,0,0,0,2,1,0,3,16,4,20
+70201,WARNES,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,1,1,1,1,0,0,0,2,1,0,1,0,0,0,1,4,5,9
+70403,YAPACANI,otras infecciones,n de personas con mordedura de serpientes,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,1,3
+20701,APOLO,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90104,BELLA FLOR,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+30701,CAPINOTA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+22001,CARANAVI,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+31204,CHIMORE,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+90101,COBIJA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,2,2,4
+30101,COCHABAMBA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70102,COTOCA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+10902,CULPINA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70105,EL TORNO,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,0,1,0,0,0,3,4,7
+80202,GUAYARAMERIN,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20101,LA PAZ,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71003,MINEROS,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60201,PADCAYA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+21104,PALOS BLANCOS,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90301,PUERTO GONZALO MORENO,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90201,PUERTO RICO,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+71401,PUERTO SUAREZ,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,1,1,0,1,0,1,1,3,3,2,2,3,1,2,0,13,8,21
+80201,RIBERALTA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,3
+80302,SAN BORJA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,2,2,4
+70301,SAN IGNACIO DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+80102,SAN JAVIER(BNI),otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,1,0,0,0,0,1,0,0,1,2,0,2,2,1,0,1,4,7,11
+10101,SUCRE,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+60101,TARIJA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+31201,TOTORA(CBBA),otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+80101,TRINIDAD,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,1,0,0,1,1,4,3,7
+50801,TUPIZA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,5,2,1,0,5,0,3,0,14,2,16
+70201,WARNES,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,2,1,3
+60301,YACUIBA,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70403,YAPACANI,otras infecciones,n de personas con mordedura de serpientes,2018-11-01,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,4,0,1,1,7,3,10
+30201,AIQUILE,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,1,3,4
+90104,BELLA FLOR,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2
+70401,BUENA VISTA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+22001,CARANAVI,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+90101,COBIJA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,1,0,0,0,0,1,0,0,0,0,0,0,2,1,2,1,0,0,0,0,5,3,8
+71301,COMARAPA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71101,CONCEPCION,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,5,1,2,2,1,0,1,1,10,4,14
+90203,FILADELFIA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10502,HUACARETA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10703,INCAHUASI,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60201,PADCAYA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,2,0,1,0,4,1,6,4,3,3,3,1,1,1,20,10,30
+80201,RIBERALTA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70402,SAN CARLOS,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80102,SAN JAVIER(BNI),otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+90302,SAN LORENZO(PND),otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80702,SAN RAMON BENI,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,0,0,1,0,4,3,7
+70602,SANTA ROSA DEL SARA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+31602,SHINAOTA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10202,TARVITA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,2,3
+31003,VILLA TUNARI,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,2,0,0,0,5,1,0,3,0,2,0,0,7,6,13
+70201,WARNES,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70403,YAPACANI,otras infecciones,n de personas con mordedura de serpientes,2018-12-01,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,1,5,1,6

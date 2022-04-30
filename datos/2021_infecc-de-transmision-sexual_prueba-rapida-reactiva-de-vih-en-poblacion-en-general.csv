@@ -1,0 +1,280 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+71501,ASCENCION DE GUARAYOS,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+31204,CHIMORE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30801,CLIZA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1,1,4,1,5
+30905,COLCAPIRHUA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+70102,COTOCA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,1,0,0,0,0,0,0,0,2,5,1,0,1,1,0,0,5,6,11
+70105,EL TORNO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+40101,ORURO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,1,0,0,0,0,7,1,8
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,1,5,3,0,0,0,0,0,1,0,5,5,10
+31401,PUNATA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,1,1,1,1,0,1,4,23,40,8,16,2,8,6,2,42,72,114
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,1,0,0,0,0,0,6,1,53,19,8,7,2,4,3,4,73,35,108
+30702,SANTIVAÑES,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10403,SOPACHUY,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,4,1,5
+10601,TARABUCO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+80101,TRINIDAD,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,3,2,5
+60301,YACUIBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+60202,BERMEJO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,1,0,0,0,6,6
+90101,COBIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+21402,CORIPATA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,1,0,0,0,0,0,1,3,3,2,1,0,0,0,1,0,7,5,12
+70105,EL TORNO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71004,FERNANDEZ ALONSO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,3,2,5
+71001,MONTERO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,0,0,5,0,5
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,3,1,0,14,31,6,9,1,7,3,1,25,51,76
+31001,SACABA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,1,0,1,1,2,0,0,0,6,3,57,19,11,5,11,6,5,4,94,38,132
+30702,SANTIVAÑES,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10403,SOPACHUY,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,1,0,4,3,0,0,0,0,0,0,5,3,8
+30903,TIQUIPAYA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80101,TRINIDAD,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,0,5
+70801,VALLEGRANDE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+71501,ASCENCION DE GUARAYOS,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+10201,AZURDUY,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+60202,BERMEJO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,3,0,0,1,7,8
+90101,COBIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,2,0,0,0,0,5,2,7
+70102,COTOCA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,1,1,0,0,0,0,0,0,9,11,1,0,4,2,0,0,15,14,29
+70105,EL TORNO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,3,2,5
+21501,IXIAMAS,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2,0,0,1,0,0,3,2,5
+10501,MONTEAGUDO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,0,2,2,5,7
+71001,MONTERO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,3,1,4
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,1,3,1,8,3,0,0,0,0,0,0,11,5,16
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,1,0,0,0,0,3,4,2,23,30,5,13,4,11,4,7,41,66,107
+70303,SAN RAFAEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,2,0,2,0,1,9,10,85,32,13,14,7,12,3,3,117,76,193
+10403,SOPACHUY,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,1,4,0,2,0,0,0,0,0,6,1,7
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,4,0,8,5,1,0,0,0,0,0,13,5,18
+30903,TIQUIPAYA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80101,TRINIDAD,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,1,1,36,4,44,2,0,0,0,0,81,7,88
+71502,URUBICHA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+30904,VINTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70201,WARNES,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-03-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+60202,BERMEJO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,4,4
+31204,CHIMORE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,2,0,0,0,0,0,2,0,3,1,0,0,0,0,0,0,7,1,8
+30905,COLCAPIRHUA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,1,0,0,0,0,0,2,8,4,0,2,0,1,0,0,8,10,18
+70105,EL TORNO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20602,GUANAY,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70104,LA GUARDIA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,1,0,0,0,0,0,1,2,0,0,0,0,3,0,0,0,0,0,0,2,5,7
+70903,MAIRANA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,1,0,4,1,5
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,4,5,6,1,0,0,0,0,0,6,10,16
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,3,8,4,1,3,2,0,1,1,12,11,23
+31001,SACABA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90302,SAN LORENZO(PND),infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,1,0,0,0,10,4,89,32,23,16,15,6,7,5,145,63,208
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+80101,TRINIDAD,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,6,1,7
+31003,VILLA TUNARI,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,4,4
+10102,YOTALA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,1,0,6,6
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,2,3,5
+70102,COTOCA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,1,0,0,5,9,1,0,0,1,0,0,6,11,17
+70105,EL TORNO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,2,3
+71001,MONTERO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,3,4,2,4,0,0,0,0,0,0,5,8,13
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,1,3,1,7,11,28,4,23,5,4,8,6,30,71,101
+80501,SAN IGNACIO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,2,1,0,0,12,16,74,40,28,15,14,6,13,5,143,83,226
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,5,1,0,0,0,0,0,2,5,7
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,1,0,0,0,0,0,0,6,3,0,1,1,0,0,0,7,5,12
+80101,TRINIDAD,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+71502,URUBICHA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31302,VILA VILA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+70201,WARNES,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,2,4,0,3,1,0,0,0,0,0,3,7,10
+60301,YACUIBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+50103,YOCALLA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20502,AYATA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+90101,COBIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,1,3
+21004,COLQUIRI,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70102,COTOCA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,1,0,0,0,0,0,2,2,3,8,1,3,0,0,1,0,8,13,21
+70105,EL TORNO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,3,2,5
+31301,MIZQUE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71001,MONTERO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,1,1,0,0,1,5,3,8
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,2,4,3,0,0,0,0,0,0,4,5,9
+30901,QUILLACOLLO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,1,0,1,2,1,0,7,4,27,56,13,29,10,11,7,7,67,109,176
+71005,SAN PEDRO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,1,1,12,12,97,67,34,35,17,12,13,8,174,135,309
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,3,1,4
+30602,TACOPAYA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,1,0,4,0,1,0,0,0,0,0,6,0,6
+80101,TRINIDAD,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,2,0,5,1,0,0,0,0,1,0,8,1,9
+60301,YACUIBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+10404,ALCALA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+30905,COLCAPIRHUA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,1,0,0,0,0,1,0,5,8,0,0,1,0,0,0,7,9,16
+70105,EL TORNO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,2,3
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40101,ORURO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+50101,POTOSI,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,1,0,1,1,3,0,0,0,0,0,0,0,5,1,6
+30901,QUILLACOLLO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,2,1,4,5,19,25,3,18,2,2,0,6,30,57,87
+80302,SAN BORJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+10702,SAN LUCAS,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,3,1,4
+50501,SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,1,0,1,0,0,1,1,2,24,15,95,54,11,17,11,12,7,9,151,110,261
+31602,SHINAOTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,5,0,5
+30803,TOLATA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,0,1,1,12,2,5,0,1,0,0,0,19,3,22
+60301,YACUIBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-07-01,0,0,0,0,0,0,0,0,0,1,1,0,5,0,0,0,0,0,0,0,6,1,7
+30601,ARQUE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70702,CHARAGUA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90101,COBIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,0,4
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,3,2,5
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,1,0,0,0,0,0,0,0,4,2,1,0,0,0,0,0,6,2,8
+71503,EL PUENTE(STC),infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70105,EL TORNO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,1,0,0,0,1,0,1,2,0,0,0,0,0,0,1,0,0,0,0,0,4,2,6
+71001,MONTERO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,2,2,4
+40101,ORURO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,3,2,5
+21104,PALOS BLANCOS,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,1,2,4,3,0,0,0,0,0,0,5,5,10
+31401,PUNATA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,3,3,6
+50501,SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,1,1,1,0,1,0,9,8,68,35,19,14,7,8,11,7,117,73,190
+31602,SHINAOTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,0,5
+31204,CHIMORE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,1,0,3,2,5
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,1,0,0,0,0,0,2,2,5,6,2,1,2,1,0,1,12,11,23
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,4,4
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,1,0,0,0,1,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,4,2,6
+40101,ORURO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+31203,POCONA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,1,1,4,1,0,0,0,0,0,0,5,2,7
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,1,1,2,7,7,3,0,0,0,0,0,11,10,21
+51601,SAN AGUSTIN,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,1,0,1,1,5,6
+50501,SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,1,0,2,1,1,0,12,14,92,92,23,9,6,7,15,13,152,136,288
+10403,SOPACHUY,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,5,1,6
+10202,TARVITA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10402,TOMINA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,2,0,11,2,0,0,0,2,0,0,13,4,17
+31003,VILLA TUNARI,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+30904,VINTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30201,AIQUILE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70703,CABEZAS,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20303,CALACOTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90101,COBIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,1,0,0,0,0,0,0,0,2,0,1,1,0,0,1,0,5,1,6
+70102,COTOCA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,1,0,0,0,0,0,0,2,2,2,5,0,0,0,1,0,9,4,13
+70105,EL TORNO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,2,1,3
+71004,FERNANDEZ ALONSO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,1,0,0,0,0,1,1,1,0,0,0,0,2,0,1,0,0,0,0,2,5,7
+71001,MONTERO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31203,POCONA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,2,8,0,0,0,0,0,1,0,9,2,11
+30901,QUILLACOLLO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,2,1,3
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,1,3,6,7,23,3,9,1,5,2,4,16,48,64
+80501,SAN IGNACIO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,1,1,0,0,0,1,19,12,86,84,20,18,17,7,12,11,155,134,289
+31602,SHINAOTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,2,0,0,0,0,5,3,8
+20606,TIPUANI,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30904,VINTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31204,CHIMORE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,2,2,0,6,3,9
+30905,COLCAPIRHUA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,7,4,1,0,1,0,0,0,9,4,13
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,3,1,2,2,0,0,0,0,1,0,0,0,0,0,1,0,7,3,10
+40101,ORURO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,8,1,7,1,1,0,0,0,0,0,16,2,18
+50402,RAVELO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,1,2,5,10,2,6,1,6,0,1,9,25,34
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,1,0,0,3,7,17,67,64,16,13,10,7,12,7,113,111,224
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,5,0,5
+30903,TIQUIPAYA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,1,4,1,5
+71502,URUBICHA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20104,ACHOCALLA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,1,2,0,12,36,2,10,2,4,0,1,18,52,70
+30201,AIQUILE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60202,BERMEJO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+90101,COBIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,4,3,7
+30101,COCHABAMBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,1,2,0,0,6,5,11
+30905,COLCAPIRHUA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,1,0,0,0,0,2,0,3,0,2,1,0,0,0,0,7,2,9
+70105,EL TORNO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,4,4
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+20101,LA PAZ,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,1,2,3,1,0,0,1,0,0,0,0,0,0,0,5,3,8
+70903,MAIRANA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+71001,MONTERO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,2,9,2,1,0,0,0,2,0,12,4,16
+80201,RIBERALTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,2,1,8,1,1,0,0,1,0,0,11,3,14
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,1,0,0,0,0,3,6,10,99,80,17,20,15,9,4,2,142,124,266
+31602,SHINAOTA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10403,SOPACHUY,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60101,TARIJA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,2,1,6,0,1,0,0,0,0,0,9,1,10
+30903,TIQUIPAYA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+80101,TRINIDAD,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,6,2,2,0,0,0,0,0,8,2,10
+60301,YACUIBA,infecc. de transmision sexual,prueba rapida reactiva de vih en poblacion en general,2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2

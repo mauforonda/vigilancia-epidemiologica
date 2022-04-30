@@ -1,0 +1,545 @@
+codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+10201,AZURDUY,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+60202,BERMEJO,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+50301,BETANZOS,mortalidad,muerte menor de 1 ano,2010-01-01,0,1,0,0,0,1,1
+70703,CABEZAS,mortalidad,muerte menor de 1 ano,2010-01-01,2,0,0,0,2,0,2
+51102,"CAIZA ""D""",mortalidad,muerte menor de 1 ano,2010-01-01,0,0,1,0,1,0,1
+22001,CARANAVI,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2010-01-01,1,1,0,0,1,1,2
+51103,CKOCHAS,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+90101,COBIJA,mortalidad,muerte menor de 1 ano,2010-01-01,0,1,0,0,0,1,1
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-01-01,2,4,0,0,2,4,6
+21306,COLQUENCHA,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+21701,COPACABANA,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+70704,CUEVO,mortalidad,muerte menor de 1 ano,2010-01-01,0,1,0,0,0,1,1
+10902,CULPINA,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+40401,CURAHUARA DE CARANGAS,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-01-01,6,3,9,3,15,6,21
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2010-01-01,0,1,0,0,0,1,1
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-01-01,15,9,3,1,18,10,28
+21202,LAJA,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+50203,LLALLAGUA,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,1,1,1,1,2
+40101,ORURO,mortalidad,muerte menor de 1 ano,2010-01-01,1,3,0,0,1,3,4
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-01-01,3,1,0,0,3,1,4
+21201,PUCARANI,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+90201,PUERTO RICO,mortalidad,muerte menor de 1 ano,2010-01-01,1,0,0,0,1,0,1
+30901,QUILLACOLLO,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,1,0,1,0,1
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-01-01,4,0,0,0,4,0,4
+50701,SACACA,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,1,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+71005,SAN PEDRO,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-01-01,6,5,0,0,6,5,11
+40104,SORACACHI,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,1,0,1,0,1
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-01-01,5,3,2,0,7,3,10
+31101,TAPACARI,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-01-01,6,3,0,0,6,3,9
+10202,TARVITA,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+20608,TEOPONTE,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,0,1,0,1,1
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2010-01-01,0,1,0,0,0,1,1
+31003,VILLA TUNARI,mortalidad,muerte menor de 1 ano,2010-01-01,0,0,1,0,1,0,1
+60301,YACUIBA,mortalidad,muerte menor de 1 ano,2010-01-01,2,2,0,0,2,2,4
+10404,ALCALA,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,0,1,0,1,1
+41202,BELEN DE ANDAMARCA,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,1,0,1,0,1
+50301,BETANZOS,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,0,1,0,1,1
+10901,CAMATAQUI (C. VILLA ABECIA),mortalidad,muerte menor de 1 ano,2010-02-01,0,0,1,0,1,0,1
+70706,CAMIRI,mortalidad,muerte menor de 1 ano,2010-02-01,1,0,0,0,1,0,1
+22001,CARANAVI,mortalidad,muerte menor de 1 ano,2010-02-01,1,0,0,0,1,0,1
+50702,CARIPUYO,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,1,0,1,0,1
+70702,CHARAGUA,mortalidad,muerte menor de 1 ano,2010-02-01,0,1,0,0,0,1,1
+31204,CHIMORE,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,1,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2010-02-01,1,0,0,0,1,0,1
+20501,CHUMA,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,1,0,1,0,1
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-02-01,3,1,0,0,3,1,4
+21401,COROICO,mortalidad,muerte menor de 1 ano,2010-02-01,0,1,0,0,0,1,1
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-02-01,1,3,6,6,7,9,16
+20405,ESCOMA,mortalidad,muerte menor de 1 ano,2010-02-01,2,0,0,1,2,1,3
+71004,FERNANDEZ ALONSO,mortalidad,muerte menor de 1 ano,2010-02-01,0,1,0,0,0,1,1
+70104,LA GUARDIA,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,1,0,1,0,1
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-02-01,14,11,0,1,14,12,26
+20307,NAZACARA DE PACAJES,mortalidad,muerte menor de 1 ano,2010-02-01,1,0,0,0,1,0,1
+50404,OCURI,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,1,0,1,0,1
+40101,ORURO,mortalidad,muerte menor de 1 ano,2010-02-01,3,0,0,0,3,0,3
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-02-01,2,3,0,0,2,3,5
+90201,PUERTO RICO,mortalidad,muerte menor de 1 ano,2010-02-01,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2010-02-01,1,0,0,1,1,1,2
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-02-01,0,5,0,0,0,5,5
+80304,RURRENABAQUE,mortalidad,muerte menor de 1 ano,2010-02-01,0,1,0,0,0,1,1
+71302,SAIPINA,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,0,1,0,1,1
+70402,SAN CARLOS,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,1,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2010-02-01,1,0,1,0,2,0,2
+90302,SAN LORENZO(PND),mortalidad,muerte menor de 1 ano,2010-02-01,0,0,0,1,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-02-01,12,2,0,0,12,2,14
+70602,SANTA ROSA DEL SARA,mortalidad,muerte menor de 1 ano,2010-02-01,0,1,0,0,0,1,1
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-02-01,6,3,0,1,6,4,10
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-02-01,3,2,0,0,3,2,5
+31601,TIRAQUE (CBBA),mortalidad,muerte menor de 1 ano,2010-02-01,0,0,0,2,0,2,2
+80101,TRINIDAD,mortalidad,muerte menor de 1 ano,2010-02-01,1,0,0,0,1,0,1
+51201,UYUNI,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,1,0,1,0,1
+31003,VILLA TUNARI,mortalidad,muerte menor de 1 ano,2010-02-01,1,0,0,0,1,0,1
+20903,YACO,mortalidad,muerte menor de 1 ano,2010-02-01,0,0,1,0,1,0,1
+10301,ZUDAÑEZ,mortalidad,muerte menor de 1 ano,2010-02-01,1,0,0,0,1,0,1
+10404,ALCALA,mortalidad,muerte menor de 1 ano,2010-03-01,0,1,0,0,0,1,1
+60202,BERMEJO,mortalidad,muerte menor de 1 ano,2010-03-01,0,1,0,0,0,1,1
+50301,BETANZOS,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,0,1,0,1
+31501,BOLIVAR,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,1,1,1,2
+70707,BOYUIBE,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,0,1,0,1
+20303,CALACOTO,mortalidad,muerte menor de 1 ano,2010-03-01,0,1,0,0,0,1,1
+21304,CALAMARCA,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,0,1,0,1,1
+70702,CHARAGUA,mortalidad,muerte menor de 1 ano,2010-03-01,1,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2010-03-01,1,0,0,0,1,0,1
+51103,CKOCHAS,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,0,1,0,1
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-03-01,16,10,0,0,16,10,26
+21306,COLQUENCHA,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,1,1,1,2
+71301,COMARAPA,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,0,1,0,1,1
+21401,COROICO,mortalidad,muerte menor de 1 ano,2010-03-01,0,1,0,0,0,1,1
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-03-01,5,6,8,9,13,15,28
+20405,ESCOMA,mortalidad,muerte menor de 1 ano,2010-03-01,0,2,0,0,0,2,2
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2010-03-01,1,2,0,0,1,2,3
+70705,GUTIERREZ,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,0,1,0,1
+70104,LA GUARDIA,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,0,1,0,1,1
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-03-01,10,12,3,0,13,12,25
+21202,LAJA,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,0,1,0,1
+50203,LLALLAGUA,mortalidad,muerte menor de 1 ano,2010-03-01,1,0,1,1,2,1,3
+40101,ORURO,mortalidad,muerte menor de 1 ano,2010-03-01,0,1,0,0,0,1,1
+21305,PATACAMAYA,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,0,1,0,1,1
+70103,PORONGO,mortalidad,muerte menor de 1 ano,2010-03-01,0,1,0,0,0,1,1
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-03-01,1,3,0,0,1,3,4
+21201,PUCARANI,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,0,1,0,1,1
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,2,1,2,3
+31401,PUNATA,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,0,1,0,1,1
+30901,QUILLACOLLO,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,0,2,0,2,2
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-03-01,2,3,0,0,2,3,5
+50701,SACACA,mortalidad,muerte menor de 1 ano,2010-03-01,1,0,0,0,1,0,1
+20805,SAN ANDRES DE MACHACA,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,0,1,0,1
+80302,SAN BORJA,mortalidad,muerte menor de 1 ano,2010-03-01,1,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2010-03-01,0,1,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2010-03-01,3,0,1,0,4,0,4
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-03-01,7,4,0,0,7,4,11
+31602,SHINAOTA,mortalidad,muerte menor de 1 ano,2010-03-01,0,1,0,0,0,1,1
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-03-01,4,1,0,1,4,2,6
+50303,TACOBAMBA,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,0,1,0,1,1
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-03-01,3,3,0,0,3,3,6
+10202,TARVITA,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,0,1,0,1,1
+80101,TRINIDAD,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,0,1,0,1
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2010-03-01,1,0,0,0,1,0,1
+40402,TURCO,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,0,1,0,1
+60301,YACUIBA,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,0,1,0,1
+70403,YAPACANI,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,0,1,0,1,1
+10301,ZUDAÑEZ,mortalidad,muerte menor de 1 ano,2010-03-01,0,0,1,0,1,0,1
+20201,ACHACACHI,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,1,0,1,0,1
+30501,ARANI,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,1,0,1,0,1
+21303,AYO AYO,mortalidad,muerte menor de 1 ano,2010-04-01,1,0,0,0,1,0,1
+50301,BETANZOS,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,0,2,0,2,2
+21304,CALAMARCA,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,2,0,2,0,2
+22001,CARANAVI,mortalidad,muerte menor de 1 ano,2010-04-01,0,1,0,0,0,1,1
+40201,CHALLAPATA,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,3,3,3,3,6
+20305,CHARAÑA,mortalidad,muerte menor de 1 ano,2010-04-01,1,0,0,0,1,0,1
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-04-01,10,11,0,0,10,11,21
+71301,COMARAPA,mortalidad,muerte menor de 1 ano,2010-04-01,1,0,0,0,1,0,1
+21401,COROICO,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,0,1,0,1,1
+70704,CUEVO,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,1,0,1,0,1
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-04-01,7,2,7,4,14,6,20
+20405,ESCOMA,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,1,0,1,0,1
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2010-04-01,3,1,0,0,3,1,4
+40701,HUANUNI,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,0,1,0,1,1
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-04-01,11,5,0,2,11,7,18
+50203,LLALLAGUA,mortalidad,muerte menor de 1 ano,2010-04-01,2,0,0,0,2,0,2
+31301,MIZQUE,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,1,0,1,0,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),mortalidad,muerte menor de 1 ano,2010-04-01,0,0,1,0,1,0,1
+40101,ORURO,mortalidad,muerte menor de 1 ano,2010-04-01,0,1,0,0,0,1,1
+21104,PALOS BLANCOS,mortalidad,muerte menor de 1 ano,2010-04-01,1,0,0,0,1,0,1
+21802,PAPEL PAMPA,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,1,0,1,0,1
+20702,PELECHUCO,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,0,1,0,1,1
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-04-01,0,1,0,0,0,1,1
+10302,PRESTO,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,1,0,1,0,1
+31401,PUNATA,mortalidad,muerte menor de 1 ano,2010-04-01,1,0,0,0,1,0,1
+50402,RAVELO,mortalidad,muerte menor de 1 ano,2010-04-01,1,0,0,0,1,0,1
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-04-01,4,2,0,0,4,2,6
+31001,SACABA,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,2,2,2,2,4
+80302,SAN BORJA,mortalidad,muerte menor de 1 ano,2010-04-01,1,1,0,0,1,1,2
+21502,SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,0,1,0,1,1
+70402,SAN CARLOS,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,1,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2010-04-01,3,1,0,0,3,1,4
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-04-01,9,3,0,0,9,3,12
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-04-01,9,4,0,0,9,4,13
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-04-01,2,0,0,0,2,0,2
+10202,TARVITA,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,2,0,2,0,2
+50102,TINGUIPAYA,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,1,0,1,0,1
+31601,TIRAQUE (CBBA),mortalidad,muerte menor de 1 ano,2010-04-01,0,0,1,1,1,1,2
+41001,TOLEDO,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,0,1,0,1,1
+10402,TOMINA,mortalidad,muerte menor de 1 ano,2010-04-01,0,0,0,2,0,2,2
+50502,TORO TORO,mortalidad,muerte menor de 1 ano,2010-04-01,0,1,0,0,0,1,1
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2010-04-01,1,0,0,0,1,0,1
+60303,VILLA MONTES,mortalidad,muerte menor de 1 ano,2010-04-01,1,0,0,0,1,0,1
+31003,VILLA TUNARI,mortalidad,muerte menor de 1 ano,2010-04-01,0,2,1,0,1,2,3
+51501,VILLAZON,mortalidad,muerte menor de 1 ano,2010-04-01,1,0,0,0,1,0,1
+70403,YAPACANI,mortalidad,muerte menor de 1 ano,2010-04-01,1,0,0,0,1,0,1
+20202,ANCORAIMES,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+50301,BETANZOS,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+21003,CAJUATA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,0,1,0,1,1
+20303,CALACOTO,mortalidad,muerte menor de 1 ano,2010-05-01,1,0,0,0,1,0,1
+30701,CAPINOTA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+40201,CHALLAPATA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,2,1,2,1,3
+21101,CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2010-05-01,2,0,0,0,2,0,2
+51103,CKOCHAS,mortalidad,muerte menor de 1 ano,2010-05-01,1,0,0,0,1,0,1
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-05-01,2,5,0,0,2,5,7
+31002,COLOMI,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,0,1,0,1,1
+70603,COLPA BELGICA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,0,1,0,1,1
+50401,COLQUECHACA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+21306,COLQUENCHA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+21701,COPACABANA,mortalidad,muerte menor de 1 ano,2010-05-01,1,0,0,0,1,0,1
+40301,CORQUE,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+50601,COTAGAITA,mortalidad,muerte menor de 1 ano,2010-05-01,1,0,1,0,2,0,2
+10902,CULPINA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-05-01,8,4,11,5,19,9,28
+70105,EL TORNO,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+20405,ESCOMA,mortalidad,muerte menor de 1 ano,2010-05-01,1,0,0,0,1,0,1
+41101,EUCALIPTUS,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,0,1,0,1,1
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2010-05-01,1,0,0,0,1,0,1
+40701,HUANUNI,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+20806,JESUS DE MACHACA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-05-01,13,10,0,1,13,11,24
+50203,LLALLAGUA,mortalidad,muerte menor de 1 ano,2010-05-01,1,0,0,0,1,0,1
+51203,PORCO,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+10103,POROMA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-05-01,3,2,0,0,3,2,5
+30901,QUILLACOLLO,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,0,1,0,1,1
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-05-01,2,2,0,0,2,2,4
+31001,SACABA,mortalidad,muerte menor de 1 ano,2010-05-01,0,1,1,2,1,3,4
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2010-05-01,2,1,0,0,2,1,3
+10702,SAN LUCAS,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,0,1,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-05-01,2,8,2,0,4,8,12
+70602,SANTA ROSA DEL SARA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+21301,SICA SICA (VILLA AROMA),mortalidad,muerte menor de 1 ano,2010-05-01,0,0,0,1,0,1,1
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-05-01,8,7,0,0,8,7,15
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-05-01,0,1,0,0,0,1,1
+10202,TARVITA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,0,1,0,1,1
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,1,0,1,0,1
+60303,VILLA MONTES,mortalidad,muerte menor de 1 ano,2010-05-01,2,0,0,0,2,0,2
+51501,VILLAZON,mortalidad,muerte menor de 1 ano,2010-05-01,0,1,0,1,0,2,2
+60301,YACUIBA,mortalidad,muerte menor de 1 ano,2010-05-01,1,0,0,0,1,0,1
+50103,YOCALLA,mortalidad,muerte menor de 1 ano,2010-05-01,0,0,0,1,0,1,1
+51302,ACACIO,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,1,1,1,2
+20201,ACHACACHI,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,0,1,0,1,1
+30201,AIQUILE,mortalidad,muerte menor de 1 ano,2010-06-01,1,0,0,0,1,0,1
+20701,APOLO,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,0,1,0,1,1
+20502,AYATA,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+21303,AYO AYO,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+50301,BETANZOS,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,1,1,1,2
+70706,CAMIRI,mortalidad,muerte menor de 1 ano,2010-06-01,1,0,0,0,1,0,1
+40102,CARACOLLO,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,0,1,0,1,1
+60302,CARAPARI,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+70702,CHARAGUA,mortalidad,muerte menor de 1 ano,2010-06-01,0,1,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2010-06-01,0,1,0,0,0,1,1
+90101,COBIJA,mortalidad,muerte menor de 1 ano,2010-06-01,1,0,0,0,1,0,1
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-06-01,14,10,0,2,14,12,26
+21307,COLLANA,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+21701,COPACABANA,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+10902,CULPINA,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,1,1,1,2
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-06-01,6,3,11,6,17,9,26
+60502,EL PUENTE(TJA),mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+70105,EL TORNO,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,0,1,0,1,1
+20405,ESCOMA,mortalidad,muerte menor de 1 ano,2010-06-01,1,0,0,0,1,0,1
+20602,GUANAY,mortalidad,muerte menor de 1 ano,2010-06-01,0,1,0,0,0,1,1
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2010-06-01,1,0,0,0,1,0,1
+40701,HUANUNI,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,1,1,1,2
+41601,HUAYLLAMARCA,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,1,1,1,2
+10304,ICLA,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-06-01,23,7,0,0,23,7,30
+21202,LAJA,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+70502,PAILON,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-06-01,5,4,0,0,5,4,9
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,0,1,0,1,1
+30901,QUILLACOLLO,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+50402,RAVELO,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-06-01,2,2,0,0,2,2,4
+31001,SACABA,mortalidad,muerte menor de 1 ano,2010-06-01,1,0,1,0,2,0,2
+50701,SACACA,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,0,1,0,1,1
+21502,SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2010-06-01,0,1,0,0,0,1,1
+80401,SANTA ANA,mortalidad,muerte menor de 1 ano,2010-06-01,1,1,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-06-01,9,7,0,0,9,7,16
+10403,SOPACHUY,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-06-01,13,3,0,1,13,4,17
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-06-01,1,0,0,1,1,1,2
+31601,TIRAQUE (CBBA),mortalidad,muerte menor de 1 ano,2010-06-01,1,0,0,2,1,2,3
+41001,TOLEDO,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,0,1,0,1,1
+10402,TOMINA,mortalidad,muerte menor de 1 ano,2010-06-01,1,0,0,0,1,0,1
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2010-06-01,0,1,0,0,0,1,1
+50201,UNCIA,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,0,1,0,1,1
+70801,VALLEGRANDE,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+60303,VILLA MONTES,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,1,1,1,2
+10801,VILLA SERRANO,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,0,1,0,1,1
+31003,VILLA TUNARI,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,1,0,1,0,1
+20306,WALDO BALLIVIAN,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,0,1,0,1,1
+50103,YOCALLA,mortalidad,muerte menor de 1 ano,2010-06-01,0,0,0,1,0,1,1
+20201,ACHACACHI,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,0,1,0,1,1
+30402,ANZALDO,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,1,0,1,0,1
+51301,ARAMPAMPA,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,1,1,1,1,2
+50301,BETANZOS,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,1,0,1,0,1
+31501,BOLIVAR,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,0,1,0,1,1
+70706,CAMIRI,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,1,0,1,0,1
+40102,CARACOLLO,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,1,0,1,0,1
+50302,CHAQUI,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,0,1,0,1,1
+70702,CHARAGUA,mortalidad,muerte menor de 1 ano,2010-07-01,1,0,0,0,1,0,1
+50202,CHAYANTA,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,1,2,1,2,3
+20501,CHUMA,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,0,1,0,1,1
+90101,COBIJA,mortalidad,muerte menor de 1 ano,2010-07-01,0,1,0,0,0,1,1
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-07-01,5,0,0,0,5,0,5
+21307,COLLANA,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,1,0,1,0,1
+21401,COROICO,mortalidad,muerte menor de 1 ano,2010-07-01,1,0,1,0,2,0,2
+50601,COTAGAITA,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,0,1,0,1,1
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-07-01,5,4,11,6,16,10,26
+70105,EL TORNO,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,0,1,0,1,1
+41101,EUCALIPTUS,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,0,1,0,1,1
+40701,HUANUNI,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,2,0,2,0,2
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-07-01,16,5,3,0,19,5,24
+10903,LAS CARRERAS,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,1,0,1,0,1
+20901,LURIBAY,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,0,1,0,1,1
+71001,MONTERO,mortalidad,muerte menor de 1 ano,2010-07-01,1,0,0,1,1,1,2
+70502,PAILON,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,1,0,1,0,1
+50403,POCOATA,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,0,1,0,1,1
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-07-01,4,0,0,0,4,0,4
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2010-07-01,1,0,0,1,1,1,2
+31401,PUNATA,mortalidad,muerte menor de 1 ano,2010-07-01,1,0,0,0,1,0,1
+30901,QUILLACOLLO,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,2,0,2,0,2
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-07-01,4,0,0,0,4,0,4
+31001,SACABA,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,1,0,1,0,1
+21502,SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,0,1,0,1,1
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2010-07-01,2,2,0,0,2,2,4
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-07-01,7,4,1,0,8,4,12
+20601,SORATA,mortalidad,muerte menor de 1 ano,2010-07-01,0,1,0,0,0,1,1
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-07-01,5,2,2,0,7,2,9
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-07-01,1,2,0,0,1,2,3
+10202,TARVITA,mortalidad,muerte menor de 1 ano,2010-07-01,1,0,0,0,1,0,1
+50201,UNCIA,mortalidad,muerte menor de 1 ano,2010-07-01,1,0,0,0,1,0,1
+31003,VILLA TUNARI,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,0,1,0,1,1
+70201,WARNES,mortalidad,muerte menor de 1 ano,2010-07-01,0,0,1,0,1,0,1
+20701,APOLO,mortalidad,muerte menor de 1 ano,2010-08-01,1,0,0,0,1,0,1
+60202,BERMEJO,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,1,0,1,0,1
+10701,CAMARGO,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+40102,CARACOLLO,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+22001,CARANAVI,mortalidad,muerte menor de 1 ano,2010-08-01,0,1,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte menor de 1 ano,2010-08-01,1,0,0,0,1,0,1
+20501,CHUMA,mortalidad,muerte menor de 1 ano,2010-08-01,1,0,0,0,1,0,1
+90101,COBIJA,mortalidad,muerte menor de 1 ano,2010-08-01,1,0,0,0,1,0,1
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-08-01,5,11,0,0,5,11,16
+70603,COLPA BELGICA,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+21602,CURVA,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,1,0,1,0,1
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-08-01,3,4,5,8,8,12,20
+80402,EXALTACION,mortalidad,muerte menor de 1 ano,2010-08-01,0,1,0,0,0,1,1
+10304,ICLA,mortalidad,muerte menor de 1 ano,2010-08-01,1,0,0,0,1,0,1
+70104,LA GUARDIA,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,1,0,1,0,1
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-08-01,7,9,1,0,8,9,17
+20402,MOCOMOCO,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,1,0,1,0,1
+21104,PALOS BLANCOS,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+50403,POCOATA,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+31203,POCONA,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-08-01,0,7,0,0,0,7,7
+10302,PRESTO,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+50402,RAVELO,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-08-01,1,1,0,0,1,1,2
+31001,SACABA,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,1,0,1,0,1
+50701,SACACA,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,1,0,1,0,1
+20805,SAN ANDRES DE MACHACA,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+21502,SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2010-08-01,0,2,0,0,0,2,2
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2010-08-01,1,0,2,1,3,1,4
+50501,SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+90202,SAN PEDRO(PND),mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-08-01,6,3,1,0,7,3,10
+21901,SANTIAGO DE MACHACA,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,1,0,1,0,1
+21301,SICA SICA (VILLA AROMA),mortalidad,muerte menor de 1 ano,2010-08-01,0,0,1,0,1,0,1
+10403,SOPACHUY,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,1,1,1,1,2
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-08-01,2,4,0,0,2,4,6
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-08-01,1,3,0,0,1,3,4
+80101,TRINIDAD,mortalidad,muerte menor de 1 ano,2010-08-01,1,0,0,0,1,0,1
+51201,UYUNI,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,2,0,2,0,2
+60303,VILLA MONTES,mortalidad,muerte menor de 1 ano,2010-08-01,1,0,0,0,1,0,1
+10801,VILLA SERRANO,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,2,1,2,1,3
+31003,VILLA TUNARI,mortalidad,muerte menor de 1 ano,2010-08-01,0,1,1,0,1,1,2
+50103,YOCALLA,mortalidad,muerte menor de 1 ano,2010-08-01,0,0,0,1,0,1,1
+20202,ANCORAIMES,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,0,1,0,1,1
+30501,ARANI,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+21203,BATALLAS,mortalidad,muerte menor de 1 ano,2010-09-01,1,0,0,0,1,0,1
+21304,CALAMARCA,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,1,1,1,2
+40201,CHALLAPATA,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+50202,CHAYANTA,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,3,2,3,2,5
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-09-01,10,8,0,0,10,8,18
+31002,COLOMI,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+21306,COLQUENCHA,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,1,1,1,2
+71101,CONCEPCION,mortalidad,muerte menor de 1 ano,2010-09-01,1,0,0,0,1,0,1
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-09-01,6,6,5,9,11,15,26
+41101,EUCALIPTUS,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,0,1,0,1,1
+20802,GUAQUI,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,0,1,0,1,1
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2010-09-01,1,0,0,1,1,1,2
+40701,HUANUNI,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-09-01,12,9,3,2,15,11,26
+21006,LICOMA PAMPA,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+50203,LLALLAGUA,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,2,0,2,0,2
+11003,MACHARETI,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+10501,MONTEAGUDO,mortalidad,muerte menor de 1 ano,2010-09-01,1,0,0,0,1,0,1
+40101,ORURO,mortalidad,muerte menor de 1 ano,2010-09-01,2,0,0,0,2,0,2
+50403,POCOATA,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-09-01,3,2,0,0,3,2,5
+10302,PRESTO,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,0,1,0,1,1
+21201,PUCARANI,mortalidad,muerte menor de 1 ano,2010-09-01,0,1,0,0,0,1,1
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2010-09-01,1,0,1,0,2,0,2
+30901,QUILLACOLLO,mortalidad,muerte menor de 1 ano,2010-09-01,1,0,0,0,1,0,1
+50402,RAVELO,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-09-01,1,3,0,0,1,3,4
+31001,SACABA,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+50701,SACACA,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,0,1,0,1,1
+80302,SAN BORJA,mortalidad,muerte menor de 1 ano,2010-09-01,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2010-09-01,1,1,0,0,1,1,2
+10702,SAN LUCAS,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+71005,SAN PEDRO,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,0,1,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-09-01,4,6,0,0,4,6,10
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-09-01,11,7,1,0,12,7,19
+10601,TARABUCO,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+30401,TARATA,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,0,1,0,1,1
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-09-01,4,0,0,0,4,0,4
+31601,TIRAQUE (CBBA),mortalidad,muerte menor de 1 ano,2010-09-01,0,0,0,1,0,1,1
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2010-09-01,1,0,0,0,1,0,1
+40402,TURCO,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+60303,VILLA MONTES,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+10801,VILLA SERRANO,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,2,1,2,1,3
+51501,VILLAZON,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+20306,WALDO BALLIVIAN,mortalidad,muerte menor de 1 ano,2010-09-01,0,0,1,0,1,0,1
+20202,ANCORAIMES,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,0,1,0,1
+60202,BERMEJO,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,0,1,0,1
+20303,CALACOTO,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,1,0,1,1
+21304,CALAMARCA,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,0,1,0,1
+30701,CAPINOTA,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,1,1,1,2
+90101,COBIJA,mortalidad,muerte menor de 1 ano,2010-10-01,0,1,0,1,0,2,2
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-10-01,8,8,0,0,8,8,16
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-10-01,7,2,6,5,13,7,20
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2010-10-01,1,0,0,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),mortalidad,muerte menor de 1 ano,2010-10-01,1,0,0,0,1,0,1
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-10-01,9,5,1,2,10,7,17
+20901,LURIBAY,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,0,1,0,1
+31301,MIZQUE,mortalidad,muerte menor de 1 ano,2010-10-01,1,0,0,0,1,0,1
+40101,ORURO,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,0,1,0,1
+21305,PATACAMAYA,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,1,0,1,1
+50403,POCOATA,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,1,0,1,1
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-10-01,0,2,0,0,0,2,2
+10302,PRESTO,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,0,1,0,1
+90301,PUERTO GONZALO MORENO,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,1,0,1,1
+71401,PUERTO SUAREZ,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,0,1,0,1
+51101,PUNA,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,1,0,1,1
+50402,RAVELO,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,0,1,0,1
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-10-01,0,1,0,0,0,1,1
+31001,SACABA,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,2,0,2,2
+50701,SACACA,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,1,0,1,1
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2010-10-01,2,0,0,0,2,0,2
+10702,SAN LUCAS,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,1,0,1,1
+71005,SAN PEDRO,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,1,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-10-01,2,7,0,0,2,7,9
+21901,SANTIAGO DE MACHACA,mortalidad,muerte menor de 1 ano,2010-10-01,1,0,0,0,1,0,1
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-10-01,3,4,0,0,3,4,7
+50303,TACOBAMBA,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,0,1,0,1
+10601,TARABUCO,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,1,0,1,1
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-10-01,1,1,0,0,1,1,2
+20608,TEOPONTE,mortalidad,muerte menor de 1 ano,2010-10-01,1,0,0,0,1,0,1
+50102,TINGUIPAYA,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,0,1,0,1
+30903,TIQUIPAYA,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,0,1,0,1
+41001,TOLEDO,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,1,0,1,1
+80101,TRINIDAD,mortalidad,muerte menor de 1 ano,2010-10-01,1,0,0,0,1,0,1
+10704,VILLA CHARCAS,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,1,2,1,2,3
+60303,VILLA MONTES,mortalidad,muerte menor de 1 ano,2010-10-01,0,1,0,0,0,1,1
+20903,YACO,mortalidad,muerte menor de 1 ano,2010-10-01,0,0,0,1,0,1,1
+20202,ANCORAIMES,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+71501,ASCENCION DE GUARAYOS,mortalidad,muerte menor de 1 ano,2010-11-01,1,0,0,0,1,0,1
+60202,BERMEJO,mortalidad,muerte menor de 1 ano,2010-11-01,0,1,0,0,0,1,1
+70703,CABEZAS,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,0,1,0,1,1
+20303,CALACOTO,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,0,1,0,1,1
+70706,CAMIRI,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+22001,CARANAVI,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+40201,CHALLAPATA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+50202,CHAYANTA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+20501,CHUMA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+51103,CKOCHAS,mortalidad,muerte menor de 1 ano,2010-11-01,2,0,0,0,2,0,2
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-11-01,8,5,0,0,8,5,13
+71301,COMARAPA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,0,1,0,1,1
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-11-01,9,3,4,3,13,6,19
+70105,EL TORNO,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+31206,ENTRE RIOS CBBA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,2,0,2,0,2
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2010-11-01,1,0,0,0,1,0,1
+20404,HUMANATA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,0,2,0,2,2
+10703,INCAHUASI,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,0,1,0,1,1
+21501,IXIAMAS,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+21105,LA ASUNTA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-11-01,13,15,1,2,14,17,31
+10303,MOJOCOYA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+10501,MONTEAGUDO,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+40101,ORURO,mortalidad,muerte menor de 1 ano,2010-11-01,0,1,0,0,0,1,1
+21305,PATACAMAYA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,0,2,0,2,2
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-11-01,3,3,0,0,3,3,6
+71401,PUERTO SUAREZ,mortalidad,muerte menor de 1 ano,2010-11-01,1,1,0,0,1,1,2
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2010-11-01,0,1,0,1,0,2,2
+31401,PUNATA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+30901,QUILLACOLLO,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,2,1,2,1,3
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-11-01,2,2,0,0,2,2,4
+31001,SACABA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,2,0,2,0,2
+50701,SACACA,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+80302,SAN BORJA,mortalidad,muerte menor de 1 ano,2010-11-01,1,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,mortalidad,muerte menor de 1 ano,2010-11-01,0,1,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2010-11-01,0,1,0,0,0,1,1
+10702,SAN LUCAS,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,2,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-11-01,6,5,1,0,7,5,12
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-11-01,8,3,3,2,11,5,16
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-11-01,4,1,0,0,4,1,5
+31201,TOTORA(CBBA),mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2010-11-01,1,0,0,0,1,0,1
+50201,UNCIA,mortalidad,muerte menor de 1 ano,2010-11-01,0,1,0,0,0,1,1
+30904,VINTO,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,0,1,0,1,1
+20306,WALDO BALLIVIAN,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+10602,YAMPARAEZ,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+10301,ZUDAÑEZ,mortalidad,muerte menor de 1 ano,2010-11-01,0,0,1,0,1,0,1
+20201,ACHACACHI,mortalidad,muerte menor de 1 ano,2010-12-01,1,0,1,0,2,0,2
+70706,CAMIRI,mortalidad,muerte menor de 1 ano,2010-12-01,0,1,0,1,0,2,2
+60302,CARAPARI,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+40201,CHALLAPATA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+50202,CHAYANTA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,1,0,1,0,1
+90101,COBIJA,mortalidad,muerte menor de 1 ano,2010-12-01,1,2,0,0,1,2,3
+30101,COCHABAMBA,mortalidad,muerte menor de 1 ano,2010-12-01,11,7,0,0,11,7,18
+31002,COLOMI,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+21701,COPACABANA,mortalidad,muerte menor de 1 ano,2010-12-01,1,0,0,1,1,1,2
+21401,COROICO,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,1,0,1,0,1
+20105,EL ALTO,mortalidad,muerte menor de 1 ano,2010-12-01,11,7,5,2,16,9,25
+20602,GUANAY,mortalidad,muerte menor de 1 ano,2010-12-01,1,0,0,0,1,0,1
+80202,GUAYARAMERIN,mortalidad,muerte menor de 1 ano,2010-12-01,1,1,0,0,1,1,2
+70705,GUTIERREZ,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+40701,HUANUNI,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,1,0,1,0,1
+10304,ICLA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+20101,LA PAZ,mortalidad,muerte menor de 1 ano,2010-12-01,12,10,4,1,16,11,27
+50203,LLALLAGUA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+50404,OCURI,mortalidad,muerte menor de 1 ano,2010-12-01,0,2,0,0,0,2,2
+70202,OKINAWA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+40101,ORURO,mortalidad,muerte menor de 1 ano,2010-12-01,1,1,0,0,1,1,2
+21305,PATACAMAYA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,1,0,1,0,1
+50403,POCOATA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,2,0,2,2
+70601,PORTACHUELO,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+50101,POTOSI,mortalidad,muerte menor de 1 ano,2010-12-01,3,3,0,0,3,3,6
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,1,0,1,0,1
+30901,QUILLACOLLO,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+21002,QUIME,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+80201,RIBERALTA,mortalidad,muerte menor de 1 ano,2010-12-01,5,1,0,0,5,1,6
+70503,ROBORE,mortalidad,muerte menor de 1 ano,2010-12-01,1,1,0,0,1,1,2
+80304,RURRENABAQUE,mortalidad,muerte menor de 1 ano,2010-12-01,0,1,0,0,0,1,1
+31001,SACABA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,1,0,1,0,1
+50701,SACACA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,2,0,2,2
+20805,SAN ANDRES DE MACHACA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+70301,SAN IGNACIO DE VELASCO,mortalidad,muerte menor de 1 ano,2010-12-01,2,0,0,0,2,0,2
+70501,SAN JOSE DE CHIQUITOS,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,1,0,1,0,1
+10702,SAN LUCAS,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,1,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 1 ano,2010-12-01,8,5,0,0,8,5,13
+10101,SUCRE,mortalidad,muerte menor de 1 ano,2010-12-01,5,1,0,0,5,1,6
+30401,TARATA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+60101,TARIJA,mortalidad,muerte menor de 1 ano,2010-12-01,1,1,0,0,1,1,2
+50102,TINGUIPAYA,mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+80101,TRINIDAD,mortalidad,muerte menor de 1 ano,2010-12-01,1,0,0,0,1,0,1
+50801,TUPIZA,mortalidad,muerte menor de 1 ano,2010-12-01,0,1,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),mortalidad,muerte menor de 1 ano,2010-12-01,0,0,0,1,0,1,1
+31003,VILLA TUNARI,mortalidad,muerte menor de 1 ano,2010-12-01,0,1,1,0,1,1,2

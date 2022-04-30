@@ -1,0 +1,56 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 1 año,1 a 4 años,5 a 9 años,10 a 20 años,21 a 59 años,60 y más,TOTAL
+70706,CAMIRI,sospecha diagnostica,dengue hemorragico,2013-01-01,0,1,0,0,0,0,1
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,dengue hemorragico,2013-01-01,0,0,0,0,1,0,1
+80702,SAN RAMON BENI,sospecha diagnostica,dengue hemorragico,2013-01-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-01-01,0,2,0,3,3,0,8
+80303,SANTA ROSA,sospecha diagnostica,dengue hemorragico,2013-01-01,0,0,0,0,0,1,1
+31602,SHINAOTA,sospecha diagnostica,dengue hemorragico,2013-01-01,0,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,dengue hemorragico,2013-01-01,0,0,1,4,13,1,19
+31003,VILLA TUNARI,sospecha diagnostica,dengue hemorragico,2013-01-01,0,0,0,0,0,0,0
+70403,YAPACANI,sospecha diagnostica,dengue hemorragico,2013-01-01,0,0,0,0,0,1,1
+80801,MAGDALENA,sospecha diagnostica,dengue hemorragico,2013-02-01,0,0,0,0,3,0,3
+80501,SAN IGNACIO,sospecha diagnostica,dengue hemorragico,2013-02-01,0,0,0,1,0,0,1
+71104,SAN JULIAN,sospecha diagnostica,dengue hemorragico,2013-02-01,0,0,0,0,2,0,2
+80702,SAN RAMON BENI,sospecha diagnostica,dengue hemorragico,2013-02-01,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-02-01,1,0,0,5,7,0,13
+80101,TRINIDAD,sospecha diagnostica,dengue hemorragico,2013-02-01,1,0,1,3,13,0,18
+20101,LA PAZ,sospecha diagnostica,dengue hemorragico,2013-03-01,0,0,0,0,1,0,1
+80801,MAGDALENA,sospecha diagnostica,dengue hemorragico,2013-03-01,0,0,0,0,1,0,1
+80702,SAN RAMON BENI,sospecha diagnostica,dengue hemorragico,2013-03-01,0,0,0,1,1,1,3
+71103,SAN RAMON SCZ,sospecha diagnostica,dengue hemorragico,2013-03-01,0,0,1,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-03-01,1,1,0,3,14,0,19
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue hemorragico,2013-03-01,0,0,1,0,3,1,5
+60101,TARIJA,sospecha diagnostica,dengue hemorragico,2013-03-01,0,0,0,2,0,0,2
+80101,TRINIDAD,sospecha diagnostica,dengue hemorragico,2013-03-01,0,0,0,2,4,0,6
+60301,YACUIBA,sospecha diagnostica,dengue hemorragico,2013-03-01,0,0,1,1,0,0,2
+60302,CARAPARI,sospecha diagnostica,dengue hemorragico,2013-04-01,0,0,0,1,0,0,1
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue hemorragico,2013-04-01,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,dengue hemorragico,2013-04-01,0,0,0,0,4,0,4
+70701,LAGUNILLAS,sospecha diagnostica,dengue hemorragico,2013-04-01,0,0,0,1,0,0,1
+70503,ROBORE,sospecha diagnostica,dengue hemorragico,2013-04-01,0,0,0,1,0,0,1
+71102,SAN JAVIER(STC),sospecha diagnostica,dengue hemorragico,2013-04-01,0,0,0,2,1,0,3
+80702,SAN RAMON BENI,sospecha diagnostica,dengue hemorragico,2013-04-01,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-04-01,1,0,0,6,7,4,18
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue hemorragico,2013-04-01,0,1,4,2,6,0,13
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,dengue hemorragico,2013-04-01,0,0,0,1,0,0,1
+60301,YACUIBA,sospecha diagnostica,dengue hemorragico,2013-04-01,0,0,1,0,0,0,1
+70706,CAMIRI,sospecha diagnostica,dengue hemorragico,2013-05-01,0,1,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-05-01,0,0,1,3,1,0,5
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue hemorragico,2013-05-01,0,0,0,1,3,0,4
+60301,YACUIBA,sospecha diagnostica,dengue hemorragico,2013-05-01,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue hemorragico,2013-06-01,0,0,1,1,0,0,2
+71104,SAN JULIAN,sospecha diagnostica,dengue hemorragico,2013-06-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-06-01,1,2,0,7,14,7,31
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue hemorragico,2013-06-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-07-01,0,0,1,3,7,1,12
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-08-01,0,0,2,2,2,0,6
+20101,LA PAZ,sospecha diagnostica,dengue hemorragico,2013-09-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-09-01,0,1,0,1,2,1,5
+31003,VILLA TUNARI,sospecha diagnostica,dengue hemorragico,2013-09-01,0,0,0,0,0,0,0
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue hemorragico,2013-10-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-10-01,0,0,0,2,1,2,5
+31003,VILLA TUNARI,sospecha diagnostica,dengue hemorragico,2013-10-01,0,0,1,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-11-01,0,0,1,6,3,0,10
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,dengue hemorragico,2013-12-01,1,4,1,2,0,0,8
+80401,SANTA ANA,sospecha diagnostica,dengue hemorragico,2013-12-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2013-12-01,1,3,0,0,3,0,7

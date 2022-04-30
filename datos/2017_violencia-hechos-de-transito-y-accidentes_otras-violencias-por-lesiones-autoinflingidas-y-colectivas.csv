@@ -1,0 +1,626 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+20201,ACHACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+90104,BELLA FLOR,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10701,CAMARGO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,3,1,4
+40201,CHALLAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,3,4
+31204,CHIMORE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30801,CLIZA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,0,0,6,1,7
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,0,0,0,0,0,3,4,7
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,1,2,0,8,4,4,2,1,2,1,5,8,9,5,1,0,0,4,2,33,26,59
+60601,ENTRE RIOS TRJ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+40701,HUANUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,0,0,0,1,0,5,3,8
+20806,JESUS DE MACHACA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0,5,5
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,2,1,0,1,0,1,0,0,10,3,6,1,0,0,1,3,19,10,29
+20901,LURIBAY,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,1,1,0,1,1,5,4,9
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,2,0,0,0,1,0,1,0,3,0,2,0,1,1,9,6,19,7,26
+21201,PUCARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,1,3,2,5
+31401,PUNATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,1,1,0,4,2,6
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,1,21,15,7,4,7,3,6,4,21,14,4,5,12,0,4,10,82,56,138
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,1,3,3,6
+71104,SAN JULIAN,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,1,0,0,0,0,1,0,0,0,0,4,1,16,11,4,3,2,0,1,1,28,17,45
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,0,1,1,5,6
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,1,0,1,6,9,40,9,5,4,4,0,0,2,55,26,81
+10601,TARABUCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,0,3,1,4
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,12,7,52,21,14,0,5,4,3,0,86,32,118
+20608,TEOPONTE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+50102,TINGUIPAYA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30903,TIQUIPAYA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31201,TOTORA(CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,4,0,4
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,1,4,2,0,0,0,0,0,0,4,3,7
+20201,ACHACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+20202,ANCORAIMES,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+71501,ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,4,0,4
+70706,CAMIRI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+40201,CHALLAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+70702,CHARAGUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+30801,CLIZA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,5
+90101,COBIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,1,0,0,0,0,0,5,0,40,6,8,0,1,0,1,0,56,6,62
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,1,0,13,4,5,6,3,5,9,3,25,3,4,3,1,2,4,3,65,29,94
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,2,1,0,0,0,1,5,6
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,1,6,5,1,5,0,1,6,10,7,27,1,4,4,3,3,3,28,59,87
+60502,EL PUENTE(TJA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20405,ESCOMA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10502,HUACARETA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40701,HUANUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,1,0,0,0,0,3,7,1,1,0,0,1,2,5,11,16
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,1,0,1,1,0,2,1,7,5,7,2,0,1,0,1,17,12,29
+40702,MACHACAMARCA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+20607,MAPIRI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+31301,MIZQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,1,1,4,5
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,2,4,7,4,11
+21104,PALOS BLANCOS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70601,PORTACHUELO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,5,1,1,1,0,0,0,3,7,10
+31401,PUNATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,0,0,0,0,0,3,3,6
+50402,RAVELO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,1,0,0,0,9,1,2,0,1,0,0,0,0,0,1,0,0,0,0,0,14,1,15
+80304,RURRENABAQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,1,0,0,0,18,16,12,5,2,5,9,7,30,14,6,7,9,5,8,6,95,65,160
+21502,SAN BUENA VENTURA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,2,1,3
+71201,SAN MATIAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70303,SAN RAFAEL,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,4,4,25,11,9,1,2,1,0,1,40,18,58
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40104,SORACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,11,1,37,8,5,2,3,1,1,1,57,13,70
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,2,0,16,4,70,21,7,2,3,3,3,0,101,30,131
+10202,TARVITA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+41301,TOTORA(ORR),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40402,TURCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31402,VILLA RIVERO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,1,3,4
+51501,VILLAZON,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-02-01,0,0,0,0,0,0,0,0,1,0,3,2,3,3,1,0,2,0,0,0,10,5,15
+20201,ACHACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30403,ARBIETO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,5,1,8,4,0,1,0,0,0,0,13,6,19
+70706,CAMIRI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+40201,CHALLAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,2,1,4,0,0,0,0,0,0,1,6,7
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,1,4,5
+90101,COBIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,1,0,54,0,2,0,3,1,0,0,60,1,61
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,3,0,1,0,13,10,3,1,9,2,10,3,37,14,4,1,1,7,4,6,85,44,129
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,1,1,1,0,9,3,2,8,7,3,7,7,28,11,5,9,1,3,9,4,70,49,119
+20405,ESCOMA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+40701,HUANUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,1,0,0,0,0,0,3,3,2,0,0,0,0,1,0,4,6,10
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,1,0,0,0,0,1,1,4,9,1,0,2,1,0,1,8,13,21
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,1,12,2,6,3,0,0,1,0,19,7,26
+40702,MACHACAMARCA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+70903,MAIRANA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+20607,MAPIRI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31301,MIZQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,1,0,0,0,3,3,6
+71001,MONTERO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,1,0,1,0,2,2,1,0,1,1,1,0,0,0,16,9,23,12,35
+40101,ORURO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+21104,PALOS BLANCOS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+70601,PORTACHUELO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21201,PUCARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71401,PUERTO SUAREZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,2,1,3
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,2,3,5,0,0,0,0,0,0,3,7,10
+31401,PUNATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+50402,RAVELO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,2,1,2,0,1,0,0,0,0,2,5,7
+70503,ROBORE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,2,0,0,11,7,19,6,12,0,26,7,57,23,11,3,8,6,10,12,154,66,220
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,2,3
+80602,SAN ANDRES,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80501,SAN IGNACIO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0,3,1,4
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,1,1,1,0,4,3,7
+70303,SAN RAFAEL,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71103,SAN RAMON SCZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,1,0,0,1,8,4,21,8,7,1,0,0,0,1,37,15,52
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+30902,SIPE SIPE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,1,0,4,1,46,11,5,0,5,1,1,0,62,13,75
+31404,TACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,1,4,2,21,5,86,34,15,5,7,2,0,1,133,50,183
+10202,TARVITA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,1,0,3,3,6
+20803,TIAWANACU,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,3
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,1,0,0,0,0,3,4,7
+20201,ACHACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,3
+30501,ARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,2,2,4
+90103,BOLPEBRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51102,"CAIZA ""D""","violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,48,1,6,0,0,0,0,0,54,1,55
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,2,8,6,11,0,5,4,10,1,40,10,4,3,8,1,10,9,96,36,132
+21402,CORIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,4,4
+70704,CUEVO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,3,0,0,3,1,1,0,2,3,3,5,9,7,3,10,4,1,5,8,30,38,68
+31206,ENTRE RIOS CBBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20802,GUAQUI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+40701,HUANUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+21102,IRUPANA (VILLA DE LANZA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,1,1,0,1,0,1,0,0,3,0,1,0,0,0,0,3,5,8
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,5,5,3,4,0,0,0,0,1,10,9,19
+21202,LAJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10903,LAS CARRERAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,1,0,0,0,0,3,3,6
+71001,MONTERO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,1,1,1,7,0,0,1,1,0,0,0,9,3,12
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,1,0,1,3,0,0,1,0,0,1,0,9,1,13,4,17
+40101,ORURO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21305,PATACAMAYA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+70601,PORTACHUELO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,1,0,0,0,3,3,6
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,1,0,0,12,9,5,7,7,4,7,8,9,6,6,4,5,2,4,4,55,45,100
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+80501,SAN IGNACIO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,1,0,0,0,0,0,1,2,0,0,1,0,1,0,0,2,4,6
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,14,2,6,0,0,0,0,0,20,2,22
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,5,5,24,2,1,1,2,0,0,1,32,9,41
+31101,TAPACARI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,1,0,2,0,16,6,51,15,9,4,6,0,3,1,88,26,114
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30802,TOCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+41301,TOTORA(ORR),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,2,1,3
+50201,UNCIA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+51501,VILLAZON,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-04-01,0,0,0,0,0,0,0,0,0,0,2,0,2,3,1,1,0,0,1,0,6,4,10
+20201,ACHACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+30501,ARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,1,0,0,0,0,4,2,6
+22001,CARANAVI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+40201,CHALLAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,2,3
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30801,CLIZA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,2,0,0,0,1,3,1,0,0,0,5,0,7,4,3,0,3,1,2,1,24,9,33
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,4,0,14,1,4,1,1,0,2,0,25,2,27
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,1,9,8,8,0,5,3,8,8,37,16,8,4,6,5,5,7,86,52,138
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,1,0,0,1,0,2,4,6
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,2,1,0,0,10,4,6,4,7,5,13,6,16,16,4,20,4,17,5,4,67,77,144
+70105,EL TORNO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20405,ESCOMA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,2,3
+80202,GUAYARAMERIN,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+40701,HUANUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,1,1,1,0,2,0,0,1,0,0,0,0,4,2,6
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,1,1,1,0,1,1,1,2,3,0,2,1,0,0,0,5,9,14
+70104,LA GUARDIA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,13,2,7,1,0,1,1,0,21,5,26
+11003,MACHARETI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70903,MAIRANA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+71003,MINEROS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+31301,MIZQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+71001,MONTERO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,4,0,4
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,1,2,0,0,1,0,0,2,1,2,0,0,1,4,1,10,5,15
+21104,PALOS BLANCOS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+50101,POTOSI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,2,0,1,3,3,1,0,5,1,1,0,1,0,0,7,11,18
+80304,RURRENABAQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,1,2,49,15,16,19,8,4,20,25,69,100,19,16,21,4,32,27,235,212,447
+80501,SAN IGNACIO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,1,0,0,0,0,1,5,6
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,4,0,4
+71201,SAN MATIAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,2,2,4
+21702,SAN PEDRO DE TIQUINA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,1,0,1,0,0,1,0,3,4,29,8,3,1,0,2,1,2,37,19,56
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,1,3,4
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,1,0,0,0,0,0,0,0,0,7,0,23,5,3,1,1,0,0,0,34,7,41
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,1,10,2,72,29,12,3,5,1,1,0,100,36,136
+10202,TARVITA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+30903,TIQUIPAYA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,3,3
+30802,TOCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+41301,TOTORA(ORR),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,3
+70801,VALLEGRANDE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,1,3,4
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,2,1,5,4,2,1,1,0,0,0,10,6,16
+21103,YANACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20201,ACHACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30501,ARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,1,0,6,1,7
+22001,CARANAVI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,3,3
+40201,CHALLAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+30801,CLIZA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,2,1,3
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,1,0,0,0,27,0,4,1,2,0,1,1,35,2,37
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,2,2,0,8,4,5,2,4,8,5,2,25,8,2,3,3,1,8,6,62,36,98
+71301,COMARAPA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21402,CORIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,5,5
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,4,0,2,0,9,1,3,0,5,5,1,14,7,12,1,1,0,2,2,2,34,37,71
+80202,GUAYARAMERIN,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,3,1,4
+40701,HUANUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,3,2,2,3,0,0,0,1,0,0,5,6,11
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,2,1,2,0,0,0,2,2,12,0,1,2,0,0,0,5,19,24
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,2,2,9,3,4,3,1,0,3,2,19,10,29
+21202,LAJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+70903,MAIRANA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+31301,MIZQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,2,0,0,3,0,3,2,0,2,1,0,0,0,7,6,13
+71001,MONTERO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,0,0,0,0,0,3,3,6
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,1,0,0,0,1,0,2,0,1,0,1,0,0,0,5,4,11,4,15
+50101,POTOSI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+71401,PUERTO SUAREZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,4
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,2,2,4
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,1,0,20,22,16,9,13,4,17,9,48,24,15,11,7,7,24,16,161,102,263
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,5,5
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+71005,SAN PEDRO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71103,SAN RAMON SCZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,1,0,4,0,23,6,2,1,1,0,2,0,33,7,40
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,2,3
+20601,SORATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,1,0,1,1,1,2,29,13,2,3,3,3,8,5,45,27,72
+30602,TACOPAYA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10601,TARABUCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,2,0,18,2,25,15,5,3,4,1,2,0,56,21,77
+10202,TARVITA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,1,0,2,3,5,8
+20606,TIPUANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,2,3,5
+50201,UNCIA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70201,WARNES,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,1,2,0,7,3,1,1,0,0,0,0,10,5,15
+21103,YANACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,1,4,5
+22001,CARANAVI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,1,1,1,4,6,0,0,0,1,0,0,5,9,14
+21803,CHACARILLA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+30801,CLIZA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,4,6,1,0,0,0,0,1,5,7,12
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,2,0,1,0,14,7,8,1,3,0,6,3,25,13,3,4,8,3,5,2,75,33,108
+71101,CONCEPCION,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,1,0,0,0,2,3,5
+10902,CULPINA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,2,2,1,1,1,2,0,3,4,0,6,5,7,8,2,1,1,0,2,2,26,24,50
+20405,ESCOMA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10502,HUACARETA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40701,HUANUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,0,0,5,1,6
+21102,IRUPANA (VILLA DE LANZA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,1,0,0,0,0,0,0,2,1,3,0,1,1,1,0,0,3,7,10
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,1,0,0,1,0,0,1,4,4,2,0,1,3,1,0,9,9,18
+10903,LAS CARRERAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+70903,MAIRANA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,3,1,4
+20607,MAPIRI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31301,MIZQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,2,2,4
+40101,ORURO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+60201,PADCAYA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31203,POCONA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+21201,PUCARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+71401,PUERTO SUAREZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,2,2,4
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,1,0,0,0,0,2,5,7
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,1,0,0,1,13,12,12,14,20,8,15,9,43,21,15,7,13,5,35,24,167,101,268
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1,3,4
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,4,4
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,4,4,16,10,4,1,1,2,1,1,26,18,44
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,3
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,19,2,51,12,3,2,6,1,2,1,81,18,99
+10202,TARVITA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20606,TIPUANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71502,URUBICHA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,1,1,1,3,0,0,1,0,0,0,0,4,3,7
+21103,YANACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-07-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,3,4
+20701,APOLO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,1,0,0,0,0,1,0,3,0,0,1,1,1,0,0,5,3,8
+22001,CARANAVI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,3,0,0,0,1,2,7,9
+40201,CHALLAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+30801,CLIZA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,3,0,12,11,6,4,7,2,5,4,30,9,6,4,6,2,9,5,84,41,125
+21402,CORIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,2,0,0,1,0,2,9,11
+10902,CULPINA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,2,3,2,2,5,3,5,3,5,6,5,17,9,5,1,2,4,2,5,2,43,45,88
+40701,HUANUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,1,1,2,2,0,0,0,0,0,0,3,3,6
+21102,IRUPANA (VILLA DE LANZA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,1,3,4
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,1,1,2,11,0,1,1,0,1,0,5,13,18
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,1,1,0,0,2,1,6,1,6,1,0,0,0,1,15,5,20
+70903,MAIRANA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,5,0,5
+20103,MECAPACA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+71003,MINEROS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31301,MIZQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,2,2,4
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,1,0,0,0,0,0,2,0,1,1,0,1,1,0,4,6,9,8,17
+40101,ORURO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31202,POJO (CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,4,1,6,0,0,0,0,1,1,0,11,2,13
+71401,PUERTO SUAREZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,1,5,6
+31401,PUNATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+30901,QUILLACOLLO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,0,0,0,0,0,4,4,8
+70503,ROBORE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,16,15,20,14,22,18,34,16,71,42,10,5,10,10,25,18,208,138,346
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,4,0,3,3,1,0,0,0,0,0,8,3,11
+71201,SAN MATIAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,1,0,0,1,4,5
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,1,1,5,4,19,11,10,6,4,1,1,1,40,24,64
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+10403,SOPACHUY,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,2,0,3,1,0,0,0,0,0,1,0,0,0,0,5,2,7
+20603,TACACOMA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10601,TARABUCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,2,0,10,5,65,25,18,5,3,0,2,0,100,35,135
+10202,TARVITA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,2,1,3
+30903,TIQUIPAYA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,0,0,1,1,5,6
+50801,TUPIZA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50201,UNCIA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70801,VALLEGRANDE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,2,3,5
+60303,VILLA MONTES,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30904,VINTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0,1,0,3,3,6
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,9,2,1,0,0,0,0,0,10,2,12
+21103,YANACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,3,1,4
+30501,ARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,4,4,0,0,0,0,0,0,5,4,9
+21304,CALAMARCA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,1,0,0,0,6,6
+40102,CARACOLLO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,2,0,0,0,0,3,6,9
+40201,CHALLAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0,3
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+20501,CHUMA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,1,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,4,1,5
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,2,0,0,0,8,5,5,9,0,0,7,2,19,8,4,4,4,2,7,3,56,33,89
+31002,COLOMI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+21402,CORIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+10902,CULPINA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,7,1,0,3,5,8,7,2,0,5,1,15,6,9,1,6,1,2,1,2,29,53,82
+21102,IRUPANA (VILLA DE LANZA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,1,0,0,0,7,7
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,2,0,0,0,0,0,0,0,1,1,1,7,6,8,4,0,0,1,1,17,15,32
+70903,MAIRANA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,2,3
+71003,MINEROS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+31301,MIZQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+71001,MONTERO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,2,3
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,1,0,0,0,0,0,0,0,4,1,1,0,0,0,6,7,12,8,20
+40101,ORURO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,1,0,0,1,2,3,0,0,0,0,1,0,4,4,8
+31203,POCONA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,12,4,0,0,0,0,0,0,13,4,17
+21201,PUCARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,1,2,1,5,8,1,1,0,0,0,0,8,11,19
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,2,1,2,1,2,0,0,0,0,0,0,2,6,8
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,1,3,30,11,19,8,21,13,17,12,50,27,12,12,8,12,13,10,171,108,279
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,1,2,3,5
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,5,3,17,6,8,0,3,0,1,0,34,9,43
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,1,0,0,1,4,5
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,2,1,4,1,6,2,22,6,1,4,2,0,0,0,37,14,51
+10601,TARABUCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,1,0,1,0,7,2,53,24,10,6,2,1,0,0,74,33,107
+10202,TARVITA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20803,TIAWANACU,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30903,TIQUIPAYA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,3
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+30803,TOLATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+50801,TUPIZA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,1,0,0,0,1,1,2,3,0,0,0,0,0,1,4,5,9
+50201,UNCIA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2,3
+70801,VALLEGRANDE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60303,VILLA MONTES,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,2,1,2,4,2,0,0,0,0,0,6,5,11
+21103,YANACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1,1,4,5
+20201,ACHACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,1,3
+20202,ANCORAIMES,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30501,ARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71501,ASCENCION DE GUARAYOS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,3,4,2,0,1,1,0,0,0,5,6,11
+10701,CAMARGO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,3,1,4
+40102,CARACOLLO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,1,0,0,0,0,4,5,9
+40201,CHALLAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2
+31204,CHIMORE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,3,2,5
+20501,CHUMA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90101,COBIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30303,COCAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,1,0,3,3,6
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,2,0,0,8,10,9,5,8,1,6,8,29,8,6,4,1,1,4,5,71,44,115
+31002,COLOMI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+21402,CORIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,1,0,0,1,0,0,0,1,1,4,1,1,0,0,1,1,4,8,12
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,3,0,1,3,7,5,2,3,4,3,2,25,3,4,3,1,2,0,1,1,28,45,73
+10405,EL VILLAR,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71004,FERNANDEZ ALONSO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+40701,HUANUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+21102,IRUPANA (VILLA DE LANZA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20806,JESUS DE MACHACA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,1,5,6
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,1,1,3,6,4,7,1,0,0,1,2,15,11,26
+50203,LLALLAGUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70903,MAIRANA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,8,4,2,0,0,0,0,0,11,4,15
+31301,MIZQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,1,3,4
+71001,MONTERO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,5,2,7,3,10
+31203,POCONA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+31202,POJO (CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+70601,PORTACHUELO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,2,2,4
+21201,PUCARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,2,0,6,6
+51101,PUNA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,1,1,1,2,1,0,0,1,1,0,0,4,4,8
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,2,0,1,1,35,8,19,4,14,10,18,16,59,29,16,11,10,4,24,24,198,107,305
+40801,SALINAS DE GARCI MENDOZA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71201,SAN MATIAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,1,0,4,2,23,7,6,0,2,1,1,1,37,11,48
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,0,0,0,0,1,5,6
+30703,SICAYA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,1,0,2,3,0,0,4,5,19,6,4,1,0,0,1,0,31,15,46
+10601,TARABUCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,13,2,44,18,11,3,4,1,1,1,73,25,98
+10202,TARVITA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,1,1,0,0,3,4,7
+20608,TEOPONTE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20803,TIAWANACU,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+50201,UNCIA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,0,0,0,4,3,7
+20801,VIACHA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,3
+30904,VINTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50602,VITICHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,2,1,5,5,2,0,0,0,0,0,9,6,15
+21103,YANACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+20202,ANCORAIMES,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30501,ARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,1,1,5,3,2,1,1,2,0,1,9,8,17
+51102,"CAIZA ""D""","violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+30701,CAPINOTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+40201,CHALLAPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+31204,CHIMORE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,1,0,0,1,4,5
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,0,5
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,2,1,9,6,12,5,11,3,13,3,32,17,13,7,4,7,5,9,101,58,159
+21402,CORIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,1,0,0,0,0,3,6,9
+10902,CULPINA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,5,0,3,0,1,4,1,5,7,7,11,13,7,10,3,0,0,1,3,3,41,43,84
+10405,EL VILLAR,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,3,1,4
+60601,ENTRE RIOS TRJ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+31206,ENTRE RIOS CBBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,1,0,1,0,1,0,6,1,2,0,0,0,0,0,11,1,12
+21102,IRUPANA (VILLA DE LANZA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,2,1,1,1,0,1,0,3,0,9,0,3,0,1,0,1,3,20,23
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,4,1,3,0,1,1,2,2,15,6,15,1,2,1,4,1,46,13,59
+10903,LAS CARRERAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,1,0,0,0,1,0,4,0,0,0,0,0,0,0,6,6
+20607,MAPIRI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71003,MINEROS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+31301,MIZQUE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,1,0,4,2,6
+10501,MONTEAGUDO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,2,1,0,1,1,1,1,2,1,1,2,1,0,8,3,15,10,25
+40101,ORURO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,2,2,4
+31203,POCONA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40601,POOPO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,1,0,0,0,3,3,1,0,0,0,0,0,5,3,8
+21201,PUCARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+90301,PUERTO GONZALO MORENO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,1,3,3,10,0,5,0,2,0,0,4,20,24
+51101,PUNA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,2,1,26,11,13,6,7,7,16,6,34,23,4,10,6,12,16,7,124,83,207
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,1,1,1,0,3,1,0,0,0,0,1,2,6,8
+10702,SAN LUCAS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,2,0,0,0,1,0,2,1,24,17,4,3,7,2,0,1,40,24,64
+31602,SHINAOTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,1,0,6,6
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,2,0,1,1,18,5,36,8,5,2,1,2,1,1,64,19,83
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,1,0,1,1,7,3,51,7,11,4,3,0,5,2,79,17,96
+10202,TARVITA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,0,0,0,0,1,4,5
+30903,TIQUIPAYA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,3,3
+50201,UNCIA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51201,UYUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+70801,VALLEGRANDE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,0,0,0,0,1,0,2,0,2,3,3,1,0,0,0,0,8,4,12
+21103,YANACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,1,4,5
+20201,ACHACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+60202,BERMEJO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,1,6,0,2,0,0,1,1,0,9,2,11
+40102,CARACOLLO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+21101,CHULUMANI (V. DE LA LIBERTAD),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0,0,0,4,1,5
+90101,COBIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,2,2,4
+30905,COLCAPIRHUA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,1,0,0,1,6,5,5,4,7,4,6,2,35,12,4,2,4,4,7,7,75,41,116
+70603,COLPA BELGICA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21306,COLQUENCHA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21401,COROICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,1,1,0,3,3,6
+20105,EL ALTO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,5,1,0,0,1,5,1,0,2,0,3,22,4,6,2,0,1,1,0,0,19,35,54
+71503,EL PUENTE(STC),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+21102,IRUPANA (VILLA DE LANZA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+21105,LA ASUNTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,1,0,0,0,0,1,0,3,4,1,1,0,0,0,1,5,7,12
+20101,LA PAZ,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,1,0,0,2,1,1,2,7,12,5,2,0,0,3,4,18,22,40
+21202,LAJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,3,3
+11003,MACHARETI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,2,2,4
+70903,MAIRANA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,1,3
+71003,MINEROS,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+71001,MONTERO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,2,0,0,0,0,8,2,10
+30302,MOROCHATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,2,1,1,0,0,0,0,0,1,1,0,0,0,0,4,3,8,5,13
+31203,POCONA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70601,PORTACHUELO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+50101,POTOSI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21201,PUCARANI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90201,PUERTO RICO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,1,0,0,0,1,4,17,0,0,0,0,0,0,4,19,23
+30901,QUILLACOLLO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,3,1,4
+50402,RAVELO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80201,RIBERALTA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31001,SACABA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,9,12,15,5,20,6,13,4,44,25,7,5,10,9,19,8,137,74,211
+70901,SAMAIPATA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,3
+21702,SAN PEDRO DE TIQUINA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,1,1,0,6,11,9,2,0,1,0,2,0,17,16,33
+21301,SICA SICA (VILLA AROMA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+10403,SOPACHUY,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60101,TARIJA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,4,0,15,3,45,13,12,4,1,2,2,0,79,22,101
+10202,TARVITA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,1,2,3,5
+30903,TIQUIPAYA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31601,TIRAQUE (CBBA),"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,4,4
+50201,UNCIA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+51201,UYUNI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+70801,VALLEGRANDE,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+31003,VILLA TUNARI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+60301,YACUIBA,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,1,0,0,1,0,6,4,10
+21103,YANACACHI,"violencia, hechos de transito y accidentes",otras violencias por lesiones autoinflingidas y colectivas,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2

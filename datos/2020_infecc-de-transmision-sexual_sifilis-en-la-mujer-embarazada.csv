@@ -1,0 +1,199 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+70706,CAMIRI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+70102,COTOCA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,2,0,0,0,0,0,10,10
+70105,EL TORNO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,7,0,5,0,0,0,20,20
+80801,MAGDALENA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50101,POTOSI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,8,8
+31401,PUNATA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+31001,SACABA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,0,0,8,8
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,2,0,30,0,10,0,14,0,0,0,56,56
+10101,SUCRE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31101,TAPACARI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+60301,YACUIBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30601,ARQUE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+70102,COTOCA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,6,6
+70105,EL TORNO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,1,0,0,0,0,0,6,6
+50101,POTOSI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,6,6
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,4,4
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+31001,SACABA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,13,0,1,0,1,0,2,0,19,19
+71005,SAN PEDRO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+80401,SANTA ANA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,1,0,21,0,43,0,14,0,5,0,1,0,85,85
+50801,TUPIZA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+20105,EL ALTO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+70105,EL TORNO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,6,6
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+10502,HUACARETA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,3,0,1,0,0,0,11,11
+10501,MONTEAGUDO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70103,PORONGO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,4,0,1,0,0,0,9,9
+50402,RAVELO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,1,0,4,0,5,0,0,0,0,0,0,0,10,10
+31001,SACABA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,9,0,1,0,0,0,0,0,12,12
+80602,SAN ANDRES,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0,0,0,9,9
+40104,SORACACHI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31002,COLOMI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80801,MAGDALENA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21201,PUCARANI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+71005,SAN PEDRO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,1,0,14,14
+30902,SIPE SIPE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20801,VIACHA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+40101,ORURO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+21201,PUCARANI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,0,0,8,8
+31001,SACABA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0,0,0,9,9
+31003,VILLA TUNARI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50202,CHAYANTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+10703,INCAHUASI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,2,0,1,0,0,0,11,11
+21104,PALOS BLANCOS,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,3,3
+31001,SACABA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,1,0,0,0,1,0,10,10
+10403,SOPACHUY,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+10101,SUCRE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+50202,CHAYANTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+20105,EL ALTO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+70105,EL TORNO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+10903,LAS CARRERAS,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,6,6
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,6,6
+31001,SACABA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,1,0,0,0,0,0,8,8
+50701,SACACA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+41001,TOLEDO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50801,TUPIZA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+10704,VILLA CHARCAS,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70403,YAPACANI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+20105,EL ALTO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+80202,GUAYARAMERIN,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,5,5
+10304,ICLA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+50203,LLALLAGUA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50404,OCURI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70103,PORONGO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+30901,QUILLACOLLO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,1,0,0,0,0,0,7,7
+31001,SACABA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6,6
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,3,0,10,0,3,0,1,0,0,0,17,17
+30902,SIPE SIPE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10403,SOPACHUY,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+10101,SUCRE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,5,5
+10801,VILLA SERRANO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30403,ARBIETO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+20105,EL ALTO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+20101,LA PAZ,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40101,ORURO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70103,PORONGO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50101,POTOSI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,5,5
+90201,PUERTO RICO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,5,5
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6,6
+31001,SACABA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,0,0,8,8
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,5,0,30,0,3,0,3,0,0,0,41,41
+10101,SUCRE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+10402,TOMINA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30403,ARBIETO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+71501,ASCENCION DE GUARAYOS,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,4,4
+30303,COCAPATA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30905,COLCAPIRHUA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+80202,GUAYARAMERIN,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70104,LA GUARDIA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70903,MAIRANA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+50101,POTOSI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,1,0,0,0,0,0,6,6
+21002,QUIME,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,5,5
+70503,ROBORE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31001,SACABA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,8,0,0,0,0,0,0,0,10,10
+80602,SAN ANDRES,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,3,0,0,0,0,0,10,10
+10702,SAN LUCAS,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+10101,SUCRE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,5,5
+80101,TRINIDAD,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+10801,VILLA SERRANO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10902,CULPINA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+70105,EL TORNO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+70104,LA GUARDIA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+10103,POROMA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0,0,0,9,9
+31401,PUNATA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,5
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,1,0,14,14
+10403,SOPACHUY,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,10,0,0,0,0,0,0,0,11,11
+10801,VILLA SERRANO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31204,CHIMORE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+90101,COBIJA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,0,0,4,4
+80801,MAGDALENA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70903,MAIRANA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+31401,PUNATA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,7,7
+31001,SACABA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6,6
+10702,SAN LUCAS,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+10101,SUCRE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,1,0,1,0,0,0,7,7
+31101,TAPACARI,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,infecc. de transmision sexual,sifilis en la mujer embarazada*,2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2

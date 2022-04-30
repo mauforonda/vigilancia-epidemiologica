@@ -1,0 +1,645 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 1 año-H,< de 1 año-M,1 a 4 años-H,1 a 4 años-M,5 a 14 años-H,5 a 14 años-M,15 a 59 años-H,15 a 59 años-M,60 y más-H,60 y más-M,TOTAL-H,TOTAL-M,TOTAL
+20201,ACHACACHI,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20202,ANCORAIMES,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+71501,ASCENCION DE GUARAYOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31501,BOLIVAR,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20302,CAQUIAVIRI,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30801,CLIZA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+31002,COLOMI,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,1,0,34,0,0,0,35,0,35
+20602,GUANAY,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+21105,LA ASUNTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70104,LA GUARDIA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,25,0,1,0,26,0,26
+80601,LORETO,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+71001,MONTERO,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,5,0,1,0,6,0,6
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+20102,PALCA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21305,PATACAMAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50403,POCOATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31203,POCONA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,8,0,1,0,9,0,9
+20403,PUERTO CARABUCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+71401,PUERTO SUAREZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+21502,SAN BUENA VENTURA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71104,SAN JULIAN,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71201,SAN MATIAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,8,0,0,0,8,0,8
+41401,SANTIAGO DE HUARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21301,SICA SICA (VILLA AROMA),infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30902,SIPE SIPE,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+20601,SORATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,8,0,0,0,8,0,8
+10601,TARABUCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+20803,TIAWANACU,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30903,TIQUIPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51202,TOMAVE,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50801,TUPIZA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+51201,UYUNI,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30502,VACAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20801,VIACHA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+51501,VILLAZON,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70201,WARNES,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+60301,YACUIBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70403,YAPACANI,infecciones de transmision sexual,its hombre con ulcera genital,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20701,APOLO,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+50301,BETANZOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70401,BUENA VISTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70703,CABEZAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30701,CAPINOTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31204,CHIMORE,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+30905,COLCAPIRHUA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50401,COLQUECHACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20301,CORO CORO,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,24,0,0,0,24,0,24
+40701,HUANUNI,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70104,LA GUARDIA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,28,0,2,0,30,0,30
+80601,LORETO,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20901,LURIBAY,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31301,MIZQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30203,OMEREQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21104,PALOS BLANCOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31202,POJO (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20401,PUERTO ACOSTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+31205,PUERTO VILLARROEL,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+30901,QUILLACOLLO,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50402,RAVELO,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80201,RIBERALTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70503,ROBORE,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+50701,SACACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+21502,SAN BUENA VENTURA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+30703,SICAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10403,SOPACHUY,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20601,SORATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,9,0,0,0,9,0,9
+30401,TARATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50502,TORO TORO,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50801,TUPIZA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30502,VACAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20801,VIACHA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31302,VILA VILA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70201,WARNES,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60402,YUNCHARA,infecciones de transmision sexual,its hombre con ulcera genital,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31303,ALALAY,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50301,BETANZOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31501,BOLIVAR,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+30701,CAPINOTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20302,CAQUIAVIRI,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+22001,CARANAVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50702,CARIPUYO,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40201,CHALLAPATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31204,CHIMORE,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,9,0,0,0,9,0,9
+20301,CORO CORO,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20804,DESAGUADERO,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,30,0,0,0,30,0,30
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,21,0,0,0,21,0,21
+20103,MECAPACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10303,MOJOCOYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30302,MOROCHATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21305,PATACAMAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31202,POJO (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10103,POROMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+71401,PUERTO SUAREZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50402,RAVELO,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+80302,SAN BORJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+30602,TACOPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31101,TAPACARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10601,TARABUCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+31601,TIRAQUE (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10402,TOMINA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50502,TORO TORO,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31201,TOTORA(CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51201,UYUNI,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20801,VIACHA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+31302,VILA VILA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10801,VILLA SERRANO,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70201,WARNES,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+60301,YACUIBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21103,YANACACHI,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10301,ZUDAÑEZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20202,ANCORAIMES,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21203,BATALLAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20905,CAIROMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21003,CAJUATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+20303,CALACOTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21304,CALAMARCA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+22001,CARANAVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,12,0,0,0,12,0,12
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,30,0,1,0,31,0,31
+60502,EL PUENTE(TJA),infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20602,GUANAY,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,26,0,0,0,26,0,26
+70903,MAIRANA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+10501,MONTEAGUDO,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,11,0,0,0,11,0,11
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,8,0,0,0,8,0,8
+71401,PUERTO SUAREZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70503,ROBORE,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,10,0,15,0,0,0,0,0,0,0,25,0,25
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+50701,SACACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20603,TACACOMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10601,TARABUCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,6,0,1,0,7,0,7
+50102,TINGUIPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10402,TOMINA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+80101,TRINIDAD,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,8,0,0,0,8,0,8
+71502,URUBICHA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31302,VILA VILA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60303,VILLA MONTES,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31402,VILLA RIVERO,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31003,VILLA TUNARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+51501,VILLAZON,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30904,VINTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70201,WARNES,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+60301,YACUIBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,3,0,0,0,0,0,3,0,3
+10602,YAMPARAEZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70403,YAPACANI,infecciones de transmision sexual,its hombre con ulcera genital,2002-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20201,ACHACACHI,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30402,ANZALDO,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20701,APOLO,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21203,BATALLAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50301,BETANZOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+31501,BOLIVAR,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70703,CABEZAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,2,0,0,0,0,0,0,0,0,0,2,0,2
+21003,CAJUATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20303,CALACOTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21304,CALAMARCA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30701,CAPINOTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31002,COLOMI,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50401,COLQUECHACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21701,COPACABANA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21402,CORIPATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,27,0,0,0,27,0,27
+80402,EXALTACION,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+90203,FILADELFIA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40701,HUANUNI,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70104,LA GUARDIA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,25,0,4,0,29,0,29
+31301,MIZQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+71001,MONTERO,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50404,OCURI,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+20102,PALCA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+21104,PALOS BLANCOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31202,POJO (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10103,POROMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,12,0,1,0,13,0,13
+31205,PUERTO VILLARROEL,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+51101,PUNA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31401,PUNATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20604,QUIABAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30901,QUILLACOLLO,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80201,RIBERALTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70503,ROBORE,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+50701,SACACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+71104,SAN JULIAN,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50501,SAN PEDRO DE BUENA VISTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,1,0,10,0,0,0,11,0,11
+21301,SICA SICA (VILLA AROMA),infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10403,SOPACHUY,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,28,0,0,0,28,0,28
+30602,TACOPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31101,TAPACARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,22,0,2,0,24,0,24
+10202,TARVITA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50102,TINGUIPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30502,VACAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20801,VIACHA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+31402,VILLA RIVERO,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31003,VILLA TUNARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70201,WARNES,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+10602,YAMPARAEZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60402,YUNCHARA,infecciones de transmision sexual,its hombre con ulcera genital,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20201,ACHACACHI,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31303,ALALAY,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20701,APOLO,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30601,ARQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31501,BOLIVAR,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21003,CAJUATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+20302,CAQUIAVIRI,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31204,CHIMORE,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20501,CHUMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+20304,COMANCHE,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21401,COROICO,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31405,CUCHUMUELA (V. G. VILLARROEL),infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10902,CULPINA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,27,0,0,0,27,0,27
+80202,GUAYARAMERIN,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,15,0,0,0,15,0,15
+21202,LAJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+21104,PALOS BLANCOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70902,PAMPA GRANDE,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50403,POCOATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10103,POROMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,5,0,1,0,6,0,6
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,3,0,1,0,4,0,4
+20403,PUERTO CARABUCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,0,0,2,0,2,0,2
+71401,PUERTO SUAREZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+51101,PUNA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31401,PUNATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30901,QUILLACOLLO,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21002,QUIME,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+50701,SACACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50501,SAN PEDRO DE BUENA VISTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,19,0,1,0,20,0,20
+30902,SIPE SIPE,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+20603,TACACOMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10601,TARABUCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30401,TARATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,18,0,0,0,18,0,18
+50102,TINGUIPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10402,TOMINA,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60303,VILLA MONTES,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31402,VILLA RIVERO,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+31003,VILLA TUNARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+11001,VILLA VACA GUZMAN (MUYUPAMPA),infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70201,WARNES,infecciones de transmision sexual,its hombre con ulcera genital,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20201,ACHACACHI,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31303,ALALAY,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21303,AYO AYO,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31501,BOLIVAR,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21304,CALAMARCA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30701,CAPINOTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+22001,CARANAVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+31002,COLOMI,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21402,CORIPATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70102,COTOCA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10902,CULPINA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,32,0,1,0,33,0,33
+80202,GUAYARAMERIN,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40701,HUANUNI,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10304,ICLA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+90402,INGAVI (HUMAITA),infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21105,LA ASUNTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,4,0,5,0,5
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,20,0,0,0,20,0,20
+31301,MIZQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30302,MOROCHATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10103,POROMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+31205,PUERTO VILLARROEL,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+31401,PUNATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,9,0,0,0,9,0,9
+50701,SACACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21702,SAN PEDRO DE TIQUINA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,11,0,0,0,11,0,11
+20902,SAPAHAQUI,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+20603,TACACOMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+30602,TACOPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,32,0,0,0,32,0,32
+31601,TIRAQUE (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+51201,UYUNI,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31003,VILLA TUNARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+51501,VILLAZON,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70201,WARNES,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50103,YOCALLA,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10301,ZUDAÑEZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20201,ACHACACHI,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+30601,ARQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21003,CAJUATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30701,CAPINOTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40201,CHALLAPATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70702,CHARAGUA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+31002,COLOMI,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21401,COROICO,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70102,COTOCA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,1,0,47,0,1,0,49,0,49
+60502,EL PUENTE(TJA),infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20602,GUANAY,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80202,GUAYARAMERIN,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40701,HUANUNI,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21105,LA ASUNTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,12,0,1,0,13,0,13
+21202,LAJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+21104,PALOS BLANCOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+50403,POCOATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31202,POJO (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+20403,PUERTO CARABUCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21002,QUIME,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70904,QUIRUSILLAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50402,RAVELO,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+71302,SAIPINA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71104,SAN JULIAN,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,26,0,0,0,26,0,26
+30902,SIPE SIPE,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20601,SORATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,3,0,2,0,5,0,5
+31101,TAPACARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,40,0,0,0,40,0,40
+31601,TIRAQUE (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51202,TOMAVE,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10402,TOMINA,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+51201,UYUNI,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10602,YAMPARAEZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20201,ACHACACHI,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20701,APOLO,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+21203,BATALLAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21003,CAJUATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20302,CAQUIAVIRI,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+90101,COBIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,5,0,1,0,6,0,6
+50401,COLQUECHACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,25,0,0,0,25,0,25
+80402,EXALTACION,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,14,0,0,0,14,0,14
+21601,GRAL. J.J. PEREZ (CHARAZANI),infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20802,GUAQUI,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+70705,GUTIERREZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40501,HUACHACALLA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21501,IXIAMAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21105,LA ASUNTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,19,0,0,0,19,0,19
+10501,MONTEAGUDO,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+30302,MOROCHATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+21104,PALOS BLANCOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50403,POCOATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31202,POJO (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10103,POROMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+70503,ROBORE,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+80602,SAN ANDRES,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80702,SAN RAMON,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,1,0,17,0,0,0,18,0,18
+30703,SICAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,9,0,0,0,9,0,9
+20603,TACACOMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30401,TARATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+50102,TINGUIPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21703,TITO YUPANQUI (PARQUIPUJIO),infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50502,TORO TORO,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31201,TOTORA(CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+80101,TRINIDAD,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60303,VILLA MONTES,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31003,VILLA TUNARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+60301,YACUIBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50103,YOCALLA,infecciones de transmision sexual,its hombre con ulcera genital,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30201,AIQUILE,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31303,ALALAY,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20701,APOLO,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51301,ARAMPAMPA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10201,AZURDUY,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50104,BELEN DE URMIRI,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+31501,BOLIVAR,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20302,CAQUIAVIRI,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,1,0,1,0,3,0,5,0,5
+22001,CARANAVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+40903,CHIPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30801,CLIZA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,17,0,2,0,19,0,19
+21401,COROICO,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,57,0,2,0,59,0,59
+80202,GUAYARAMERIN,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40701,HUANUNI,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21001,INQUISIVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21501,IXIAMAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,19,0,0,0,19,0,19
+21202,LAJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70903,MAIRANA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10501,MONTEAGUDO,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50404,OCURI,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+21104,PALOS BLANCOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50403,POCOATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+10103,POROMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+70601,PORTACHUELO,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,12,0,0,0,12,0,12
+20401,PUERTO ACOSTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+71402,PUERTO QUIJARRO,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80703,PUERTO SILES,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+71401,PUERTO SUAREZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+30901,QUILLACOLLO,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21002,QUIME,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50402,RAVELO,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+40901,SABAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50701,SACACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70901,SAMAIPATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70501,SAN JOSE DE CHIQUITOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10702,SAN LUCAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+71201,SAN MATIAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50501,SAN PEDRO DE BUENA VISTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,18,0,0,0,18,0,18
+80303,SANTA ROSA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+70602,SANTA ROSA DEL SARA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,10,0,0,0,10,0,10
+30602,TACOPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,19,0,0,0,19,0,19
+50102,TINGUIPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10402,TOMINA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80101,TRINIDAD,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,1,0,3,0,0,0,4,0,4
+50201,UNCIA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20801,VIACHA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31402,VILLA RIVERO,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31003,VILLA TUNARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70201,WARNES,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+60301,YACUIBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10602,YAMPARAEZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-10-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+30402,ANZALDO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+30601,ARQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,7,0,0,0,7,0,7
+31501,BOLIVAR,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70707,BOYUIBE,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20302,CAQUIAVIRI,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+20501,CHUMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+90101,COBIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+31002,COLOMI,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21701,COPACABANA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21402,CORIPATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,42,0,0,0,42,0,42
+60502,EL PUENTE(TJA),infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+21601,GRAL. J.J. PEREZ (CHARAZANI),infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80202,GUAYARAMERIN,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40501,HUACHACALLA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40701,HUANUNI,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,9,0,0,0,9,0,9
+20402,MOCOMOCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10303,MOJOCOYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71001,MONTERO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30302,MOROCHATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50404,OCURI,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,9,0,0,0,9,0,9
+60201,PADCAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70502,PAILON,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21104,PALOS BLANCOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+70601,PORTACHUELO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+80703,PUERTO SILES,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71401,PUERTO SUAREZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+51101,PUNA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+31401,PUNATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+30901,QUILLACOLLO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,3,0,1,0,4,0,4
+70904,QUIRUSILLAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+50701,SACACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+71102,SAN JAVIER(STC),infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,20,0,0,0,20,0,20
+30902,SIPE SIPE,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+31101,TAPACARI,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,15,0,0,0,15,0,15
+50502,TORO TORO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31201,TOTORA(CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80101,TRINIDAD,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+60401,URIONDO (A. CONCEPCION),infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71502,URUBICHA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20801,VIACHA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+10801,VILLA SERRANO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30904,VINTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10602,YAMPARAEZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50103,YOCALLA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60402,YUNCHARA,infecciones de transmision sexual,its hombre con ulcera genital,2002-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+20201,ACHACACHI,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+30201,AIQUILE,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+20202,ANCORAIMES,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30402,ANZALDO,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30601,ARQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21203,BATALLAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31501,BOLIVAR,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20905,CAIROMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+20302,CAQUIAVIRI,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40201,CHALLAPATA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40903,CHIPAYA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+90101,COBIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+30101,COCHABAMBA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,10,0,0,0,10,0,10
+31002,COLOMI,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50401,COLQUECHACA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21401,COROICO,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+50601,COTAGAITA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,36,0,1,0,37,0,37
+20602,GUANAY,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40701,HUANUNI,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+21005,ICHOCA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21501,IXIAMAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+21105,LA ASUNTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+20101,LA PAZ,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,11,0,0,0,11,0,11
+71003,MINEROS,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+31301,MIZQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50404,OCURI,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40101,ORURO,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,14,0,3,0,17,0,17
+31203,POCONA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10103,POROMA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,1,0,6,0,0,0,7,0,7
+70601,PORTACHUELO,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+50101,POTOSI,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10302,PRESTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+30901,QUILLACOLLO,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+70904,QUIRUSILLAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80201,RIBERALTA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80304,RURRENABAQUE,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+80302,SAN BORJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+21502,SAN BUENA VENTURA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,2,0,32,0,0,0,34,0,34
+80303,SANTA ROSA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+70602,SANTA ROSA DEL SARA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20308,SANTIAGO DE CALLAPA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30902,SIPE SIPE,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+10101,SUCRE,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,1,0,15,0,0,0,16,0,16
+60101,TARIJA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+10202,TARVITA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,1,0,0,0,1,0,0,0,0,0,2,0,2
+51202,TOMAVE,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31201,TOTORA(CBBA),infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80101,TRINIDAD,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+30502,VACAS,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30904,VINTO,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60402,YUNCHARA,infecciones de transmision sexual,its hombre con ulcera genital,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1

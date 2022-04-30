@@ -1,0 +1,243 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-meses-a-menor-de-1-ano_masculino,b-6-meses-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+70706,CAMIRI,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,1,0,1,0,1,2,0,0,0,0,0,1,3,3,6
+90101,COBIJA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,4,5
+30101,COCHABAMBA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70603,COLPA BELGICA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,3
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,1,1,0,2,0,1,2,2,5,1,2,0,1,0,1,7,12,19
+31206,ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+80202,GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+70104,LA GUARDIA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,2,2,4
+31205,PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,2,1,3
+90302,SAN LORENZO(PND),sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,5,14,3,1,1,4,1,4,11,23,34
+80303,SANTA ROSA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+90303,SENA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,1,4,1,7,2,1,3,2,1,4,10,3,2,1,0,2,2,24,22,46
+10101,SUCRE,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,4,1,5
+80101,TRINIDAD,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,2,2,4
+60303,VILLA MONTES,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,3,4
+11001,VILLA VACA GUZMAN (MUYUPAMPA),sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,4,4
+70403,YAPACANI,sospecha diagnostica,chikungunya,2019-01-01,0,0,0,0,0,1,0,0,0,1,0,0,3,3,0,0,0,1,1,1,4,7,11
+70706,CAMIRI,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,1,0,0,0,0,0,0,1,4,0,0,1,0,2,0,4,5,9
+30101,COCHABAMBA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70603,COLPA BELGICA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,1,2,1,4,4,0,0,0,1,1,0,7,7,14
+31206,ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+80202,GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70104,LA GUARDIA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0,0,0,0,1,0,2,4,6
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90201,PUERTO RICO,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80302,SAN BORJA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,1,0,0,1,0,1,1,1,6,8,2,2,1,0,1,2,12,15,27
+90303,SENA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,3,1,4
+80101,TRINIDAD,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,3,1,4
+60303,VILLA MONTES,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+31003,VILLA TUNARI,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70201,WARNES,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,2,0,0,0,5,1,6
+60301,YACUIBA,sospecha diagnostica,chikungunya,2019-02-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+31204,CHIMORE,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+90101,COBIJA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,1,0,2,0,0,1,1,1,1,1,0,2,0,1,0,0,5,6,11
+30101,COCHABAMBA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,1,0,0,0,1,1,6,7
+31206,ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,2,2,4
+80202,GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,2,2,4
+70104,LA GUARDIA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70903,MAIRANA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71001,MONTERO,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,1,1,0,1,0,0,1,2,0,0,0,0,0,0,2,4,6
+70502,PAILON,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+90102,PORVENIR,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+90201,PUERTO RICO,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80304,RURRENABAQUE,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-03-01,1,0,0,0,1,1,3,2,0,2,0,1,2,11,1,1,0,1,2,0,10,19,29
+90303,SENA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60101,TARIJA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,3,1,4
+60303,VILLA MONTES,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60301,YACUIBA,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70403,YAPACANI,sospecha diagnostica,chikungunya,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70401,BUENA VISTA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90101,COBIJA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,1,0,1,0,0,1,3,0,2,1,1,0,0,2,8,10
+30101,COCHABAMBA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,1,2,0,1,0,0,2,0,0,0,0,0,0,0,3,3,6
+70903,MAIRANA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+90201,PUERTO RICO,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80602,SAN ANDRES,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,1,1,1,2,1,1,1,2,0,6,5,0,1,1,3,3,2,16,15,31
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,3,1,4
+60101,TARIJA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,2,0,0,0,1,1,0,1,0,0,1,0,0,2,1,4,5,9
+70801,VALLEGRANDE,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60303,VILLA MONTES,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,3
+70201,WARNES,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+60301,YACUIBA,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+70403,YAPACANI,sospecha diagnostica,chikungunya,2019-04-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+31204,CHIMORE,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,2,1,3
+90101,COBIJA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,1,0,0,0,0,1,1,2,0,1,0,0,1,0,3,4,7
+30101,COCHABAMBA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+70603,COLPA BELGICA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-05-01,0,0,1,0,0,0,0,0,0,1,0,0,2,3,0,0,0,0,1,0,4,4,8
+31206,ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,2,0,0,0,0,4,2,6
+70104,LA GUARDIA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+11003,MACHARETI,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70901,SAMAIPATA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,2,2,4
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90302,SAN LORENZO(PND),sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,1,1,0,6,1,0,2,1,7,9,1,1,1,0,0,1,13,19,32
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,sospecha diagnostica,chikungunya,2019-05-01,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+80101,TRINIDAD,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2,3
+70801,VALLEGRANDE,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90502,VILLA NUEVA (LOMA ALTA),sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70201,WARNES,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+60301,YACUIBA,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,chikungunya,2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,3
+70102,COTOCA,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+31206,ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,2,2,4
+71005,SAN PEDRO,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,1,0,0,1,1,0,0,0,4,4,1,2,1,0,0,0,8,7,15
+80101,TRINIDAD,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70201,WARNES,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,3,4
+70403,YAPACANI,sospecha diagnostica,chikungunya,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,2,2,4
+30101,COCHABAMBA,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,2,2,4
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,3
+80803,HUARACAJE,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+10501,MONTEAGUDO,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+90102,PORVENIR,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80301,REYES,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+70503,ROBORE,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-07-01,0,1,0,0,0,0,0,1,1,1,1,0,4,7,4,3,1,0,3,0,14,13,27
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+10101,SUCRE,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,2,2,4
+70201,WARNES,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+60301,YACUIBA,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70403,YAPACANI,sospecha diagnostica,chikungunya,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,1,0,0,0,1,4,0,0,0,0,0,0,2,4,6
+30101,COCHABAMBA,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+71503,EL PUENTE(STC),sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70903,MAIRANA,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+90302,SAN LORENZO(PND),sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-08-01,0,1,1,0,2,0,1,1,0,0,0,0,1,3,0,0,0,2,0,1,5,8,13
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10101,SUCRE,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+70201,WARNES,sospecha diagnostica,chikungunya,2019-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,chikungunya,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,4
+31206,ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+80202,GUAYARAMERIN,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70104,LA GUARDIA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70903,MAIRANA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90401,NACEBE (SANTA ROSA DEL ABUNA),sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90302,SAN LORENZO(PND),sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,1,2,0,5,3,8
+80101,TRINIDAD,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+70201,WARNES,sospecha diagnostica,chikungunya,2019-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70401,BUENA VISTA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+90101,COBIJA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,1,1,0,2,4,6
+70102,COTOCA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,1,0,0,0,0,0,2,2,0,1,0,1,0,0,3,4,7
+31206,ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,2,3
+70104,LA GUARDIA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,3,2,5
+40101,ORURO,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31205,PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,3
+80301,REYES,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+71005,SAN PEDRO,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,2,0,2,1,0,0,1,0,4,2,0,2,2,0,0,0,11,5,16
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+80101,TRINIDAD,sospecha diagnostica,chikungunya,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,1,0,0,2,5,0,1,0,0,0,0,2,7,9
+30101,COCHABAMBA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70102,COTOCA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+31206,ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,3,3
+70104,LA GUARDIA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,1,0,0,0,0,1,1,2,0,0,0,0,0,0,2,3,5
+80302,SAN BORJA,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70402,SAN CARLOS,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-11-01,1,0,0,0,0,0,0,2,2,0,1,6,0,1,0,1,0,0,3,0,7,10,17
+10101,SUCRE,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,5,5
+70403,YAPACANI,sospecha diagnostica,chikungunya,2019-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,2,0,1,0,2,2,0,0,5,5,1,1,0,0,0,0,11,8,19
+30101,COCHABAMBA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71101,CONCEPCION,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71503,EL PUENTE(STC),sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1,2,3,5
+31206,ENTRE RIOS CBBA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,3,3
+70104,LA GUARDIA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,3,3,6
+10501,MONTEAGUDO,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,1,0,0,0,1,0,0,0,1,2,0,0,0,0,0,1,3,3,6
+71001,MONTERO,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2
+31205,PUERTO VILLARROEL,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80301,REYES,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80602,SAN ANDRES,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,1,0,0,0,0,2,0,3,0,0,0,0,0,0,1,5,6
+70402,SAN CARLOS,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,2,3,5
+21702,SAN PEDRO DE TIQUINA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,chikungunya,2019-12-01,1,1,0,0,4,2,6,3,5,3,1,3,7,5,1,3,0,1,4,1,29,22,51
+80101,TRINIDAD,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,2,3
+31003,VILLA TUNARI,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+70201,WARNES,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,2,3
+60301,YACUIBA,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,3,1,4
+70403,YAPACANI,sospecha diagnostica,chikungunya,2019-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,2,1,3

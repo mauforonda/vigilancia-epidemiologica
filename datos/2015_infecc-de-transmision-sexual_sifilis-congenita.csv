@@ -1,0 +1,68 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis congenita,2015-01-01,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+31401,PUNATA,infecc. de transmision sexual,sifilis congenita,2015-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,infecc. de transmision sexual,sifilis congenita,2015-01-01,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+80101,TRINIDAD,infecc. de transmision sexual,sifilis congenita,2015-01-01,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
+20801,VIACHA,infecc. de transmision sexual,sifilis congenita,2015-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis congenita,2015-02-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+80201,RIBERALTA,infecc. de transmision sexual,sifilis congenita,2015-02-01,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis congenita,2015-02-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30904,VINTO,infecc. de transmision sexual,sifilis congenita,2015-02-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70702,CHARAGUA,infecc. de transmision sexual,sifilis congenita,2015-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis congenita,2015-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10405,EL VILLAR,infecc. de transmision sexual,sifilis congenita,2015-03-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,sifilis congenita,2015-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,infecc. de transmision sexual,sifilis congenita,2015-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis congenita,2015-03-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31201,TOTORA(CBBA),infecc. de transmision sexual,sifilis congenita,2015-03-01,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+60601,ENTRE RIOS TRJ,infecc. de transmision sexual,sifilis congenita,2015-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,sifilis congenita,2015-04-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis congenita,2015-04-01,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis congenita,2015-04-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis congenita,2015-05-01,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,10
+20105,EL ALTO,infecc. de transmision sexual,sifilis congenita,2015-05-01,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,6
+50101,POTOSI,infecc. de transmision sexual,sifilis congenita,2015-05-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis congenita,2015-05-01,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+31201,TOTORA(CBBA),infecc. de transmision sexual,sifilis congenita,2015-05-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70201,WARNES,infecc. de transmision sexual,sifilis congenita,2015-05-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,infecc. de transmision sexual,sifilis congenita,2015-06-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis congenita,2015-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,sifilis congenita,2015-06-01,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+20102,PALCA,infecc. de transmision sexual,sifilis congenita,2015-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis congenita,2015-06-01,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+80201,RIBERALTA,infecc. de transmision sexual,sifilis congenita,2015-06-01,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis congenita,2015-06-01,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,8
+20902,SAPAHAQUI,infecc. de transmision sexual,sifilis congenita,2015-06-01,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+10101,SUCRE,infecc. de transmision sexual,sifilis congenita,2015-06-01,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+51103,CKOCHAS,infecc. de transmision sexual,sifilis congenita,2015-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis congenita,2015-07-01,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+20105,EL ALTO,infecc. de transmision sexual,sifilis congenita,2015-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,sifilis congenita,2015-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,infecc. de transmision sexual,sifilis congenita,2015-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,sifilis congenita,2015-07-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+90302,SAN LORENZO(PND),infecc. de transmision sexual,sifilis congenita,2015-07-01,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis congenita,2015-07-01,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+10101,SUCRE,infecc. de transmision sexual,sifilis congenita,2015-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis congenita,2015-08-01,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+80201,RIBERALTA,infecc. de transmision sexual,sifilis congenita,2015-08-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,sifilis congenita,2015-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis congenita,2015-08-01,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,7
+22001,CARANAVI,infecc. de transmision sexual,sifilis congenita,2015-09-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis congenita,2015-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,sifilis congenita,2015-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,infecc. de transmision sexual,sifilis congenita,2015-09-01,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+10103,POROMA,infecc. de transmision sexual,sifilis congenita,2015-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,sifilis congenita,2015-10-01,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,10
+50101,POTOSI,infecc. de transmision sexual,sifilis congenita,2015-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,sifilis congenita,2015-10-01,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis congenita,2015-10-01,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6
+30801,CLIZA,infecc. de transmision sexual,sifilis congenita,2015-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis congenita,2015-11-01,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+80201,RIBERALTA,infecc. de transmision sexual,sifilis congenita,2015-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis congenita,2015-11-01,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+30802,TOCO,infecc. de transmision sexual,sifilis congenita,2015-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,infecc. de transmision sexual,sifilis congenita,2015-11-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,infecc. de transmision sexual,sifilis congenita,2015-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,sifilis congenita,2015-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,infecc. de transmision sexual,sifilis congenita,2015-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,sifilis congenita,2015-12-01,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5

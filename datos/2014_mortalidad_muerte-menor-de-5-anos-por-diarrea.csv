@@ -1,0 +1,54 @@
+codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+20101,LA PAZ,mortalidad,muerte  menor de 5 anos por diarrea,2014-01-01,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+50101,POTOSI,mortalidad,muerte  menor de 5 anos por diarrea,2014-01-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31001,SACABA,mortalidad,muerte  menor de 5 anos por diarrea,2014-01-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20606,TIPUANI,mortalidad,muerte  menor de 5 anos por diarrea,2014-01-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21101,CHULUMANI (V. DE LA LIBERTAD),mortalidad,muerte  menor de 5 anos por diarrea,2014-02-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+31002,COLOMI,mortalidad,muerte  menor de 5 anos por diarrea,2014-02-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50102,TINGUIPAYA,mortalidad,muerte  menor de 5 anos por diarrea,2014-02-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+50103,YOCALLA,mortalidad,muerte  menor de 5 anos por diarrea,2014-02-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20105,EL ALTO,mortalidad,muerte  menor de 5 anos por diarrea,2014-03-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,mortalidad,muerte  menor de 5 anos por diarrea,2014-03-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21802,PAPEL PAMPA,mortalidad,muerte  menor de 5 anos por diarrea,2014-03-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+31001,SACABA,mortalidad,muerte  menor de 5 anos por diarrea,2014-03-01,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+50501,SAN PEDRO DE BUENA VISTA,mortalidad,muerte  menor de 5 anos por diarrea,2014-03-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50801,TUPIZA,mortalidad,muerte  menor de 5 anos por diarrea,2014-03-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50601,COTAGAITA,mortalidad,muerte  menor de 5 anos por diarrea,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+40701,HUANUNI,mortalidad,muerte  menor de 5 anos por diarrea,2014-04-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+80201,RIBERALTA,mortalidad,muerte  menor de 5 anos por diarrea,2014-04-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10702,SAN LUCAS,mortalidad,muerte  menor de 5 anos por diarrea,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50303,TACOBAMBA,mortalidad,muerte  menor de 5 anos por diarrea,2014-04-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+22001,CARANAVI,mortalidad,muerte  menor de 5 anos por diarrea,2014-05-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21501,IXIAMAS,mortalidad,muerte  menor de 5 anos por diarrea,2014-05-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,mortalidad,muerte  menor de 5 anos por diarrea,2014-05-01,3.0,0.0,0.0,0.0,3.0,0.0,3.0
+71401,PUERTO SUAREZ,mortalidad,muerte  menor de 5 anos por diarrea,2014-05-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+71101,CONCEPCION,mortalidad,muerte  menor de 5 anos por diarrea,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,mortalidad,muerte  menor de 5 anos por diarrea,2014-06-01,3.0,0.0,1.0,0.0,4.0,0.0,4.0
+10501,MONTEAGUDO,mortalidad,muerte  menor de 5 anos por diarrea,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80302,SAN BORJA,mortalidad,muerte  menor de 5 anos por diarrea,2014-06-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte  menor de 5 anos por diarrea,2014-06-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+50102,TINGUIPAYA,mortalidad,muerte  menor de 5 anos por diarrea,2014-06-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20606,TIPUANI,mortalidad,muerte  menor de 5 anos por diarrea,2014-06-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+40701,HUANUNI,mortalidad,muerte  menor de 5 anos por diarrea,2014-07-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20101,LA PAZ,mortalidad,muerte  menor de 5 anos por diarrea,2014-07-01,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+70502,PAILON,mortalidad,muerte  menor de 5 anos por diarrea,2014-07-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+31202,POJO (CBBA),mortalidad,muerte  menor de 5 anos por diarrea,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50101,POTOSI,mortalidad,muerte  menor de 5 anos por diarrea,2014-07-01,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+50102,TINGUIPAYA,mortalidad,muerte  menor de 5 anos por diarrea,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20606,TIPUANI,mortalidad,muerte  menor de 5 anos por diarrea,2014-07-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80101,TRINIDAD,mortalidad,muerte  menor de 5 anos por diarrea,2014-07-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20701,APOLO,mortalidad,muerte  menor de 5 anos por diarrea,2014-08-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,mortalidad,muerte  menor de 5 anos por diarrea,2014-08-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+40701,HUANUNI,mortalidad,muerte  menor de 5 anos por diarrea,2014-08-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20904,MALLA,mortalidad,muerte  menor de 5 anos por diarrea,2014-08-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31003,VILLA TUNARI,mortalidad,muerte  menor de 5 anos por diarrea,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50103,YOCALLA,mortalidad,muerte  menor de 5 anos por diarrea,2014-08-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70703,CABEZAS,mortalidad,muerte  menor de 5 anos por diarrea,2014-09-01,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+22001,CARANAVI,mortalidad,muerte  menor de 5 anos por diarrea,2014-09-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+90101,COBIJA,mortalidad,muerte  menor de 5 anos por diarrea,2014-09-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+71101,CONCEPCION,mortalidad,muerte  menor de 5 anos por diarrea,2014-09-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+80201,RIBERALTA,mortalidad,muerte  menor de 5 anos por diarrea,2014-09-01,0.0,1.0,1.0,0.0,1.0,1.0,2.0
+10702,SAN LUCAS,mortalidad,muerte  menor de 5 anos por diarrea,2014-09-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+80101,TRINIDAD,mortalidad,muerte  menor de 5 anos por diarrea,2014-09-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+60301,YACUIBA,mortalidad,muerte  menor de 5 anos por diarrea,2014-09-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+90202,SAN PEDRO(PND),mortalidad,muerte  menor de 5 anos por diarrea,2014-11-01,1.0,0.0,0.0,0.0,1.0,0.0,1.0

@@ -1,0 +1,692 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-meses-a-menor-de-1-ano_masculino,b-6-meses-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10404,ALCALA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,1,4,5
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+80802,BAURES,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,1,0,2,0,2,2,0,0,2,1,0,0,0,0,0,0,7,3,10
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,1,0,0,0,0,4,2,6
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,0,0,1,0,0,4,2,6
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,2,0,0,0,0,1,0,1,4,2,1,0,2,0,2,0,11,4,15
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,11,3,0,0,0,0,0,0,11,3,14
+71101,CONCEPCION,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,1,0,0,2,1,0,0,0,0,2,3,3,1,0,1,0,1,3,8,10,18
+10405,EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,2,4,10,12,9,11,0,13,8,8,2,4,1,3,7,9,39,64,103
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,1,0,1,0,1,0,1,0,3,2,1,0,0,1,1,0,9,3,12
+20602,GUANAY,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,3,4
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,5,4,8,14,65,70,71,55,59,95,56,127,170,271,42,60,47,28,34,36,557,760,1317
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,1,1,2,0,0,0,1,2,0,0,0,0,0,0,4,3,7
+10703,INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,1,0,0,0,0,0,0,0,2,1,2,2,4,2,0,0,9,5,14
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,2,1,0,2,1,10,0,1,0,0,0,0,3,14,17
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,1,2,3
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,1,3,0,0,2,4,1,5,3,7,10,2,1,2,3,3,5,26,26,52
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,4,1,5
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,1,0,7,0,4,4,6,0,13,4,2,1,1,1,1,1,35,11,46
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,1,0,2,0,0,0,4,2,1,0,0,0,1,0,9,2,11
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,1,0,1,0,0,1,5,2,1,1,1,2,1,0,10,6,16
+70103,PORONGO,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,1,0,0,1,0,0,0,2,0,0,0,0,1,0,0,3,2,5
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,1,0,1,2,0,3,0,2,2,1,0,2,0,1,0,11,4,15
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,3,0,0,2,2,0,1,1,0,0,1,3,7,10
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,3,0,4,0,1,3,0,0,0,0,0,0,8,3,11
+80301,REYES,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,2,3,8,3,38,16,136,24,32,22,60,72,145,154,41,40,34,28,24,24,520,386,906
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,2,3,1,1,0,0,1,4,3,10,2,5,1,0,3,1,13,24,37
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,11,4,17,9,26
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,1,1,1,2,1,0,0,3,1,0,0,0,1,0,0,6,5,11
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,3
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,2,1,3
+90303,SENA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,2,3,4,1,0,3,2,8,2,2,1,0,0,0,0,17,11,28
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,1,0,0,0,4,3,3,1,2,5,2,1,1,2,1,0,14,12,26
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,3,4
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,7,8,7,12,11,11,4,11,12,24,4,5,2,4,4,4,51,79,130
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,1,1,2,0,0,1,1,1,0,2,0,1,0,0,1,0,5,6,11
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,1,0,0,1,1,0,2,1,1,1,2,2,5,15,1,1,0,2,4,3,17,26,43
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,1,0,1,1,0,1,0,1,1,1,1,0,0,0,0,0,4,4,8
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,7,5,10,1,1,0,1,1,0,8,19,27
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10404,ALCALA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,1,0,2,0,4,0,0,1,1,0,0,1,8,9
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,0,1,3,4,7
+80802,BAURES,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,1,0,0,1,0,2,0,1,2,1,0,0,0,1,0,6,3,9
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,2,0,0,2,0,3,1,0,0,0,0,0,0,5,3,8
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,2,2,2,1,0,1,0,0,0,0,0,1,0,0,2,1,6,6,12
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,0,3
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,1,1,0,6,1,7
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,5,0,2,0,0,1,1,4,4,3,0,0,0,0,1,2,13,10,23
+10405,EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,2,2,4
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,1,2,7,4,17,10,8,13,4,13,13,32,3,4,5,5,4,11,62,94,156
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,1,1,1,0,1,1,0,0,2,1,0,1,0,0,5,4,9
+20602,GUANAY,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,2,1,3
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,4,5,3,5,26,45,36,29,48,39,33,57,79,167,31,27,18,14,30,20,308,408,716
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,1,0,5,4,7,7,3,8,4,11,18,33,5,8,4,5,3,5,50,81,131
+11002,HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10304,ICLA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,2,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,4,2,6
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,1,0,2,0,9,0,1,0,0,1,0,1,13,14
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,1,0,0,1,0,0,2,3,1,1,0,0,0,0,4,5,9
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2,3
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,1,0,0,0,0,0,1,2,2,1,1,1,2,2,1,6,8,14
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,3,1,5,8,6,1,5,3,5,9,4,2,3,2,9,5,40,31,71
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,1,0,0,1,2,0,0,0,1,4,0,3,0,0,1,0,0,0,0,8,5,13
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,1,0,2,2,0,2,3,2,9,4,0,2,1,0,0,0,16,12,28
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,1,1,0,1,0,3,0,0,0,0,0,1,0,6,1,7
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,1,0,0,0,0,4,1,5
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10302,PRESTO,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,2,4
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,3,3,6
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,1,0,1,0,7,3,2,0,0,0,0,0,11,3,14
+71401,PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,0,0,0,0,1,5,6
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,2,1,6,1,17,15,31,41,43,34,61,60,129,159,53,38,44,21,27,15,413,385,798
+31001,SACABA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,1,0,3,2,1,2,1,1,2,12,4,1,2,2,2,3,16,23,39
+80501,SAN IGNACIO,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,1,0,2,2,1,4,1,5,3,7,0,1,6,6,10,5,24,30,54
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,1,1,0,0,0,1,1,5,0,4,2,0,0,2,0,13,4,17
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,2,6,3,4,3,2,4,0,3,4,3,2,5,1,1,1,0,20,24,44
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2,3
+90303,SENA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,1,2,3,4,0,4,5,10,6,1,0,1,1,1,0,23,16,39
+10101,SUCRE,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,1,1,0,0,0,2,0,0,0,5,2,0,1,0,2,0,2,8,8,16
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,1,0,1,0,3,0,4,3,0,1,3,2,1,0,13,6,19
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,1,0,9,11,17,17,21,17,12,18,30,42,9,13,6,7,9,6,114,131,245
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,1,0,2,1,4,0,1,3,1,0,0,0,0,0,0,4,9,13
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,1,0,0,3,3,0,1,3,0,1,5,1,21,4,3,0,2,2,5,14,41,55
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,1,1,1,1,2,15,2,7,1,0,1,0,8,24,32
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+10301,ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2015-02-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,2,1,3
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,3,4
+10404,ALCALA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,1,1,0,1,0,3,0,1,0,1,0,0,0,0,1,7,8
+22002,ALTO BENI,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,2,1,1,2,0,1,0,3,4,25,4,6,1,2,1,0,13,40,53
+80802,BAURES,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,2,3,0,0,4,0,2,0,0,0,2,0,10,3,13
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,1,0,1,0,1,1,2,1,0,0,0,0,0,0,5,2,7
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70401,BUENA VISTA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+60302,CARAPARI,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,1,0,0,0,0,3,1,1,0,0,0,0,1,4,3,7
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,1,0,9,0,9
+70102,COTOCA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,1,6,3,0,1,0,0,1,1,8,6,14
+10405,EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,1,0,0,1,5,6,26,15,26,19,12,8,6,25,4,5,6,5,5,15,91,99,190
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,1,0,0,1,1,0,0,0,4,2,0,0,0,1,0,0,6,4,10
+21601,GRAL. J.J. PEREZ (CHARAZANI),enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20602,GUANAY,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,2,0,1,2,6,0,1,0,2,3,4,1,16,6,22
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,1,3,9,5,61,47,63,73,81,66,81,128,164,282,58,71,41,34,46,38,605,747,1352
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,1,10,14,11,17,9,14,7,15,26,43,20,10,6,11,16,14,105,139,244
+10304,ICLA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,1,1,2,0,4,20,4,21,5,20,3,4,2,7,4,4,25,77,102
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,2,2,1,3,2,4,3,9,4,3,1,0,4,2,1,23,18,41
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,2,3
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,2,0,1,3,0,0,0,0,0,0,2,0,0,1,5,4,9
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,1,0,0,1,4,20,15,9,7,13,5,9,10,7,8,8,8,12,12,79,70,149
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,1,3,1,1,3,4,5,1,10,5,3,1,1,0,1,0,25,15,40
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,3,0,1,0,5,1,4,1,4,4,1,0,0,1,1,0,19,7,26
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,1,4,4,3,1,2,5,4,0,2,3,4,3,7,17,26,43
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,2,0,0,0,5,4,0,1,0,0,0,1,7,6,13
+70103,PORONGO,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,2,1,3
+10302,PRESTO,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,3,3
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,2,3
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,1,0,1,1,3,2,0,0,0,0,1,0,6,3,9
+80301,REYES,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,1,1,0,1,0,4,0,1,2,1,0,0,0,1,0,9,3,12
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,1,2,14,7,32,37,52,43,66,51,108,115,216,239,62,49,42,27,47,31,640,601,1241
+70503,ROBORE,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,3,3,0,4,1,12,2,4,0,0,0,1,6,24,30
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,3,5,1,1,1,4,2,10,5,21,9,6,4,7,14,6,39,60,99
+80302,SAN BORJA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,2,1,0,5,0,4,3,23,9,5,3,4,8,5,25,47,72
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,1,2,1,3,0,2,0,1,0,0,0,0,0,0,0,8,2,10
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,2,0,6,16,30,25,20,24,0,2,3,11,3,4,1,4,0,0,65,86,151
+90202,SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,1,4,5,20,7,18,3,10,11,47,2,8,2,6,6,6,37,119,156
+90303,SENA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,1,0,4,2,3,6,2,0,6,2,9,9,2,4,1,0,0,1,28,24,52
+10101,SUCRE,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,2,2,10,0,0,0,0,0,0,2,12,14
+10202,TARVITA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,1,1,4,0,3,0,6,1,1,0,1,1,1,1,17,4,21
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,1,0,1,4,5
+70801,VALLEGRANDE,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,2,0,10,6,17,18,15,15,0,0,22,27,2,8,5,11,6,9,79,94,173
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,1,1,1,0,1,2,0,1,2,1,1,0,0,0,0,0,6,5,11
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,1,4,0,1,9,20,0,1,1,1,2,7,8,21,2,3,2,6,9,4,34,68,102
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,1,0,0,0,2,2,1,3,11,19,1,19,2,2,1,2,0,2,19,49,68
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,1,1,3,3,4,3,2,5,3,19,1,0,1,3,0,2,15,36,51
+10301,ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2015-03-01,0,0,0,0,0,0,0,1,0,0,0,1,2,7,1,0,0,0,0,0,3,9,12
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,4,4
+10404,ALCALA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,3,3,14,7,6,3,1,9,7,44,5,9,7,6,6,5,49,86,135
+80802,BAURES,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,1,0,3,1,0,1,0,1,0,0,0,0,1,0,5,3,8
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,2
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,1,2,0,4,0,0,1,1,0,0,0,7,2,9
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,1,0,0,0,0,1,0,2,1,2,0,1,1,0,2,6,5,11
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,2,0,0,3,0,1,0,2,3,0,1,0,1,0,1,6,8,14
+10405,EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,1,0,0,1,2,2,5,2,2,0,5,1,19,8,6,4,9,2,7,20,56,76
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,1,2,5,2,3,3,1,10,8,4,6,4,6,4,5,29,35,64
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,2,1,0,3,0,1,1,1,1,1,0,0,0,0,0,7,4,11
+20602,GUANAY,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2,1,3
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,8,4,5,6,86,58,84,104,109,90,138,110,189,292,63,58,45,39,48,43,775,804,1579
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,2,7,7,6,2,5,0,7,7,16,4,6,3,6,3,6,28,59,87
+11002,HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,1,3,4
+10304,ICLA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,1,0,0,0,0,0,5,7,1,1,1,1,1,0,9,9,18
+10703,INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,1,3,1,2,2,0,0,0,1,5,5,10
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,1,0,0,0,1,0,3,1,0,0,0,0,0,0,5,1,6
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,1,0,1,2,1,0,4,2,2,17,2,1,3,1,3,2,17,25,42
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,1,0,6,9,1,5,1,4,5,3,0,1,0,0,0,1,14,23,37
+31301,MIZQUE,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,1,2,8,6,8,2,2,0,6,14,4,3,2,2,3,5,34,34,68
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,1,0,0,0,0,1,4,1,5,0,4,5,21,16,4,6,10,4,18,15,67,48,115
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,2,2,3,1,2,2,6,2,11,6,0,1,0,2,2,0,26,16,42
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,1,0,2,0,2,1,1,2,7,2,1,2,1,0,0,0,15,7,22
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,2,4,2,3,1,5,3,8,7,33,5,11,4,12,1,7,25,83,108
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,2,0,1,1,6,1,7
+70103,PORONGO,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,1,1,0,0,1,1,1,1,6,1,1,1,0,1,1,1,11,7,18
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+10302,PRESTO,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,1,1,0,0,1,0,2,0,0,0,0,0,1,1,5,6
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,1,0,5,0,5
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,1,0,0,0,5,1,6
+80301,REYES,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,1,1,0,1,1,0,2,3,0,2,0,0,0,0,0,7,4,11
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,3,2,6,3,38,30,36,39,42,53,97,96,222,241,75,53,43,40,44,33,606,590,1196
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31001,SACABA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,2,3,2,2,6,1,9,0,8,7,13,3,6,1,3,2,2,19,51,70
+21502,SAN BUENA VENTURA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,2,0,0,2,2,2,2,8,2,1,5,6,8,2,21,21,42
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,1,1,2,1,2,3,6,4,1,1,1,0,1,0,14,10,24
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,3,0,8,10,4,2,1,2,4,0,6,7,1,3,1,1,0,0,28,25,53
+90202,SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,1,1,2,1,1,0,7,3,9,6,14,22,34,50,18,20,10,17,12,22,108,142,250
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,2,3,0,2,1,1,0,0,3,0,0,0,0,0,0,0,6,6,12
+90303,SENA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,4,5,5,2,5,2,1,1,9,5,6,2,1,2,1,1,32,20,52
+10101,SUCRE,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,2,1,3
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,2,0,16,0,0,0,0,0,0,0,18,18
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1,3,4
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,1,3,6,1,2,0,2,2,2,0,2,1,0,0,0,7,15,22
+70801,VALLEGRANDE,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,3,3,13,16,25,21,6,11,12,19,6,7,4,3,5,10,74,90,164
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,1,1,2,2,0,0,0,1,3,0,0,0,1,0,7,4,11
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,6,1,0,1,1,2,1,5,11,22,3,3,2,3,4,1,28,38,66
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,5,0,5
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,2,0,4,1,1,2,4,7,7,19,2,2,1,0,1,0,22,31,53
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,1,2,0,1,0,5,0,0,0,0,0,1,1,9,10
+10301,ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,2,3
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,2,0,0,0,0,5,3,8
+10404,ALCALA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,1,0,2,0,10,8,13,15,30,28,12,5,11,30,7,7,2,11,5,11,93,115,208
+80802,BAURES,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,3,2,2,3,0,0,0,0,0,0,3,0,0,0,8,5,13
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,1,0,0,1,0,2,0,1,0,0,1,1,0,1,0,6,2,8
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,2,5,1,0,1,5,2,0,0,1,1,1,0,2,1,2,8,16,24
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+60302,CARAPARI,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,4,1,5
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,1,1,0,2,4,2,1,4,0,0,1,1,1,10,8,18
+10405,EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,1,0,0,2,2,2,2,5,2,7,0,1,1,3,0,8,8,28,36
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,1,1,0,0,0,2,0,0,0,0,1,0,1,0,0,0,3,3,6
+20602,GUANAY,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,1,3
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,5,4,3,11,61,62,85,95,93,68,99,106,176,253,52,57,33,44,36,28,643,728,1371
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,1,1,0,1,1,7,8,5,3,2,5,7,10,22,6,11,5,7,10,14,49,77,126
+11002,HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10304,ICLA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,1,0,0,1,3,0,22,0,4,1,0,0,1,2,31,33
+10703,INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,1,5,2,2,0,2,0,0,11,11,2,4,1,1,2,3,19,28,47
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,1,1,2,0,0,0,0,2,1,2,1,0,0,0,0,5,5,10
+21501,IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,1,0,3,2,1,3,1,8,6,14,2,3,2,6,5,3,21,39,60
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,0,0,0,1,2,3,5
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,3,1,9,3,3,4,3,4,8,19,6,8,0,3,5,3,37,45,82
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,1,0,3,3,6,4,10,10,18,16,26,31,11,6,12,13,18,21,105,104,209
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,3,1,4,1,6,2,7,2,10,3,2,1,3,1,2,0,37,11,48
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,2,2,1,1,4,0,0,1,0,0,1,4,8,12
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,4,5,1,6,1,3,3,2,11,16,5,11,5,1,11,12,41,56,97
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,0,4
+70103,PORONGO,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,3,4
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2,1,3
+10302,PRESTO,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,1,0,0,0,1,1,4,8,2,6,1,3,7,23,9,4,4,5,2,2,31,52,83
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,2,1,3
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,1,1,0,0,3,1,0,0,0,0,0,0,4,2,6
+80301,REYES,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,1,0,5,1,45,31,57,48,62,59,116,97,228,230,73,74,58,39,61,43,706,622,1328
+70503,ROBORE,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,2,2,4,0,3,5,1,2,0,1,0,0,10,10,20
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,2,2,3,3,4,6,4,6,3,18,5,11,3,4,4,12,28,62,90
+70901,SAMAIPATA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,2,3,3,3,1,5,2,4,2,2,3,3,6,1,19,21,40
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,2,3,1,3,2,4,4,4,2,2,1,1,0,0,0,17,12,29
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,15,9,36,41,33,21,9,9,23,32,2,10,6,5,4,7,128,134,262
+71005,SAN PEDRO,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90202,SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,2,2,4
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,0,4
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,3,2,1,0,0,0,0,0,0,1,0,1,0,0,1,0,5,4,9
+90303,SENA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,2,2,2,4,2,1,5,2,10,9,3,0,0,0,2,0,26,18,44
+10101,SUCRE,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,1,3,2,5
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,1,0,1,4,0,8,1,1,0,0,0,0,3,13,16
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,3,3
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,2,3,2,2,1,2,2,9,0,1,0,0,0,1,7,18,25
+31302,VILA VILA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,1,30,35,58,63,94,81,52,51,124,150,40,42,33,37,28,48,459,508,967
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,1,3,1,4,0,0,1,4,3,0,0,0,0,0,0,11,6,17
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,5,3,10,5,4,3,1,4,5,16,1,3,2,2,1,6,29,42,71
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,1,3,3,4,1,6,5,36,16,12,6,6,5,6,2,73,39,112
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,2,0,0,1,0,3,4,0,2,0,0,0,0,4,8,12
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,1,1,1,2,0,3,3,8,5,3,4,4,5,4,19,25,44
+10301,ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2015-05-01,0,0,0,0,0,0,0,0,0,1,1,2,2,11,0,0,0,1,1,1,4,16,20
+10404,ALCALA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,1,1,4,5
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,2,4,4,2,13,25,10,8,7,13,2,6,3,45,2,12,2,8,2,3,47,126,173
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,2,1,3
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,4,4
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,0,3,1,4
+71403,CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,2,1,1,0,0,0,1,0,0,0,0,1,0,0,0,2,4,6
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,3,1,4
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,17,1,5,0,4,0,0,0,26,1,27
+71503,EL PUENTE(STC),enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,2,0,1,0,4,2,6
+10405,EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,3,9,16,9,21,13,2,9,22,46,14,11,7,11,15,18,100,126,226
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,2,0,0,1,0,2,1,1,1,0,0,0,0,0,4,4,8
+90203,FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+20602,GUANAY,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,2,1,3
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,2,2,9,7,80,76,120,132,132,88,115,183,219,414,92,83,63,64,53,62,885,1111,1996
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,1,0,0,2,4,11,5,7,7,8,17,32,24,9,18,9,15,9,17,87,108,195
+11002,HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,2,7,25,16,11,9,5,10,1,1,2,4,2,4,48,51,99
+10304,ICLA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,3,1,2,0,1,3,8,23,0,4,0,2,0,0,14,33,47
+10703,INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,3,10,23,25,17,15,5,19,32,43,6,9,6,5,6,10,98,136,234
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,1,1,1,1,2,1,0,0,2,2,3,2,0,0,0,0,9,7,16
+21501,IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,1,3,5,2,6,3,2,7,9,23,7,6,4,4,3,4,37,52,89
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,1,0,1,0,2,0,1,3,0,0,0,1,2,0,0,4,7,11
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,1,0,0,0,1,1,0,3,0,3,1,1,0,0,3,3,6,11,17
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,1,0,9,3,16,22,18,14,1,10,21,34,9,12,12,17,18,22,105,134,239
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,2,1,4,3,2,6,3,5,15,8,4,2,2,2,1,2,33,29,62
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,1,0,0,0,0,2,2,0,1,3,7,3,1,0,1,1,1,0,14,9,23
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,2,0,40,37,38,35,6,16,23,61,18,17,10,17,25,23,162,206,368
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,0,0,0,1,2,3,5
+70103,PORONGO,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+10302,PRESTO,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,4,0,4,0,18,1,4,3,1,1,1,5,32,37
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,0,4
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80301,REYES,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,1,0,1,0,0,1,2,1,2,0,0,0,0,0,6,2,8
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,2,2,5,4,40,35,27,34,42,48,80,81,188,223,64,42,55,25,53,33,556,527,1083
+70503,ROBORE,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,3,2,2,0,0,0,5,5,10
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,4,2,8,2,3,1,1,3,6,22,2,13,5,8,9,16,38,67,105
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,1,1,1,0,5,2,1,2,7,1,3,3,5,5,0,14,23,37
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,2,2,0,6,1,2,0,10,1,2,0,1,0,1,0,24,4,28
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,3,0,1,1,16,16,5,8,9,9,6,5,11,21,4,9,1,6,9,11,65,86,151
+90202,SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,1,2,1,2,0,0,0,0,0,1,2,1,0,0,1,0,5,6,11
+90303,SENA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,1,0,4,2,3,3,3,1,5,1,12,3,0,1,1,0,0,0,29,11,40
+10101,SUCRE,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,0,0,1,1,2,3,1,22,1,2,1,3,0,0,6,31,37
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,1,2,0,1,2,1,7,3,7,0,1,2,0,3,2,12,20,32
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,2,1,36,33,57,70,80,87,102,76,134,164,46,63,34,35,46,42,537,571,1108
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,2,1,0,8,6,4,4,2,0,2,5,9,12,2,2,0,0,3,3,31,34,65
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,1,0,1,0,0,3,2,6,35,48,14,19,12,19,4,8,69,103,172
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,1,1,0,0,1,2,2,7,0,1,2,1,3,1,9,13,22
+10301,ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2015-06-01,0,0,0,0,0,0,1,0,0,0,0,3,0,3,1,4,0,1,0,1,2,12,14
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10404,ALCALA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,2,2,4
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,2,0,6,6,0,0,2,3,0,6,2,13,0,1,0,1,0,0,12,30,42
+80802,BAURES,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,1,4,5
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,1,0,22,0,1,0,3,0,1,1,28,1,29
+21402,CORIPATA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,3,2,5
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,8,5,10,17,12,21,2,13,16,23,6,11,5,9,7,7,66,106,172
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,1,1,2,0,0,2,2,1,0,0,0,1,0,0,0,0,0,5,5,10
+90203,FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20602,GUANAY,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,6,0,6,6,73,61,81,72,75,86,87,153,177,350,69,68,35,44,43,45,652,885,1537
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,4,11,10,7,9,4,10,6,9,21,28,3,12,5,10,22,25,79,117,196
+11002,HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,1,1,0,1,0,1,1,1,1,1,0,2,3,2,6,9,15
+10304,ICLA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,1,0,0,0,2,1,0,6,5,3,4,1,2,1,1,12,15,27
+10703,INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,13,14,4,1,0,0,0,0,0,0,17,15,32
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,1,2,0,2,0,2,0,0,0,0,0,0,0,6,1,7
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,1,0,1,2,0,0,1,3,4,5,1,1,1,1,2,2,11,14,25
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,1,1,1,1,0,3,8,2,4,0,2,0,1,7,17,24
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,1,0,1,0,0,1,4,3,2,4,4,14,2,4,3,6,4,3,21,35,56
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,1,1,0,3,0,5,1,10,2,5,2,2,1,0,0,26,7,33
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,4,0,2,1,1,1,1,0,5,0,1,0,1,0,0,0,15,2,17
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,2,3,7,6,3,6,7,7,7,14,8,8,4,4,9,20,47,68,115
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,1,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,4,1,5
+10302,PRESTO,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,5,5,4,2,0,1,1,6,0,2,1,2,2,5,13,23,36
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,1,0,1,0,1,1,0,2,0,0,0,0,0,0,3,3,6
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,2,2,4
+80301,REYES,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,2,0,1,0,0,0,0,1,2,1,0,0,1,0,0,2,6,8
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,4,0,16,12,31,40,33,36,60,81,88,108,156,191,47,28,56,33,43,42,534,571,1105
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,2,3,3,11,4,1,1,8,3,16,3,10,3,1,3,13,22,63,85
+70901,SAMAIPATA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,1,0,0,2,3,2,1,10,1,1,2,4,2,1,10,20,30
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,2,0,0,3,2,4,2,2,4,1,2,1,1,0,0,0,13,11,24
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,2,3
+90202,SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,1,1,0,0,3,3,6
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,5,3,2,0,1,0,0,0,2,2,1,0,0,0,0,0,11,5,16
+90303,SENA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,1,0,0,0,4,3,3,3,3,2,5,2,7,3,2,1,1,0,0,0,26,14,40
+10101,SUCRE,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,1,2,0,11,0,1,0,0,0,0,1,14,15
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,3
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,2,1,1,6,4,8,0,0,0,1,2,0,9,16,25
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,1,3,25,33,71,98,72,65,52,54,93,156,37,31,19,28,29,33,399,501,900
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,1,4,1,0,0,0,0,0,0,4,2,6
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,1,0,0,0,2,1,2,3,14,6,5,3,7,0,4,2,35,15,50
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,1,0,7,0,7
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,2,1,2,3,3,0,9,16,16,27,28,20,6,6,2,4,68,77,145
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,3,1,1,0,2,2,3,7,4,4,3,4,6,8,22,26,48
+10301,ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,2,1,0,3,3,6
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+10404,ALCALA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,1,0,1,0,0,0,0,0,2,1,4,0,1,1,1,0,1,2,11,13
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80802,BAURES,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,3,2,2,1,0,0,3,3,2,2,0,0,0,0,0,0,10,8,18
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,2
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+60302,CARAPARI,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,1,0,0,0,1,0,3,1,0,1,0,1,0,0,5,3,8
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,3,1,4
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,2,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,3,3,6
+10405,EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,1,0,1,0,0,0,1,0,3,7,0,2,2,0,3,3,11,12,23
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,9,7,3,11,6,6,8,8,12,27,5,14,1,7,5,5,49,85,134
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,1,0,0,0,2,1,0,3,0,0,0,1,1,0,0,5,4,9
+90203,FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,3,1,4
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,1,2,10,8,109,80,104,107,145,105,111,196,184,381,71,57,34,104,60,43,829,1083,1912
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,1,0,7,8,12,20,13,13,5,16,27,43,11,20,3,14,13,22,92,156,248
+11002,HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,1,2,0,2,1,1,1,0,5,5,1,0,0,2,0,2,9,14,23
+10304,ICLA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,1,1,21,12,0,2,2,8,1,1,0,0,0,1,25,25,50
+10703,INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,1,6,5,40,49,12,0,6,5,0,1,0,0,4,2,68,63,131
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,1,0,0,0,0,0,0,4,6,1,3,3,3,0,0,8,13,21
+21501,IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+10903,LAS CARRERAS,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,2,0,1,2,2,4,5,0,3,3,10,3,25,4,6,4,2,5,5,25,61,86
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,1,5,1,3,2,0,0,0,0,2,1,1,0,0,0,11,5,16
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,1,7,3,7,1,4,2,0,1,1,1,0,0,0,0,19,9,28
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,1,0,0,0,1,5,8,3,9,8,3,3,5,7,3,0,2,4,11,9,43,39,82
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,1,1,2,2,1,7,4,3,1,1,1,1,0,15,10,25
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,1,1,2,0,2,0,5,3,0,0,0,0,0,1,10,5,15
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,7,5,17,16,17,18,16,11,21,28,10,12,8,9,15,12,111,111,222
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+10302,PRESTO,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,2,0,3,3,6
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,1,0,0,0,3,3,6
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,2,1,3
+80301,REYES,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,1,0,0,0,0,0,1,2,2,0,0,0,0,0,0,2,4,6
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,4,1,46,53,44,59,40,49,83,117,167,247,64,47,74,55,38,46,560,674,1234
+70503,ROBORE,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,1,0,0,2,0,0,2,1,1,1,0,0,0,1,4,5,9
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,9,5,44,43,13,11,2,2,8,21,8,8,7,8,7,9,98,107,205
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,4,0,4
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,1,2,1,1,1,0,1,16,1,2,1,2,1,0,7,23,30
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,1,0,4,2,4,3,3,5,0,0,13,6,3,2,2,1,2,0,32,19,51
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,2,3,13,5,12,13,9,9,4,16,2,3,5,6,1,3,48,58,106
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,1,8,2,4,8,17,20,13,18,53,47,27,26,11,13,12,12,145,147,292
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,4,0,2,2,11,1,0,0,0,0,0,0,0,0,0,0,17,3,20
+90303,SENA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,1,1,1,3,1,2,2,0,3,4,4,2,1,1,0,1,0,0,13,14,27
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,1,8,2,15,0,1,0,0,0,0,3,24,27
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,5,0,5
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,2,2,1,2,1,0,0,1,1,2,5,7,12
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,1,0,39,36,81,86,90,70,38,44,107,119,35,32,25,24,28,31,444,442,886
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,2,0,0,3,1,0,0,0,1,2,0,0,0,0,0,0,4,5,9
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,4,1,1,2,1,0,4,5,14,0,3,3,1,1,3,12,31,43
+31003,VILLA TUNARI,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,6,2,1,0,2,10,27,24,11,7,10,4,6,4,63,51,114
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+10301,ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+10404,ALCALA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,3,1,0,0,4,1,1,1,0,1,0,0,1,0,1,1,10,5,15
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,1,0,0,1,3,4
+60202,BERMEJO,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,2,3
+71403,CARMEN RIVERO TORREZ,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,1,0,0,1,0,0,0,2,3,0,0,2,2,0,0,0,6,5,11
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,1,0,0,0,0,3,2,2,0,1,0,1,0,7,3,10
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,4,1,5
+10902,CULPINA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,2,2,4
+10405,EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,2,0,0,2,5,4,9
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,1,0,3,0,0,0,0,2,0,1,1,2,1,1,0,0,0,0,6,6,12
+90203,FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,3,1,4
+20602,GUANAY,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,3,4,7,10,84,62,88,78,83,64,86,169,149,364,38,54,34,22,46,40,618,867,1485
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,3,8,14,11,8,11,13,14,18,42,40,28,9,12,10,20,115,146,261
+11002,HUACAYA (VILLA DE HUACAYA),enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,2,0,5,4,13,16,12,19,8,15,4,8,2,3,8,9,54,74,128
+10304,ICLA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,1,2,2,16,16,2,6,0,1,0,0,0,0,20,26,46
+10703,INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,2,8,19,0,3,3,9,0,1,0,0,2,3,13,37,50
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,1,0,2,0,0,1,0,2,4,2,1,0,0,0,0,0,8,5,13
+21501,IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,1,0,2,3,2,3,6,14,2,0,1,1,5,4,19,25,44
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,1,0,0,2,2,1,0,1,1,0,2,1,0,0,1,1,0,0,7,6,13
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,2,0,4,6,8,2,11,1,7,7,2,5,1,1,1,1,36,23,59
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,1,1,9,4,10,16,19,16,31,25,47,103,34,41,13,25,34,53,198,284,482
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,2,0,0,0,4,0,7,3,2,0,0,0,0,0,15,3,18
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,2,0,0,0,1,2,3,0,6,2,2,0,3,0,0,4,17,8,25
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,2,3,3,3,13,18,2,4,9,43,2,7,7,7,10,10,48,95,143
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70103,PORONGO,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,1,0,1,0,2,1,0,1,3,1,2,0,1,0,0,0,10,3,13
+10302,PRESTO,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1,8,0,2,0,0,1,2,4,12,16
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,1,0,2,1,0,0,0,1,1,3,0,2,0,0,0,0,4,7,11
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,10,8,3,0,0,1,1,1,0,0,0,0,0,0,14,10,24
+80301,REYES,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,2,3,9,7,36,27,50,40,54,44,54,108,155,162,55,36,41,28,34,22,490,477,967
+70503,ROBORE,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,1,8,12,32,32,28,26,13,13,30,63,18,23,6,18,16,20,151,208,359
+80304,RURRENABAQUE,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,3,3,12,3,9,14,30,42,9,26,3,5,1,4,7,5,74,102,176
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,3,3,4,7
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,1,11,6,30,36,38,36,26,32,36,75,17,17,14,18,10,20,182,241,423
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,1,0,3,4,6,6,10,12,2,8,9,5,1,0,2,1,2,0,36,36,72
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,1,1,2,14,12,31,21,38,33,11,7,20,22,11,9,9,8,15,6,150,121,271
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,4,0,4
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,2,5,0,2,1,0,2,0,2,0,0,0,0,0,0,1,7,8,15
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,1,0,10,1,21,0,2,1,1,1,7,3,42,45
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,1,0,0,2,5,1,3,3,0,1,0,0,1,1,10,8,18
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,1,27,28,38,52,71,40,51,27,111,77,38,28,18,19,20,22,374,294,668
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,1,1,4,3,7
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,1,1,2,0,0,0,1,2,1,4,5,9
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,2,3,3,6,5,6,8,17,58,41,28,23,21,23,11,14,136,133,269
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,4,11,9,4,0,2,0,2,1,1,0,0,0,0,14,20,34
+10301,ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,0,1,4,5
+10404,ALCALA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,1,3,2,1,2,1,0,0,1,1,1,0,0,0,0,0,0,6,7,13
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,2,5,3,2,1,4,3,4,0,2,0,0,4,0,13,17,30
+80802,BAURES,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,1,2,3,0,1,0,2,0,0,0,7,2,9
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,1,1,0,2,0,1,0,0,1,1,0,0,0,1,2,1,4,7,11
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,3,0,1,0,0,3,5,8
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1,2,0,0,1,2,5,7
+10405,EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,1,0,0,0,2,0,1,1,0,1,0,1,0,0,0,1,4,4,8
+60601,ENTRE RIOS TRJ,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,1,0,1,2,0,0,1,2,7,7,3,1,4,4,4,4,21,20,41
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,2,0,0,1,1,2,0,1,0,0,0,0,0,4,3,7
+90203,FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,1,6,15,15,110,80,133,154,149,121,110,216,206,466,70,84,54,65,57,74,905,1281,2186
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,1,3,2,3,2,2,1,5,6,4,8,1,1,2,1,1,5,21,27,48
+10304,ICLA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,1,1,6,1,12,6,3,9,1,4,0,0,0,1,23,22,45
+10703,INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,1,4,7,12,21,22,4,7,6,14,2,3,1,2,2,4,44,68,112
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,3,0,0,0,1,1,0,2,3,2,1,1,1,0,0,0,9,6,15
+70104,LA GUARDIA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+10903,LAS CARRERAS,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,1,1,0,5,2,11,13,30,0,6,1,2,7,13,24,68,92
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,4,2,3,1,5,7,5,13,6,23,5,8,1,1,6,6,35,61,96
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,1,0,1,2,0,1,0,0,0,3,0,0,0,0,0,0,0,6,2,8
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,3,9,11,11,2,7,6,5,14,3,2,2,2,5,7,42,47,89
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,1,1,5,5,39,20,25,19,15,21,21,46,11,18,10,11,23,36,150,177,327
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,2,1,2,1,3,2,1,3,9,7,2,1,2,1,0,0,21,16,37
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,1,0,1,1,1,1,3,2,0,0,2,0,0,0,8,4,12
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,3,2,7,7,16,17,2,3,7,22,2,9,7,9,9,15,53,84,137
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,1,0,2,3,5
+70103,PORONGO,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,1,1,0,1,0,0,0,0,0,1,9,8,0,0,1,1,0,1,11,13,24
+10302,PRESTO,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,2,0,2,3,5
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,1,0,1,1,0,4,3,7
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71401,PUERTO SUAREZ,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,3,4
+80301,REYES,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,1,3
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,2,0,5,9,27,21,25,25,40,30,46,64,91,150,27,18,26,25,21,12,310,354,664
+70503,ROBORE,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,3,0,4,1,2,0,0,0,0,1,9,10
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,1,4,3,5,6,2,4,0,20,1,1,4,2,4,8,20,45,65
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,1,1,2,1,0,0,1,1,1,0,0,0,0,1,0,0,5,4,9
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,1,2,3,1,1,3,4,5,15,3,5,0,0,1,1,15,30,45
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,4,1,0,5,9,3,1,2,0,1,2,0,16,12,28
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,1,1,9,7,42,32,39,37,7,9,17,17,6,12,6,7,5,8,132,130,262
+90202,SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,5
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,0,3
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,2,4,2,1,0,1,1,1,2,0,1,1,0,0,1,0,9,8,17
+10101,SUCRE,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,6,0,11,0,4,1,0,3,0,4,21,25
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,3,0,3
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,1,0,0,0,0,1,1,1,0,3,0,0,0,0,0,0,2,5,7
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,4,2,6,0,31,31,91,96,148,109,107,87,107,153,37,48,29,36,23,42,583,604,1187
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,2,1,3
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,1,0,0,1,1,2,1,0,1,1,2,24,4,3,4,8,2,16,16,55,71
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,1,1,2,3,5,5,2,6,54,7,16,4,8,0,5,3,93,29,122
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,3,0,3,5,2,5,1,2,2,20,0,10,1,3,1,2,13,47,60
+10301,ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,3,1,0,1,0,0,0,0,0,3,3,6
+30201,AIQUILE,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10404,ALCALA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+71501,ASCENCION DE GUARAYOS,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,4,0,4
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,3,1,4
+80802,BAURES,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,1,0,0,3,0,2,2,1,1,0,0,0,0,0,4,6,10
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,1,2,0,0,1,1,1,1,0,0,0,4,3,7
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,3,3,4,7
+10902,CULPINA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,3,1,4
+10405,EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,1,1,2,0,0,1,0,2,6,1,2,0,1,1,0,6,12,18
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,1,0,1,0,2,0,0,0,0,1,1,3,1,0,0,0,0,0,6,4,10
+90203,FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,1,2,3
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,2,2,10,10,58,48,77,88,75,56,59,137,130,330,34,46,28,56,29,32,502,805,1307
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,2,2,5,1,0,4,0,5,1,1,1,2,9,15,24
+10304,ICLA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10703,INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,1,1,11,12,2,4,4,5,14,7,6,8,1,2,39,39,78
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,1,0,0,0,0,0,1,5,2,5,1,2,1,0,0,12,6,18
+21501,IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10903,LAS CARRERAS,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,5,5
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,1,0,0,0,2,0,1,4,3,16,0,1,0,0,2,2,9,23,32
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,1,3,0,24,18,52,47,52,24,14,33,8,11,6,6,14,17,173,157,330
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,1,0,3,0,4,0,1,3,4,5,2,2,3,0,0,0,18,10,28
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,1,0,0,0,1,0,0,2,5,2,7,2,1,1,1,0,0,0,16,7,23
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,1,2,6,3,2,2,0,0,3,7,1,2,1,0,0,3,14,19,33
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,2,1,3
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,1,2,0,0,3,3,6
+10302,PRESTO,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,4
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,0,2,3,5
+31205,PUERTO VILLARROEL,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+80301,REYES,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,2,0,9,8,50,42,38,45,64,59,100,119,146,175,71,67,73,73,28,25,581,613,1194
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,1,1,0,1,0,2,1,1,3,7,2,5,0,1,2,2,9,20,29
+70501,SAN JOSE DE CHIQUITOS,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,1,0,2,3,0,5,1,3,0,19,4,1,2,3,3,1,13,35,48
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,3,3,9,3,10,2,6,6,19,10,3,0,0,2,4,0,54,26,80
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,1,0,0,0,1,5,19,16,21,25,3,8,7,15,6,9,5,4,6,5,69,87,156
+90202,SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,4
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,2,0,1,0,9,0,9
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,2,3,1,5,0,0,2,0,3,2,2,0,1,0,0,0,11,10,21
+90303,SENA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,3,0,5,7,2,3,1,0,12,8,3,0,0,1,0,0,26,19,45
+10403,SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,3,0,4,1,3,0,0,0,1,1,11,12
+10101,SUCRE,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,6,4,19,3,2,0,0,0,1,7,29,36
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,2,0,4,2,6
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,4,0,1,1,0,1,0,2,0,1,1,2,0,0,6,7,13
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,2,17,22,58,67,133,102,84,62,132,132,42,26,25,31,28,30,519,474,993
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,1,0,1,4,2,9,1,1,1,1,6,11,12,26,38
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,1,0,2,3,3,5,11,0,47,11,19,1,8,1,6,11,97,32,129
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,0,0,1,0,0,0,8,5,17,1,9,0,1,1,2,7,38,45
+10301,ZUDAÑEZ,enfermedades transmitidas por vectores (etv),malaria,2015-11-01,0,0,0,0,0,1,0,0,0,1,0,2,1,6,2,2,2,1,3,1,8,14,22
+10201,AZURDUY,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+90104,BELLA FLOR,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,1,1,2,1,0,1,0,0,0,0,0,0,3,3,6
+70706,CAMIRI,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,3,0,1,1,1,0,0,2,0,2,0,2,0,1,4,2,9,10,19
+22001,CARANAVI,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+60302,CARAPARI,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,9,2,2,1,2,0,1,0,14,3,17
+30905,COLCAPIRHUA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70105,EL TORNO,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,2,4
+10405,EL VILLAR,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,4,4
+90503,EUREKA (SANTOS MERCADO),enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,1,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,4,1,5
+90203,FILADELFIA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,1,0,0,1,6,2,8
+80202,GUAYARAMERIN,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,9,2,12,7,65,63,99,90,99,85,91,144,197,286,73,47,56,45,34,20,735,789,1524
+10502,HUACARETA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,2,4,5,1,0,3,0,4,3,0,0,2,1,0,1,14,12,26
+10304,ICLA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,4,4
+10703,INCAHUASI,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,1,5,2,7,9,33,5,4,1,2,1,0,19,51,70
+90402,INGAVI (HUMAITA),enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,1,1,0,0,0,0,3,0,0,0,0,0,0,1,4,5
+21501,IXIAMAS,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,3,4,4,8,5,5,2,1,15,19,3,3,5,1,1,1,38,42,80
+20101,LA PAZ,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10903,LAS CARRERAS,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,1,0,0,3,1,4,4,13,3,4,0,1,0,1,9,26,35
+11003,MACHARETI,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,6,1,1,0,0,0,0,2,7,9
+80801,MAGDALENA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,2,2,4
+20607,MAPIRI,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+10303,MOJOCOYA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,2,1,2,0,0,3,10,19,4,5,5,12,4,9,27,49,76
+10501,MONTEAGUDO,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,3,1,5,7,6,7,2,6,14,36,4,14,4,6,11,13,49,90,139
+90401,NACEBE (SANTA ROSA DEL ABUNA),enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,1,1,2,1,1,3,0,5,4,4,0,1,0,0,0,15,8,23
+90501,NUEVO MANOA (NUEVA ESPERANZA),enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,2,1,1,0,3,1,0,0,1,0,0,0,7,2,9
+30203,OMEREQUE,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10401,PADILLA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,1,0,0,0,1,0,0,0,1,3,2,1,2,3,4,1,0,8,11,19
+21104,PALOS BLANCOS,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+70103,PORONGO,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+90102,PORVENIR,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,2,2,4
+10302,PRESTO,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,1,0,2,1,8,2,23,0,4,0,2,2,4,5,44,49
+90301,PUERTO GONZALO MORENO,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,1,0,0,0,0,2,0,4,1,1,0,1,0,2,0,10,2,12
+90201,PUERTO RICO,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,3,0,3,0,0,1,0,0,0,0,0,0,6,1,7
+80301,REYES,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,2,1,3
+80201,RIBERALTA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,2,3,1,33,16,21,19,35,26,93,67,118,148,49,43,38,33,36,33,426,388,814
+71302,SAIPINA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,2,0,0,4,1,4,3,5,5,33,1,23,5,16,4,18,21,103,124
+70301,SAN IGNACIO DE VELASCO,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,2,3,1,2,11,7,3,0,6,8,3,3,3,4,5,3,34,30,64
+90302,SAN LORENZO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,2,3,3,1,2,1,1,1,4,1,1,0,1,0,1,0,15,7,22
+10702,SAN LUCAS,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,1,3,4,8,9,2,1,3,13,5,5,2,1,6,4,29,38,67
+90202,SAN PEDRO(PND),enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,2,2,4
+70101,SANTA CRUZ DE LA SIERRA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+80303,SANTA ROSA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,3,6,4,1,0,0,0,0,2,2,0,1,0,0,1,1,10,11,21
+90303,SENA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,3,3,2,6,3,5,3,1,16,3,4,1,3,0,0,0,34,19,53
+10403,SOPACHUY,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,1,0,0,0,0,2,0,6,0,0,0,0,0,0,1,8,9
+10101,SUCRE,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10601,TARABUCO,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,6,0,8,0,0,0,0,0,0,0,14,14
+20608,TEOPONTE,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,3,5
+10402,TOMINA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70802,TRIGAL,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80101,TRINIDAD,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,5,5
+60303,VILLA MONTES,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,1,3,0,1,2,7,3,10,5,10,15,3,5,1,3,0,0,35,34,69
+90502,VILLA NUEVA (LOMA ALTA),enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,3
+10801,VILLA SERRANO,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,2,0,1,2,4,7,0,6,2,10,2,10,1,7,0,4,12,46,58
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,2,4,29,12,3,1,6,0,1,4,41,21,62
+60301,YACUIBA,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10602,YAMPARAEZ,enfermedades transmitidas por vectores (etv),malaria,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,8,0,2,0,1,0,2,1,13,14

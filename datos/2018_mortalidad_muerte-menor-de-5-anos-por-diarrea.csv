@@ -1,0 +1,60 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses-d_masculino,a-menor-de-6-meses-d-1_femenino,a-menor-de-6-meses-f_masculino,a-menor-de-6-meses-f-1_femenino,b-6-m-a-menor-de-1-ano-d_masculino,b-6-m-a-menor-de-1-ano-d-1_femenino,b-6-m-a-menor-de-1-ano-f_masculino,b-6-m-a-menor-de-1-ano-f-1_femenino,c-1-4-anos-d_masculino,c-1-4-anos-d-1_femenino,c-1-4-anos-f_masculino,c-1-4-anos-f-1_femenino,d-5-9-anos-d_masculino,d-5-9-anos-d-1_femenino,d-5-9-anos-f_masculino,d-5-9-anos-f-1_femenino,e-10-a-14-anos-d_masculino,e-10-a-14-anos-d-1_femenino,e-10-a-14-anos-f_masculino,e-10-a-14-anos-f-1_femenino,f-15-19-anos-d_masculino,f-15-19-anos-d-1_femenino,f-15-19-anos-f_masculino,f-15-19-anos-f-1_femenino,g-20-39-anos-d_masculino,g-20-39-anos-d-1_femenino,g-20-39-anos-f_masculino,g-20-39-anos-f-1_femenino,h-40-49-anos-d_masculino,h-40-49-anos-d-1_femenino,h-40-49-anos-f_masculino,h-40-49-anos-f-1_femenino,i-50-59-anos-d_masculino,i-50-59-anos-d-1_femenino,i-50-59-anos-f_masculino,i-50-59-anos-f-1_femenino,j-60-anos-y-mas-d_masculino,j-60-anos-y-mas-d-1_femenino,j-60-anos-y-mas-f_masculino,j-60-anos-y-mas-f-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+20802,GUAQUI,mortalidad,muerte menor de 5 anos por diarrea,2018-01-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,mortalidad,muerte menor de 5 anos por diarrea,2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30801,CLIZA,mortalidad,muerte menor de 5 anos por diarrea,2018-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,mortalidad,muerte menor de 5 anos por diarrea,2018-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,mortalidad,muerte menor de 5 anos por diarrea,2018-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,mortalidad,muerte menor de 5 anos por diarrea,2018-02-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80201,RIBERALTA,mortalidad,muerte menor de 5 anos por diarrea,2018-02-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,mortalidad,muerte menor de 5 anos por diarrea,2018-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,mortalidad,muerte menor de 5 anos por diarrea,2018-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 5 anos por diarrea,2018-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40801,SALINAS DE GARCI MENDOZA,mortalidad,muerte menor de 5 anos por diarrea,2018-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,mortalidad,muerte menor de 5 anos por diarrea,2018-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,mortalidad,muerte menor de 5 anos por diarrea,2018-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,mortalidad,muerte menor de 5 anos por diarrea,2018-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 5 anos por diarrea,2018-04-01,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,11
+20105,EL ALTO,mortalidad,muerte menor de 5 anos por diarrea,2018-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,mortalidad,muerte menor de 5 anos por diarrea,2018-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10301,ZUDAÑEZ,mortalidad,muerte menor de 5 anos por diarrea,2018-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,mortalidad,muerte menor de 5 anos por diarrea,2018-06-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21203,BATALLAS,mortalidad,muerte menor de 5 anos por diarrea,2018-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50702,CARIPUYO,mortalidad,muerte menor de 5 anos por diarrea,2018-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,mortalidad,muerte menor de 5 anos por diarrea,2018-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51203,PORCO,mortalidad,muerte menor de 5 anos por diarrea,2018-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10103,POROMA,mortalidad,muerte menor de 5 anos por diarrea,2018-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51101,PUNA,mortalidad,muerte menor de 5 anos por diarrea,2018-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,mortalidad,muerte menor de 5 anos por diarrea,2018-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,mortalidad,muerte menor de 5 anos por diarrea,2018-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 5 anos por diarrea,2018-07-01,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80101,TRINIDAD,mortalidad,muerte menor de 5 anos por diarrea,2018-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21701,COPACABANA,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21002,QUIME,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70503,ROBORE,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30602,TACOPAYA,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+41001,TOLEDO,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,mortalidad,muerte menor de 5 anos por diarrea,2018-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21202,LAJA,mortalidad,muerte menor de 5 anos por diarrea,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,mortalidad,muerte menor de 5 anos por diarrea,2018-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,mortalidad,muerte menor de 5 anos por diarrea,2018-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,mortalidad,muerte menor de 5 anos por diarrea,2018-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 5 anos por diarrea,2018-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,mortalidad,muerte menor de 5 anos por diarrea,2018-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,mortalidad,muerte menor de 5 anos por diarrea,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 5 anos por diarrea,2018-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,mortalidad,muerte menor de 5 anos por diarrea,2018-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40901,SABAYA,mortalidad,muerte menor de 5 anos por diarrea,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30303,COCAPATA,mortalidad,muerte menor de 5 anos por diarrea,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40702,MACHACAMARCA,mortalidad,muerte menor de 5 anos por diarrea,2018-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40602,PAZÑA,mortalidad,muerte menor de 5 anos por diarrea,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21201,PUCARANI,mortalidad,muerte menor de 5 anos por diarrea,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,mortalidad,muerte menor de 5 anos por diarrea,2018-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,mortalidad,muerte menor de 5 anos por diarrea,2018-12-01,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+10601,TARABUCO,mortalidad,muerte menor de 5 anos por diarrea,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1

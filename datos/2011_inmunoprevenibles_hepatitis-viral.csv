@@ -1,0 +1,462 @@
+codigo_municipio,municipio,grupo,variable,mes,de-1-ano_masculino,de-1-ano-1_femenino,1-a-4-anos_masculino,1-a-4-anos-1_femenino,5-a-9-anos_masculino,5-a-9-anos-1_femenino,10-a-20-anos_masculino,10-a-20-anos-1_femenino,21-a-59-anos_masculino,21-a-59-anos-1_femenino,60-y-mas_masculino,60-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+60202,BERMEJO,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+10701,CAMARGO,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+90101,COBIJA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,4,2,2,2,0,0,1,0,0,0,7,4,11
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,7,2,7,6,4,3,1,4,1,0,20,15,35
+30905,COLCAPIRHUA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,8,6,22,9,11,6,3,3,1,1,45,25,70
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,1,0,1,0,1,1,2,1,0,0,5,2,7
+80803,HUARACAJE,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-01-01,0,2,9,4,19,11,17,15,2,3,0,0,47,35,82
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,6,2,0,0,1,0,0,0,0,0,7,2,9
+70202,OKINAWA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-01-01,0,3,7,3,5,1,5,1,0,0,0,0,17,8,25
+60201,PADCAYA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10401,PADILLA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,hepatitis viral,2011-01-01,1,0,2,1,0,0,1,0,0,0,0,0,4,1,5
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,2,0,0,3,0,0,0,1,0,0,2,4,6
+31401,PUNATA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+80301,REYES,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,1,4,0,1,0,0,0,2,0,0,1,7,8
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-01-01,1,0,0,1,0,0,1,1,0,0,0,0,2,2,4
+10702,SAN LUCAS,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70303,SAN RAFAEL,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-01-01,0,1,10,12,21,16,13,11,6,6,2,1,52,47,99
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-01-01,1,0,3,3,1,1,1,0,1,0,0,0,7,4,11
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,1,1,4,0,0,3,0,1,5,5,10
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,5,4,1,0,0,0,0,2,0,0,6,6,12
+50801,TUPIZA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+60303,VILLA MONTES,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70201,WARNES,inmunoprevenibles,hepatitis viral,2011-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,1,1,0,0,1,0,0,1,2,3
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,2,0,1,0,1,0,0,0,0,0,4,4
+70702,CHARAGUA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,2,1,1,0,4,2,3,0,0,3,10,13
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-02-01,1,1,3,6,6,8,1,0,4,2,1,0,16,17,33
+30905,COLCAPIRHUA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+21307,COLLANA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21401,COROICO,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,0,0,0,0,3,0,0,0,3,3
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,4,11,11,9,2,4,2,1,1,0,20,25,45
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,0,0,0,0,1,2,0,2,1,3
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21105,LA ASUNTA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+70104,LA GUARDIA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,1,1,1,1,0,0,0,0,0,0,2,2,4
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,5,9,17,6,10,12,1,3,0,0,33,30,63
+70701,LAGUNILLAS,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,3,2,1,0,1,0,0,0,0,0,5,2,7
+70903,MAIRANA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,3,4,1,2,2,0,1,1,1,0,8,7,15
+50101,POTOSI,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31401,PUNATA,inmunoprevenibles,hepatitis viral,2011-02-01,1,0,1,0,0,0,1,0,0,0,0,0,3,0,3
+80301,REYES,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,1,0,0,1,2,0,0,1,3,4
+31001,SACABA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,1,0,0,2,0,0,0,0,0,0,1,2,3
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,3,2,1,1,4,1,0,0,0,0,8,4,12
+60501,SAN LORENZO(TJA),inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+70303,SAN RAFAEL,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,8,14,21,10,21,10,14,7,3,1,67,42,109
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-02-01,0,1,4,3,2,3,0,0,1,0,0,0,7,7,14
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,1,2,3,6,5,2,2,0,0,0,11,10,21
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-02-01,0,1,3,4,3,1,3,0,0,4,0,1,9,11,20
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+60301,YACUIBA,inmunoprevenibles,hepatitis viral,2011-02-01,0,0,2,0,1,1,1,0,0,0,0,0,4,1,5
+22002,ALTO BENI,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,0,2,1,0,0,0,0,0,1,2,3
+90101,COBIJA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,2,1,0,0,2,1,1,0,0,2,5,7
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,8,9,3,5,1,5,2,4,0,0,14,23,37
+70102,COTOCA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,7,3,7,4,6,4,2,0,0,2,22,13,35
+70105,EL TORNO,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,0,0,0,0,2,1,0,0,2,1,3
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-03-01,1,0,2,3,12,6,13,7,0,1,0,0,28,17,45
+80801,MAGDALENA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+70903,MAIRANA,inmunoprevenibles,hepatitis viral,2011-03-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,0,0,0,1,0,2,0,0,0,3,3
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-03-01,0,1,2,1,3,1,0,0,0,0,0,0,5,3,8
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,5,0,1,1,2,1,1,0,0,0,9,2,11
+10401,PADILLA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90102,PORVENIR,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+50101,POTOSI,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,1,5,0,0,0,0,0,1,0,0,1,6,7
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,2,2,0,1,1,2,0,1,3,6,9
+70503,ROBORE,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,1,3,0,3,0,0,0,1,0,0,1,7,8
+10702,SAN LUCAS,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-03-01,0,1,3,6,13,16,12,8,12,7,5,4,45,42,87
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,2,1,2,0,0,0,0,0,0,0,4,1,5
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,2,1,3,2,3,1,0,2,0,0,8,6,14
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,1,0,0,1,2,0,0,0,0,0,3,1,4
+50801,TUPIZA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20801,VIACHA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,1,1,2,1,0,0,0,0,3,2,5
+60303,VILLA MONTES,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,2,1,0,0,0,0,0,0,0,1,2,3
+60301,YACUIBA,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,1,0,0,0,0,1,0,4,0,0,1,5,6
+21103,YANACACHI,inmunoprevenibles,hepatitis viral,2011-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30501,ARANI,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,1,2,0,1,0,0,0,0,0,3,1,4
+30801,CLIZA,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,1,2,0,0,0,0,0,0,0,0,1,2,3
+90101,COBIJA,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,2,9,4,4,1,2,1,8,0,1,8,24,32
+21401,COROICO,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+70102,COTOCA,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,3,2,7,12,1,3,1,2,0,0,12,19,31
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,hepatitis viral,2011-04-01,0,0,1,0,0,0,0,3,0,0,0,0,1,3,4
+70104,LA GUARDIA,inmunoprevenibles,hepatitis viral,2011-04-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,2,5,5,7,5,3,0,4,0,0,12,19,31
+70903,MAIRANA,inmunoprevenibles,hepatitis viral,2011-04-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,0,0,0,4,0,0,0,4,4
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,1,3,1,0,0,0,0,0,0,0,2,3,5
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,4,2,4,0,1,4,3,1,0,0,12,7,19
+90102,PORVENIR,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,1,1,1,0,0,0,2,1,3
+70503,ROBORE,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21502,SAN BUENA VENTURA,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,2,1,1,2,1,0,0,0,0,3,4,7
+71102,SAN JAVIER(STC),inmunoprevenibles,hepatitis viral,2011-04-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,0,1,1,2,0,0,1,3,4
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+71005,SAN PEDRO,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-04-01,1,0,14,8,9,17,14,14,10,8,7,6,55,53,108
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,2,1,2,1,1,0,0,1,0,0,5,3,8
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-04-01,1,1,8,4,6,6,1,0,0,0,0,0,16,11,27
+10202,TARVITA,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20606,TIPUANI,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,2,3,7,0,2,1,0,0,0,0,11,4,15
+50801,TUPIZA,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30904,VINTO,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,hepatitis viral,2011-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,1,2,0,0,1,0,0,0,2,2,4
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+60302,CARAPARI,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30801,CLIZA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90101,COBIJA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,2,0,0,1,2,0,0,0,0,1,4,5
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-05-01,1,1,5,7,8,4,5,3,2,1,2,2,23,18,41
+21401,COROICO,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-05-01,1,0,4,3,7,3,1,3,2,1,0,0,15,10,25
+60502,EL PUENTE(TJA),inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70105,EL TORNO,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,3,1,0,0,0,0,0,0,0,0,3,1,4
+10405,EL VILLAR,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+31206,ENTRE RIOS CBBA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80803,HUARACAJE,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,2,0,0,0,1,0,0,0,0,0,3,3
+70104,LA GUARDIA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,1,2,5,2,4,1,0,1,3,0,13,6,19
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,2,3,0,0,0,0,0,0,0,0,2,3,5
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-05-01,1,0,6,7,8,4,3,4,0,1,0,0,18,16,34
+50101,POTOSI,inmunoprevenibles,hepatitis viral,2011-05-01,0,1,1,3,0,2,1,1,0,0,0,0,2,7,9
+31401,PUNATA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80301,REYES,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,1,0,0,0,1,1,0,0,0,0,2,1,3
+31001,SACABA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21502,SAN BUENA VENTURA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,2,1,1,1,0,0,0,0,0,0,3,2,5
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71201,SAN MATIAS,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+70303,SAN RAFAEL,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80401,SANTA ANA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-05-01,1,0,12,11,15,16,15,9,8,8,2,2,53,46,99
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-05-01,1,0,4,1,1,2,0,1,2,0,0,1,8,5,13
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,1,6,4,0,5,4,1,0,0,10,11,21
+20606,TIPUANI,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,2,1,0,0,0,0,0,0,0,1,2,3
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,2,0,3,0,0,0,0,0,0,0,5,0,5
+20801,VIACHA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+51501,VILLAZON,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,hepatitis viral,2011-05-01,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+60202,BERMEJO,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,3,0,1,0,3,0,0,0,7,0,7
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,8,6,12,8,9,2,4,4,0,0,33,20,53
+31002,COLOMI,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70603,COLPA BELGICA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,1,6,6,8,4,3,3,5,0,1,14,23,37
+70105,EL TORNO,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60601,ENTRE RIOS TRJ,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,2,2,1,0,1,0,0,0,0,2,4,6
+80803,HUARACAJE,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,0,1,1,1,0,1,0,0,1,3,4
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,3,3,10,5,9,4,0,0,3,0,25,12,37
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,0,0,0,2,0,7,0,0,0,9,9
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-06-01,0,1,1,2,0,2,1,2,0,0,0,0,2,7,9
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,5,3,9,1,3,2,1,0,0,0,18,6,24
+90102,PORVENIR,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,hepatitis viral,2011-06-01,1,0,0,0,0,0,2,1,1,0,0,0,4,1,5
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,0,0,1,0,1,1,0,1,2,2,4
+31401,PUNATA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+70503,ROBORE,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+70901,SAMAIPATA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+51003,SAN ANTONIO DE ESMORUCO,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+21502,SAN BUENA VENTURA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,0,0,1,0,0,0,2,0,3,0,3
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,1,2,7,0,3,2,0,0,0,0,11,4,15
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+90302,SAN LORENZO(PND),inmunoprevenibles,hepatitis viral,2011-06-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71201,SAN MATIAS,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,5,2,1,0,1,0,0,0,0,0,7,2,9
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-06-01,1,0,16,22,20,21,17,8,11,6,4,6,69,63,132
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,4,1,3,3,0,0,1,0,0,0,8,4,12
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,5,1,5,6,1,2,0,2,0,0,11,11,22
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,3,1,3,5,3,1,1,0,0,0,10,7,17
+50801,TUPIZA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,hepatitis viral,2011-06-01,0,0,0,1,2,0,0,0,2,0,0,1,4,2,6
+20201,ACHACACHI,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,2,2,1,1,0,0,0,0,0,0,3,3,6
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,1,2,0,0,0,0,0,0,0,2,1,3
+70702,CHARAGUA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30801,CLIZA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,1,1,0,0,2,0,0,0,0,1,3,4
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-07-01,0,1,9,6,9,6,3,6,2,2,1,0,24,21,45
+70102,COTOCA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,5,8,2,6,2,2,2,0,1,1,12,17,29
+70705,GUTIERREZ,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80803,HUARACAJE,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,2,1,0,0,0,0,0,0,0,0,2,1,3
+70104,LA GUARDIA,inmunoprevenibles,hepatitis viral,2011-07-01,2,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,1,2,7,7,2,8,0,2,0,1,10,20,30
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-07-01,0,1,3,4,3,0,0,0,0,0,0,0,6,5,11
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,4,3,1,3,2,1,4,7,0,0,11,14,25
+10401,PADILLA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,2,0,0,0,0,0,1,0,0,0,3,0,3
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,3,0,0,0,0,1,0,0,0,0,3,1,4
+31401,PUNATA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31403,SAN BENITO,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80302,SAN BORJA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,4,1,2,1,3,0,0,2,0,0,9,4,13
+71201,SAN MATIAS,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,1,2,0,0,0,0,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-07-01,0,1,11,13,18,31,10,11,5,7,3,3,47,66,113
+70602,SANTA ROSA DEL SARA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,2,0,0,2,0,0,0,0,0,0,2,2,4
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,3,2,1,0,1,0,0,1,2,0,7,3,10
+51202,TOMAVE,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,4,4,7,3,1,0,0,0,0,0,12,7,19
+50801,TUPIZA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+70201,WARNES,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,hepatitis viral,2011-07-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,1,2,0,0,1,0,2,1,0,0,4,3,7
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,4,1,2,3,1,0,0,1,0,0,7,5,12
+60302,CARAPARI,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71403,CARMEN RIVERO TORREZ,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+70702,CHARAGUA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,1,0,2,0,1,0,0,0,0,0,4,0,4
+90101,COBIJA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,1,0,0,0,1,0,1,0,0,0,3,0,3
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,3,6,11,10,7,7,2,4,2,1,25,28,53
+70102,COTOCA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,7,9,6,13,6,1,0,0,0,0,19,23,42
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,1,0,0,0,0,0,0,2,0,0,1,2,3
+70705,GUTIERREZ,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80803,HUARACAJE,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,4,6,7,3,5,3,2,4,4,1,22,17,39
+80801,MAGDALENA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,2,1,1,2,0,6,0,0,3,9,12
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,5,2,2,2,0,0,0,0,0,4,7,11
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,3,12,3,5,3,1,2,1,0,2,11,21,32
+50101,POTOSI,inmunoprevenibles,hepatitis viral,2011-08-01,0,1,3,1,0,0,0,0,0,0,0,0,3,2,5
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80301,REYES,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,1,0,0,0,0,2,0,0,0,0,1,2,3
+80304,RURRENABAQUE,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80302,SAN BORJA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+21502,SAN BUENA VENTURA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,1,1,5,8,0,1,0,1,0,0,6,11,17
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,1,1,1,1,0,2,0,0,2,4,6
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+70303,SAN RAFAEL,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-08-01,2,0,20,16,11,25,20,6,8,15,3,1,64,63,127
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-08-01,1,1,6,2,2,1,1,0,3,0,0,0,13,4,17
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,2,1,0,6,2,1,0,6,1,1,5,15,20
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,4,2,16,10,2,3,0,0,0,0,22,15,37
+70801,VALLEGRANDE,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,hepatitis viral,2011-08-01,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,1,0,0,1,0,0,1,3,0,0,2,4,6
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,1,0,2,0,0,0,0,0,3,0,3
+70702,CHARAGUA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,2,0,0,0,0,0,1,0,0,0,3,0,3
+90101,COBIJA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-09-01,0,1,13,10,6,2,1,0,2,5,1,0,23,18,41
+71101,CONCEPCION,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21401,COROICO,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,6,4,10,14,4,5,0,2,2,0,22,25,47
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,0,0,1,2,0,0,1,2,3
+80803,HUARACAJE,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,1,0,3,1,0,1,1,0,0,0,5,2,7
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21105,LA ASUNTA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,5,2,1,7,7,4,2,4,0,2,15,19,34
+70903,MAIRANA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,1,1,0,2,0,0,0,0,0,0,1,3,4
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,7,7,4,6,1,3,0,2,0,0,12,18,30
+60201,PADCAYA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+31205,PUERTO VILLARROEL,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70503,ROBORE,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70901,SAMAIPATA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,0,0,1,1,1,0,2,1,3
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,2,0,2,1,2,2,0,0,0,0,6,3,9
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2
+71201,SAN MATIAS,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70303,SAN RAFAEL,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-09-01,1,1,9,8,17,19,13,8,9,8,0,4,49,48,97
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,1,0,0,0,2,1,0,0,0,0,3,1,4
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-09-01,1,1,1,0,4,0,5,0,2,1,0,0,13,2,15
+30903,TIQUIPAYA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,7,6,8,9,2,1,0,0,0,0,17,16,33
+50801,TUPIZA,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+70801,VALLEGRANDE,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+60303,VILLA MONTES,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,2,1,0,2,0,1,0,0,2,4,6
+51501,VILLAZON,inmunoprevenibles,hepatitis viral,2011-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,1,1,0,0,3,0,0,0,0,0,4,1,5
+70702,CHARAGUA,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50204,CHUQUIHUTA AYLLU JUCUMANI,inmunoprevenibles,hepatitis viral,2011-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30801,CLIZA,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-10-01,0,1,8,7,9,4,6,5,5,7,1,0,29,24,53
+30905,COLCAPIRHUA,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,3,4,4,10,5,5,2,3,0,0,14,22,36
+70105,EL TORNO,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60601,ENTRE RIOS TRJ,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,1,0,0,2,0,0,0,2,1,3
+70705,GUTIERREZ,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80803,HUARACAJE,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,1,0,1,3,1,2,0,0,0,0,3,5,8
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,5,5,3,6,2,3,0,4,0,0,10,18,28
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,2,6,4,4,2,3,0,3,0,0,8,16,24
+50101,POTOSI,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,1,1,0,0,2,3,0,0,0,0,3,4,7
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,0,0,1,2,1,0,0,2,2,4
+31401,PUNATA,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+70503,ROBORE,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80602,SAN ANDRES,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,1,1,0,1,0,0,0,0,0,0,1,2,3
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,4,0,2,1,2,1,0,0,0,0,8,2,10
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10702,SAN LUCAS,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+71201,SAN MATIAS,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-10-01,0,1,16,13,10,20,10,9,8,6,2,3,46,52,98
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,2,3,1,0,0,0,0,0,0,0,3,3,6
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,1,2,1,1,0,1,2,0,0,4,4,8
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,10,8,12,15,9,3,0,0,0,0,31,26,57
+50801,TUPIZA,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+51501,VILLAZON,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+70201,WARNES,inmunoprevenibles,hepatitis viral,2011-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,1,0,0,0,3,0,0,0,0,0,4,0,4
+70702,CHARAGUA,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,1,4,0,0,1,0,0,0,0,0,2,4,6
+90101,COBIJA,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-11-01,1,0,13,6,6,7,1,2,5,8,0,0,26,23,49
+21401,COROICO,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,0,0,1,0,0,0,3,3,0,3,4,7
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-11-01,0,1,7,3,5,5,2,2,2,1,0,0,16,12,28
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,0,0,0,1,0,2,1,1,0,4,1,5
+80803,HUARACAJE,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,1,2,0,0,0,2,0,0,0,0,1,4,5
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-11-01,1,0,5,5,7,5,3,4,0,1,0,0,16,15,31
+10501,MONTEAGUDO,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,1,0,1,0,0,0,0,2,0,0,2,2,4
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,2,1,1,2,1,0,0,0,0,0,4,3,7
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,3,3,2,3,0,0,2,1,1,0,8,7,15
+10401,PADILLA,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,1,1,0,0,1,1,0,0,0,0,2,2,4
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31401,PUNATA,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31001,SACABA,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,2,3,2,0,0,0,0,0,0,0,4,3,7
+70303,SAN RAFAEL,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80702,SAN RAMON BENI,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,1,1,0,0,1,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-11-01,3,2,17,12,16,23,13,13,8,6,1,3,58,59,117
+31602,SHINAOTA,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,3,2,1,0,0,0,0,0,0,0,4,2,6
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-11-01,1,0,5,1,4,1,0,0,1,0,0,0,11,2,13
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-11-01,1,0,3,0,5,4,5,0,3,2,4,0,21,6,27
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,17,14,27,18,4,7,0,1,0,0,48,40,88
+20801,VIACHA,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,2,0,0,1,0,0,0,0,0,0,2,1,3
+51501,VILLAZON,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70201,WARNES,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+60301,YACUIBA,inmunoprevenibles,hepatitis viral,2011-11-01,0,0,0,1,1,1,0,0,0,1,0,0,1,3,4
+70706,CAMIRI,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+70702,CHARAGUA,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,2,0,1,0,0,0,0,0,0,0,3,0,3
+90101,COBIJA,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,hepatitis viral,2011-12-01,1,0,6,4,5,7,7,0,7,9,0,1,26,21,47
+30905,COLCAPIRHUA,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,3,7,3,4,5,2,5,1,1,0,17,14,31
+80202,GUAYARAMERIN,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,1,1,0,1,1,0,0,0,0,0,2,2,4
+80803,HUARACAJE,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,1,1,1,2,0,0,0,0,0,0,2,3,5
+21105,LA ASUNTA,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,inmunoprevenibles,hepatitis viral,2011-12-01,1,0,3,1,7,6,5,2,1,3,0,0,17,12,29
+71001,MONTERO,inmunoprevenibles,hepatitis viral,2011-12-01,1,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+40101,ORURO,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,3,0,1,4,1,0,0,1,0,0,5,5,10
+50101,POTOSI,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,2,1,0,0,0,0,1,0,0,1,3,4
+71401,PUERTO SUAREZ,inmunoprevenibles,hepatitis viral,2011-12-01,1,0,1,0,1,1,1,1,0,0,0,0,4,2,6
+31401,PUNATA,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80301,REYES,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,0,0,0,0,0,3,0,0,0,3,3
+80602,SAN ANDRES,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,2,0,0,2,0,3,0,1,0,0,2,6,8
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,6,8,17,23,12,14,8,14,3,1,46,60,106
+10101,SUCRE,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,3,4,1,0,1,0,0,0,0,0,5,4,9
+60101,TARIJA,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,2,1,3,2,2,1,0,1,0,0,7,5,12
+80101,TRINIDAD,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,7,8,11,17,4,5,0,0,0,0,22,30,52
+20801,VIACHA,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,0,14,1,0,0,0,1,0,2,14,16
+31003,VILLA TUNARI,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+70201,WARNES,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,hepatitis viral,2011-12-01,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2

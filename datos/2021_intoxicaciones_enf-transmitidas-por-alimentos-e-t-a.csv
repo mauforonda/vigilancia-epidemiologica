@@ -1,0 +1,756 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,0,0,0,1,1,5,2,7
+22001,CARANAVI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,1,10,4,0,4,0,2,0,1,2,5,0,0,1,1,0,1,13,19,32
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70702,CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,3
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,2,0,8,6,8,5,7,0,1,1,2,3,7,3,2,4,3,1,40,23,63
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,4,4
+70603,COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21701,COPACABANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70704,CUEVO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,1,1,4,1,0,0,1,3,1,1,2,0,0,0,1,0,10,6,16
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71002,GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,4,5
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,1,0,2,4,1,2,2,4,1,0,5,15,3,4,2,4,4,6,21,39,60
+31301,MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2,3
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,2
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,2,1,2,1,0,1,0,1,1,0,0,0,0,1,0,0,5,5,10
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+60201,PADCAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70502,PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21305,PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,2,0,4,0,1,1,1,0,2,4,1,0,1,1,0,1,12,7,19
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,1,3
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,0,0,5,5
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,1,4,0,0,0,0,2,0,0,2,0,3,0,2,2,0,5,11,16
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,3,0,0,1,0,0,0,1,0,0,0,0,0,0,3,2,5
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,2,0,2,5,1,1,0,0,0,0,0,0,0,0,0,0,1,1,6,7,13
+71104,SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,1,0,0,0,1,2,0,2,1,0,0,1,2,1,0,0,1,2,1,0,7,8,15
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,1,0,7,5,17,23,14,8,7,2,1,6,18,8,5,8,1,3,2,2,73,65,138
+31602,SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,1,1,10,5,3,4,3,0,1,0,0,1,0,0,0,0,1,2,19,13,32
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,1,0,6,6,3,1,4,2,4,1,8,6,0,8,1,1,2,1,29,26,55
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,3,2,0,0,0,0,0,2,0,1,0,0,0,0,3,6,9
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,1,0,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,7
+60303,VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,1,3
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,4,4
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,1,3,2,5
+30904,VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,2,2,0,1,0,1,0,0,1,1,1,0,2,1,1,3,7,9,16
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,3,4
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,2,0,3,3,6
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,1,0,0,1,7,6,3,2,0,0,0,2,1,2,1,0,0,0,2,0,15,13,28
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,2,2,4
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,1,20,10,12,12,8,10,0,4,2,3,0,2,0,2,0,0,42,44,86
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,2,1,5,6
+71301,COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,0,0,2,2,4
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,1,1,0,0,1,2,0,2,1,0,0,0,2,0,0,5,5,10
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,3,1,4
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,3,1,4
+80202,GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,2,3
+41601,HUAYLLAMARCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+21105,LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,1,4,4,2,3,2,3,0,4,7,8,1,4,2,6,2,5,20,38,58
+31301,MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2,3
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,2,3,5
+30203,OMEREQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21305,PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+31202,POJO (CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,1,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,2,3,5
+70804,POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,1,8,7,0,2,0,1,7,4,3,3,0,0,1,1,19,19,38
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,1,0,1,0,0,2,1,0,0,0,0,0,3,2,5
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,2,1,1,0,0,0,0,2,2,0,0,0,0,0,0,3,5,8
+70503,ROBORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,1,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,3,5
+50701,SACACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,4,5
+71104,SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,1,4,19,13,12,23,8,4,5,3,14,12,3,9,1,1,3,6,66,75,141
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31602,SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,2,1,3
+20601,SORATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,14,8,6,14,1,0,1,1,2,1,0,0,0,2,1,0,25,26,51
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,4,1,6,5,1,1,0,0,0,5,0,1,0,0,1,1,12,14,26
+80101,TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+50801,TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51201,UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60303,VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+30904,VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,1,0,0,1,0,0,0,0,2,0,1,0,3,1,1,2,0,0,2,4,10,14
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,0,3
+20201,ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2,3
+10701,CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,1,0,2,0,1,1,1,0,1,0,1,2,2,3,9,12
+20302,CAQUIAVIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,1,0,5,4,4,4,1,0,0,0,2,4,1,0,1,2,0,1,15,15,30
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,3,2,5
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,3,4,40,36,15,21,13,15,2,3,5,3,1,0,3,1,1,4,83,87,170
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+50901,"COLCHA ""K""",intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20804,DESAGUADERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,1,1,1,4,1,0,2,3,0,5,4,1,2,3,0,0,11,17,28
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,3,2,1,0,3,0,0,2,1,2,2,0,0,0,0,1,10,7,17
+20405,ESCOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+71002,GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80202,GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10502,HUACARETA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,2,3
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,1,1,0,1,7,6,5,9,9,6,5,6,6,17,1,6,6,7,1,9,41,68,109
+50203,LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,1,0,2,1,6,1,0,0,0,0,0,0,0,0,0,0,0,0,9,2,11
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+60201,PADCAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21104,PALOS BLANCOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21305,PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70804,POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,1,0,1,5,4,6,1,2,2,1,5,5,2,4,0,3,2,1,18,27,45
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,1,0,1,0,0,0,0,0,0,2,0,1,0,1,0,0,2,4,6
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,6,0,0,0,0,0,0,2,6,8
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,1,3,0,0,0,0,0,2,0,0,0,0,0,0,1,5,6
+40801,SALINAS DE GARCI MENDOZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,2,1,0,0,0,0,2,0,0,1,0,1,0,1,4,4,8
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,1,1,1,0,0,1,0,1,1,7,0,0,0,0,1,5,4,15,19
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,1,0,5,3,19,20,12,9,5,5,1,4,5,26,7,5,0,5,1,4,56,81,137
+31602,SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20601,SORATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,1,4,21,23,20,12,0,1,0,3,2,1,0,0,0,1,0,0,44,45,89
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,8,6,6,4,1,2,1,0,0,3,0,1,2,0,2,0,20,16,36
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,2,4,1,0,0,1,0,1,0,1,1,0,0,0,0,0,4,7,11
+31201,TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,2,3
+50201,UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+51201,UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+20801,VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,1,3,4
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30904,VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,1,0,0,0,0,0,0,1,3,1,3,1,4,2,0,5,11,16
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20201,ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,3,0,3
+10201,AZURDUY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21203,BATALLAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,2,2,4
+31501,BOLIVAR,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,1,0,0,0,1,0,2,0,0,0,2,0,0,1,0,1,3,2,9,11
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0,0,1,1,4,3,7
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,4,2,2,1,0,0,0,1,0,2,1,0,0,0,0,0,7,6,13
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,4,1,5
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30303,COCAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,1,2,23,15,18,11,5,5,0,4,3,4,3,1,0,2,0,0,53,44,97
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3
+70603,COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+40301,CORQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10902,CULPINA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,2,2,1,3,1,3,2,0,9,2,6,4,1,0,1,1,23,15,38
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,2,0,0,1,3,1,1,0,0,0,1,0,0,2,0,0,0,0,0,0,7,4,11
+80202,GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,1,2,1,1,0,0,0,0,0,1,0,1,0,0,0,0,2,5,7
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,13,7,9,7,2,4,1,2,8,9,4,8,4,4,4,3,45,44,89
+50203,LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20901,LURIBAY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+20103,MECAPACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,1,0,2,1,0,0,0,0,0,2,2,0,0,0,0,2,0,0,5,5,10
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70502,PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,1,1,4,5
+70804,POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,1,4,5,5,7,1,4,1,0,9,9,4,4,1,1,0,2,25,33,58
+10302,PRESTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,1,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2,3,5
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2,1,0,0,0,2,4,6
+70503,ROBORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,3,6
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,4,5
+71104,SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,1,0,1,0,2,0,1,0,1,1,0,1,1,1,1,0,0,0,8,3,11
+80702,SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,1,4,15,10,4,7,3,4,1,1,10,18,7,4,3,2,0,8,44,58,102
+31602,SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30703,SICAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,1,0,0,0,3,2,1,2,3,1,1,0,3,2,0,4,0,0,0,1,12,12,24
+30602,TACOPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,4,0,5,0,0,0,0,0,0,0,0,0,9,9
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,2,2,3,3,1,1,1,0,4,0,0,0,0,0,0,0,11,6,17
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,1,0,1,2,1,1,0,0,2,0,0,0,0,0,0,0,0,0,5,3,8
+50801,TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,4
+50201,UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+20801,VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+60303,VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,1,0,1,0,0,0,1,1,2,0,0,0,0,1,0,2,5,7
+30904,VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,1,1,1,1,0,0,0,2,0,0,0,0,1,2,3,6,9
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,1,0,2,0,1,1,9,10
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+20201,ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20104,ACHOCALLA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30501,ARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30403,ARBIETO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21303,AYO AYO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60202,BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,4
+50301,BETANZOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+70401,BUENA VISTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20905,CAIROMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1,0,1,0,2,1,4,6,10
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,1,0,5,4,1,3,0,0,0,0,0,3,0,1,3,1,1,0,11,12,23
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,3,0,0,0,0,3,3,3,0,0,1,0,1,0,8,6,14
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,2,1,2,2,14,14,8,9,3,5,0,1,1,0,2,2,2,0,0,1,34,35,69
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21402,CORIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,1,8,0,3,1,0,1,1,0,0,4,6,0,0,5,1,2,19,14,33
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,1,0,2,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,5,3,8
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,2,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,2,5
+71004,FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,2,0,0,0,0,1,1,1,0,0,0,0,0,0,0,2,3,5
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,1,1,14,17,11,13,3,4,5,2,9,21,10,13,4,4,8,8,65,83,148
+50203,LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+70903,MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31301,MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,1,0,2,1,0,0,0,0,0,1,3,2,0,0,0,0,0,1,6,5,11
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,2,3,5
+21305,PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,2,7,4,4,2,2,2,2,2,7,4,2,3,4,1,1,3,29,23,52
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,2,2,4,6
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,4,2,6
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,2,0,1,1,0,3,0,0,0,0,0,0,0,1,1,0,0,0,0,1,4,6,10
+60501,SAN LORENZO(TJA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,2,2,12,11,6,7,5,2,0,4,10,11,4,1,3,3,2,4,44,45,89
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20601,SORATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,4,6,11,11,10,8,4,3,2,2,3,4,0,2,2,1,0,1,36,38,74
+10601,TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,1,1,4,2,2,0,2,0,0,4,1,1,0,0,1,0,0,8,11,19
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,1,0,0,2,2,0,0,1,0,0,1,0,0,0,0,0,0,0,4,3,7
+41001,TOLEDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50801,TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,2,3
+50201,UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,3
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,1,0,0,1,2,0,1,0,0,0,1,0,0,0,0,0,5,1,6
+30904,VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,0,1,1,1,0,0,0,4,4,1,1,1,0,1,1,9,7,16
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-05-01,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1,4,5
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,3,0,3
+50802,ATOCHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60202,BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0,3,2,5
+50301,BETANZOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,4,5
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,2,0,1,0,2,1,1,2,11,0,0,0,1,1,1,4,19,23
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,7,3,0,2,0,0,0,0,2,2,0,0,0,0,2,0,11,7,18
+50202,CHAYANTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,4,2,6
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,3,1,17,15,7,5,5,0,0,0,1,1,0,0,0,0,0,0,33,22,55
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70704,CUEVO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,1,0,3,2,2,2,1,5,2,1,10,1,2,5,4,3,3,0,28,19,47
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,3,4
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,1,0,3,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,8,8
+71002,GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+80202,GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,3
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,1,0,1,0,2,3,5,8
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,4,4
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,2,1,17,15,9,17,4,8,3,11,17,21,7,12,5,10,13,19,77,114,191
+31301,MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,2,2,4
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,3,1,0,2,0,1,0,0,1,1,0,0,0,0,0,1,4,6,10
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,1,0,0,0,1,2,3,0,1,0,0,0,0,2,6,8
+21305,PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,1,4,3,3,2,0,4,0,0,9,7,2,2,2,1,3,1,23,21,44
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2,1,0,0,0,1,4,3,7
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,2,1,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,5,7
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,1,0,1,0,0,0,0,0,0,0,1,4,0,2,1,0,0,0,4,6,10
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,3,6
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,1,3,0,0,0,0,0,2,0,0,0,0,0,0,1,0,2,5,7
+71104,SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+60501,SAN LORENZO(TJA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,2,3
+80401,SANTA ANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,2,12,10,8,13,5,9,2,3,11,12,2,1,4,4,1,1,45,55,100
+31602,SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,1,4,5,21,17,8,4,2,0,0,2,4,1,0,0,0,0,1,2,40,32,72
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,1,9,5,5,3,3,0,0,0,2,0,0,0,0,0,0,1,19,10,29
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,1,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,4,7
+50201,UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+51201,UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,2,2,4
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,5,6
+30904,VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,3,4
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,2,2,4
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-06-01,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,2,4
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,1,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,4
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,3,4
+30701,CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,1,1,0,0,2,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,4,5,9
+70702,CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,1,0,2,0,10,8,7,5,7,5,0,0,0,0,0,0,0,1,1,0,28,19,47
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+71301,COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3
+21402,CORIPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,1,1,2,3,1,1,1,0,2,2,1,5,0,2,3,1,1,0,12,15,27
+71503,EL PUENTE(STC),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5,4,9
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,2,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,5,6
+71002,GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,1,0,0,1,0,0,1,0,0,2,0,2,0,1,0,0,2,6,8
+80202,GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2,3
+20204,HUARINA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,2,3,0,2,15,7,7,7,4,5,4,3,11,18,4,18,2,19,13,26,62,108,170
+80801,MAGDALENA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+31301,MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,1,2,1,3,1,1,0,0,1,0,0,0,0,0,0,2,4,8,12
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,4,0,4
+21305,PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,1,1,0,3,3,3,2,1,1,0,1,2,5,3,2,2,0,1,1,16,16,32
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,1,0,1,2,1,0,0,0,0,0,0,0,0,1,0,0,3,3,6
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,2,3
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,1,0,2,0,0,0,0,0,1,3,1,1,0,0,0,0,5,4,9
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40801,SALINAS DE GARCI MENDOZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31403,SAN BENITO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,1,3,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,6,9
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,2,1,0,3,4,7
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,1,1,0,0,10,12,9,10,4,3,3,2,10,10,1,5,0,5,1,1,39,49,88
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+40104,SORACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,1,2,2,5,17,5,3,4,2,0,1,2,7,2,3,1,2,0,0,21,38,59
+31101,TAPACARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,6,2,5,4,3,0,3,0,0,0,0,1,0,0,1,1,18,8,26
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,3,3,6
+50801,TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50201,UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,2,4
+60303,VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+30904,VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-07-01,0,0,0,0,2,1,4,0,1,0,0,1,0,2,0,0,1,1,1,1,9,6,15
+20201,ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30403,ARBIETO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,2,3,1,1,1,1,1,0,0,0,0,0,0,1,1,0,6,6,12
+30701,CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+40102,CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,1,3,4
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,1,0,1,4,0,0,0,0,0,2,0,2,0,0,0,0,0,0,2,8,10
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,1,1,10,8,10,6,7,4,0,1,0,0,0,2,1,1,1,1,30,24,54
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+70603,COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71301,COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,4,0,4
+71101,CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,2,0,0,0,1,4,3,3,0,0,3,2,1,4,3,2,0,0,0,15,13,28
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,1,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,4,0,5,2,7
+20405,ESCOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71002,GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,0,1,3,4
+20602,GUANAY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+21105,LA ASUNTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,2,1,0,0,0,2,0,7,1,1,3,1,0,0,6,12,18
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,1,1,9,11,3,5,9,2,1,0,14,16,7,7,8,10,10,18,62,70,132
+50203,LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31301,MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,4,1,5
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,1,4,2,3,1,1,0,1,0,2,3,1,0,1,0,1,7,14,21
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,2,2,4
+70902,PAMPA GRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21305,PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,1,1,4,1,6,3,0,1,1,1,5,1,4,1,0,0,0,4,21,13,34
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,4,5
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,3,3,6
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+21502,SAN BUENA VENTURA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,2,0,0,0,1,3,4,7
+71104,SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,2,2,4
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,1,1,0,2,0,1,1,2,0,0,0,1,2,0,4,7,11
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,1,0,20,18,7,7,1,3,1,3,17,9,2,1,2,3,1,3,52,47,99
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,1,1,6,12,5,9,3,3,0,1,2,6,2,1,1,2,0,3,20,38,58
+10601,TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,1,4,4,8,3,2,2,1,0,1,0,0,0,2,1,0,0,18,11,29
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,1,0,2,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,3,4,7
+50801,TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,1,4,5
+50201,UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+60303,VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,4
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,2,1,3
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20201,ACHACACHI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,2,0,0,2,4,6
+30701,CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+40102,CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,1,1,1,2,4,6,3,1,0,1,1,1,1,4,1,1,0,0,0,0,12,17,29
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,2,3
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,2,3
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,1,2,3,0,24,34,25,18,11,6,0,3,4,9,2,0,0,2,0,3,70,77,147
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,2,3
+50901,"COLCHA ""K""",intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70603,COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,1,0,2,0,3,0,0,0,2,2,6,0,0,1,0,3,2,6,16,22
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,1,1,2,1,0,0,0,0,1,1,0,0,0,0,0,0,4,3,7
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,1,1,2,3,0,0,1,0,0,0,1,1,0,0,0,1,0,0,5,6,11
+41101,EUCALIPTUS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71004,FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71002,GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,2,1,3
+80202,GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,1,1,0,0,1,0,0,0,0,1,0,2,1,0,2,0,0,0,2,4,7,11
+80803,HUARACAJE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,1,4,2,3,1,2,1,2,0,0,5,11,16
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,1,1,1,8,9,7,4,7,6,4,2,17,35,9,17,7,11,12,22,72,108,180
+21202,LAJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+50203,LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,4
+80801,MAGDALENA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+70903,MAIRANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,2,3,1,1,1,1,0,0,0,0,0,1,0,1,1,1,5,8,13
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,2,1,0,0,0,2,5,7
+70502,PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+21305,PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,2,2,4
+31202,POJO (CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,4,5,2,5,2,2,0,1,3,7,0,1,0,0,1,1,12,22,34
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,2,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,2,3,5
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,1,0,0,0,2,0,0,0,1,1,0,0,0,0,2,1,6,7
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,1,0,0,0,0,0,0,0,1,0,0,3,3,0,0,1,1,0,0,4,6,10
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+80304,RURRENABAQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+40801,SALINAS DE GARCI MENDOZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,1,1,0,2,0,0,1,2,1,0,2,1,1,0,2,0,1,0,9,6,15
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,1,2,2,0,0,0,1,0,0,0,1,0,0,0,0,1,0,3,5,8
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,2,3,5
+80401,SANTA ANA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,1,1,3,9,10,19,14,5,3,4,2,8,13,5,5,2,4,1,5,54,60,114
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+31602,SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,2,2,12,15,11,12,5,2,0,0,1,9,0,0,0,1,0,0,31,41,72
+10601,TARABUCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,1,0,1,3,7,3,9,3,1,1,1,1,0,0,1,1,1,3,22,15,37
+10202,TARVITA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,1,1,0,2,1,0,1,0,0,0,0,2,0,0,2,0,0,2,5,7,12
+50801,TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40402,TURCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+51201,UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,2,3,5
+20801,VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,3
+60303,VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,1,0,2,1,2,2,0,0,0,1,0,1,0,0,0,0,1,1,6,6,12
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,1,1,0,0,1,3,1,0,0,0,0,0,3,4,7
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+30904,VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,5,6
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,0,0,0,0,2,0,3,4,7,2,0,0,0,0,0,0,12,6,18
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,0,3,5,1,0,1,0,0,2,2,4,0,0,0,1,0,2,7,14,21
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-09-01,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,2,2,4
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,2,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,3,6
+20503,AUCAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10201,AZURDUY,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60202,BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10701,CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,1,0,0,0,0,1,0,1,2,0,0,2,0,1,3,5,8
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,1,4,0,0,0,1,1,1,2,1,1,0,0,0,1,1,6,8,14
+30701,CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,0,2,4,6
+40102,CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,1,0,1,2,6,3,0,1,1,0,0,1,1,3,1,1,1,1,3,2,15,14,29
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,2,0,1,0,0,1,0,0,0,3,0,0,0,0,0,0,3,4,7
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,1,0,2,0,33,37,11,6,10,8,1,2,2,2,2,0,0,1,1,1,63,57,120
+30905,COLCAPIRHUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,3,4
+50901,"COLCHA ""K""",intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70603,COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+21306,COLQUENCHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71301,COMARAPA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71101,CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,2,3
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,1,1,1,0,0,1,0,1,2,2,0,2,2,1,2,0,8,8,16
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,1,0,2,3,1,0,0,0,0,0,0,1,0,0,0,1,0,0,4,5,9
+20405,ESCOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,3
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,4
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,0,0,2,3,5
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,1,0,1,1,4,7,4,13,4,8,4,5,16,23,3,10,4,16,7,15,48,98,146
+50203,LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,2,3
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,2,4,7,3,0,3,1,0,1,2,0,0,0,0,0,0,11,12,23
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,2,0,0,1,3,0,0,0,0,1,2,4,2,1,0,1,0,0,9,8,17
+70502,PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,1,0,0,0,1,0,0,2,2,0,0,0,1,0,5,2,7
+21305,PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,3,4
+70804,POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,1,1,2,4,2,12,0,1,0,2,0,1,0,1,3,3,0,1,8,26,34
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51101,PUNA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,3,1,1,2,0,0,0,0,0,2,0,0,0,1,0,1,4,7,11
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,1,0,0,0,1,0,0,0,0,0,2,0,2,0,1,0,0,1,0,1,7,8
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,1,0,1,2,0,0,1,0,0,0,0,2,0,0,0,0,1,0,4,4,8
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,2,0,1,0,1,0,0,0,0,2,0,0,0,0,0,1,4,3,7
+71201,SAN MATIAS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,1,13,3,14,5,3,3,5,3,10,18,5,6,0,4,0,6,50,49,99
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,4,5
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,7,5,14,9,8,3,6,0,0,2,2,2,1,1,0,0,1,0,39,22,61
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,1,0,3,3,1,3,3,5,1,0,4,8,1,0,4,1,1,1,19,21,40
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,1,2,1,1,0,2,1,0,0,0,1,1,0,0,0,0,0,6,4,10
+31201,TOTORA(CBBA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,3,3,6
+50201,UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51201,UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,2,2,4
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,1,0,0,0,0,1,4,5
+20801,VIACHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,2,1,4,0,1,0,0,0,0,0,0,0,1,0,0,0,8,1,9
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30904,VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,4
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,6,9,3,0,1,0,0,0,0,9,10,19
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,1,0,1,2,0,1,1,0,1,0,4,1,1,2,0,1,0,0,9,7,16
+10301,ZUDAÑEZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+71501,ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20905,CAIROMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,2,2,4
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,1,0,3,3,0,2,1,0,1,1,1,0,2,2,0,1,2,1,11,10,21
+30701,CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+40102,CARACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,1,1,2,2,3,1,0,0,1,1,0,2,0,1,0,0,1,0,8,8,16
+71403,CARMEN RIVERO TORREZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+31204,CHIMORE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,1,3,12,12,9,6,5,3,1,4,1,2,4,2,0,2,0,0,33,34,67
+70603,COLPA BELGICA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71101,CONCEPCION,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+50601,COTAGAITA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,2,2,2,2,1,1,0,1,0,4,8,1,3,1,1,1,2,13,19,32
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,3,0,0,0,0,1,0,0,0,1,2,2,1,0,0,1,0,0,6,5,11
+20405,ESCOMA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,3,4
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,3,1,4
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,1,1,4,5
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,9,8,8,4,2,7,8,3,21,16,5,18,6,16,14,18,73,90,163
+31301,MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,1,2,2,5,7
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,2,0,0,4,1,1,0,1,0,1,1,1,1,0,0,0,0,0,5,8,13
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1,4,3,7
+70502,PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,1,4,5
+21305,PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,1,3
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70804,POSTRER VALLE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,7,4,6,6,1,2,0,1,4,9,3,3,0,1,1,2,22,28,50
+21201,PUCARANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,2,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,2,3,5
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31001,SACABA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40801,SALINAS DE GARCI MENDOZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,1,1,3,1,3,0,2,0,0,1,2,1,1,0,0,0,0,0,12,4,16
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,0,1,1,0,0,2,5,7
+71104,SAN JULIAN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,1,3
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,1,14,9,4,6,0,3,1,0,6,5,1,2,1,2,4,0,31,28,59
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,4,1,5
+31602,SHINAOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,10,6,17,16,6,11,2,0,2,0,0,10,3,3,3,2,1,1,44,49,93
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,1,0,6,9,4,5,0,2,1,0,1,1,1,0,0,0,0,2,14,19,33
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,1,3,5,3,0,0,0,0,0,0,0,0,1,0,0,0,0,6,7,13
+50801,TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+50201,UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+60303,VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,1,1,1,1,2,3,1,0,0,0,0,0,0,0,0,1,0,0,0,0,5,6,11
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,1,0,1,1,1,1,0,2,0,0,0,1,1,0,4,5,9
+30904,VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,1,1,0,0,5,4,9
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-11-01,0,0,3,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,5,2,7
+30201,AIQUILE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+71501,ASCENCION DE GUARAYOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+50301,BETANZOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10701,CAMARGO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,2,5
+70706,CAMIRI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,4,0,2,2,0,2,1,0,3,1,1,5,0,5,3,2,14,17,31
+30701,CAPINOTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,3,3
+60302,CARAPARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,1,1,0,1,7,7,3,2,1,0,2,0,2,5,3,0,1,2,0,2,20,20,40
+40201,CHALLAPATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+70702,CHARAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30801,CLIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,2,2,4
+90101,COBIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+30101,COCHABAMBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,1,0,14,17,21,12,8,2,0,0,3,4,3,1,2,0,2,1,54,37,91
+21306,COLQUENCHA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21401,COROICO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70102,COTOCA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,3,1,4
+20105,EL ALTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,4,0,3,2,2,1,1,4,4,2,1,5,1,2,5,4,21,20,41
+70105,EL TORNO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,1,1,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,2,5
+31206,ENTRE RIOS CBBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,1,0,3,0,2,0,0,3,1,0,1,0,0,0,0,0,1,3,9,12
+71004,FERNANDEZ ALONSO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+80202,GUAYARAMERIN,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2,4
+70104,LA GUARDIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,2,2,4
+20101,LA PAZ,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,1,0,3,3,6,13,5,9,4,2,2,5,20,22,7,9,5,15,8,24,61,102,163
+50203,LLALLAGUA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10501,MONTEAGUDO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+71001,MONTERO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,1,1,10,3,0,5,2,3,1,0,1,1,0,2,0,0,0,0,15,15,30
+40101,ORURO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,2,1,0,2,5,7
+70502,PAILON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,1,0,0,0,3,0,0,1,1,0,1,0,0,0,0,1,1,0,0,1,7,3,10
+21305,PATACAMAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,3,1,4
+70601,PORTACHUELO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,2,0,2,4,6
+50101,POTOSI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,1,0,6,8,6,5,0,0,4,0,7,10,1,3,0,1,1,5,26,32,58
+31205,PUERTO VILLARROEL,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,2,0,0,0,0,0,1,1,5,4,0,0,1,2,0,0,9,7,16
+31401,PUNATA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,4,5
+30901,QUILLACOLLO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,2,1,2,2,0,1,0,0,0,0,0,0,0,0,1,0,5,4,9
+80201,RIBERALTA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,2,1,3
+70402,SAN CARLOS,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,3,2,5
+80501,SAN IGNACIO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,1,0,2,4,0,0,0,0,0,0,0,1,0,0,0,0,1,1,4,6,10
+71005,SAN PEDRO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,3,2,5
+80702,SAN RAMON BENI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,1,0,2,8,12,8,6,8,4,2,5,17,14,0,9,4,5,1,5,48,63,111
+70602,SANTA ROSA DEL SARA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+21901,SANTIAGO DE MACHACA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,2,3,5
+10101,SUCRE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,2,1,6,32,17,14,6,2,2,3,2,7,9,1,3,1,2,2,2,63,51,114
+60101,TARIJA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,2,0,0,1,4,3,4,4,1,4,2,0,1,1,0,1,2,2,2,1,18,17,35
+20803,TIAHUANACU,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,2,0,1,0,1,0,1,2,0,1,0,1,0,1,0,0,0,0,1,0,6,5,11
+80101,TRINIDAD,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,2,1,3
+50801,TUPIZA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+50201,UNCIA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+51201,UYUNI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,2,2,4
+60303,VILLA MONTES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,2,3,5,0,1,0,1,0,0,1,1,0,1,0,0,1,0,5,11,16
+31003,VILLA TUNARI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+11001,VILLA VACA GUZMAN (MUYUPAMPA),intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,1,3,4
+30904,VINTO,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,1,2,3,5
+70201,WARNES,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,3,3,0,1,2,4,5,5,1,2,0,0,2,2,13,17,30
+60301,YACUIBA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,1,0,1,0,2,9,0,4,1,0,0,0,2,1,0,1,0,0,0,0,7,15,22
+70403,YAPACANI,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,3,2,5
+10102,YOTALA,intoxicaciones,enf. transmitidas por alimentos (e.t.a.),2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1

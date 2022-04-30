@@ -1,0 +1,569 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+20201,ACHACACHI,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+30403,ARBIETO,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20502,AYATA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+21003,CAJUATA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+21304,CALAMARCA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,3
+30303,COCAPATA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,2,0,0,0,0,0,0,0,7,7,12,2,3,0,2,1,0,10,26,36
+30905,COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21701,COPACABANA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21402,CORIPATA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,1,1,4,9,2,3,0,2,2,0,9,15,24
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+40701,HUANUNI,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10703,INCAHUASI,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,1,5,0,1,1,7,1,5,8,38,2,5,0,6,1,6,14,73,87
+21006,LICOMA PAMPA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,1,0,0,3,2,9,1,1,0,0,0,0,4,13,17
+20102,PALCA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,2,2,4
+21104,PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,4,0,3,0,0,0,4,0,0,0,0,0,11,11
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+70402,SAN CARLOS,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+71005,SAN PEDRO,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,1,0,0,0,0,0,2,3,12,51,4,12,1,3,0,1,20,70,90
+31602,SHINAOTA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,4,5
+10601,TARABUCO,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,1,0,0,1,0,3,4,7
+30903,TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+20801,VIACHA,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,2,3
+30904,VINTO,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70201,WARNES,infecc. de transmision sexual,ulcera genital,2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50301,BETANZOS,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21003,CAJUATA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,3
+21304,CALAMARCA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,3,11,11,2,4,3,1,0,0,17,19,36
+71101,CONCEPCION,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21402,CORIPATA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,4,8,17,5,5,1,1,2,1,17,28,45
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21001,INQUISIVI,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,3,2,3,2,0,1,0,2,7,21,0,5,3,7,1,3,17,43,60
+50203,LLALLAGUA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,4,0,6,0,2,1,0,0,0,1,12,13
+70803,MORO MORO,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,2,0,9,0,0,0,0,0,0,0,11,11
+20102,PALCA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21104,PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,3,0,9,0,2,0,1,0,1,0,16,16
+31304,RAQAYPAMPA(ETA),infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,7,0,4,0,0,1,3,5,17,23,1,3,1,3,1,2,34,37,71
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,1,3,4
+20603,TACACOMA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31101,TAPACARI,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,1,3,4
+31601,TIRAQUE (CBBA),infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21302,UMALA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60303,VILLA MONTES,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,infecc. de transmision sexual,ulcera genital,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20502,AYATA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+21003,CAJUATA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+51103,CKOCHAS,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,0,0,0,1,4,5
+30303,COCAPATA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,2,0,0,0,0,0,3,7,4,11,1,4,1,1,1,0,12,23,35
+30905,COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+31002,COLOMI,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,2,2,17,1,1,2,0,3,1,8,21,29
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+20806,JESUS DE MACHACA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-03-01,1,0,0,0,1,2,0,2,0,1,2,2,6,30,2,8,1,2,5,2,18,49,67
+51401,LLICA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,2,2,4
+10501,MONTEAGUDO,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,9,0,7,0,5,0,2,0,0,0,23,23
+30302,MOROCHATA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,1,0,0,0,0,0,2,1,6,0,0,0,0,0,1,1,10,11
+60201,PADCAYA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20102,PALCA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21104,PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31203,POCONA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31202,POJO (CBBA),infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,3,3
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,1,7,0,5,0,5,0,2,1,20,21
+31304,RAQAYPAMPA(ETA),infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40901,SABAYA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-03-01,1,0,0,0,2,0,0,0,2,0,2,3,24,55,5,27,5,1,1,1,42,87,129
+20902,SAPAHAQUI,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20601,SORATA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31101,TAPACARI,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10601,TARABUCO,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,2,3
+20608,TEOPONTE,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+50801,TUPIZA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+10704,VILLA CHARCAS,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+51501,VILLAZON,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+30904,VINTO,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,ulcera genital,2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+20201,ACHACACHI,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,3,0,3
+30402,ANZALDO,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+21003,CAJUATA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,4,1,6,7
+22001,CARANAVI,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+90101,COBIJA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,2,1,3,0,1,0,0,0,0,1,6,7
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,2,4,8,10,2,7,1,0,2,1,15,22,37
+30905,COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+21004,COLQUIRI,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21402,CORIPATA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70102,COTOCA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,1,0,2,13,1,8,2,3,1,2,7,26,33
+20806,JESUS DE MACHACA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21105,LA ASUNTA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,1,0,2,1,0,0,0,0,1,3,4,21,0,6,0,3,1,7,9,41,50
+10501,MONTEAGUDO,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,8,0,8,0,4,0,0,0,0,0,20,20
+30302,MOROCHATA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,2,0,6,0,0,0,0,1,0,1,8,9
+60201,PADCAYA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,3
+20102,PALCA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50403,POCOATA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,5,5
+80201,RIBERALTA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40901,SABAYA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+80302,SAN BORJA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+70302,SAN MIGUEL DE VELASCO,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,1,22,22,1,2,0,0,1,0,24,25,49
+21901,SANTIAGO DE MACHACA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31602,SHINAOTA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,1,0,0,0,0,0,0,0,1,1,4,0,0,0,0,2,1,3,7,10
+51402,TAHUA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+30903,TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50502,TORO TORO,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70802,TRIGAL,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80101,TRINIDAD,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+50801,TUPIZA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10602,YAMPARAEZ,infecc. de transmision sexual,ulcera genital,2018-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20701,APOLO,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+60202,BERMEJO,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21003,CAJUATA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40102,CARACOLLO,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+51103,CKOCHAS,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,4,10,13,0,10,0,4,2,0,12,31,43
+31002,COLOMI,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+21402,CORIPATA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70102,COTOCA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,5,19,2,5,2,3,1,1,10,28,38
+60502,EL PUENTE(TJA),infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+40701,HUANUNI,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+21001,INQUISIVI,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20806,JESUS DE MACHACA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,2,3,1,2,1,0,1,3,9,38,2,10,1,6,0,6,17,68,85
+50203,LLALLAGUA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,6,1,8,0,3,0,0,0,0,1,17,18
+70803,MORO MORO,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,1,0,0,0,0,0,9,9
+60201,PADCAYA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31203,POCONA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+20401,PUERTO ACOSTA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20403,PUERTO CARABUCO,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31401,PUNATA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31304,RAQAYPAMPA(ETA),infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,1,0,0,2,1,2,0,0,0,0,0,4,2,6
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,2,1,3
+21702,SAN PEDRO DE TIQUINA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-05-01,2,0,0,1,2,0,0,0,0,0,0,4,23,17,2,0,1,0,1,0,31,22,53
+30702,SANTIVAÑES,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+10403,SOPACHUY,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,2,1,3
+20601,SORATA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,0,0,0,0,0,4,4,8
+30602,TACOPAYA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31101,TAPACARI,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,1,0,0,0,0,1,5,6
+30401,TARATA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+10202,TARVITA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,3,1,4
+50801,TUPIZA,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,1,3,4
+31003,VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70201,WARNES,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10602,YAMPARAEZ,infecc. de transmision sexual,ulcera genital,2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+20201,ACHACACHI,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30402,ANZALDO,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20701,APOLO,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+71501,ASCENCION DE GUARAYOS,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,2
+10201,AZURDUY,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31501,BOLIVAR,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21003,CAJUATA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+90101,COBIJA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,4,4,17,2,6,0,1,1,0,7,28,35
+31002,COLOMI,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,3,2,9,10,0,4,2,3,0,0,14,19,33
+60502,EL PUENTE(TJA),infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70105,EL TORNO,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+20405,ESCOMA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+21001,INQUISIVI,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21105,LA ASUNTA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,2,3
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,1,0,4,2,0,2,0,1,1,3,5,36,2,11,1,0,0,0,14,55,69
+10501,MONTEAGUDO,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30203,OMEREQUE,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,1,0,0,2,5,7
+10103,POROMA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+90201,PUERTO RICO,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,1,0,1,0,4,0,12,12
+80201,RIBERALTA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,1,0,6,0,6
+40801,SALINAS DE GARCI MENDOZA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+80602,SAN ANDRES,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,3,5
+10702,SAN LUCAS,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,5,0,1,0,0,0,1,2,16,13,3,0,1,0,1,0,28,15,43
+30902,SIPE SIPE,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,1,7,8
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1,1,0,1,0,0,2,7,9
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+20608,TEOPONTE,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+20803,TIAWANACU,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+60401,URIONDO (A. CONCEPCION),infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2
+51501,VILLAZON,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30904,VINTO,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,3,0,3
+10602,YAMPARAEZ,infecc. de transmision sexual,ulcera genital,2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10404,ALCALA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22002,ALTO BENI,infecc. de transmision sexual,ulcera genital,2018-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71501,ASCENCION DE GUARAYOS,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20302,CAQUIAVIRI,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+40201,CHALLAPATA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30801,CLIZA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+90101,COBIJA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,1,0,7,4,19,1,12,3,0,0,0,8,39,47
+30905,COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21004,COLQUIRI,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,1,3,3,27,5,6,1,3,2,2,12,41,53
+70105,EL TORNO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20405,ESCOMA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,5
+20602,GUANAY,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20404,HUMANATA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20806,JESUS DE MACHACA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,3,0,0,1,0,1,1,4,11,28,2,11,4,5,1,4,22,54,76
+10501,MONTEAGUDO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,7,0,7,0,2,0,1,0,0,0,17,17
+70803,MORO MORO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,2,3,3,1,0,0,0,0,0,4,5,9
+31202,POJO (CBBA),infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+51203,PORCO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20403,PUERTO CARABUCO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,12,0,1,0,1,0,0,1,14,15
+50402,RAVELO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80201,RIBERALTA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+40901,SABAYA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+40801,SALINAS DE GARCI MENDOZA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70402,SAN CARLOS,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71005,SAN PEDRO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,1,0,0,3,0,0,1,1,13,16,13,3,5,3,1,0,1,26,35,61
+20902,SAPAHAQUI,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,5,0,2,0,2,0,0,1,9,10
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+40402,TURCO,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60303,VILLA MONTES,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,0,0,5,0,5
+60301,YACUIBA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,3,0,3
+10102,YOTALA,infecc. de transmision sexual,ulcera genital,2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20104,ACHOCALLA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22002,ALTO BENI,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30403,ARBIETO,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21203,BATALLAS,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20302,CAQUIAVIRI,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,1,3,7,8,2,16,0,2,2,1,12,30,42
+50901,"COLCHA ""K""",infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21004,COLQUIRI,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70102,COTOCA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+40503,CRUZ DE MACHACAMARCA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+40401,CURAHUARA DE CARANGAS,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,4,16,9,4,3,0,1,0,17,21,38
+70105,EL TORNO,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+80202,GUAYARAMERIN,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40501,HUACHACALLA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+21105,LA ASUNTA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,2,0,3,3,0,2,0,4,10,46,0,8,2,3,2,6,19,72,91
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,4,1,0,0,0,0,0,2,5,7
+70803,MORO MORO,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,1,1,6,0,10,0,0,0,0,0,0,1,17,18
+21305,PATACAMAYA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31203,POCONA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20401,PUERTO ACOSTA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,1,0,3,0,14,0,2,0,0,0,0,0,20,20
+31304,RAQAYPAMPA(ETA),infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,1,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,6,1,7
+31403,SAN BENITO,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,3,0,0,0,1,0,0,2,19,21,4,12,0,0,0,1,27,36,63
+41401,SANTIAGO DE HUARI,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90303,SENA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31602,SHINAOTA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30902,SIPE SIPE,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10403,SOPACHUY,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,3,3
+20603,TACACOMA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50303,TACOBAMBA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31101,TAPACARI,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+30903,TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31302,VILA VILA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+51501,VILLAZON,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30904,VINTO,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+60301,YACUIBA,infecc. de transmision sexual,ulcera genital,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,2,1,3
+30501,ARANI,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30403,ARBIETO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+30301,AYOPAYA (V. DE INDEPENDENCIA),infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21003,CAJUATA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+21101,CHULUMANI (V. DE LA LIBERTAD),infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,2,6,17,0,6,0,1,0,0,6,26,32
+30905,COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+21307,COLLANA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21306,COLQUENCHA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50601,COTAGAITA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,2,0,6,25,2,8,1,2,2,1,13,36,49
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4,0,4
+20602,GUANAY,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40501,HUACHACALLA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20806,JESUS DE MACHACA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21105,LA ASUNTA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,5,0,2,1,1,0,2,3,7,23,3,7,2,4,2,3,24,41,65
+71003,MINEROS,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,2,3
+20102,PALCA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31203,POCONA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21201,PUCARANI,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70904,QUIRUSILLAS,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+80501,SAN IGNACIO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+71104,SAN JULIAN,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10702,SAN LUCAS,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2
+71005,SAN PEDRO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,4,0,0,0,0,0,3,4,19,16,5,5,1,1,1,0,33,26,59
+10403,SOPACHUY,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,3,1,0,0,0,3,7,10
+50303,TACOBAMBA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+30401,TARATA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,2,2,5,0,2,0,0,0,0,2,9,11
+30903,TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50502,TORO TORO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,1,0,1,1,5,0,1,0,0,0,0,1,8,9
+50801,TUPIZA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20801,VIACHA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31003,VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30904,VINTO,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50602,VITICHI,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70201,WARNES,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,infecc. de transmision sexual,ulcera genital,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+20201,ACHACACHI,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20104,ACHOCALLA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30201,AIQUILE,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+21003,CAJUATA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40201,CHALLAPATA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,2,4,4,19,0,12,3,4,0,0,9,39,48
+30905,COLCAPIRHUA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21701,COPACABANA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,2,3,28,0,2,1,1,5,3,9,36,45
+71002,GENERAL SAAVEDRA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20602,GUANAY,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-10-01,1,0,0,0,4,1,3,2,2,0,1,5,8,50,2,17,0,6,1,3,22,84,106
+50203,LLALLAGUA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+40702,MACHACAMARCA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20607,MAPIRI,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0,3,1,4
+20102,PALCA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10103,POROMA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,1,0,0,0,5,5
+90201,PUERTO RICO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,2,20,0,6,0,2,2,6,4,35,39
+70904,QUIRUSILLAS,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80201,RIBERALTA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,2,1,3
+80501,SAN IGNACIO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,1,0,1,4,1,2,0,17,26,34,6,7,4,11,3,14,42,89,131
+90303,SENA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,2,0,1,0,0,0,0,2,3,1,1,2,1,0,0,0,8,5,13
+10601,TARABUCO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,1,0,1,0,0,0,0,1,2,1,2,0,1,0,1,0,0,2,8,10
+30903,TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,1,3,4
+50801,TUPIZA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31402,VILLA RIVERO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30904,VINTO,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+10102,YOTALA,infecc. de transmision sexual,ulcera genital,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20201,ACHACACHI,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+90101,COBIJA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,1,0,0,0,0,0,5,0,21,0,8,2,3,2,0,4,38,42
+31002,COLOMI,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,5,4,28,0,6,0,3,0,4,4,46,50
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+41101,EUCALIPTUS,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71002,GENERAL SAAVEDRA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20602,GUANAY,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,3,4,4,2,0,1,5,2,11,56,1,11,1,2,4,3,29,81,110
+50203,LLALLAGUA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2,3
+10501,MONTEAGUDO,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,5,2,3,0,2,0,0,1,0,4,10,14
+70803,MORO MORO,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+21104,PALOS BLANCOS,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,1,4,5
+31401,PUNATA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,1,0,6,0,0,0,0,0,8,0,1,0,0,1,3,1,19,20
+80201,RIBERALTA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+70402,SAN CARLOS,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+80102,SAN JAVIER(BNI),infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+10702,SAN LUCAS,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71005,SAN PEDRO,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,5,0,1,0,0,2,0,8,20,22,3,6,2,5,4,10,35,53,88
+21901,SANTIAGO DE MACHACA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20902,SAPAHAQUI,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+90303,SENA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+31602,SHINAOTA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,2,0,1,1,0,5,5,10
+31101,TAPACARI,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,1,0,0,0,0,0,0,2,1,7,1,0,0,0,0,0,3,9,12
+20608,TEOPONTE,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+50801,TUPIZA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31003,VILLA TUNARI,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30904,VINTO,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,ulcera genital,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51302,ACACIO,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20202,ANCORAIMES,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20302,CAQUIAVIRI,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+22001,CARANAVI,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+31204,CHIMORE,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,2,0,6,4,23,1,8,0,1,1,1,6,41,47
+21004,COLQUIRI,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21701,COPACABANA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,1,0,0,0,0,0,1,2,10,1,3,0,2,3,0,6,17,23
+31206,ENTRE RIOS CBBA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+71004,FERNANDEZ ALONSO,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71002,GENERAL SAAVEDRA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+20602,GUANAY,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,infecc. de transmision sexual,ulcera genital,2018-12-01,0,2,0,0,1,1,1,0,1,0,0,0,3,22,0,5,2,3,0,0,8,33,41
+21202,LAJA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50203,LLALLAGUA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51401,LLICA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,3,2,6,0,2,0,1,0,0,3,12,15
+40101,ORURO,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+20102,PALCA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+51203,PORCO,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10103,POROMA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,3,1,0,1,7,8
+50101,POTOSI,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,0,0,0,0,0,1,4,5
+31205,PUERTO VILLARROEL,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,2
+30901,QUILLACOLLO,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,1,0,2,0,2,0,1,0,12,0,2,0,3,0,3,0,26,26
+31001,SACABA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,1,2,4,6
+30404,SACABAMBA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,2,0,0,0,1,11,15,14,4,7,1,7,4,9,27,48,75
+21901,SANTIAGO DE MACHACA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31602,SHINAOTA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+10101,SUCRE,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,1,3,4
+50303,TACOBAMBA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10601,TARABUCO,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0,0,2,3,5
+30903,TIQUIPAYA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20801,VIACHA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10102,YOTALA,infecc. de transmision sexual,ulcera genital,2018-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2

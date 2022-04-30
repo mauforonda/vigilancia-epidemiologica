@@ -1,0 +1,39 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 1 año,1 a 4 años,5 a 9 años,10 a 20 años,21 a 59 años,60 y más,TOTAL
+30101,COCHABAMBA,sospecha diagnostica,dengue hemorragico,2012-01-01,0.0,0.0,0.0,2.0,6.0,1.0,9.0
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue hemorragico,2012-01-01,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+31206,ENTRE RIOS CBBA,sospecha diagnostica,dengue hemorragico,2012-01-01,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+31001,SACABA,sospecha diagnostica,dengue hemorragico,2012-01-01,0.0,0.0,0.0,0.0,3.0,0.0,3.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2012-01-01,0.0,0.0,1.0,3.0,5.0,0.0,9.0
+70201,WARNES,sospecha diagnostica,dengue hemorragico,2012-01-01,0.0,1.0,0.0,0.0,1.0,0.0,2.0
+70706,CAMIRI,sospecha diagnostica,dengue hemorragico,2012-02-01,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+71106,CUATRO CAÑADAS,sospecha diagnostica,dengue hemorragico,2012-02-01,0.0,0.0,0.0,2.0,1.0,0.0,3.0
+80202,GUAYARAMERIN,sospecha diagnostica,dengue hemorragico,2012-02-01,0.0,0.0,0.0,1.0,4.0,0.0,5.0
+70601,PORTACHUELO,sospecha diagnostica,dengue hemorragico,2012-02-01,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+80501,SAN IGNACIO,sospecha diagnostica,dengue hemorragico,2012-02-01,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2012-02-01,0.0,0.0,5.0,2.0,9.0,1.0,17.0
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue hemorragico,2012-02-01,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60101,TARIJA,sospecha diagnostica,dengue hemorragico,2012-02-01,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+70903,MAIRANA,sospecha diagnostica,dengue hemorragico,2012-03-01,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+71402,PUERTO QUIJARRO,sospecha diagnostica,dengue hemorragico,2012-03-01,0.0,0.0,1.0,1.0,1.0,0.0,3.0
+80302,SAN BORJA,sospecha diagnostica,dengue hemorragico,2012-03-01,0.0,0.0,0.0,2.0,0.0,0.0,2.0
+71104,SAN JULIAN,sospecha diagnostica,dengue hemorragico,2012-03-01,0.0,1.0,0.0,3.0,2.0,0.0,6.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2012-03-01,1.0,9.0,19.0,38.0,49.0,9.0,125.0
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,dengue hemorragico,2012-03-01,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+60101,TARIJA,sospecha diagnostica,dengue hemorragico,2012-03-01,0.0,0.0,1.0,2.0,0.0,0.0,3.0
+60301,YACUIBA,sospecha diagnostica,dengue hemorragico,2012-03-01,0.0,0.0,0.0,1.0,2.0,0.0,3.0
+71402,PUERTO QUIJARRO,sospecha diagnostica,dengue hemorragico,2012-04-01,0.0,0.0,0.0,1.0,11.0,0.0,12.0
+71401,PUERTO SUAREZ,sospecha diagnostica,dengue hemorragico,2012-04-01,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70503,ROBORE,sospecha diagnostica,dengue hemorragico,2012-04-01,0.0,0.0,0.0,2.0,0.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2012-04-01,7.0,15.0,39.0,60.0,85.0,14.0,220.0
+60301,YACUIBA,sospecha diagnostica,dengue hemorragico,2012-04-01,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+71402,PUERTO QUIJARRO,sospecha diagnostica,dengue hemorragico,2012-05-01,0.0,0.0,1.0,0.0,1.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2012-05-01,4.0,7.0,22.0,36.0,66.0,7.0,142.0
+31003,VILLA TUNARI,sospecha diagnostica,dengue hemorragico,2012-05-01,0.0,0.0,1.0,2.0,3.0,0.0,6.0
+60301,YACUIBA,sospecha diagnostica,dengue hemorragico,2012-05-01,0.0,0.0,0.0,1.0,2.0,0.0,3.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2012-06-01,3.0,1.0,5.0,5.0,11.0,0.0,25.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2012-07-01,0.0,1.0,2.0,3.0,0.0,0.0,6.0
+80401,SANTA ANA,sospecha diagnostica,dengue hemorragico,2012-09-01,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2012-09-01,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2012-10-01,1.0,2.0,1.0,2.0,1.0,0.0,7.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2012-11-01,0.0,2.0,0.0,1.0,4.0,0.0,7.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,dengue hemorragico,2012-12-01,0.0,1.0,0.0,3.0,2.0,0.0,6.0
