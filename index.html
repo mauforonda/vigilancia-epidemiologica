@@ -15031,9 +15031,9 @@ $(document).ready(function() {
 
 
 
-<div id="8443fb5d-17e3-408c-8195-e40669a7e98e" class="jp-RenderedJavaScript jp-OutputArea-output " data-mime-type="application/javascript">
+<div id="481f1da3-d1e0-4774-b529-e7118ed623d2" class="jp-RenderedJavaScript jp-OutputArea-output " data-mime-type="application/javascript">
 <script type="text/javascript">
-var element = document.getElementById('8443fb5d-17e3-408c-8195-e40669a7e98e');
+var element = document.getElementById('481f1da3-d1e0-4774-b529-e7118ed623d2');
 if (typeof require !== 'undefined')
     require.config({
         paths: {
@@ -15658,7 +15658,7 @@ if (typeof require !== 'undefined')
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="Datos">Datos<a class="anchor-link" href="#Datos">&#182;</a></h2><p><em>Descargar todos los datos disponibles a nivel mensual y municipal.</em></p>
-<p>Con el inventario en mano, el próximo paso es la descarga. Realizo consultas para cada variable, año y mes, que almaceno en documentos csv, uno para cada variable y año. Como no puedo predecir la forma que tendrá la tabla que produce el sistema, y éste tiende a nombrar columnas de maneras idiosincráticas, por ejemplo desagregando valores entre distintos rangos de edad, usando ocasionalmente sexo, etc., simplemente tomo todo lo que ofrece. Las únicas columnas sobre las que tengo control son las que creo, qu describen las variables, años y municipios. Las variables y años están bien harmonizadas gracias al índice. Y respecto al municipio, para tener datos que puedo cruzar fácilmente con otros sets de datos en la próxima sección construyo un diccionario que me permite harmonizar códigos para municipios a través de todos los años.</p>
+<p>Con el inventario en mano, el próximo paso es la descarga. Realizo consultas para cada variable, año y mes, que almaceno en documentos csv, uno para cada variable y año. Como no puedo predecir la forma que tendrá la tabla que produce el sistema, y éste tiende a nombrar columnas de maneras idiosincráticas, por ejemplo desagregando valores entre distintos rangos de edad, usando ocasionalmente sexo, etc., simplemente tomo todo lo que ofrece. Las únicas columnas sobre las que tengo control son las que creo, que describen las variables, años y municipios. Las variables y años están bien armonizadas gracias al índice. Y respecto al municipio, para tener datos que puedo cruzar fácilmente con otros sets de datos en la próxima sección construyo un diccionario que me permite armonizar códigos para municipios a través de todos los años.</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
@@ -15823,7 +15823,7 @@ if (typeof require !== 'undefined')
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Limpieza">Limpieza<a class="anchor-link" href="#Limpieza">&#182;</a></h2><p><em>Que cada tabla tenga una forma predecible y municipios harmonizados.</em></p>
+<h2 id="Limpieza">Limpieza<a class="anchor-link" href="#Limpieza">&#182;</a></h2><p><em>Que cada tabla tenga una forma predecible y municipios armonizados.</em></p>
 <p>Finalmente, pongo los datos en una estructura simple y extensible. Las primeras columnas de todos los sets de datos describen el código INE del municipio, el nombre del municipio que ofrece el tablero, el grupo de variable, el nombre de la variable y el mes de los valores. Para tener los códigos INE, construyo un diccionario que mapea cada nombre de municipio con su código, utilizando las tablas que publica el ministerio de salud sobre la estructura de establecimientos entre 2005 y 2021. Por suerte, los nombres en estas tablas y la base de datos de vigilancia epidemiológica son las mismas, debido a que el reporte se suele realizar mediante un sistema que consume listas similares publicadas periódicamente. El resto de las columnas consisten en todos los datos que ofrece el sistema, a veces desagregados por rangos de edad, sexo, si la atención fue prestada en el establecimiento o fuera, etc. No hago más que la limpieza más simple sobre estas columnas, suficiente como para que sean utilizadas rápidamente en el futuro y sin muchos juicios sobre cómo deberían verse. Con esta información es fácil agregar valores de condiciones a través de varios años y cruzarlos con información a nivel municipal, como por ejemplo indicadores de los Objetivos de Desarrollo Sostenible.</p>
 
 </div>
@@ -15915,7 +15915,7 @@ if (typeof require !== 'undefined')
 
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Construir un diccionario para harmonizar municipios</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Construir un diccionario para armonizar municipios</span>
 
 <span class="n">municipios_snis</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span>
     <span class="n">listar_municipios1</span><span class="p">(</span><span class="s1">&#39;snis/resources/Establecimientos 2005_2017.xlsx&#39;</span><span class="p">),</span> 
