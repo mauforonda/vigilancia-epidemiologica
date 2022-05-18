@@ -1,0 +1,971 @@
+codigo_municipio,municipio,grupo,variable,mes,de-1-ano_masculino,de-1-ano-1_femenino,1-a-4-anos_masculino,1-a-4-anos-1_femenino,5-a-9-anos_masculino,5-a-9-anos-1_femenino,10-a-20-anos_masculino,10-a-20-anos-1_femenino,21-a-59-anos_masculino,21-a-59-anos-1_femenino,60-y-mas_masculino,60-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+60202,BERMEJO,otras infecciones,chagas agudo,2010-01-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,2.0
+21401,COROICO,otras infecciones,chagas agudo,2010-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+20101,LA PAZ,otras infecciones,chagas agudo,2010-01-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,3.0,0.0,0.0,4.0,4.0,8.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2010-01-01,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+51003,SAN ANTONIO DE ESMORUCO,otras infecciones,chagas agudo,2010-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70301,SAN IGNACIO DE VELASCO,otras infecciones,chagas agudo,2010-01-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-01-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,15.0,5.0,2.0,0.0,18.0,5.0,23.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,2.0,43.0,2.0,0.0,4.0,58.0,62.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-01-01,0.0,0.0,3.0,1.0,0.0,0.0,0.0,9.0,11.0,41.0,1.0,3.0,15.0,54.0,69.0
+60301,YACUIBA,otras infecciones,chagas agudo,2010-01-01,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0
+30403,ARBIETO,otras infecciones,chagas agudo,2010-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+50802,ATOCHA,otras infecciones,chagas agudo,2010-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+60302,CARAPARI,otras infecciones,chagas agudo,2010-02-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2010-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71003,MINEROS,otras infecciones,chagas agudo,2010-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31001,SACABA,otras infecciones,chagas agudo,2010-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60501,SAN LORENZO(TJA),otras infecciones,chagas agudo,2010-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-02-01,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,26.0,1.0,0.0,28.0,27.0,55.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,42.0,0.0,2.0,0.0,60.0,60.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-02-01,1.0,0.0,0.0,1.0,0.0,0.0,4.0,4.0,22.0,53.0,2.0,1.0,29.0,59.0,88.0
+60301,YACUIBA,otras infecciones,chagas agudo,2010-02-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70403,YAPACANI,otras infecciones,chagas agudo,2010-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,3.0,3.0,6.0
+30905,COLCAPIRHUA,otras infecciones,chagas agudo,2010-03-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+71301,COMARAPA,otras infecciones,chagas agudo,2010-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+21402,CORIPATA,otras infecciones,chagas agudo,2010-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70102,COTOCA,otras infecciones,chagas agudo,2010-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2010-03-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,2.0
+10303,MOJOCOYA,otras infecciones,chagas agudo,2010-03-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+71001,MONTERO,otras infecciones,chagas agudo,2010-03-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2010-03-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-03-01,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,3.0,4.0,7.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-03-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,30.0,0.0,2.0,1.0,46.0,47.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-03-01,2.0,0.0,0.0,2.0,1.0,1.0,2.0,9.0,33.0,74.0,0.0,2.0,38.0,88.0,126.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2010-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0
+60301,YACUIBA,otras infecciones,chagas agudo,2010-03-01,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,5.0,2.0,7.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2010-04-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,3.0,3.0,6.0
+71301,COMARAPA,otras infecciones,chagas agudo,2010-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2010-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2010-04-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+60501,SAN LORENZO(TJA),otras infecciones,chagas agudo,2010-04-01,1.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,5.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-04-01,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,2.0,8.0,11.0,19.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-04-01,1.0,1.0,0.0,0.0,0.0,0.0,0.0,14.0,3.0,58.0,0.0,0.0,4.0,73.0,77.0
+30401,TARATA,otras infecciones,chagas agudo,2010-04-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-04-01,1.0,1.0,0.0,1.0,0.0,0.0,4.0,9.0,18.0,21.0,0.0,2.0,23.0,34.0,57.0
+50801,TUPIZA,otras infecciones,chagas agudo,2010-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2010-04-01,1.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,3.0,7.0,0.0,0.0,7.0,9.0,16.0
+51501,VILLAZON,otras infecciones,chagas agudo,2010-04-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,1.0,4.0,5.0
+60301,YACUIBA,otras infecciones,chagas agudo,2010-04-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+70403,YAPACANI,otras infecciones,chagas agudo,2010-04-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,3.0
+30501,ARANI,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0,3.0,4.0,5.0,9.0
+50301,BETANZOS,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+71301,COMARAPA,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,2.0
+21401,COROICO,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,2.0,3.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,5.0,0.0,0.0,2.0,5.0,7.0
+20101,LA PAZ,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,1.0,3.0,4.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2010-05-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31403,SAN BENITO,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,3.0,1.0,0.0,5.0,3.0,8.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.0,53.0,0.0,1.0,0.0,73.0,73.0
+30401,TARATA,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-05-01,0.0,0.0,0.0,0.0,0.0,2.0,3.0,11.0,22.0,11.0,0.0,0.0,25.0,24.0,49.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2010-05-01,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,6.0,0.0,1.0,6.0,8.0,14.0
+60301,YACUIBA,otras infecciones,chagas agudo,2010-05-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+30402,ANZALDO,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30501,ARANI,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+10701,CAMARGO,otras infecciones,chagas agudo,2010-06-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+71301,COMARAPA,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+21401,COROICO,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+50601,COTAGAITA,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,1.0,12.0,0.0,0.0,2.0,18.0,20.0
+20101,LA PAZ,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,2.0,3.0
+71003,MINEROS,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,3.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2010-06-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71001,MONTERO,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2010-06-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,3.0,4.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-06-01,3.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,69.0,2.0,1.0,5.0,83.0,88.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,1.0,1.0,0.0,1.0,8.0,12.0,28.0,69.0,1.0,1.0,38.0,84.0,122.0
+50801,TUPIZA,otras infecciones,chagas agudo,2010-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,4.0
+60301,YACUIBA,otras infecciones,chagas agudo,2010-06-01,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+60202,BERMEJO,otras infecciones,chagas agudo,2010-07-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2010-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0
+71301,COMARAPA,otras infecciones,chagas agudo,2010-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,1.0,5.0,6.0
+21401,COROICO,otras infecciones,chagas agudo,2010-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31206,ENTRE RIOS CBBA,otras infecciones,chagas agudo,2010-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2010-07-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2010-07-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,2.0,4.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2010-07-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71001,MONTERO,otras infecciones,chagas agudo,2010-07-01,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,3.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2010-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30901,QUILLACOLLO,otras infecciones,chagas agudo,2010-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-07-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,1.0,53.0,3.0,6.0,4.0,70.0,74.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-07-01,2.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,19.0,35.0,1.0,0.0,22.0,40.0,62.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2010-07-01,3.0,2.0,3.0,0.0,0.0,0.0,3.0,4.0,15.0,16.0,4.0,0.0,28.0,22.0,50.0
+60301,YACUIBA,otras infecciones,chagas agudo,2010-07-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+10602,YAMPARAEZ,otras infecciones,chagas agudo,2010-07-01,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,2.0,4.0
+60202,BERMEJO,otras infecciones,chagas agudo,2010-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,2.0,1.0,3.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2010-08-01,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,4.0
+21401,COROICO,otras infecciones,chagas agudo,2010-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2010-08-01,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0
+20101,LA PAZ,otras infecciones,chagas agudo,2010-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0
+10401,PADILLA,otras infecciones,chagas agudo,2010-08-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2010-08-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-08-01,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,4.0,5.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,67.0,1.0,0.0,1.0,84.0,85.0
+30401,TARATA,otras infecciones,chagas agudo,2010-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,4.0,4.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-08-01,0.0,3.0,0.0,0.0,1.0,0.0,5.0,6.0,43.0,57.0,2.0,2.0,51.0,68.0,119.0
+30802,TOCO,otras infecciones,chagas agudo,2010-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31402,VILLA RIVERO,otras infecciones,chagas agudo,2010-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2010-08-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,11.0,11.0,2.0,0.0,13.0,14.0,27.0
+60301,YACUIBA,otras infecciones,chagas agudo,2010-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70403,YAPACANI,otras infecciones,chagas agudo,2010-08-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+60202,BERMEJO,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+21401,COROICO,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71001,MONTERO,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,0.0,0.0,1.0,4.0,5.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+51101,PUNA,otras infecciones,chagas agudo,2010-09-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+31401,PUNATA,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+80501,SAN IGNACIO,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70301,SAN IGNACIO DE VELASCO,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10702,SAN LUCAS,otras infecciones,chagas agudo,2010-09-01,0.0,3.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,7.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-09-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,52.0,0.0,2.0,1.0,65.0,66.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-09-01,5.0,5.0,2.0,0.0,1.0,0.0,2.0,2.0,23.0,63.0,0.0,2.0,33.0,72.0,105.0
+50801,TUPIZA,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,9.0,0.0,0.0,1.0,10.0,11.0
+51201,UYUNI,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31402,VILLA RIVERO,otras infecciones,chagas agudo,2010-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2010-09-01,1.0,2.0,0.0,2.0,2.0,0.0,1.0,3.0,11.0,10.0,1.0,1.0,16.0,18.0,34.0
+60301,YACUIBA,otras infecciones,chagas agudo,2010-09-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0,2.0,4.0,2.0,57.0,5.0,62.0
+60202,BERMEJO,otras infecciones,chagas agudo,2010-10-01,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,3.0
+10701,CAMARGO,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30801,CLIZA,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,2.0,1.0,2.0,4.0,5.0,9.0
+21401,COROICO,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+20101,LA PAZ,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71001,MONTERO,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+70301,SAN IGNACIO DE VELASCO,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-10-01,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,2.0,4.0,6.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,0.0,41.0,1.0,0.0,1.0,57.0,58.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,14.0,47.0,1.0,1.0,16.0,49.0,65.0
+20801,VIACHA,otras infecciones,chagas agudo,2010-10-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8.0,12.0,1.0,0.0,9.0,13.0,22.0
+60301,YACUIBA,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,2.0,1.0,3.0
+10602,YAMPARAEZ,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+70403,YAPACANI,otras infecciones,chagas agudo,2010-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30403,ARBIETO,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+60202,BERMEJO,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,1.0,4.0
+70603,COLPA BELGICA,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+21401,COROICO,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,2.0
+20101,LA PAZ,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,3.0,1.0,4.0
+71001,MONTERO,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,4.0,6.0,2.0,2.0,3.0,0.0,0.0,0.0,9.0,8.0,17.0
+50403,POCOATA,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+50101,POTOSI,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31403,SAN BENITO,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,14.0,0.0,1.0,0.0,17.0,17.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,69.0,4.0,0.0,5.0,78.0,83.0
+10601,TARABUCO,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-11-01,1.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,9.0,25.0,0.0,1.0,12.0,31.0,43.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2010-11-01,3.0,2.0,0.0,0.0,0.0,0.0,1.0,4.0,13.0,24.0,2.0,0.0,19.0,30.0,49.0
+70201,WARNES,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+60301,YACUIBA,otras infecciones,chagas agudo,2010-11-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70403,YAPACANI,otras infecciones,chagas agudo,2010-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20104,ACHOCALLA,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,0.0,1.0,4.0,5.0
+71301,COMARAPA,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,1.0,1.0,5.0,6.0
+21401,COROICO,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,3.0
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,chagas agudo,2010-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+71003,MINEROS,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,4.0,2.0,6.0
+31301,MIZQUE,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71001,MONTERO,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,0.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,4.0,7.0
+10302,PRESTO,otras infecciones,chagas agudo,2010-12-01,2.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,5.0
+70301,SAN IGNACIO DE VELASCO,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,11.0,0.0,0.0,1.0,13.0,14.0
+10101,SUCRE,otras infecciones,chagas agudo,2010-12-01,0.0,2.0,0.0,0.0,0.0,0.0,1.0,12.0,0.0,45.0,0.0,1.0,1.0,60.0,61.0
+60101,TARIJA,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,1.0,0.0,0.0,0.0,3.0,4.0,14.0,30.0,1.0,2.0,19.0,36.0,55.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2010-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,3.0,0.0,0.0,10.0,3.0,13.0
+60202,BERMEJO,otras infecciones,chagas agudo,2011-01-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-01-01,0.0,0.0,1.0,2.0,0.0,3.0,0.0,0.0,2.0,1.0,0.0,0.0,3.0,6.0,9.0
+71301,COMARAPA,otras infecciones,chagas agudo,2011-01-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,5.0
+21401,COROICO,otras infecciones,chagas agudo,2011-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2011-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,1.0,1.0,2.0,6.0,8.0
+30901,QUILLACOLLO,otras infecciones,chagas agudo,2011-01-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-01-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,59.0,6.0,0.0,2.0,60.0,9.0,69.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,45.0,0.0,1.0,0.0,56.0,56.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-01-01,0.0,0.0,2.0,0.0,1.0,0.0,3.0,7.0,28.0,34.0,0.0,3.0,34.0,44.0,78.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-01-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,6.0,9.0,2.0,0.0,8.0,12.0,20.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,3.0,10.0,5.0,16.0,21.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+71301,COMARAPA,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,2.0,3.0
+21401,COROICO,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,3.0,4.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,3.0,4.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,23.0,0.0,0.0,1.0,32.0,33.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-02-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,41.0,0.0,0.0,6.0,46.0,52.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,1.0,0.0,0.0,2.0,5.0,15.0,21.0,3.0,2.0,20.0,29.0,49.0
+50801,TUPIZA,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,11.0,2.0,3.0,5.0,16.0,21.0
+31302,VILA VILA,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,5.0,3.0,2.0,6.0,1.0,0.0,8.0,9.0,17.0
+50602,VITICHI,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,3.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,17.0,0.0,11.0,9.0,28.0,37.0
+70403,YAPACANI,otras infecciones,chagas agudo,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-03-01,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,3.0
+21401,COROICO,otras infecciones,chagas agudo,2011-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-03-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,3.0
+71001,MONTERO,otras infecciones,chagas agudo,2011-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2011-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-03-01,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,9.0,7.0,0.0,9.0,15.0,24.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-03-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,3.0,38.0,1.0,0.0,6.0,44.0,50.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,7.0,24.0,0.0,1.0,7.0,28.0,35.0
+50801,TUPIZA,otras infecciones,chagas agudo,2011-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,2.0,3.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-03-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,16.0,15.0,2.0,2.0,18.0,20.0,38.0
+51501,VILLAZON,otras infecciones,chagas agudo,2011-03-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,4.0,2.0,3.0,35.0,7.0,42.0
+21103,YANACACHI,otras infecciones,chagas agudo,2011-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30801,CLIZA,otras infecciones,chagas agudo,2011-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-04-01,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,12.0,0.0,2.0,3.0,15.0,18.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2011-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2011-04-01,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,3.0
+31001,SACABA,otras infecciones,chagas agudo,2011-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2011-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-04-01,1.0,2.0,5.0,0.0,3.0,4.0,7.0,12.0,26.0,26.0,12.0,6.0,54.0,50.0,104.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-04-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,1.0,40.0,0.0,0.0,2.0,45.0,47.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-04-01,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,4.0,10.0,1.0,1.0,7.0,13.0,20.0
+50801,TUPIZA,otras infecciones,chagas agudo,2011-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,3.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-04-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,22.0,1.0,0.0,31.0,23.0,54.0
+30904,VINTO,otras infecciones,chagas agudo,2011-04-01,0.0,0.0,2.0,0.0,1.0,2.0,1.0,3.0,2.0,0.0,0.0,1.0,6.0,6.0,12.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-04-01,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0,1.0,0.0,0.0,57.0,2.0,59.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-05-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,3.0,0.0,0.0,3.0,4.0,7.0
+21401,COROICO,otras infecciones,chagas agudo,2011-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2011-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71001,MONTERO,otras infecciones,chagas agudo,2011-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71102,SAN JAVIER(STC),otras infecciones,chagas agudo,2011-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-05-01,1.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,0.0,24.0,1.0,0.0,2.0,30.0,32.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,23.0,1.0,0.0,3.0,29.0,32.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-05-01,1.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,13.0,16.0,1.0,0.0,17.0,20.0,37.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-05-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,6.0,1.0,0.0,4.0,7.0,11.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-05-01,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,76.0,0.0,0.0,0.0,79.0,1.0,80.0
+60202,BERMEJO,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-06-01,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,4.0,19.0,0.0,0.0,7.0,20.0,27.0
+21401,COROICO,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+10902,CULPINA,otras infecciones,chagas agudo,2011-06-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,2.0,1.0,3.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+21305,PATACAMAYA,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-06-01,0.0,1.0,1.0,0.0,0.0,0.0,0.0,5.0,1.0,10.0,5.0,0.0,7.0,16.0,23.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-06-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,5.0,2.0,7.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,9.0,21.0,0.0,0.0,10.0,23.0,33.0
+50801,TUPIZA,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,6.0,0.0,2.0,7.0,8.0,15.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,7.0,0.0,0.0,7.0,8.0,15.0
+51501,VILLAZON,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30904,VINTO,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,11.0,0.0,4.0,22.0,15.0,37.0
+21103,YANACACHI,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70403,YAPACANI,otras infecciones,chagas agudo,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+60202,BERMEJO,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,3.0,5.0,0.0,0.0,5.0,6.0,11.0
+21401,COROICO,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,2.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71001,MONTERO,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,4.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+10302,PRESTO,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-07-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,4.0,24.0,0.0,3.0,5.0,35.0,40.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,3.0,4.0,0.0,9.0,3.0,12.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,7.0,37.0,0.0,0.0,7.0,40.0,47.0
+50801,TUPIZA,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,5.0,2.0,2.0,5.0,7.0,12.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-07-01,0.0,1.0,2.0,0.0,0.0,0.0,2.0,1.0,17.0,7.0,3.0,4.0,24.0,13.0,37.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-08-01,1.0,2.0,2.0,2.0,0.0,0.0,3.0,3.0,4.0,14.0,2.0,2.0,12.0,23.0,35.0
+21401,COROICO,otras infecciones,chagas agudo,2011-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,3.0,3.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,2.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2011-08-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,1.0,2.0,5.0,7.0
+71001,MONTERO,otras infecciones,chagas agudo,2011-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2011-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,2.0,3.0
+51101,PUNA,otras infecciones,chagas agudo,2011-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31401,PUNATA,otras infecciones,chagas agudo,2011-08-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+71102,SAN JAVIER(STC),otras infecciones,chagas agudo,2011-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,6.0,32.0,3.0,3.0,9.0,38.0,47.0
+31602,SHINAOTA,otras infecciones,chagas agudo,2011-08-01,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-08-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,0.0,0.0,4.0,6.0,10.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-08-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,13.0,24.0,0.0,1.0,14.0,28.0,42.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-08-01,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,9.0,1.0,1.0,6.0,11.0,17.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-08-01,2.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,37.0,6.0,7.0,5.0,48.0,13.0,61.0
+60202,BERMEJO,otras infecciones,chagas agudo,2011-09-01,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+70401,BUENA VISTA,otras infecciones,chagas agudo,2011-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-09-01,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,11.0,2.0,0.0,7.0,12.0,19.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2011-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2011-09-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2011-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,5.0,5.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-09-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,2.0,24.0,6.0,3.0,9.0,32.0,41.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-09-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,1.0,6.0,7.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-09-01,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,7.0,0.0,0.0,8.0,8.0,16.0
+50102,TINGUIPAYA,otras infecciones,chagas agudo,2011-09-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-09-01,1.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,5.0,4.0,1.0,2.0,8.0,10.0,18.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-09-01,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,12.0,9.0,3.0,2.0,15.0,14.0,29.0
+60202,BERMEJO,otras infecciones,chagas agudo,2011-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-10-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,5.0,1.0,1.0,4.0,8.0,12.0
+21401,COROICO,otras infecciones,chagas agudo,2011-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,otras infecciones,chagas agudo,2011-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-10-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,1.0,0.0,2.0,3.0,5.0
+71001,MONTERO,otras infecciones,chagas agudo,2011-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,4.0,4.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2011-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-10-01,1.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0,4.0,31.0,2.0,5.0,7.0,46.0,53.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2011-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-10-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,0.0,0.0,4.0,4.0,8.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-10-01,0.0,0.0,0.0,0.0,0.0,3.0,1.0,3.0,9.0,23.0,0.0,1.0,10.0,30.0,40.0
+50801,TUPIZA,otras infecciones,chagas agudo,2011-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-10-01,2.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,8.0,18.0,0.0,0.0,13.0,19.0,32.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,4.0,1.0,4.0,18.0,8.0,26.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-11-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,20.0,1.0,0.0,8.0,26.0,34.0
+21402,CORIPATA,otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0,2.0,4.0,6.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+71001,MONTERO,otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,6.0,6.0
+71102,SAN JAVIER(STC),otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2011-11-01,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,4.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-11-01,2.0,0.0,0.0,0.0,0.0,0.0,1.0,13.0,4.0,21.0,2.0,4.0,9.0,38.0,47.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-11-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,2.0,4.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,14.0,22.0,1.0,0.0,16.0,24.0,40.0
+50801,TUPIZA,otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0,0.0,0.0,0.0,8.0,8.0
+70801,VALLEGRANDE,otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-11-01,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,13.0,2.0,1.0,6.0,15.0,21.0
+70201,WARNES,otras infecciones,chagas agudo,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-11-01,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,0.0,0.0,1.0,7.0,1.0,8.0
+10701,CAMARGO,otras infecciones,chagas agudo,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2011-12-01,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,3.0,4.0
+20105,EL ALTO,otras infecciones,chagas agudo,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0
+10304,ICLA,otras infecciones,chagas agudo,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+21102,IRUPANA (VILLA DE LANZA),otras infecciones,chagas agudo,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,1.0,4.0,5.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2011-12-01,5.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,9.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,7.0,9.0,7.0,19.0,1.0,5.0,15.0,33.0,48.0
+10101,SUCRE,otras infecciones,chagas agudo,2011-12-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,9.0,0.0,0.0,5.0,11.0,16.0
+60101,TARIJA,otras infecciones,chagas agudo,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,6.0,18.0,0.0,1.0,6.0,23.0,29.0
+50801,TUPIZA,otras infecciones,chagas agudo,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,9.0,2.0,5.0,6.0,14.0,20.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,1.0,0.0,0.0,4.0,1.0,5.0
+60301,YACUIBA,otras infecciones,chagas agudo,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,13.0,0.0,0.0,0.0,14.0,2.0,16.0
+60202,BERMEJO,otras infecciones,chagas agudo,2012-01-01,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+30801,CLIZA,otras infecciones,chagas agudo,2012-01-01,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-01-01,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,5.0,0.0,0.0,4.0,6.0,10.0
+21401,COROICO,otras infecciones,chagas agudo,2012-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2012-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,1.0,0.0,3.0,3.0,6.0
+70103,PORONGO,otras infecciones,chagas agudo,2012-01-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2012-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31205,PUERTO VILLARROEL,otras infecciones,chagas agudo,2012-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2012-01-01,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-01-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,3.0,28.0,2.0,1.0,5.0,36.0,41.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,3.0,0.0,0.0,5.0,3.0,8.0
+60101,TARIJA,otras infecciones,chagas agudo,2012-01-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,9.0,5.0,1.0,0.0,11.0,8.0,19.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2012-01-01,1.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0,5.0,3.0,0.0,0.0,7.0,6.0,13.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-01-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,7.0,0.0,7.0
+60202,BERMEJO,otras infecciones,chagas agudo,2012-02-01,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,15.0,0.0,2.0,4.0,20.0,24.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2012-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0
+20101,LA PAZ,otras infecciones,chagas agudo,2012-02-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,0.0,2.0,3.0,5.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2012-02-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2012-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2012-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-02-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,9.0,7.0,27.0,3.0,3.0,12.0,39.0,51.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-02-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,4.0
+60101,TARIJA,otras infecciones,chagas agudo,2012-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,8.0,17.0,2.0,3.0,10.0,22.0,32.0
+50801,TUPIZA,otras infecciones,chagas agudo,2012-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,0.0,1.0,1.0,7.0,8.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2012-02-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,1.0,2.0,4.0,6.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-02-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,9.0,1.0,10.0
+50301,BETANZOS,otras infecciones,chagas agudo,2012-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-03-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,1.0,3.0,4.0,7.0
+21401,COROICO,otras infecciones,chagas agudo,2012-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2012-03-01,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,2.0,3.0,5.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2012-03-01,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2012-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50101,POTOSI,otras infecciones,chagas agudo,2012-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2012-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-03-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,25.0,3.0,10.0,7.0,39.0,46.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,27.0,0.0,0.0,3.0,28.0,31.0
+30903,TIQUIPAYA,otras infecciones,chagas agudo,2012-03-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2012-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,1.0,0.0,4.0,2.0,6.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-03-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,1.0,1.0,2.0,16.0,3.0,19.0
+60202,BERMEJO,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+30801,CLIZA,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2012-04-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+10302,PRESTO,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31401,PUNATA,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+80302,SAN BORJA,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,3.0,5.0,5.0,10.0
+30703,SICAYA,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,24.0,1.0,2.0,9.0,27.0,36.0
+50801,TUPIZA,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,1.0,2.0,5.0,7.0,12.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,0.0,0.0,3.0,3.0,6.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,12.0,0.0,12.0
+10301,ZUDAÑEZ,otras infecciones,chagas agudo,2012-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+10201,AZURDUY,otras infecciones,chagas agudo,2012-05-01,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,4.0
+50301,BETANZOS,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0
+21401,COROICO,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,2.0,2.0,4.0
+71001,MONTERO,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,3.0,3.0
+10302,PRESTO,otras infecciones,chagas agudo,2012-05-01,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,4.0
+31401,PUNATA,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,5.0,18.0,2.0,3.0,7.0,27.0,34.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,9.0,30.0,1.0,2.0,10.0,34.0,44.0
+60101,TARIJA,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,4.0,4.0
+50801,TUPIZA,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,2.0,1.0,5.0,6.0
+70801,VALLEGRANDE,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5.0,1.0,0.0,0.0,5.0,2.0,7.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,1.0,2.0,2.0,16.0,3.0,19.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-06-01,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,8.0,1.0,2.0,2.0,13.0,15.0
+21401,COROICO,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70102,COTOCA,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,4.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2012-06-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2012-06-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+70303,SAN RAFAEL,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-06-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0,8.0,40.0,39.0,8.0,3.0,49.0,52.0,101.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,3.0
+30703,SICAYA,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,2.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,9.0,1.0,2.0,7.0,13.0,20.0
+60101,TARIJA,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,13.0,0.0,0.0,4.0,14.0,18.0
+50801,TUPIZA,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,4.0,0.0,1.0,2.0,5.0,7.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,2.0,3.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,2.0,1.0,3.0,12.0,5.0,17.0
+70403,YAPACANI,otras infecciones,chagas agudo,2012-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+60202,BERMEJO,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,3.0,12.0,1.0,0.0,5.0,17.0,22.0
+30905,COLCAPIRHUA,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2012-07-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+71005,SAN PEDRO,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-07-01,0.0,1.0,0.0,0.0,0.0,0.0,6.0,9.0,115.0,36.0,11.0,3.0,132.0,49.0,181.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+30401,TARATA,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60101,TARIJA,otras infecciones,chagas agudo,2012-07-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,5.0,5.0
+50801,TUPIZA,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,4.0,0.0,2.0,3.0,7.0,10.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,0.0,1.0,3.0,3.0,6.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-07-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,2.0,3.0,5.0
+60202,BERMEJO,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+50301,BETANZOS,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,2.0,19.0,3.0,6.0,9.0,28.0,37.0
+21401,COROICO,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+20101,LA PAZ,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,3.0,4.0
+31401,PUNATA,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,2.0,3.0,0.0,1.0,1.0,12.0,20.0,31.0,1.0,1.0,24.0,48.0,72.0
+30703,SICAYA,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,15.0,1.0,3.0,9.0,19.0,28.0
+60101,TARIJA,otras infecciones,chagas agudo,2012-08-01,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,7.0,12.0,0.0,0.0,9.0,13.0,22.0
+50801,TUPIZA,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,8.0,7.0,3.0,2.0,12.0,12.0,24.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30904,VINTO,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,3.0,4.0,0.0,1.0,4.0,9.0,13.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-08-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0,0.0,5.0,3.0,8.0
+10602,YAMPARAEZ,otras infecciones,chagas agudo,2012-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60202,BERMEJO,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,2.0
+10701,CAMARGO,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,1.0,0.0,0.0,0.0,2.0,7.0,4.0,25.0,8.0,1.0,15.0,33.0,48.0
+30905,COLCAPIRHUA,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+71301,COMARAPA,otras infecciones,chagas agudo,2012-09-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0
+50404,OCURI,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,3.0,3.0,6.0
+50402,RAVELO,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,0.0,1.0,5.0,6.0,0.0,0.0,0.0,0.0,5.0,7.0,12.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-09-01,2.0,0.0,2.0,2.0,3.0,1.0,1.0,2.0,4.0,24.0,4.0,1.0,16.0,30.0,46.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30703,SICAYA,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,13.0,1.0,1.0,9.0,14.0,23.0
+60101,TARIJA,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,1.0,0.0,1.0,4.0,3.0,7.0
+50801,TUPIZA,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,3.0,1.0,0.0,0.0,1.0,3.0,8.0,0.0,3.0,4.0,15.0,19.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,1.0,3.0,4.0
+70201,WARNES,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,14.0,2.0,2.0,4.0,18.0,22.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-09-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,7.0,0.0,0.0,0.0,9.0,0.0,9.0
+60202,BERMEJO,otras infecciones,chagas agudo,2012-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-10-01,0.0,1.0,0.0,1.0,1.0,1.0,2.0,7.0,6.0,27.0,2.0,1.0,11.0,38.0,49.0
+71004,FERNANDEZ ALONSO,otras infecciones,chagas agudo,2012-10-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2012-10-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,4.0,1.0,0.0,0.0,4.0,3.0,7.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2012-10-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+40101,ORURO,otras infecciones,chagas agudo,2012-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70103,PORONGO,otras infecciones,chagas agudo,2012-10-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2012-10-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-10-01,5.0,1.0,7.0,6.0,5.0,3.0,22.0,10.0,68.0,58.0,8.0,12.0,115.0,90.0,205.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2012-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,6.0,1.0,3.0,4.0,9.0,13.0
+60101,TARIJA,otras infecciones,chagas agudo,2012-10-01,0.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,11.0,25.0,0.0,0.0,14.0,26.0,40.0
+50801,TUPIZA,otras infecciones,chagas agudo,2012-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,0.0,5.0,3.0,8.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2012-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70201,WARNES,otras infecciones,chagas agudo,2012-10-01,0.0,0.0,0.0,0.0,0.0,2.0,1.0,10.0,0.0,17.0,5.0,0.0,6.0,29.0,35.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-10-01,1.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,21.0,2.0,0.0,0.0,23.0,4.0,27.0
+10602,YAMPARAEZ,otras infecciones,chagas agudo,2012-10-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-11-01,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,4.0,9.0,1.0,0.0,7.0,10.0,17.0
+21401,COROICO,otras infecciones,chagas agudo,2012-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2012-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10502,HUACARETA,otras infecciones,chagas agudo,2012-11-01,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,3.0
+20101,LA PAZ,otras infecciones,chagas agudo,2012-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+50101,POTOSI,otras infecciones,chagas agudo,2012-11-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,1.0,0.0,2.0,6.0,8.0
+31205,PUERTO VILLARROEL,otras infecciones,chagas agudo,2012-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+71102,SAN JAVIER(STC),otras infecciones,chagas agudo,2012-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,15.0,0.0,0.0,2.0,18.0,20.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,2.0,0.0,12.0,12.0
+60101,TARIJA,otras infecciones,chagas agudo,2012-11-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,6.0,15.0,0.0,0.0,8.0,16.0,24.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2012-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,4.0
+70201,WARNES,otras infecciones,chagas agudo,2012-11-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,13.0,0.0,4.0,0.0,22.0,22.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-11-01,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2012-12-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,5.0,0.0,1.0,4.0,7.0,11.0
+10703,INCAHUASI,otras infecciones,chagas agudo,2012-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2012-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2012-12-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+40101,ORURO,otras infecciones,chagas agudo,2012-12-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+80501,SAN IGNACIO,otras infecciones,chagas agudo,2012-12-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+10702,SAN LUCAS,otras infecciones,chagas agudo,2012-12-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2012-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,17.0,0.0,2.0,0.0,24.0,24.0
+10101,SUCRE,otras infecciones,chagas agudo,2012-12-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,6.0,4.0,0.0,9.0,6.0,15.0
+60101,TARIJA,otras infecciones,chagas agudo,2012-12-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,13.0,0.0,0.0,0.0,18.0,18.0
+70201,WARNES,otras infecciones,chagas agudo,2012-12-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,17.0,1.0,2.0,2.0,23.0,25.0
+60301,YACUIBA,otras infecciones,chagas agudo,2012-12-01,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,3.0,4.0
+10201,AZURDUY,otras infecciones,chagas agudo,2013-01-01,1.0,1.0,0.0,3.0,0.0,0.0,3.0,6.0,0.0,1.0,2.0,1.0,6.0,12.0,18.0
+31204,CHIMORE,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,1.0,4.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,5.0,14.0,1.0,2.0,8.0,19.0,27.0
+10304,ICLA,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,2.0,1.0,4.0,5.0
+71001,MONTERO,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,1.0,0.0,2.0,4.0,6.0
+70303,SAN RAFAEL,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-01-01,1.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,74.0,96.0,57.0,50.0,133.0,148.0,281.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,7.0,0.0,0.0,3.0,7.0,10.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-01-01,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,14.0,10.0,1.0,2.0,17.0,15.0,32.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,10.0,27.0,0.0,0.0,12.0,30.0,42.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70201,WARNES,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,25.0,0.0,0.0,0.0,29.0,29.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,3.0,2.0,1.0,2.0,6.0,5.0,11.0
+70403,YAPACANI,otras infecciones,chagas agudo,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,6.0,12.0,2.0,0.0,12.0,15.0,27.0
+21401,COROICO,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+10304,ICLA,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4.0,2.0,5.0,7.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,3.0
+31403,SAN BENITO,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70303,SAN RAFAEL,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,47.0,30.0,16.0,7.0,63.0,43.0,106.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,3.0,3.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,7.0,1.0,0.0,6.0,7.0,13.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,9.0,25.0,0.0,0.0,10.0,27.0,37.0
+50801,TUPIZA,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+60401,URIONDO (A. CONCEPCION),otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,1.0,3.0,4.0
+60303,VILLA MONTES,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70201,WARNES,otras infecciones,chagas agudo,2013-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,1.0,0.0,10.0,10.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-02-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30701,CAPINOTA,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-03-01,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,17.0,1.0,1.0,3.0,19.0,22.0
+21401,COROICO,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10902,CULPINA,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+40101,ORURO,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2013-03-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,27.0,25.0,10.0,8.0,37.0,39.0,76.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0,2.0,4.0,6.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,10.0,1.0,0.0,7.0,10.0,17.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,12.0,10.0,0.0,16.0,12.0,28.0
+50801,TUPIZA,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,3.0,1.0,4.0
+70201,WARNES,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,5.0,32.0,2.0,4.0,7.0,52.0,59.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,0.0,0.0,6.0,2.0,8.0
+60202,BERMEJO,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10701,CAMARGO,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,20.0,0.0,3.0,3.0,25.0,28.0
+70102,COTOCA,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+80202,GUAYARAMERIN,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,2.0,0.0,4.0,3.0,7.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+51101,PUNA,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,2.0
+70303,SAN RAFAEL,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-04-01,1.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,141.0,60.0,2.0,5.0,145.0,71.0,216.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,1.0,3.0,4.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,6.0,3.0,1.0,11.0,8.0,19.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-04-01,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,18.0,22.0,0.0,0.0,21.0,22.0,43.0
+50801,TUPIZA,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,3.0
+11001,VILLA VACA GUZMAN (MUYUPAMPA),otras infecciones,chagas agudo,2013-04-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+30904,VINTO,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70201,WARNES,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,2.0,0.0,1.0,0.0,7.0,5.0,28.0,6.0,6.0,11.0,44.0,55.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.0,0.0,0.0,8.0,2.0,10.0
+10701,CAMARGO,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,1.0,3.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,5.0,1.0,2.0,2.0,8.0,10.0
+20105,EL ALTO,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,2.0,3.0
+71003,MINEROS,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,0.0,3.0
+40101,ORURO,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+21305,PATACAMAYA,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+70303,SAN RAFAEL,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,19.0,18.0,6.0,1.0,26.0,21.0,47.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0,0.0,5.0,5.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,11.0,1.0,3.0,11.0,14.0,25.0
+10601,TARABUCO,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,3.0
+50801,TUPIZA,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,2.0,2.0,4.0
+70201,WARNES,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.0,18.0,0.0,2.0,2.0,26.0,28.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,0.0,4.0
+30403,ARBIETO,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-06-01,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,7.0,1.0,1.0,6.0,10.0,16.0
+21401,COROICO,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,otras infecciones,chagas agudo,2013-06-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,1.0,3.0,4.0,6.0,10.0
+40101,ORURO,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10302,PRESTO,otras infecciones,chagas agudo,2013-06-01,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0,4.0,7.0
+71102,SAN JAVIER(STC),otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+71005,SAN PEDRO,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-06-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,14.0,29.0,28.0,23.0,42.0,57.0,99.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,6.0,1.0,1.0,5.0,8.0,13.0
+30401,TARATA,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,3.0,3.0,6.0
+50801,TUPIZA,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,3.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,0.0,0.0,1.0,4.0,5.0
+30904,VINTO,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70201,WARNES,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,4.0,2.0,1.0,2.0,8.0,10.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-06-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70403,YAPACANI,otras infecciones,chagas agudo,2013-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30701,CAPINOTA,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,4.0,8.0,4.0,0.0,8.0,14.0,22.0
+70102,COTOCA,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,4.0,4.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,2.0,2.0,0.0,7.0,2.0,9.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+10302,PRESTO,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,2.0,4.0,6.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-07-01,1.0,0.0,0.0,1.0,0.0,0.0,3.0,6.0,61.0,56.0,14.0,14.0,79.0,77.0,156.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2013-07-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,1.0,4.0,5.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,11.0,5.0,0.0,2.0,12.0,9.0,21.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,9.0,9.0,0.0,1.0,10.0,12.0,22.0
+30903,TIQUIPAYA,otras infecciones,chagas agudo,2013-07-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,4.0,1.0,1.0,5.0,6.0,11.0
+70201,WARNES,otras infecciones,chagas agudo,2013-07-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,25.0,1.0,1.0,3.0,29.0,32.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,3.0,1.0,0.0,3.0,6.0,9.0
+70403,YAPACANI,otras infecciones,chagas agudo,2013-07-01,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+30403,ARBIETO,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,7.0,0.0,0.0,4.0,12.0,16.0
+21401,COROICO,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,3.0,4.0
+60502,EL PUENTE(TJA),otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70105,EL TORNO,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,2.0,1.0,3.0
+71002,GENERAL SAAVEDRA,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,3.0,0.0,3.0
+40101,ORURO,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+10401,PADILLA,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+70601,PORTACHUELO,otras infecciones,chagas agudo,2013-08-01,0.0,1.0,0.0,0.0,5.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,7.0,5.0,12.0
+71102,SAN JAVIER(STC),otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70404,SAN JUAN DE YAPACANI,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,1.0,1.0,0.0,0.0,0.0,7.0,37.0,37.0,3.0,3.0,41.0,48.0,89.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,3.0,1.0,5.0,6.0,8.0,14.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,0.0,3.0,11.0,14.0,25.0
+50801,TUPIZA,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2013-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,2.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-08-01,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,3.0,2.0,5.0
+60202,BERMEJO,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-09-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,5.0,0.0,0.0,3.0,8.0,11.0
+71101,CONCEPCION,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+71106,CUATRO CAÑADAS,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20105,EL ALTO,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70105,EL TORNO,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0,1.0,3.0,4.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2013-09-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+20101,LA PAZ,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0
+71003,MINEROS,otras infecciones,chagas agudo,2013-09-01,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,4.0,4.0
+40101,ORURO,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,3.0
+51101,PUNA,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+71005,SAN PEDRO,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+70303,SAN RAFAEL,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-09-01,1.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,37.0,39.0,14.0,8.0,52.0,52.0,104.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,12.0,1.0,6.0,2.0,18.0,20.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,12.0,20.0,0.0,0.0,13.0,21.0,34.0
+50801,TUPIZA,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,2.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70201,WARNES,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,0.0,0.0,0.0,15.0,15.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-09-01,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,4.0,0.0,2.0,2.0,7.0,9.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,5.0,5.0
+21401,COROICO,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+70102,COTOCA,otras infecciones,chagas agudo,2013-10-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,2.0,4.0
+70105,EL TORNO,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,1.0,2.0,3.0,5.0
+71003,MINEROS,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,7.0,0.0,0.0,1.0,8.0,9.0
+30203,OMEREQUE,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,2.0,3.0,5.0
+40101,ORURO,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,5.0,1.0,6.0
+50101,POTOSI,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,3.0,4.0
+31403,SAN BENITO,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70303,SAN RAFAEL,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,1.0,0.0,0.0,0.0,1.0,5.0,74.0,52.0,11.0,7.0,87.0,64.0,151.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,16.0,5.0,2.0,7.0,18.0,25.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,14.0,29.0,1.0,1.0,16.0,32.0,48.0
+30903,TIQUIPAYA,otras infecciones,chagas agudo,2013-10-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+50801,TUPIZA,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,6.0,0.0,0.0,3.0,6.0,9.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,3.0,4.0,3.0,7.0
+70201,WARNES,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,1.0,2.0,5.0,0.0,44.0,2.0,1.0,4.0,51.0,55.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-10-01,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,2.0,4.0,4.0,8.0
+10602,YAMPARAEZ,otras infecciones,chagas agudo,2013-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30201,AIQUILE,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+60202,BERMEJO,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71403,CARMEN RIVERO TORREZ,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,3.0,4.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,10.0,0.0,1.0,0.0,13.0,13.0
+20101,LA PAZ,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+71003,MINEROS,otras infecciones,chagas agudo,2013-11-01,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,3.0,4.0
+31205,PUERTO VILLARROEL,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,4.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-11-01,1.0,0.0,0.0,3.0,1.0,0.0,2.0,7.0,50.0,42.0,10.0,5.0,64.0,57.0,121.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,18.0,0.0,3.0,4.0,22.0,26.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,11.0,22.0,1.0,0.0,13.0,23.0,36.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70201,WARNES,otras infecciones,chagas agudo,2013-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,12.0,3.0,2.0,4.0,19.0,23.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-11-01,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,4.0,1.0,0.0,4.0,6.0,10.0
+30201,AIQUILE,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+30801,CLIZA,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2013-12-01,0.0,1.0,1.0,0.0,2.0,0.0,1.0,3.0,4.0,8.0,0.0,0.0,8.0,12.0,20.0
+21402,CORIPATA,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70102,COTOCA,otras infecciones,chagas agudo,2013-12-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70105,EL TORNO,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,2.0,1.0,4.0,5.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,22.0,1.0,1.0,2.0,27.0,29.0
+20101,LA PAZ,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,4.0,0.0,4.0
+71003,MINEROS,otras infecciones,chagas agudo,2013-12-01,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,4.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2013-12-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+30203,OMEREQUE,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,4.0
+70502,PAILON,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2013-12-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,0.0,0.0,0.0,0.0,3.0,6.0,67.0,23.0,8.0,1.0,78.0,30.0,108.0
+10101,SUCRE,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,9.0,1.0,3.0,3.0,12.0,15.0
+60101,TARIJA,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,13.0,15.0,0.0,0.0,13.0,17.0,30.0
+60303,VILLA MONTES,otras infecciones,chagas agudo,2013-12-01,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2013-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+70201,WARNES,otras infecciones,chagas agudo,2013-12-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,7.0,0.0,1.0,2.0,9.0,11.0
+60301,YACUIBA,otras infecciones,chagas agudo,2013-12-01,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,2.0,2.0,1.0,7.0,4.0,11.0
+31303,ALALAY,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31204,CHIMORE,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,2.0,3.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,1.0,5.0,1.0,1.0,3.0,10.0,13.0
+70105,EL TORNO,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,3.0,1.0,3.0,0.0,8.0,1.0,9.0
+70705,GUTIERREZ,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2014-01-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,17.0,0.0,1.0,1.0,22.0,23.0
+71003,MINEROS,otras infecciones,chagas agudo,2014-01-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,1.0,5.0,6.0
+31301,MIZQUE,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,9.0,28.0,40.0,13.0,3.0,42.0,52.0,94.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0,2.0,5.0,7.0
+31602,SHINAOTA,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+10101,SUCRE,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,4.0,11.0,4.0,1.0,10.0,14.0,24.0
+60101,TARIJA,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,7.0,0.0,2.0,3.0,12.0,15.0
+30803,TOLATA,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60401,URIONDO (A. CONCEPCION),otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70801,VALLEGRANDE,otras infecciones,chagas agudo,2014-01-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31402,VILLA RIVERO,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,2.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70201,WARNES,otras infecciones,chagas agudo,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0,1.0,1.0,1.0,20.0,21.0
+60301,YACUIBA,otras infecciones,chagas agudo,2014-01-01,1.0,0.0,1.0,0.0,0.0,1.0,2.0,2.0,0.0,3.0,1.0,0.0,5.0,6.0,11.0
+10602,YAMPARAEZ,otras infecciones,chagas agudo,2014-01-01,0.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,2.0,0.0,2.0,4.0,6.0,7.0,13.0
+31303,ALALAY,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30402,ANZALDO,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+30801,CLIZA,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,4.0,0.0,0.0,1.0,6.0,7.0
+70102,COTOCA,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10902,CULPINA,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,3.0
+70105,EL TORNO,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,1.0,5.0,2.0,7.0
+21105,LA ASUNTA,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,13.0,0.0,0.0,0.0,18.0,18.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,1.0,4.0,0.0,0.0,0.0,6.0,0.0,15.0,0.0,2.0,1.0,27.0,28.0
+20101,LA PAZ,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+71003,MINEROS,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0
+31301,MIZQUE,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30302,MOROCHATA,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,3.0
+30203,OMEREQUE,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10401,PADILLA,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+31205,PUERTO VILLARROEL,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,3.0,1.0,4.0
+71102,SAN JAVIER(STC),otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70404,SAN JUAN DE YAPACANI,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2014-02-01,0.0,2.0,0.0,0.0,0.0,0.0,2.0,7.0,41.0,44.0,7.0,9.0,50.0,62.0,112.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10101,SUCRE,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,1.0,3.0,4.0,6.0,10.0
+31101,TAPACARI,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+60101,TARIJA,otras infecciones,chagas agudo,2014-02-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,26.0,0.0,3.0,18.0,29.0,47.0
+30803,TOLATA,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31302,VILA VILA,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,1.0,0.0,0.0,1.0,3.0,4.0,7.0
+70201,WARNES,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,26.0,0.0,0.0,0.0,28.0,28.0
+60301,YACUIBA,otras infecciones,chagas agudo,2014-02-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,3.0,4.0,6.0,12.0,18.0
+10602,YAMPARAEZ,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,3.0,4.0
+70403,YAPACANI,otras infecciones,chagas agudo,2014-02-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0
+31303,ALALAY,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30403,ARBIETO,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,2.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2014-03-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,4.0,9.0,2.0,0.0,8.0,15.0,23.0
+10902,CULPINA,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+70105,EL TORNO,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,3.0,1.0,4.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2014-03-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,18.0,0.0,0.0,1.0,25.0,26.0
+31301,MIZQUE,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10401,PADILLA,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+31202,POJO (CBBA),otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0,1.0,3.0
+71102,SAN JAVIER(STC),otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,71.0,42.0,15.0,13.0,87.0,61.0,148.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,2.0,1.0,3.0
+10101,SUCRE,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,9.0,1.0,3.0,6.0,13.0,19.0
+60101,TARIJA,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,19.0,24.0,1.0,3.0,22.0,27.0,49.0
+31302,VILA VILA,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,7.0,0.0,1.0,3.0,8.0,11.0
+70201,WARNES,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,4.0,10.0,1.0,3.0,5.0,23.0,28.0
+60301,YACUIBA,otras infecciones,chagas agudo,2014-03-01,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,0.0,1.0,1.0,7.0,8.0
+10602,YAMPARAEZ,otras infecciones,chagas agudo,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,2.0,4.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,5.0,3.0,0.0,7.0,6.0,13.0
+30905,COLCAPIRHUA,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+50601,COTAGAITA,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+70102,COTOCA,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10902,CULPINA,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,2.0,0.0,1.0,3.0,3.0,6.0
+70105,EL TORNO,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2.0,3.0,2.0,5.0
+21105,LA ASUNTA,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2014-04-01,1.0,0.0,0.0,2.0,0.0,0.0,0.0,5.0,3.0,11.0,3.0,2.0,7.0,20.0,27.0
+20101,LA PAZ,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31301,MIZQUE,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70803,MORO MORO,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70402,SAN CARLOS,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2014-04-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,39.0,47.0,11.0,7.0,50.0,62.0,112.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,4.0
+10101,SUCRE,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,0.0,6.0,4.0,10.0
+30401,TARATA,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,2.0,3.0
+60101,TARIJA,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,19.0,4.0,2.0,19.0,21.0,40.0
+60401,URIONDO (A. CONCEPCION),otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31302,VILA VILA,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+70201,WARNES,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8.0,2.0,27.0,1.0,4.0,4.0,39.0,43.0
+60301,YACUIBA,otras infecciones,chagas agudo,2014-04-01,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,3.0,0.0,6.0,5.0,11.0
+70403,YAPACANI,otras infecciones,chagas agudo,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,7.0,2.0,8.0,4.0,12.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,4.0,2.0,2.0,5.0,8.0,13.0
+50901,"COLCHA ""K""",otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71301,COMARAPA,otras infecciones,chagas agudo,2014-05-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70102,COTOCA,otras infecciones,chagas agudo,2014-05-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,2.0,3.0,5.0
+10902,CULPINA,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,3.0
+70105,EL TORNO,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+21105,LA ASUNTA,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,2.0,11.0,0.0,2.0,3.0,17.0,20.0
+71003,MINEROS,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31301,MIZQUE,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30203,OMEREQUE,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,3.0
+40101,ORURO,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+10401,PADILLA,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+50403,POCOATA,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50101,POTOSI,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70901,SAMAIPATA,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70303,SAN RAFAEL,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2014-05-01,0.0,1.0,2.0,3.0,0.0,0.0,2.0,0.0,67.0,41.0,3.0,5.0,74.0,50.0,124.0
+10101,SUCRE,otras infecciones,chagas agudo,2014-05-01,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,3.0,2.0,8.0,10.0
+60101,TARIJA,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,2.0,1.0,11.0,10.0,21.0
+31601,TIRAQUE (CBBA),otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70802,TRIGAL,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+60401,URIONDO (A. CONCEPCION),otras infecciones,chagas agudo,2014-05-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30904,VINTO,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0,4.0,6.0
+70201,WARNES,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,28.0,2.0,0.0,4.0,32.0,36.0
+60301,YACUIBA,otras infecciones,chagas agudo,2014-05-01,1.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,4.0,24.0,1.0,1.0,8.0,28.0,36.0
+10602,YAMPARAEZ,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,2.0,4.0
+70403,YAPACANI,otras infecciones,chagas agudo,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,5.0,1.0,6.0,7.0
+60202,BERMEJO,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+21101,CHULUMANI (V. DE LA LIBERTAD),otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4.0,1.0,0.0,3.0,5.0,8.0
+10902,CULPINA,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,1.0,4.0,1.0,5.0
+70105,EL TORNO,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2014-06-01,1.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,1.0,8.0,0.0,1.0,3.0,13.0,16.0
+31301,MIZQUE,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30203,OMEREQUE,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,3.0
+10401,PADILLA,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,3.0
+70501,SAN JOSE DE CHIQUITOS,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,1.0,0.0,0.0,0.0,4.0,2.0,61.0,39.0,6.0,7.0,72.0,48.0,120.0
+10101,SUCRE,otras infecciones,chagas agudo,2014-06-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,1.0,3.0,3.0,6.0
+60101,TARIJA,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,9.0,2.0,0.0,9.0,10.0,19.0
+60401,URIONDO (A. CONCEPCION),otras infecciones,chagas agudo,2014-06-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3.0,3.0
+31302,VILA VILA,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30904,VINTO,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70201,WARNES,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,22.0,0.0,2.0,1.0,30.0,31.0
+60301,YACUIBA,otras infecciones,chagas agudo,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,9.0,3.0,5.0,8.0,14.0,22.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,6.0,3.0,1.0,6.0,7.0,13.0
+70102,COTOCA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31405,CUCHUMUELA (V. G. VILLARROEL),otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10902,CULPINA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,2.0,3.0,5.0
+70105,EL TORNO,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5.0,2.0,19.0,7.0,2.0,10.0,26.0,36.0
+70705,GUTIERREZ,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,3.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,2.0,0.0,0.0,0.0,4.0,0.0,20.0,0.0,0.0,0.0,26.0,26.0
+20101,LA PAZ,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,2.0,2.0,4.0
+31301,MIZQUE,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2014-07-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,3.0
+30203,OMEREQUE,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0
+10401,PADILLA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,1.0,3.0
+50101,POTOSI,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70805,PUCARA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+31401,PUNATA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,1.0,0.0,0.0,0.0,2.0,5.0,49.0,66.0,5.0,5.0,57.0,76.0,133.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10403,SOPACHUY,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+10101,SUCRE,otras infecciones,chagas agudo,2014-07-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,5.0,2.0,2.0,8.0,9.0,17.0
+30401,TARATA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+60101,TARIJA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,10.0,1.0,0.0,14.0,10.0,24.0
+31302,VILA VILA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,5.0,0.0,1.0,2.0,6.0,8.0
+70201,WARNES,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,13.0,1.0,2.0,4.0,16.0,20.0
+60301,YACUIBA,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,2.0,3.0,4.0,4.0,8.0
+10602,YAMPARAEZ,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70403,YAPACANI,otras infecciones,chagas agudo,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,21.0,5.0,23.0,5.0,28.0
+60202,BERMEJO,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+50301,BETANZOS,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+30801,CLIZA,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,4.0,9.0,3.0,1.0,8.0,11.0,19.0
+30905,COLCAPIRHUA,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+21401,COROICO,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31405,CUCHUMUELA (V. G. VILLARROEL),otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10902,CULPINA,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+71004,FERNANDEZ ALONSO,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,2.0
+70104,LA GUARDIA,otras infecciones,chagas agudo,2014-08-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+50203,LLALLAGUA,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+31301,MIZQUE,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40101,ORURO,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,1.0,0.0,3.0,2.0,5.0
+10103,POROMA,otras infecciones,chagas agudo,2014-08-01,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,5.0
+31401,PUNATA,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71104,SAN JULIAN,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+60501,SAN LORENZO(TJA),otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2014-08-01,0.0,2.0,1.0,1.0,0.0,0.0,0.0,4.0,25.0,54.0,10.0,13.0,36.0,74.0,110.0
+10101,SUCRE,otras infecciones,chagas agudo,2014-08-01,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,2.0,4.0,6.0
+60101,TARIJA,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,16.0,1.0,0.0,7.0,16.0,23.0
+60401,URIONDO (A. CONCEPCION),otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31302,VILA VILA,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70201,WARNES,otras infecciones,chagas agudo,2014-08-01,1.0,0.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,23.0,3.0,3.0,9.0,27.0,36.0
+60301,YACUIBA,otras infecciones,chagas agudo,2014-08-01,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,5.0,4.0,1.0,6.0,8.0,14.0
+10602,YAMPARAEZ,otras infecciones,chagas agudo,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70403,YAPACANI,otras infecciones,chagas agudo,2014-08-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,3.0,2.0,4.0,6.0,10.0
+30201,AIQUILE,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30801,CLIZA,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,3.0
+21401,COROICO,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,2.0,3.0
+31405,CUCHUMUELA (V. G. VILLARROEL),otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10501,MONTEAGUDO,otras infecciones,chagas agudo,2014-09-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31401,PUNATA,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60501,SAN LORENZO(TJA),otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,1.0,1.0,7.0,8.0
+70101,SANTA CRUZ DE LA SIERRA,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,13.0,15.0,80.0,56.0,23.0,11.0,116.0,82.0,198.0
+70602,SANTA ROSA DEL SARA,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+10101,SUCRE,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,1.0,1.0,6.0,7.0
+60101,TARIJA,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,11.0,19.0,1.0,1.0,12.0,22.0,34.0
+60401,URIONDO (A. CONCEPCION),otras infecciones,chagas agudo,2014-09-01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+70801,VALLEGRANDE,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+31302,VILA VILA,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,2.0,4.0,6.0
+30904,VINTO,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70201,WARNES,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,14.0,4.0,3.0,5.0,22.0,27.0
+60301,YACUIBA,otras infecciones,chagas agudo,2014-09-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,7.0,2.0,5.0,5.0,12.0,17.0
+70403,YAPACANI,otras infecciones,chagas agudo,2014-09-01,0.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,5.0,10.0,7.0,17.0

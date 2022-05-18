@@ -1,0 +1,1748 @@
+codigo_municipio,municipio,grupo,variable,mes,a-de-6-meses_masculino,a-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+30601,ARQUE,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50802,ATOCHA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10201,AZURDUY,inmunoprevenibles,parotiditis,2015-01-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-01-01,0,0,1,0,0,0,0,2,0,0,0,0,3,1,0,1,0,1,0,0,4,5,9
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71106,CUATRO CAÑADAS,inmunoprevenibles,parotiditis,2015-01-01,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+40401,CURAHUARA DE CARANGAS,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+41101,EUCALIPTUS,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,1,0,1,0,1,2,0,2,1,0,0,0,0,0,2,4,6,10
+70701,LAGUNILLAS,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+11003,MACHARETI,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20402,MOCOMOCO,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+40101,ORURO,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+40602,PAZÑA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31203,POCONA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,2,2,4
+51101,PUNA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+31001,SACABA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80401,SANTA ANA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,1,4,3,3,0,0,0,1,0,0,0,1,0,0,1,0,5,9,14
+10101,SUCRE,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10704,VILLA CHARCAS,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,4,1,5
+10602,YAMPARAEZ,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10102,YOTALA,inmunoprevenibles,parotiditis,2015-01-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+31204,CHIMORE,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,2,3
+21401,COROICO,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+71503,EL PUENTE(STC),inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60601,ENTRE RIOS TRJ,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,1,2,0,0,1,0,1,0,0,0,0,1,1,0,0,3,4,7
+20901,LURIBAY,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20103,MECAPACA,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,2
+71001,MONTERO,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+40101,ORURO,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,2,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,4,3,7
+70502,PAILON,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70902,PAMPA GRANDE,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40801,SALINAS DE GARCI MENDOZA,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-02-01,0,0,1,0,3,0,3,6,0,0,0,0,1,0,0,0,0,0,0,0,8,6,14
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+40104,SORACACHI,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+10601,TARABUCO,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60301,YACUIBA,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,0,0,0,1,3,4
+10102,YOTALA,inmunoprevenibles,parotiditis,2015-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50802,ATOCHA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+60302,CARAPARI,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+40201,CHALLAPATA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51103,CKOCHAS,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0,3,2,5
+21401,COROICO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,3,1,4
+70105,EL TORNO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-03-01,0,1,0,0,1,0,3,2,0,0,0,0,2,2,1,2,1,1,0,2,8,10,18
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+10501,MONTEAGUDO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,2,2,1,0,1,0,0,1,0,0,0,0,0,0,0,3,4,7
+60201,PADCAYA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,2,3
+30901,QUILLACOLLO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+31001,SACABA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70901,SAMAIPATA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71201,SAN MATIAS,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-03-01,1,0,0,0,3,4,0,1,5,2,0,0,2,7,1,0,0,0,0,2,12,16,28
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31101,TAPACARI,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+30802,TOCO,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10402,TOMINA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+31201,TOTORA(CBBA),inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21302,UMALA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,3,2,5
+51501,VILLAZON,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2015-03-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21304,CALAMARCA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,inmunoprevenibles,parotiditis,2015-04-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,1,2,4,6
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+21307,COLLANA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31002,COLOMI,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21402,CORIPATA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+70105,EL TORNO,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,3,2,5
+31206,ENTRE RIOS CBBA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,2,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,4,5
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,1,2,4,2,2,0,0,0,1,0,0,0,0,0,1,4,9,13
+20103,MECAPACA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+40101,ORURO,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,3,0,1,0,0,0,0,0,1,2,0,0,0,0,0,0,5,2,7
+70502,PAILON,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70804,POSTRER VALLE,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,3,1,4
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,2,2,2,0,0,0,1,1,0,4,0,1,0,0,0,0,5,8,13
+20205,SANTIAGO DE HUATA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,4,4
+31101,TAPACARI,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20608,TEOPONTE,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20606,TIPUANI,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10402,TOMINA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+50801,TUPIZA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+10704,VILLA CHARCAS,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+10102,YOTALA,inmunoprevenibles,parotiditis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31501,BOLIVAR,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+22001,CARANAVI,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50302,CHAQUI,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20203,CHUA COCANI,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,3,4
+31002,COLOMI,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71301,COMARAPA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+60502,EL PUENTE(TJA),inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,4,4
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10502,HUACARETA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0,1,1,4,2,6
+70701,LAGUNILLAS,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21006,LICOMA PAMPA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,parotiditis,2015-05-01,0,0,1,0,1,1,0,2,0,1,1,1,1,2,2,0,0,0,0,0,6,7,13
+20102,PALCA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2015-05-01,0,0,1,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,3,5
+10302,PRESTO,inmunoprevenibles,parotiditis,2015-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80302,SAN BORJA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21702,SAN PEDRO DE TIQUINA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80401,SANTA ANA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,1,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,4,3,7
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10402,TOMINA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50502,TORO TORO,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+51501,VILLAZON,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,2,3,5
+60301,YACUIBA,inmunoprevenibles,parotiditis,2015-05-01,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,4,0,4
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+22002,ALTO BENI,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51301,ARAMPAMPA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30601,ARQUE,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+10201,AZURDUY,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50301,BETANZOS,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60302,CARAPARI,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,2,2,4
+21402,CORIPATA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20804,DESAGUADERO,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,2,4
+60502,EL PUENTE(TJA),inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+70105,EL TORNO,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,3,0,3,1,0,0,0,0,0,0,0,0,0,0,0,1,6,2,8
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,1,3,1,0,0,0,1,0,0,0,0,0,0,3,3,6
+70903,MAIRANA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10303,MOJOCOYA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+40101,ORURO,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,2,2,4
+50403,POCOATA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,2,0,0,3,2,5
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51101,PUNA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+70901,SAMAIPATA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,2,4,1,0,0,0,0,0,5,0,0,0,0,0,0,5,8,13
+20902,SAPAHAQUI,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31602,SHINAOTA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20601,SORATA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10101,SUCRE,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,5,0,5
+60101,TARIJA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+50602,VITICHI,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,3,4
+21103,YANACACHI,inmunoprevenibles,parotiditis,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+40201,CHALLAPATA,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2,3
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10902,CULPINA,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60502,EL PUENTE(TJA),inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+41101,EUCALIPTUS,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,2,0,2,3,0,1,0,0,0,0,0,1,1,1,1,0,6,6,12
+31301,MIZQUE,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+40101,ORURO,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,3,4
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,2,3
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2015-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70901,SAMAIPATA,inmunoprevenibles,parotiditis,2015-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-07-01,0,1,0,0,2,1,0,1,1,1,0,0,5,2,1,1,2,1,0,0,11,8,19
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20801,VIACHA,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20903,YACO,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10602,YAMPARAEZ,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10102,YOTALA,inmunoprevenibles,parotiditis,2015-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30501,ARANI,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60302,CARAPARI,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70702,CHARAGUA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,2,3,5
+70105,EL TORNO,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20806,JESUS DE MACHACA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,1,1,2,1,0,0,2,0,4,0,0,0,0,0,0,2,9,11
+80601,LORETO,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,3,4
+60201,PADCAYA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20102,PALCA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+50101,POTOSI,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+21002,QUIME,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20805,SAN ANDRES DE MACHACA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21502,SAN BUENA VENTURA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,3
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,1,1,1,2,0,0,0,1,1,1,0,0,0,0,0,0,3,5,8
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+60101,TARIJA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20608,TEOPONTE,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+30502,VACAS,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20903,YACO,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+60301,YACUIBA,inmunoprevenibles,parotiditis,2015-08-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+20104,ACHOCALLA,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30402,ANZALDO,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70702,CHARAGUA,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-09-01,0,0,1,0,2,2,0,0,0,3,0,0,0,0,0,0,0,0,0,1,3,6,9
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,0,0,1,1,4,5
+60502,EL PUENTE(TJA),inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+70105,EL TORNO,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,2,2,1,0,0,1,3,0,0,0,0,0,0,0,0,0,6,3,9
+20901,LURIBAY,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20103,MECAPACA,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+31301,MIZQUE,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71001,MONTERO,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,2,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,6,6
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71402,PUERTO QUIJARRO,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40901,SABAYA,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80302,SAN BORJA,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,3,1,3,2,4,0,0,1,1,1,0,0,1,0,0,0,12,5,17
+40104,SORACACHI,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10601,TARABUCO,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10202,TARVITA,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10402,TOMINA,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+10704,VILLA CHARCAS,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10102,YOTALA,inmunoprevenibles,parotiditis,2015-09-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21304,CALAMARCA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+40201,CHALLAPATA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,1,0,2,1,0,2,0,0,1,2,0,0,0,1,0,0,4,6,10
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50901,"COLCHA ""K""",inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+21306,COLQUENCHA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2,3
+31206,ENTRE RIOS CBBA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21001,INQUISIVI,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,4
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+40101,ORURO,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,2,2,4
+20102,PALCA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-10-01,0,0,1,0,5,0,0,1,1,0,0,0,1,5,1,0,0,0,0,2,9,8,17
+10101,SUCRE,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,2,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0,4,3,7
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+50801,TUPIZA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2015-10-01,0,0,0,0,0,1,1,1,0,0,0,2,0,0,0,0,0,0,0,0,1,4,5
+30201,AIQUILE,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30601,ARQUE,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+70706,CAMIRI,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3,3
+50204,CHUQUIHUTA AYLLU JUCUMANI,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+51103,CKOCHAS,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,1,1,0,3,0,0,0,0,1,4,0,0,0,0,0,2,2,10,12
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40701,HUANUNI,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20204,HUARINA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,2,0,1,2,0,1,0,0,2,2,0,0,0,0,1,0,6,5,11
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+40101,ORURO,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,2,1,3
+70502,PAILON,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21305,PATACAMAYA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40601,POOPO,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70804,POSTRER VALLE,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+30901,QUILLACOLLO,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,1,2,3,0,0,0,0,1,1,0,2,0,0,0,0,3,7,10
+20601,SORATA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+60101,TARIJA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50801,TUPIZA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+51501,VILLAZON,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,2,3
+60301,YACUIBA,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,3,0,0,0,0,0,0,2,0,0,0,0,0,0,3,2,5
+10602,YAMPARAEZ,inmunoprevenibles,parotiditis,2015-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80802,BAURES,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20905,CAIROMA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30701,CAPINOTA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,3
+60302,CARAPARI,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,2
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,1,0,1,0,0,0,3,0,0,0,0,0,0,0,5,0,5
+40301,CORQUE,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70105,EL TORNO,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+10405,EL VILLAR,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71004,FERNANDEZ ALONSO,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,1,0,0,0,0,2,4,6
+71001,MONTERO,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30203,OMEREQUE,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,3,4
+40601,POOPO,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70601,PORTACHUELO,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50701,SACACA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70901,SAMAIPATA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2015-12-01,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,2,4
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+50501,SAN PEDRO DE BUENA VISTA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,4,3,4,7,1,0,0,0,3,2,0,2,0,0,0,0,12,14,26
+30702,SANTIVAÑES,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60101,TARIJA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10402,TOMINA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2015-12-01,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+50602,VITICHI,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2015-12-01,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,2,0,0,0,0,1,4,5
+20202,ANCORAIMES,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20701,APOLO,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30501,ARANI,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30403,ARBIETO,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70702,CHARAGUA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31204,CHIMORE,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,4,4
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70102,COTOCA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,1,2,0,0,0,2,0,0,0,1,1,0,0,0,0,0,2,5,7
+20901,LURIBAY,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20103,MECAPACA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+71001,MONTERO,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+40101,ORURO,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+60201,PADCAYA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21305,PATACAMAYA,inmunoprevenibles,parotiditis,2016-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+51101,PUNA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51001,SAN PABLO DE LIPEZ,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-01-01,1,0,0,0,3,2,3,2,1,1,0,1,5,2,0,0,0,0,1,0,14,8,22
+10101,SUCRE,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+60101,TARIJA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50801,TUPIZA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,2,3
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20801,VIACHA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31402,VILLA RIVERO,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2016-01-01,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1,3
+60301,YACUIBA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,1,1,1,2,0,1,0,0,0,0,0,0,0,0,0,0,2,4,6
+10102,YOTALA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60402,YUNCHARA,inmunoprevenibles,parotiditis,2016-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10404,ALCALA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30501,ARANI,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70707,BOYUIBE,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50202,CHAYANTA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,3,1,1,0,1,0,0,0,3,1,0,0,0,0,0,1,8,3,11
+70102,COTOCA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,1,2,3
+70105,EL TORNO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,3,3,6
+71004,FERNANDEZ ALONSO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,2,4,6
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20103,MECAPACA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31301,MIZQUE,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,1,5,2,2,0,2,0,0,0,0,0,0,0,0,0,0,3,9,12
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20702,PELECHUCO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+51203,PORCO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21201,PUCARANI,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30404,SACABAMBA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+50501,SAN PEDRO DE BUENA VISTA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-02-01,0,0,1,1,5,1,8,5,1,1,1,0,4,8,0,1,1,0,1,0,22,17,39
+10101,SUCRE,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10601,TARABUCO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20606,TIPUANI,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+50801,TUPIZA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31402,VILLA RIVERO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30904,VINTO,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+20104,ACHOCALLA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10404,ALCALA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30402,ANZALDO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50301,BETANZOS,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21304,CALAMARCA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,2,1,3,2,1,1,3,0,0,1,0,0,0,0,0,0,9,5,14
+70102,COTOCA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71106,CUATRO CAÑADAS,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,1,3,0,0,0,0,0,0,1,0,0,1,0,0,0,5,2,7
+70105,EL TORNO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,3,4
+31206,ENTRE RIOS CBBA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+41101,EUCALIPTUS,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+71002,GENERAL SAAVEDRA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21601,GRAL. J.J. PEREZ (CHARAZANI),inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,0,2,1,1,0,1,0,0,1,0,0,0,0,0,0,5,2,7
+50203,LLALLAGUA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+40101,ORURO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30202,PASORAPA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40602,PAZÑA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50403,POCOATA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10103,POROMA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+21201,PUCARANI,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51101,PUNA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+80102,SAN JAVIER(BNI),inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+50501,SAN PEDRO DE BUENA VISTA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,2,4,0,3,1,0,1,1,0,0,1,0,0,1,0,0,0,9,5,14
+20205,SANTIAGO DE HUATA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30602,TACOPAYA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,2,3
+10202,TARVITA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20803,TIAWANACU,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+30904,VINTO,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20306,WALDO BALLIVIAN,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2,3
+21103,YANACACHI,inmunoprevenibles,parotiditis,2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70707,BOYUIBE,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20905,CAIROMA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,4,5,1,1,2,1,0,0,0,0,0,2,0,0,0,1,7,10,17
+21306,COLQUENCHA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40301,CORQUE,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+70704,CUEVO,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,1,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0,6,6
+70105,EL TORNO,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,3,0,0,2,0,0,0,0,2,1,1,0,1,0,0,0,7,3,10
+11003,MACHARETI,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,1,1,2,1,0,0,0,0,0,0,0,1,0,0,0,0,3,3,6
+60201,PADCAYA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10401,PADILLA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40602,PAZÑA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+50403,POCOATA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70804,POSTRER VALLE,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,3,2,5
+21002,QUIME,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,3,0,2,2,0,0,0,0,0,1,1,1,0,0,0,0,6,4,10
+30703,SICAYA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20601,SORATA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30803,TOLATA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70802,TRIGAL,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20801,VIACHA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10704,VILLA CHARCAS,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3
+30904,VINTO,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,3,1,4
+60301,YACUIBA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,0,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,4,6
+10102,YOTALA,inmunoprevenibles,parotiditis,2016-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+30201,AIQUILE,inmunoprevenibles,parotiditis,2016-05-01,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+60202,BERMEJO,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+31501,BOLIVAR,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21003,CAJUATA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,2,1,0,2,0,0,0,0,0,2,0,0,0,0,0,0,2,5,7
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+60502,EL PUENTE(TJA),inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2
+70105,EL TORNO,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20802,GUAQUI,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20806,JESUS DE MACHACA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,1,3,1,1,0,0,0,0,0,0,0,0,0,0,2,4,6
+50203,LLALLAGUA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,2
+40101,ORURO,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60201,PADCAYA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70804,POSTRER VALLE,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,3,2,5
+80301,REYES,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31001,SACABA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,2,2,4
+80302,SAN BORJA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2016-05-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,1,1,0,1,0,2,0,0,0,0,0,0,0,0,1,4,2,6
+30902,SIPE SIPE,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+10101,SUCRE,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+30602,TACOPAYA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,1,8,9
+50801,TUPIZA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+20801,VIACHA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2016-05-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,3
+30201,AIQUILE,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21303,AYO AYO,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90104,BELLA FLOR,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+90101,COBIJA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30303,COCAPATA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,1,0,1,2,1,1,0,2,1,2,0,0,0,0,0,0,4,7,11
+50901,"COLCHA ""K""",inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21401,COROICO,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+41101,EUCALIPTUS,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+71004,FERNANDEZ ALONSO,inmunoprevenibles,parotiditis,2016-06-01,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,0,0,0,4,2,6
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,inmunoprevenibles,parotiditis,2016-06-01,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71001,MONTERO,inmunoprevenibles,parotiditis,2016-06-01,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+40101,ORURO,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,2,0,0,3,0,0,0,0,0,1,0,0,1,0,0,0,3,4,7
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,1,0,0,2,0,2,0,1,0,3,0,0,0,0,0,0,1,8,9
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+51101,PUNA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+70901,SAMAIPATA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90302,SAN LORENZO(PND),inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,1,0,1,1,3,1,0,1,3,2,0,0,0,0,0,0,8,5,13
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,3
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20801,VIACHA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+51501,VILLAZON,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,1,1,0,0,2,0,0,1,0,0,0,0,0,0,0,2,3,5
+60301,YACUIBA,inmunoprevenibles,parotiditis,2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30601,ARQUE,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+50301,BETANZOS,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30701,CAPINOTA,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,4
+70105,EL TORNO,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,1,1,1,0,0,0,2,0,2,0,0,0,0,0,0,1,6,7
+90203,FILADELFIA,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,2,1,4,1,0,0,0,1,0,0,1,0,0,0,0,0,7,3,10
+50203,LLALLAGUA,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70903,MAIRANA,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+71001,MONTERO,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+30203,OMEREQUE,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+40101,ORURO,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,2,3
+50101,POTOSI,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,1,1,1,1,0,0,2,0,3,0,0,0,0,0,0,2,7,9
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,3,3,1,1,0,0,0,0,2,0,0,0,1,0,0,0,7,4,11
+30702,SANTIVAÑES,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10202,TARVITA,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+10102,YOTALA,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10301,ZUDAÑEZ,inmunoprevenibles,parotiditis,2016-07-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10404,ALCALA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51301,ARAMPAMPA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20905,CAIROMA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21003,CAJUATA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+22001,CARANAVI,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,3,1,2,0,0,0,0,0,3,0,1,1,1,0,0,2,10,12
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21004,COLQUIRI,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,3,1,2,2,0,0,0,1,0,1,0,0,0,0,0,0,5,5,10
+31206,ENTRE RIOS CBBA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+41101,EUCALIPTUS,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10304,ICLA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,1,3,1,2,0,0,2,0,2,2,0,1,0,0,0,1,6,9,15
+70701,LAGUNILLAS,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,3,4
+20702,PELECHUCO,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2016-08-01,1,0,0,0,2,1,0,2,1,1,0,0,1,0,0,0,0,0,0,0,5,4,9
+31401,PUNATA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50402,RAVELO,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-08-01,0,0,2,0,10,3,4,3,1,2,0,0,2,2,0,1,0,0,0,0,19,11,30
+30702,SANTIVAÑES,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30803,TOLATA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,0,3
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,3,3
+30502,VACAS,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20801,VIACHA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+51501,VILLAZON,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,4,1,5
+70201,WARNES,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10102,YOTALA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+60402,YUNCHARA,inmunoprevenibles,parotiditis,2016-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20503,AUCAPATA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60302,CARAPARI,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20203,CHUA COCANI,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,2,1,2,4,2,0,0,0,0,1,0,0,0,0,0,0,6,6,12
+21402,CORIPATA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21401,COROICO,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10902,CULPINA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,3,4
+70105,EL TORNO,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10703,INCAHUASI,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,1,1,2,2,1,1,0,0,1,1,0,0,0,0,1,0,6,5,11
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+20103,MECAPACA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,1,0,1,0,0,0,0,1,2,0,0,1,0,0,0,2,4,4,8
+60201,PADCAYA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2016-09-01,0,0,1,0,0,1,0,1,1,1,0,0,2,0,0,0,0,0,0,0,4,3,7
+20403,PUERTO CARABUCO,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+51101,PUNA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80401,SANTA ANA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,1,0,5,2,0,2,0,2,3,1,0,0,0,0,0,0,9,7,16
+20205,SANTIAGO DE HUATA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31602,SHINAOTA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10601,TARABUCO,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10202,TARVITA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70802,TRIGAL,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50801,TUPIZA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+21302,UMALA,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60303,VILLA MONTES,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31402,VILLA RIVERO,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2016-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30201,AIQUILE,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30501,ARANI,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+50301,BETANZOS,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+31501,BOLIVAR,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70702,CHARAGUA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40903,CHIPAYA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51103,CKOCHAS,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,1,1,2,1,2,1,1,0,0,1,1,0,0,0,0,0,7,4,11
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50401,COLQUECHACA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70102,COTOCA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,4,5
+70105,EL TORNO,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,2,1,1,1,1,1,0,1,0,0,0,0,0,0,1,1,5,5,10
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20103,MECAPACA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+30302,MOROCHATA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30203,OMEREQUE,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2016-10-01,0,0,1,0,3,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,5,3,8
+50101,POTOSI,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+70503,ROBORE,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+31001,SACABA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3
+70901,SAMAIPATA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31403,SAN BENITO,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,4,1,4,0,1,2,0,0,0,1,1,0,0,0,0,0,10,4,14
+10101,SUCRE,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+31101,TAPACARI,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20803,TIAWANACU,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,1,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,10,1,11
+30803,TOLATA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,2,1,3
+20801,VIACHA,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21103,YANACACHI,inmunoprevenibles,parotiditis,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21303,AYO AYO,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30301,AYOPAYA (V. DE INDEPENDENCIA),inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21003,CAJUATA,inmunoprevenibles,parotiditis,2016-11-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21304,CALAMARCA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30701,CAPINOTA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,2,1,0,2,0,0,0,2,0,1,0,0,0,2,0,0,2,8,10
+21306,COLQUENCHA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+40301,CORQUE,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+70102,COTOCA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+71106,CUATRO CAÑADAS,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70704,CUEVO,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+70105,EL TORNO,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+71002,GENERAL SAAVEDRA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20602,GUANAY,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+40701,HUANUNI,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,4,2,0,1,0,1,1,2,0,0,0,0,0,2,1,8,6,14
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20103,MECAPACA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+71003,MINEROS,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30203,OMEREQUE,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,parotiditis,2016-11-01,1,0,0,0,0,1,0,2,1,0,0,1,2,1,0,0,0,0,0,1,4,6,10
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+21201,PUCARANI,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20403,PUERTO CARABUCO,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,3
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+20805,SAN ANDRES DE MACHACA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,1,3,0,0,0,1,0,1,3,0,0,1,0,0,0,6,4,10
+30702,SANTIVAÑES,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+10101,SUCRE,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,1,1,0,0,2,1,0,0,0,0,0,0,3,2,5
+60101,TARIJA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,3
+50801,TUPIZA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+31402,VILLA RIVERO,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10801,VILLA SERRANO,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+51501,VILLAZON,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,2,3
+30904,VINTO,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70201,WARNES,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21103,YANACACHI,inmunoprevenibles,parotiditis,2016-11-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+30201,AIQUILE,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21304,CALAMARCA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+70706,CAMIRI,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+50202,CHAYANTA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,4,1,3,2,0,1,0,0,0,3,0,1,0,0,0,0,7,8,15
+31002,COLOMI,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71301,COMARAPA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21402,CORIPATA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70102,COTOCA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+20105,EL ALTO,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,1,1,1,1,0,0,0,1,1,2,0,0,0,0,0,0,3,5,8
+70105,EL TORNO,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20405,ESCOMA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,1,0,1,0,1,1,4,1,1,0,0,0,0,0,1,0,9,2,11
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30203,OMEREQUE,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+40101,ORURO,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,3,4
+60201,PADCAYA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21002,QUIME,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2
+70904,QUIRUSILLAS,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90302,SAN LORENZO(PND),inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,4,1,2,3,1,0,0,1,1,0,2,0,0,0,0,0,10,5,15
+20902,SAPAHAQUI,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+21302,UMALA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31402,VILLA RIVERO,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10801,VILLA SERRANO,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,1,4
+51501,VILLAZON,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,4,4
+10602,YAMPARAEZ,inmunoprevenibles,parotiditis,2016-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30403,ARBIETO,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50301,BETANZOS,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+70706,CAMIRI,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20302,CAQUIAVIRI,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60302,CARAPARI,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-01-01,0,0,1,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20804,DESAGUADERO,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,3,2,5
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,2,3,1,0,1,1,6,8,0,0,0,1,0,0,10,13,23
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,2
+20402,MOCOMOCO,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30302,MOROCHATA,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30203,OMEREQUE,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,3,0,1,1,0,0,3,0,0,0,0,0,0,1,0,3,7,5,12
+50403,POCOATA,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+31001,SACABA,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,2,2,4
+80102,SAN JAVIER(BNI),inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50501,SAN PEDRO DE BUENA VISTA,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,2,1,4,1,0,0,1,2,2,1,0,0,2,0,0,5,11,16
+10101,SUCRE,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+60101,TARIJA,inmunoprevenibles,parotiditis,2017-01-01,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30802,TOCO,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51202,TOMAVE,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70802,TRIGAL,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+50801,TUPIZA,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,2,4
+60303,VILLA MONTES,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10801,VILLA SERRANO,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,2,3
+20903,YACO,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-01-01,0,0,0,0,2,0,0,0,0,2,0,0,1,1,0,0,0,0,1,0,4,3,7
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2017-02-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30403,ARBIETO,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30701,CAPINOTA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+51103,CKOCHAS,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,1,2,2,3,1,0,0,0,0,0,2,0,0,0,0,0,1,5,7,12
+31002,COLOMI,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21306,COLQUENCHA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71101,CONCEPCION,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40301,CORQUE,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-02-01,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,3
+70105,EL TORNO,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71004,FERNANDEZ ALONSO,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,4,3,7
+80601,LORETO,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+70903,MAIRANA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30203,OMEREQUE,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+60201,PADCAYA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21802,PAPEL PAMPA,inmunoprevenibles,parotiditis,2017-02-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70804,POSTRER VALLE,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,1,3,2,5
+31401,PUNATA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+31001,SACABA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40801,SALINAS DE GARCI MENDOZA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70901,SAMAIPATA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+80102,SAN JAVIER(BNI),inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71104,SAN JULIAN,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,3,0,0,4,1,0,1,0,0,1,0,0,0,0,0,0,5,5,10
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20801,VIACHA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+51501,VILLAZON,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21103,YANACACHI,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10301,ZUDAÑEZ,inmunoprevenibles,parotiditis,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+21003,CAJUATA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30701,CAPINOTA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,4,0,1,1,0,1,0,1,0,0,0,0,1,0,0,0,6,3,9
+21306,COLQUENCHA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40301,CORQUE,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70102,COTOCA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40401,CURAHUARA DE CARANGAS,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,1,0,2,0,1,0,1,0,2,0,0,0,0,0,0,1,7,8
+70105,EL TORNO,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+71004,FERNANDEZ ALONSO,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,2,3,2,0,1,0,2,1,1,5,0,1,1,0,9,10,19
+21202,LAJA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20103,MECAPACA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71003,MINEROS,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+30203,OMEREQUE,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+40101,ORURO,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,1,2,1,1,0,0,0,0,0,0,1,0,0,0,0,4,3,7
+60201,PADCAYA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,2,3
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+51101,PUNA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50402,RAVELO,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+31001,SACABA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+30404,SACABAMBA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80602,SAN ANDRES,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80302,SAN BORJA,inmunoprevenibles,parotiditis,2017-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,1,0,0,4,5,2,0,0,1,3,1,1,0,0,0,0,0,10,8,18
+90303,SENA,inmunoprevenibles,parotiditis,2017-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,3,3
+51402,TAHUA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,2,1,3
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+30803,TOLATA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20801,VIACHA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+51501,VILLAZON,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,2,3
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20104,ACHOCALLA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30402,ANZALDO,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,2,3
+21003,CAJUATA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31204,CHIMORE,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20203,CHUA COCANI,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,1,1,0,0,0,0,0,2,0,0,1,0,0,0,2,3,5
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21402,CORIPATA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+40301,CORQUE,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+10902,CULPINA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-04-01,0,0,2,0,0,0,0,2,2,0,29,2,19,0,0,0,0,0,0,0,52,4,56
+70105,EL TORNO,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71002,GENERAL SAAVEDRA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21001,INQUISIVI,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,1,1,0,2,2,1,2,4,3,0,0,0,0,0,0,8,8,16
+21202,LAJA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2017-04-01,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+20102,PALCA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+70804,POSTRER VALLE,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2017-04-01,1,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+70805,PUCARA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21002,QUIME,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,1,3
+31403,SAN BENITO,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,2,0,0,3,2,1,0,0,0,2,1,1,0,0,0,0,5,7,12
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30902,SIPE SIPE,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50102,TINGUIPAYA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,3,3
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+20801,VIACHA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+51501,VILLAZON,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+10301,ZUDAÑEZ,inmunoprevenibles,parotiditis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+30501,ARANI,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30403,ARBIETO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10201,AZURDUY,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10701,CAMARGO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+40201,CHALLAPATA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,4
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2
+21306,COLQUENCHA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,2,2,6,4,0,0,0,0,0,0,0,0,8,6,14
+21402,CORIPATA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70704,CUEVO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,1,0,1,2,1,3,1,9,5,2,5,1,0,0,0,0,0,17,14,31
+60502,EL PUENTE(TJA),inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+20405,ESCOMA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20802,GUAQUI,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10502,HUACARETA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,3,0,2,1,8,4,15,16,8,5,0,1,0,0,0,0,36,27,63
+50203,LLALLAGUA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+11003,MACHARETI,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20103,MECAPACA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+31301,MIZQUE,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20102,PALCA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40601,POOPO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51203,PORCO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+50101,POTOSI,inmunoprevenibles,parotiditis,2017-05-01,0,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,2,5,7
+21201,PUCARANI,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20401,PUERTO ACOSTA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21204,PUERTO PEREZ,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+31401,PUNATA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70501,SAN JOSE DE CHIQUITOS,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71201,SAN MATIAS,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,1,3,0,2,0,3,2,0,1,1,1,0,0,0,0,0,5,9,14
+20601,SORATA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+10101,SUCRE,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,2,1,3
+20807,TARACO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20608,TEOPONTE,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30802,TOCO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31201,TOTORA(CBBA),inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20801,VIACHA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31402,VILLA RIVERO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10801,VILLA SERRANO,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22002,ALTO BENI,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51301,ARAMPAMPA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50301,BETANZOS,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+51102,"CAIZA ""D""",inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40201,CHALLAPATA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20501,CHUMA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,4,2,6
+21306,COLQUENCHA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,3,3,9,8,0,0,0,0,0,0,0,0,12,11,23
+71101,CONCEPCION,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21402,CORIPATA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,0,0,3,2,5
+71106,CUATRO CAÑADAS,inmunoprevenibles,parotiditis,2017-06-01,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,1,0,2,2,8,3,6,6,4,2,0,1,0,0,1,0,22,14,36
+70105,EL TORNO,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10405,EL VILLAR,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20405,ESCOMA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20602,GUANAY,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,2,2,9,10,13,12,4,8,0,2,1,0,0,1,29,35,64
+21202,LAJA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+21006,LICOMA PAMPA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,2,3
+70903,MAIRANA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10303,MOJOCOYA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,3,1,0,2,0,1,0,0,0,0,0,0,3,4,7
+90102,PORVENIR,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20401,PUERTO ACOSTA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50402,RAVELO,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,2,2,4
+31001,SACABA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+40801,SALINAS DE GARCI MENDOZA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,1,0,1,3,1,1,1,0,3,1,1,0,0,0,0,5,8,13
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40104,SORACACHI,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20601,SORATA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,2,1,3,1,1,0,0,0,0,1,0,0,0,0,6,3,9
+10101,SUCRE,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20807,TARACO,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,3,2,3,2,0,0,0,0,0,0,0,0,6,4,10
+60101,TARIJA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,2,3
+20801,VIACHA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20104,ACHOCALLA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+22002,ALTO BENI,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10201,AZURDUY,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51102,"CAIZA ""D""",inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21803,CHACARILLA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51103,CKOCHAS,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,1,0,2,6,0,0,0,1,0,0,0,0,0,0,0,1,3,8,11
+31002,COLOMI,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+21306,COLQUENCHA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,1,6,2,4,3,1,2,0,0,0,0,0,0,11,8,19
+21701,COPACABANA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21402,CORIPATA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+71106,CUATRO CAÑADAS,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70704,CUEVO,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,2,6,5,8,9,1,5,0,0,0,0,0,0,15,21,36
+60502,EL PUENTE(TJA),inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+20405,ESCOMA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71004,FERNANDEZ ALONSO,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+71002,GENERAL SAAVEDRA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20602,GUANAY,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,1,0,0,0,3,1,3,2,2,0,0,0,0,0,0,0,9,3,12
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,1,1,2,3,8,14,23,11,16,16,1,0,4,0,0,2,55,47,102
+21202,LAJA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,2,3
+20607,MAPIRI,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+20103,MECAPACA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,2,3
+30302,MOROCHATA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+20102,PALCA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3
+50402,RAVELO,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40901,SABAYA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+20805,SAN ANDRES DE MACHACA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80501,SAN IGNACIO,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,2,0,0,0,3,1,5,2,3,0,0,0,0,0,0,1,13,4,17
+31602,SHINAOTA,inmunoprevenibles,parotiditis,2017-07-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10403,SOPACHUY,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40104,SORACACHI,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20601,SORATA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,1,0,1,1,3,2,2,2,3,0,0,0,0,0,0,5,10,15
+10101,SUCRE,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20603,TACACOMA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20807,TARACO,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,2,2,4
+20606,TIPUANI,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+31601,TIRAQUE (CBBA),inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10402,TOMINA,inmunoprevenibles,parotiditis,2017-07-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50801,TUPIZA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31302,VILA VILA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20104,ACHOCALLA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,3,4
+31303,ALALAY,inmunoprevenibles,parotiditis,2017-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20202,ANCORAIMES,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21203,BATALLAS,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50301,BETANZOS,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31501,BOLIVAR,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70707,BOYUIBE,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+70703,CABEZAS,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21304,CALAMARCA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2
+20302,CAQUIAVIRI,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,2,1,3
+40201,CHALLAPATA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,2,2,3,1,5,4,0,2,0,0,0,0,0,0,10,9,19
+70702,CHARAGUA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+50202,CHAYANTA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51103,CKOCHAS,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-08-01,1,0,0,0,4,2,5,1,4,0,3,3,0,3,0,1,0,0,1,0,18,10,28
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21306,COLQUENCHA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,2,2,4
+71101,CONCEPCION,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21402,CORIPATA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,1,0,1,1,3,2,0,0,0,0,0,0,5,3,8
+21401,COROICO,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+10902,CULPINA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,3,1,2,0,9,7,14,17,9,7,0,4,0,0,0,0,37,36,73
+71503,EL PUENTE(STC),inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80402,EXALTACION,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71004,FERNANDEZ ALONSO,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20802,GUAQUI,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+10502,HUACARETA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,2,3,5
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,1,5,3,16,20,40,21,40,28,3,5,1,0,1,0,106,78,184
+11003,MACHARETI,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20607,MAPIRI,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+71001,MONTERO,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,parotiditis,2017-08-01,0,0,1,0,1,1,4,3,1,0,1,2,5,0,1,1,0,1,1,0,15,8,23
+60201,PADCAYA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,2
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+40802,PAMPA AULLAGAS,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31203,POCONA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+10302,PRESTO,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+21201,PUCARANI,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21002,QUIME,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,3,3
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,3
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+31001,SACABA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+80302,SAN BORJA,inmunoprevenibles,parotiditis,2017-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,3,0,5,0,0,1,5,1,4,1,1,0,0,0,1,1,19,4,23
+30902,SIPE SIPE,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40104,SORACACHI,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20601,SORATA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,2,0,4,1,4,3,2,1,0,0,0,0,0,0,12,5,17
+10101,SUCRE,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,2,2,4
+20608,TEOPONTE,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2,2,4
+50801,TUPIZA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20801,VIACHA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,0,1,0,4,5,2,0,0,0,0,0,0,0,7,5,12
+60303,VILLA MONTES,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,2,3
+30904,VINTO,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70201,WARNES,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,2,2,4
+22002,ALTO BENI,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20202,ANCORAIMES,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+40603,ANTEQUERA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30402,ANZALDO,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20502,AYATA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+21203,BATALLAS,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21304,CALAMARCA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,1,0,2,3,0,1,1,0,0,0,0,0,4,4,8
+40201,CHALLAPATA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,1,2,6,5,17,12,1,5,0,0,0,0,0,0,25,24,49
+70702,CHARAGUA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,1,1,4,1,2,0,1,1,1,2,2,0,0,0,0,0,2,5,13,18
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20605,COMBAYA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21402,CORIPATA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,3
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,6,0,5,6,63,44,34,38,4,7,1,2,0,2,2,0,115,99,214
+20405,ESCOMA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20802,GUAQUI,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,3,0,3,0,2,0,1,0,0,0,0,0,0,0,0,0,9,0,9
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,4,3,14,8,68,49,97,73,39,33,3,5,3,3,3,0,231,174,405
+21202,LAJA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2,1,3
+50203,LLALLAGUA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+70903,MAIRANA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,2,0,3,1,1,6,9,6,11,8,1,0,0,1,0,0,27,22,49
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+21305,PATACAMAYA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,2,0,3,3,0,0,0,0,0,0,1,0,6,3,9
+50101,POTOSI,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,2,2,4
+21201,PUCARANI,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20401,PUERTO ACOSTA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+20604,QUIABAYA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,2,1,3
+30901,QUILLACOLLO,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21002,QUIME,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40901,SABAYA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31001,SACABA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,2,1,0,1,0,0,1,0,0,2,0,0,0,0,0,0,3,4,7
+30404,SACABAMBA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50701,SACACA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+70303,SAN RAFAEL,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,2,1,1,0,5,0,1,4,3,3,0,0,0,0,0,0,12,8,20
+31602,SHINAOTA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20601,SORATA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,2,4,6,7,1,5,0,0,0,0,0,0,0,0,9,16,25
+10101,SUCRE,inmunoprevenibles,parotiditis,2017-09-01,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+30401,TARATA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10202,TARVITA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30803,TOLATA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,1,0,0,0,1,1,2,0,0,1,0,0,0,0,4,2,6
+40402,TURCO,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21302,UMALA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+30502,VACAS,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,1,0,0,0,1,2,3,3,1,0,0,0,0,0,0,5,6,11
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30904,VINTO,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,2,4
+10102,YOTALA,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10301,ZUDAÑEZ,inmunoprevenibles,parotiditis,2017-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2,3
+20104,ACHOCALLA,inmunoprevenibles,parotiditis,2017-10-01,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,2,4
+20202,ANCORAIMES,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40603,ANTEQUERA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,2,1,3
+20502,AYATA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,1,0,5,2,1,0,0,0,0,0,0,0,7,2,9
+10201,AZURDUY,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50301,BETANZOS,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+21304,CALAMARCA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+20302,CAQUIAVIRI,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,1,1,1,0,3,2,1,0,0,1,0,1,0,0,6,5,11
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,3,3
+22001,CARANAVI,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,1,1,0,1,0,3,0,0,1,0,0,0,0,0,0,5,2,7
+60302,CARAPARI,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40201,CHALLAPATA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,1,0,0,2,0,6,5,4,2,0,0,1,0,0,0,13,8,21
+20501,CHUMA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+51103,CKOCHAS,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,1,0,4,2,2,0,0,0,0,0,0,0,7,3,10
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,3,3,2,3,1,3,1,1,2,1,0,0,1,0,1,12,11,23
+31002,COLOMI,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50401,COLQUECHACA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21004,COLQUIRI,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20304,COMANCHE,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,1,0,3,2,5
+21402,CORIPATA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,3,2,0,0,2,0,0,0,0,0,0,0,0,2,5,7
+20301,CORO CORO,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70102,COTOCA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,3,3
+20804,DESAGUADERO,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,4,3,37,27,153,138,164,122,18,37,1,3,0,0,0,0,377,330,707
+60502,EL PUENTE(TJA),inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21601,GRAL. J.J. PEREZ (CHARAZANI),inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,1,1,8,2,0,0,0,0,0,0,0,0,9,3,12
+20802,GUAQUI,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+20204,HUARINA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,2,3
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+21501,IXIAMAS,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-10-01,0,1,0,1,5,2,11,13,111,89,141,124,34,48,4,4,2,7,3,4,311,293,604
+21202,LAJA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50203,LLALLAGUA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51401,LLICA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70903,MAIRANA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20103,MECAPACA,inmunoprevenibles,parotiditis,2017-10-01,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+10501,MONTEAGUDO,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71001,MONTERO,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2017-10-01,1,0,0,0,5,2,6,3,9,11,43,30,21,24,1,1,1,0,0,1,87,72,159
+60201,PADCAYA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20102,PALCA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+21305,PATACAMAYA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0,3,2,5
+50101,POTOSI,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,1,0,0,1,0,2,0,0,1,0,0,0,0,0,0,4,2,6
+21201,PUCARANI,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20401,PUERTO ACOSTA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+80703,PUERTO SILES,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31401,PUNATA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20604,QUIABAYA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21002,QUIME,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,3,3
+31001,SACABA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,5,0,5
+21502,SAN BUENA VENTURA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+80401,SANTA ANA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,1,3,2,1,3,3,1,6,0,0,0,1,0,1,0,16,7,23
+30702,SANTIVAÑES,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,2,3,6,5,10,6,0,2,0,0,0,0,0,0,18,16,34
+20601,SORATA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,1,2,7,7,5,15,0,2,1,1,0,0,0,0,14,27,41
+10101,SUCRE,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+51402,TAHUA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20803,TIAWANACU,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50102,TINGUIPAYA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+31201,TOTORA(CBBA),inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,2,4
+50801,TUPIZA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21302,UMALA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,1,1,2,4,1,0,0,0,0,0,0,0,0,5,4,9
+20801,VIACHA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,2,1,11,11,11,14,3,4,0,2,0,0,0,0,27,32,59
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70201,WARNES,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,4,1,5
+21103,YANACACHI,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10301,ZUDAÑEZ,inmunoprevenibles,parotiditis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20104,ACHOCALLA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,3,4
+40603,ANTEQUERA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,1,1,2,4,0,0,0,0,0,0,0,0,3,5,8
+20701,APOLO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+20502,AYATA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,2,1,3
+10201,AZURDUY,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,1,1,0,4,1,0,0,0,0,0,0,0,0,5,2,7
+21203,BATALLAS,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,2,3
+21304,CALAMARCA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+30701,CAPINOTA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20302,CAQUIAVIRI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,5,0,0,2,0,1,0,0,0,1,0,0,5,4,9
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,3,0,1,9,0,12,12,7,1,0,0,0,0,0,0,28,17,45
+22001,CARANAVI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,1,0,0,3,0,0,2,0,0,0,0,0,0,0,0,3,3,6
+40201,CHALLAPATA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,1,1,6,6,15,9,5,4,0,1,0,0,0,0,28,21,49
+70702,CHARAGUA,inmunoprevenibles,parotiditis,2017-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,0,0,0,0,0,4,1,5
+20501,CHUMA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,1,0,3,1,1,0,0,0,0,0,0,0,5,1,6
+51103,CKOCHAS,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,1,2,0,3,0,0,0,0,0,0,0,0,0,6,1,7
+90101,COBIJA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-11-01,0,0,1,0,1,2,3,2,3,2,1,5,1,1,0,1,1,0,0,0,11,13,24
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,3,4
+21004,COLQUIRI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+21402,CORIPATA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,2,1,4,4,0,1,0,2,0,0,0,0,6,8,14
+20301,CORO CORO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,2,2,4
+21401,COROICO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+50601,COTAGAITA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,3
+70102,COTOCA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,3
+70704,CUEVO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10902,CULPINA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+20804,DESAGUADERO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,6,0,2,2,1,0,1,0,0,0,0,0,10,2,12
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-11-01,0,0,1,0,9,6,61,64,233,179,215,178,48,38,2,5,2,0,2,0,573,470,1043
+71503,EL PUENTE(STC),inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+60601,ENTRE RIOS TRJ,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3
+41101,EUCALIPTUS,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,2,1,3
+21601,GRAL. J.J. PEREZ (CHARAZANI),inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,5,2,2,1,0,0,0,0,0,0,0,0,7,3,10
+20602,GUANAY,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20802,GUAQUI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+40701,HUANUNI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+20204,HUARINA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,2,1,3
+20206,HUATAJATA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+41601,HUAYLLAMARCA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21005,ICHOCA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21001,INQUISIVI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,1,3,4
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+70104,LA GUARDIA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,8,6,35,35,167,128,209,193,60,65,8,12,3,8,0,3,490,450,940
+21202,LAJA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,1,1,1,1,0,4,0,0,0,0,0,0,2,6,8
+50203,LLALLAGUA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+51401,LLICA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,3,1,4
+20901,LURIBAY,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+11003,MACHARETI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70903,MAIRANA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20103,MECAPACA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+71001,MONTERO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+90401,NACEBE (SANTA ROSA DEL ABUNA),inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,9,3,5,11,55,45,85,84,68,48,9,7,4,2,5,1,240,201,441
+60201,PADCAYA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20102,PALCA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+21104,PALOS BLANCOS,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21305,PATACAMAYA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,1,2,3,2,2,0,0,0,0,0,0,0,0,4,6,10
+40602,PAZÑA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,2,3
+31202,POJO (CBBA),inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40601,POOPO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+50101,POTOSI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,3,2,0,0,1,0,0,1,0,1,0,1,0,0,0,1,4,6,10
+21201,PUCARANI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,1,3,0,3,0,0,0,0,0,0,0,0,2,6,8
+20401,PUERTO ACOSTA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20403,PUERTO CARABUCO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20604,QUIABAYA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,2,0,6,2,0,0,0,0,0,0,0,0,8,2,10
+21002,QUIME,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+80304,RURRENABAQUE,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40901,SABAYA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,1,0,2,1,0,3,0,0,0,0,0,0,0,0,1,4,4,8
+30404,SACABAMBA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50701,SACACA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,2
+40801,SALINAS DE GARCI MENDOZA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70901,SAMAIPATA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80602,SAN ANDRES,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10702,SAN LUCAS,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70303,SAN RAFAEL,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80702,SAN RAMON BENI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80401,SANTA ANA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,2,1,0,2,1,1,4,0,2,2,0,1,0,0,0,0,9,7,16
+90303,SENA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,2,0,5,3,15,10,0,1,0,0,0,0,0,0,22,14,36
+30902,SIPE SIPE,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20601,SORATA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,1,9,12,8,5,0,2,0,0,0,0,0,0,18,20,38
+10101,SUCRE,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,3,5
+31101,TAPACARI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20807,TARACO,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30401,TARATA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,0,4,0,4
+10202,TARVITA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20608,TEOPONTE,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20803,TIAWANACU,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,2,0,2,2,2,0,2,0,0,0,0,0,0,2,8,10
+30903,TIQUIPAYA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,1,4,0,0,0,0,2,1,2,0,0,0,0,0,0,5,5,10
+50801,TUPIZA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,0,0,0,2,1,2,3,0,0,0,0,0,0,0,0,5,4,9
+21302,UMALA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20801,VIACHA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,1,4,9,2,28,22,39,26,3,6,1,0,0,0,0,0,81,60,141
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),inmunoprevenibles,parotiditis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-11-01,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+20201,ACHACACHI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,1,0,0,3,7,6,1,0,0,0,0,0,0,0,9,9,18
+20104,ACHOCALLA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,3,3
+40603,ANTEQUERA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,1,1,0,1,2,0,0,0,0,0,0,0,0,2,3,5
+21303,AYO AYO,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10201,AZURDUY,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,4,0,4
+21203,BATALLAS,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90104,BELLA FLOR,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,inmunoprevenibles,parotiditis,2017-12-01,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+50301,BETANZOS,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21304,CALAMARCA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20302,CAQUIAVIRI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,4,1,5
+40102,CARACOLLO,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,1,0,1,2,8,14,11,3,4,0,0,0,0,0,0,19,25,44
+22001,CARANAVI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+40201,CHALLAPATA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,2,0,1,1,1,1,2,2,4,3,1,1,1,0,0,0,0,8,12,20
+21101,CHULUMANI (V. DE LA LIBERTAD),inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,1,0,0,1,0,2,0,0,1,0,0,0,0,0,0,3,2,5
+50204,CHUQUIHUTA AYLLU JUCUMANI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,1,1,0,3,2,0,3,2,1,0,0,0,1,0,0,6,8,14
+30905,COLCAPIRHUA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21306,COLQUENCHA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,4,0,4
+21004,COLQUIRI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21402,CORIPATA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,1,0,2,1,1,0,1,1,0,0,1,0,0,0,6,2,8
+40301,CORQUE,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70102,COTOCA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,3
+21602,CURVA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20804,DESAGUADERO,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,1,4,0,2,2,1,0,0,0,0,0,0,0,7,3,10
+20105,EL ALTO,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,1,2,3,9,16,51,44,45,45,7,13,1,1,0,3,2,1,117,127,244
+31206,ENTRE RIOS CBBA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20405,ESCOMA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+41101,EUCALIPTUS,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+20802,GUAQUI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,2,1,3
+80202,GUAYARAMERIN,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21001,INQUISIVI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+21102,IRUPANA (VILLA DE LANZA),inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20806,JESUS DE MACHACA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+21105,LA ASUNTA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+20101,LA PAZ,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,4,1,8,8,39,43,68,52,24,43,8,8,4,3,3,0,158,158,316
+21202,LAJA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,2
+80801,MAGDALENA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+70903,MAIRANA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70202,OKINAWA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,inmunoprevenibles,parotiditis,2017-12-01,0,1,0,0,2,1,18,8,42,23,85,41,63,41,8,3,1,9,1,1,220,128,348
+40802,PAMPA AULLAGAS,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+40602,PAZÑA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,0,0,0,0,0,2,4,6
+40601,POOPO,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,2,1,2,1,0,0,0,0,0,0,0,2,4,6
+50101,POTOSI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,1,3,1,1,2,3,0,0,0,0,0,0,0,7,4,11
+21201,PUCARANI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,3,1,4
+90301,PUERTO GONZALO MORENO,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31205,PUERTO VILLARROEL,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31401,PUNATA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21002,QUIME,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+80201,RIBERALTA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+31001,SACABA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71302,SAIPINA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31403,SAN BENITO,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+80102,SAN JAVIER(BNI),inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+21702,SAN PEDRO DE TIQUINA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,4,0,4
+70101,SANTA CRUZ DE LA SIERRA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,1,0,3,1,2,2,2,1,2,3,0,1,2,1,0,1,12,10,22
+40202,SANTUARIO DE QUILLACAS,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21301,SICA SICA (VILLA AROMA),inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,4,0,7,1,5,1,0,0,0,0,0,0,16,2,18
+30902,SIPE SIPE,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,3
+20601,SORATA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,1,0,0,0,0,2,1,2,0,0,0,0,0,0,2,4,6
+10101,SUCRE,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,3,4
+20807,TARACO,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60101,TARIJA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,1,0,0,2,0,0,1,0,0,1,0,0,0,0,0,0,2,3,5
+20608,TEOPONTE,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20803,TIAWANACU,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,2,1,3
+20606,TIPUANI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10402,TOMINA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+80101,TRINIDAD,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+50801,TUPIZA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,0,0,0,1,1,2,1,0,1,0,0,0,0,0,0,3,3,6
+20801,VIACHA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,2,0,1,1,9,12,13,14,6,8,0,2,0,1,0,0,31,38,69
+31003,VILLA TUNARI,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+51501,VILLAZON,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,2,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,3,4,7
+60301,YACUIBA,inmunoprevenibles,parotiditis,2017-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1

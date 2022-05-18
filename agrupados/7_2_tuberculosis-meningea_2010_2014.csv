@@ -1,0 +1,75 @@
+codigo_municipio,municipio,grupo,variable,mes,de-1-ano_masculino,de-1-ano-1_femenino,1-a-4-anos_masculino,1-a-4-anos-1_femenino,5-a-9-anos_masculino,5-a-9-anos-1_femenino,10-a-20-anos_masculino,10-a-20-anos-1_femenino,21-a-59-anos_masculino,21-a-59-anos-1_femenino,60-y-mas_masculino,60-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+30101,COCHABAMBA,tuberculosis y lepra,tuberculosis meningea,2010-03-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20101,LA PAZ,tuberculosis y lepra,tuberculosis meningea,2010-03-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,tuberculosis y lepra,tuberculosis meningea,2010-04-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+31001,SACABA,tuberculosis y lepra,tuberculosis meningea,2010-06-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,tuberculosis y lepra,tuberculosis meningea,2010-09-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71402,PUERTO QUIJARRO,tuberculosis y lepra,tuberculosis meningea,2010-09-01,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+20101,LA PAZ,tuberculosis y lepra,tuberculosis meningea,2010-10-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+60101,TARIJA,tuberculosis y lepra,tuberculosis meningea,2010-11-01,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,4.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20101,LA PAZ,tuberculosis y lepra,tuberculosis meningea,2011-04-01,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30101,COCHABAMBA,tuberculosis y lepra,tuberculosis meningea,2011-05-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,tuberculosis y lepra,tuberculosis meningea,2011-05-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20101,LA PAZ,tuberculosis y lepra,tuberculosis meningea,2011-07-01,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30101,COCHABAMBA,tuberculosis y lepra,tuberculosis meningea,2011-08-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+50402,RAVELO,tuberculosis y lepra,tuberculosis meningea,2011-08-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60101,TARIJA,tuberculosis y lepra,tuberculosis meningea,2011-08-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,tuberculosis y lepra,tuberculosis meningea,2011-09-01,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,4.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20101,LA PAZ,tuberculosis y lepra,tuberculosis meningea,2011-10-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+50403,POCOATA,tuberculosis y lepra,tuberculosis meningea,2011-10-01,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,4.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30101,COCHABAMBA,tuberculosis y lepra,tuberculosis meningea,2011-11-01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+50403,POCOATA,tuberculosis y lepra,tuberculosis meningea,2011-11-01,1.0,1.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,6.0,9.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20101,LA PAZ,tuberculosis y lepra,tuberculosis meningea,2011-12-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+50404,OCURI,tuberculosis y lepra,tuberculosis meningea,2011-12-01,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,tuberculosis meningea,2012-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30101,COCHABAMBA,tuberculosis y lepra,tuberculosis meningea,2012-07-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,tuberculosis y lepra,tuberculosis meningea,2012-08-01,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+80501,SAN IGNACIO,tuberculosis y lepra,tuberculosis meningea,2012-11-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+10101,SUCRE,tuberculosis y lepra,tuberculosis meningea,2012-11-01,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+31003,VILLA TUNARI,tuberculosis y lepra,tuberculosis meningea,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10102,YOTALA,tuberculosis y lepra,tuberculosis meningea,2013-08-01,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+31003,VILLA TUNARI,tuberculosis y lepra,tuberculosis meningea,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31303,ALALAY,tuberculosis y lepra,tuberculosis meningea,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,tuberculosis y lepra,tuberculosis meningea,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,tuberculosis y lepra,tuberculosis meningea,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31303,ALALAY,tuberculosis y lepra,tuberculosis meningea,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,tuberculosis y lepra,tuberculosis meningea,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,tuberculosis y lepra,tuberculosis meningea,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31303,ALALAY,tuberculosis y lepra,tuberculosis meningea,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,tuberculosis y lepra,tuberculosis meningea,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,tuberculosis y lepra,tuberculosis meningea,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,tuberculosis y lepra,tuberculosis meningea,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,tuberculosis y lepra,tuberculosis meningea,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70705,GUTIERREZ,tuberculosis y lepra,tuberculosis meningea,2014-05-01,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,5.0
+31301,MIZQUE,tuberculosis y lepra,tuberculosis meningea,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31601,TIRAQUE (CBBA),tuberculosis y lepra,tuberculosis meningea,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,tuberculosis y lepra,tuberculosis meningea,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,tuberculosis y lepra,tuberculosis meningea,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,tuberculosis y lepra,tuberculosis meningea,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,tuberculosis y lepra,tuberculosis meningea,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31405,CUCHUMUELA (V. G. VILLARROEL),tuberculosis y lepra,tuberculosis meningea,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,tuberculosis y lepra,tuberculosis meningea,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31401,PUNATA,tuberculosis y lepra,tuberculosis meningea,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,tuberculosis y lepra,tuberculosis meningea,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,tuberculosis y lepra,tuberculosis meningea,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31405,CUCHUMUELA (V. G. VILLARROEL),tuberculosis y lepra,tuberculosis meningea,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,tuberculosis y lepra,tuberculosis meningea,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31401,PUNATA,tuberculosis y lepra,tuberculosis meningea,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,tuberculosis y lepra,tuberculosis meningea,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,tuberculosis y lepra,tuberculosis meningea,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31405,CUCHUMUELA (V. G. VILLARROEL),tuberculosis y lepra,tuberculosis meningea,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,tuberculosis y lepra,tuberculosis meningea,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,tuberculosis y lepra,tuberculosis meningea,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,tuberculosis y lepra,tuberculosis meningea,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

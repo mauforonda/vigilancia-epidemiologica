@@ -1,0 +1,470 @@
+grvar,subvar,variable,desde,hasta,filename,nombre_comun
+0,1,enfermedades del sistema nervioso,2001,2003,0_1_enfermedades-del-sistema-nervioso_2001_2003.csv,Enfermedades del sistema nervioso entre 2001 y 2003
+0,2,enfermedades del ojo y anexos,2001,2003,0_2_enfermedades-del-ojo-y-anexos_2001_2003.csv,Enfermedades del ojo y anexos entre 2001 y 2003
+0,3,enfermedades del oido y apofisis mastoides,2001,2003,0_3_enfermedades-del-oido-y-apofisis-mastoides_2001_2003.csv,Enfermedades del oido y apofisis mastoides entre 2001 y 2003
+0,4,enfermedades del sistema cardio circulatorio,2001,2003,0_4_enfermedades-del-sistema-cardio-circulatorio_2001_2003.csv,Enfermedades del sistema cardio circulatorio entre 2001 y 2003
+0,5,enfermedades del sistema respiratorio,2001,2003,0_5_enfermedades-del-sistema-respiratorio_2001_2003.csv,Enfermedades del sistema respiratorio entre 2001 y 2003
+0,6,enfermedades del sistema digestivo,2001,2003,0_6_enfermedades-del-sistema-digestivo_2001_2003.csv,Enfermedades del sistema digestivo entre 2001 y 2003
+0,7,enfermedades del sistema genitourinario,2001,2003,0_7_enfermedades-del-sistema-genitourinario_2001_2003.csv,Enfermedades del sistema genitourinario entre 2001 y 2003
+0,8,enfermedades de piel y celular subcutanea,2001,2003,0_8_enfermedades-de-piel-y-celular-subcutanea_2001_2003.csv,Enfermedades de piel y celular subcutanea entre 2001 y 2003
+0,9,enfermedades endocrinas - nutricionales - metabolicas,2001,2003,0_9_enfermedades-endocrinas-nutricionales-metabolicas_2001_2003.csv,Enfermedades endocrinas - nutricionales - metabolicas entre 2001 y 2003
+0,10,enfermedades sistema osteomuscular y tejido conjuntivo,2001,2003,0_10_enfermedades-sistema-osteomuscular-y-tejido-conjuntivo_2001_2003.csv,Enfermedades sistema osteomuscular y tejido conjuntivo entre 2001 y 2003
+0,11,enfermedades de la sangre y transtornos inmunitarios,2001,2003,0_11_enfermedades-de-la-sangre-y-transtornos-inmunitarios_2001_2003.csv,Enfermedades de la sangre y transtornos inmunitarios entre 2001 y 2003
+0,12,enfermedades tumorales,2001,2003,0_12_enfermedades-tumorales_2001_2003.csv,Enfermedades tumorales entre 2001 y 2003
+0,13,"complicaciones embarazo, parto y puerperio",2001,2003,0_13_complicaciones-embarazo-parto-y-puerperio_2001_2003.csv,"Complicaciones embarazo, parto y puerperio entre 2001 y 2003"
+0,14,malformaciones congenitas,2001,2003,0_14_malformaciones-congenitas_2001_2003.csv,Malformaciones congenitas entre 2001 y 2003
+0,15,traumatismos y envenenamiento,2001,2003,0_15_traumatismos-y-envenenamiento_2001_2003.csv,Traumatismos y envenenamiento entre 2001 y 2003
+0,16,transtornos mentales y del comportamiento,2001,2003,0_16_transtornos-mentales-y-del-comportamiento_2001_2003.csv,Transtornos mentales y del comportamiento entre 2001 y 2003
+0,17,otras causas,2001,2003,0_17_otras-causas_2001_2003.csv,Otras causas entre 2001 y 2003
+1,1,sarampion,2001,2003,1_1_sarampion_2001_2003.csv,Sarampion entre 2001 y 2003
+1,2,rubeola,2001,2004,1_2_rubeola_2001_2004.csv,Rubeola entre 2001 y 2004
+1,3,tosferina,2001,2003,1_3_tosferina_2001_2003.csv,Tosferina entre 2001 y 2003
+1,4,difteria,2001,2007,1_4_difteria_2001_2007.csv,Difteria entre 2001 y 2007
+1,4,difteria,2008,2014,1_4_difteria_2008_2014.csv,Difteria entre 2008 y 2014
+1,6,fiebre amarilla,2001,2007,1_6_fiebre-amarilla_2001_2007.csv,Fiebre amarilla entre 2001 y 2007
+1,6,fiebre amarilla,2008,2014,1_6_fiebre-amarilla_2008_2014.csv,Fiebre amarilla entre 2008 y 2014
+1,7,dengue hemorragico,2001,2007,1_7_dengue-hemorragico_2001_2007.csv,Dengue hemorragico entre 2001 y 2007
+1,7,dengue hemorragico,2008,2014,1_7_dengue-hemorragico_2008_2014.csv,Dengue hemorragico entre 2008 y 2014
+1,9,poliomielitis,2001,2003,1_9_poliomielitis_2001_2003.csv,Poliomielitis entre 2001 y 2003
+2,9,fiebre hemorragica,2001,2003,2_9_fiebre-hemorragica_2001_2003.csv,Fiebre hemorragica entre 2001 y 2003
+2,10,tifus exantematico,2001,2004,2_10_tifus-exantematico_2001_2004.csv,Tifus exantematico entre 2001 y 2004
+2,11,peste,2001,2007,2_11_peste_2001_2007.csv,Peste entre 2001 y 2007
+2,11,peste,2008,2009,2_11_peste_2008_2009.csv,Peste entre 2008 y 2009
+2,12,meningitis meningococcica,2001,2003,2_12_meningitis-meningococcica_2001_2003.csv,Meningitis meningococcica entre 2001 y 2003
+2,13,colera,2001,2007,2_13_colera_2001_2007.csv,Colera entre 2001 y 2007
+2,13,colera,2008,2014,2_13_colera_2008_2014.csv,Colera entre 2008 y 2014
+2,14,hantavirus,2001,2003,2_14_hantavirus_2001_2003.csv,Hantavirus entre 2001 y 2003
+2,15,rabia (humana/canina),2001,2003,2_15_rabia-humana-canina_2001_2003.csv,Rabia (humana/canina) entre 2001 y 2003
+2,16,sida mujeres,2001,2003,2_16_sida-mujeres_2001_2003.csv,Sida mujeres entre 2001 y 2003
+2,17,sida hombres,2001,2003,2_17_sida-hombres_2001_2003.csv,Sida hombres entre 2001 y 2003
+2,18,sifilis,2001,2003,2_18_sifilis_2001_2003.csv,Sifilis entre 2001 y 2003
+2,19,meningitis por hemophilus influenzae,2001,2003,2_19_meningitis-por-hemophilus-influenzae_2001_2003.csv,Meningitis por hemophilus influenzae entre 2001 y 2003
+2,20,meningitis tuberculosa,2001,2003,2_20_meningitis-tuberculosa_2001_2003.csv,Meningitis tuberculosa entre 2001 y 2003
+4,1,tetanos neonatal,2001,2007,4_1_tetanos-neonatal_2001_2007.csv,Tetanos neonatal entre 2001 y 2007
+4,1,tetanos neonatal,2008,2009,4_1_tetanos-neonatal_2008_2009.csv,Tetanos neonatal entre 2008 y 2009
+4,2,tetanos de adulto,2001,2003,4_2_tetanos-de-adulto_2001_2003.csv,Tetanos de adulto entre 2001 y 2003
+4,3,hepatitis viral,2001,2003,4_3_hepatitis-viral_2001_2003.csv,Hepatitis viral entre 2001 y 2003
+4,3,hepatitis viral,2008,2014,4_3_hepatitis-viral_2008_2014.csv,Hepatitis viral entre 2008 y 2014
+4,5,eruptivas,2001,2003,4_5_eruptivas_2001_2003.csv,Eruptivas entre 2001 y 2003
+4,6,paralisis flacida,2001,2003,4_6_paralisis-flacida_2001_2003.csv,Paralisis flacida entre 2001 y 2003
+4,7,rabia canina,2001,2003,4_7_rabia-canina_2001_2003.csv,Rabia canina entre 2001 y 2003
+4,8,tosferina (3*),2001,2003,4_8_tosferina-3_2001_2003.csv,Tosferina (3*) entre 2001 y 2003
+4,9,difteria (4*),2001,2003,4_9_difteria-4_2001_2003.csv,Difteria (4*) entre 2001 y 2003
+4,10,fiebre amarilla (6*),2001,2003,4_10_fiebre-amarilla-6_2001_2003.csv,Fiebre amarilla (6*) entre 2001 y 2003
+4,11,rabia humana (7*),2001,2003,4_11_rabia-humana-7_2001_2003.csv,Rabia humana (7*) entre 2001 y 2003
+5,1,its mujer con ulcera genital,2001,2003,5_1_its-mujer-con-ulcera-genital_2001_2003.csv,Its mujer con ulcera genital entre 2001 y 2003
+5,2,its hombre con ulcera genital,2001,2003,5_2_its-hombre-con-ulcera-genital_2001_2003.csv,Its hombre con ulcera genital entre 2001 y 2003
+5,3,its home con flujo uretral,2001,2003,5_3_its-home-con-flujo-uretral_2001_2003.csv,Its home con flujo uretral entre 2001 y 2003
+5,4,sida o vih +,2001,2003,5_4_sida-o-vih_2001_2003.csv,Sida o vih + entre 2001 y 2003
+5,5,sifilis congenita - nacido vivo,2001,2003,5_5_sifilis-congenita-nacido-vivo_2001_2003.csv,Sifilis congenita - nacido vivo entre 2001 y 2003
+5,6,sifilis congenita - mortinato,2001,2003,5_6_sifilis-congenita-mortinato_2001_2003.csv,Sifilis congenita - mortinato entre 2001 y 2003
+6,1,diarrea,2001,2003,6_1_diarrea_2001_2003.csv,Diarrea entre 2001 y 2003
+6,3,neumonia,2001,2007,6_3_neumonia_2001_2007.csv,Neumonia entre 2001 y 2007
+6,3,neumonia,2008,2014,6_3_neumonia_2008_2014.csv,Neumonia entre 2008 y 2014
+6,5,enfermedad de hansen,2001,2003,6_5_enfermedad-de-hansen_2001_2003.csv,Enfermedad de hansen entre 2001 y 2003
+6,6,sintomatico respiratorio,2001,2003,6_6_sintomatico-respiratorio_2001_2003.csv,Sintomatico respiratorio entre 2001 y 2003
+6,7,fiebre hemorragica (13*),2001,2003,6_7_fiebre-hemorragica-13_2001_2003.csv,Fiebre hemorragica (13*) entre 2001 y 2003
+6,8,enfermedad respiratoria hanta (14*),2001,2003,6_8_enfermedad-respiratoria-hanta-14_2001_2003.csv,Enfermedad respiratoria hanta (14*) entre 2001 y 2003
+6,9,tifus exantematico (15*),2001,2003,6_9_tifus-exantematico-15_2001_2003.csv,Tifus exantematico (15*) entre 2001 y 2003
+6,10,"meningitis (17, 18*, 19*)",2001,2003,6_10_meningitis-17-18-19_2001_2003.csv,"Meningitis (17, 18*, 19*) entre 2001 y 2003"
+7,2,meningitis tuberculosa en menores de 5 anos,2001,2003,7_2_meningitis-tuberculosa-en-menores-de-5-anos_2001_2003.csv,Meningitis tuberculosa en menores de 5 anos entre 2001 y 2003
+7,3,tuberculosis pulmonar baar (+) nuevos,2001,2003,7_3_tuberculosis-pulmonar-baar-nuevos_2001_2003.csv,Tuberculosis pulmonar baar (+) nuevos entre 2001 y 2003
+7,4,tuberculosis pulmonar baar (-),2001,2003,7_4_tuberculosis-pulmonar-baar_2001_2003.csv,Tuberculosis pulmonar baar (-) entre 2001 y 2003
+7,5,tuberculosis extrapulmonar,2004,2007,7_5_tuberculosis-extrapulmonar_2004_2007.csv,Tuberculosis extrapulmonar entre 2004 y 2007
+7,5,tuberculosis extrapulmonar,2001,2003,7_5_tuberculosis-extrapulmonar_2001_2003.csv,Tuberculosis extrapulmonar entre 2001 y 2003
+7,6,tuberculosis pulmonar baar (+) prevamente tratados,2001,2003,7_6_tuberculosis-pulmonar-baar-prevamente-tratados_2001_2003.csv,Tuberculosis pulmonar baar (+) prevamente tratados entre 2001 y 2003
+8,1,violencia contra el hombre,2001,2003,8_1_violencia-contra-el-hombre_2001_2003.csv,Violencia contra el hombre entre 2001 y 2003
+8,2,violencia contra la mujer,2001,2003,8_2_violencia-contra-la-mujer_2001_2003.csv,Violencia contra la mujer entre 2001 y 2003
+8,3,violencia contra el nino,2001,2003,8_3_violencia-contra-el-nino_2001_2003.csv,Violencia contra el nino entre 2001 y 2003
+8,4,violencia contra la nina,2001,2003,8_4_violencia-contra-la-nina_2001_2003.csv,Violencia contra la nina entre 2001 y 2003
+9,1,muerte materna,2004,2004,9_1_muerte-materna_2004_2004.csv,Muerte materna en 2004
+9,1,muerte materna,2005,2007,9_1_muerte-materna_2005_2007.csv,Muerte materna entre 2005 y 2007
+9,1,muerte materna,2008,2014,9_1_muerte-materna_2008_2014.csv,Muerte materna entre 2008 y 2014
+9,1,muerte materna,2001,2003,9_1_muerte-materna_2001_2003.csv,Muerte materna entre 2001 y 2003
+9,2,muerte rn menor de 7 dias,2004,2004,9_2_muerte-rn-menor-de-7-dias_2004_2004.csv,Muerte rn menor de 7 dias en 2004
+9,2,muerte rn menor de 7 dias,2005,2007,9_2_muerte-rn-menor-de-7-dias_2005_2007.csv,Muerte rn menor de 7 dias entre 2005 y 2007
+9,2,muerte rn menor de 7 dias,2008,2014,9_2_muerte-rn-menor-de-7-dias_2008_2014.csv,Muerte rn menor de 7 dias entre 2008 y 2014
+9,2,muerte rn menor de 7 dias,2001,2003,9_2_muerte-rn-menor-de-7-dias_2001_2003.csv,Muerte rn menor de 7 dias entre 2001 y 2003
+9,4,muerte menor de 5 anos por diarrea,2004,2004,9_4_muerte-menor-de-5-anos-por-diarrea_2004_2004.csv,Muerte menor de 5 anos por diarrea en 2004
+9,4,muerte menor de 5 anos por diarrea,2001,2003,9_4_muerte-menor-de-5-anos-por-diarrea_2001_2003.csv,Muerte menor de 5 anos por diarrea entre 2001 y 2003
+9,5,muerte menor de 5 anos por neumonia,2004,2004,9_5_muerte-menor-de-5-anos-por-neumonia_2004_2004.csv,Muerte menor de 5 anos por neumonia en 2004
+9,5,muerte menor de 5 anos por neumonia,2005,2007,9_5_muerte-menor-de-5-anos-por-neumonia_2005_2007.csv,Muerte menor de 5 anos por neumonia entre 2005 y 2007
+9,5,muerte menor de 5 anos por neumonia,2008,2014,9_5_muerte-menor-de-5-anos-por-neumonia_2008_2014.csv,Muerte menor de 5 anos por neumonia entre 2008 y 2014
+9,5,muerte menor de 5 anos por neumonia,2001,2003,9_5_muerte-menor-de-5-anos-por-neumonia_2001_2003.csv,Muerte menor de 5 anos por neumonia entre 2001 y 2003
+9,6,muerte menor de 5 anos por otras causas,2004,2004,9_6_muerte-menor-de-5-anos-por-otras-causas_2004_2004.csv,Muerte menor de 5 anos por otras causas en 2004
+9,6,muerte menor de 5 anos por otras causas,2005,2007,9_6_muerte-menor-de-5-anos-por-otras-causas_2005_2007.csv,Muerte menor de 5 anos por otras causas entre 2005 y 2007
+9,6,muerte menor de 5 anos por otras causas,2008,2014,9_6_muerte-menor-de-5-anos-por-otras-causas_2008_2014.csv,Muerte menor de 5 anos por otras causas entre 2008 y 2014
+9,6,muerte menor de 5 anos por otras causas,2001,2003,9_6_muerte-menor-de-5-anos-por-otras-causas_2001_2003.csv,Muerte menor de 5 anos por otras causas entre 2001 y 2003
+9,7,otras muertes en personas mayores de 5 anos,2004,2004,9_7_otras-muertes-en-personas-mayores-de-5-anos_2004_2004.csv,Otras muertes en personas mayores de 5 anos en 2004
+9,7,otras muertes en personas mayores de 5 anos,2005,2007,9_7_otras-muertes-en-personas-mayores-de-5-anos_2005_2007.csv,Otras muertes en personas mayores de 5 anos entre 2005 y 2007
+9,7,otras muertes en personas mayores de 5 anos,2001,2003,9_7_otras-muertes-en-personas-mayores-de-5-anos_2001_2003.csv,Otras muertes en personas mayores de 5 anos entre 2001 y 2003
+9,8,muerte por malaria (p. falciparum),2004,2004,9_8_muerte-por-malaria-p-falciparum_2004_2004.csv,Muerte por malaria (p. falciparum) en 2004
+9,8,muerte por malaria (p. falciparum),2001,2003,9_8_muerte-por-malaria-p-falciparum_2001_2003.csv,Muerte por malaria (p. falciparum) entre 2001 y 2003
+10,5,hemorragia de la primera mitad del embarazo,2001,2003,10_5_hemorragia-de-la-primera-mitad-del-embarazo_2001_2003.csv,Hemorragia de la primera mitad del embarazo entre 2001 y 2003
+10,6,parto de adolecente (menor de 20 anos),2001,2003,10_6_parto-de-adolecente-menor-de-20-anos_2001_2003.csv,Parto de adolecente (menor de 20 anos) entre 2001 y 2003
+10,7,parto de mujer anosa (mayor de 35 anos),2001,2003,10_7_parto-de-mujer-anosa-mayor-de-35-anos_2001_2003.csv,Parto de mujer anosa (mayor de 35 anos) entre 2001 y 2003
+10,8,parturienta con hijo anterior vivo,2001,2003,10_8_parturienta-con-hijo-anterior-vivo_2001_2003.csv,Parturienta con hijo anterior vivo entre 2001 y 2003
+10,9,parturienta con hijo anterior muerto,2001,2003,10_9_parturienta-con-hijo-anterior-muerto_2001_2003.csv,Parturienta con hijo anterior muerto entre 2001 y 2003
+11,1,clasificacion a y b,2004,2004,11_1_clasificacion-a-y-b_2004_2004.csv,Clasificacion a y b en 2004
+11,1,clasificacion a y b,2001,2003,11_1_clasificacion-a-y-b_2001_2003.csv,Clasificacion a y b entre 2001 y 2003
+11,2,clasificacion c,2004,2004,11_2_clasificacion-c_2004_2004.csv,Clasificacion c en 2004
+11,2,clasificacion c,2001,2003,11_2_clasificacion-c_2001_2003.csv,Clasificacion c entre 2001 y 2003
+11,3,clasificacion d,2004,2004,11_3_clasificacion-d_2004_2004.csv,Clasificacion d en 2004
+11,3,clasificacion d,2001,2003,11_3_clasificacion-d_2001_2003.csv,Clasificacion d entre 2001 y 2003
+11,4,clasificacion e,2004,2004,11_4_clasificacion-e_2004_2004.csv,Clasificacion e en 2004
+11,4,clasificacion e,2001,2003,11_4_clasificacion-e_2001_2003.csv,Clasificacion e entre 2001 y 2003
+11,5,clasificacion f,2004,2004,11_5_clasificacion-f_2004_2004.csv,Clasificacion f en 2004
+11,5,clasificacion f,2001,2003,11_5_clasificacion-f_2001_2003.csv,Clasificacion f entre 2001 y 2003
+13,2,alimentos (brotes),2001,2003,13_2_alimentos-brotes_2001_2003.csv,Alimentos (brotes) entre 2001 y 2003
+13,3,alcohol,2001,2003,13_3_alcohol_2001_2003.csv,Alcohol entre 2001 y 2003
+13,4,drogas,2001,2003,13_4_drogas_2001_2003.csv,Drogas entre 2001 y 2003
+13,5,organosfosforados,2001,2003,13_5_organosfosforados_2001_2003.csv,Organosfosforados entre 2001 y 2003
+14,1,malaria,2001,2004,14_1_malaria_2001_2004.csv,Malaria entre 2001 y 2004
+14,2,leishmaniasis,2001,2004,14_2_leishmaniasis_2001_2004.csv,Leishmaniasis entre 2001 y 2004
+14,3,dengue,2001,2004,14_3_dengue_2001_2004.csv,Dengue entre 2001 y 2004
+14,4,enfermedades de chagas aguda,2001,2003,14_4_enfermedades-de-chagas-aguda_2001_2003.csv,Enfermedades de chagas aguda entre 2001 y 2003
+15,1,muerte materna,2001,2003,15_1_muerte-materna_2001_2003.csv,Muerte materna entre 2001 y 2003
+15,2,muerte por otras causas,2001,2003,15_2_muerte-por-otras-causas_2001_2003.csv,Muerte por otras causas entre 2001 y 2003
+1,1,sarampion / rubeola,2004,2007,1_1_sarampion-rubeola_2004_2007.csv,Sarampion / rubeola entre 2004 y 2007
+1,1,sarampion / rubeola,2008,2014,1_1_sarampion-rubeola_2008_2014.csv,Sarampion / rubeola entre 2008 y 2014
+1,3,tos ferina,2004,2007,1_3_tos-ferina_2004_2007.csv,Tos ferina entre 2004 y 2007
+1,3,tos ferina,2008,2014,1_3_tos-ferina_2008_2014.csv,Tos ferina entre 2008 y 2014
+1,5,paralisis flacida aguda,2004,2007,1_5_paralisis-flacida-aguda_2004_2007.csv,Paralisis flacida aguda entre 2004 y 2007
+1,5,paralisis flacida aguda,2008,2009,1_5_paralisis-flacida-aguda_2008_2009.csv,Paralisis flacida aguda entre 2008 y 2009
+2,9,fiebre hemorrag. bol,2004,2007,2_9_fiebre-hemorrag-bol_2004_2007.csv,Fiebre hemorrag. bol entre 2004 y 2007
+2,9,fiebre hemorrag. bol,2008,2009,2_9_fiebre-hemorrag-bol_2008_2009.csv,Fiebre hemorrag. bol entre 2008 y 2009
+2,12,menin. meningococica,2004,2007,2_12_menin-meningococica_2004_2007.csv,Menin. meningococica entre 2004 y 2007
+2,12,menin. meningococica,2008,2009,2_12_menin-meningococica_2008_2009.csv,Menin. meningococica entre 2008 y 2009
+2,14,enfer. por hanta virus,2004,2007,2_14_enfer-por-hanta-virus_2004_2007.csv,Enfer. por hanta virus entre 2004 y 2007
+2,14,enfer. por hanta virus,2008,2009,2_14_enfer-por-hanta-virus_2008_2009.csv,Enfer. por hanta virus entre 2008 y 2009
+3,14,numero de personas mordidas por can sospechoso de rabia,2004,2004,3_14_numero-de-personas-mordidas-por-can-sospechoso-de-rabia_2004_2004.csv,Numero de personas mordidas por can sospechoso de rabia en 2004
+3,15,rabia en canes,2004,2004,3_15_rabia-en-canes_2004_2004.csv,Rabia en canes en 2004
+3,16,desastres y emergencias,2004,2004,3_16_desastres-y-emergencias_2004_2004.csv,Desastres y emergencias en 2004
+4,2,tetanos del adulto,2004,2006,4_2_tetanos-del-adulto_2004_2006.csv,Tetanos del adulto entre 2004 y 2006
+4,3,hepatitis,2004,2007,4_3_hepatitis_2004_2007.csv,Hepatitis entre 2004 y 2007
+4,4,parotiditis,2004,2007,4_4_parotiditis_2004_2007.csv,Parotiditis entre 2004 y 2007
+4,4,parotiditis,2008,2014,4_4_parotiditis_2008_2014.csv,Parotiditis entre 2008 y 2014
+5,1,mujer con ulcera genital,2004,2006,5_1_mujer-con-ulcera-genital_2004_2006.csv,Mujer con ulcera genital entre 2004 y 2006
+5,2,hombre con ulcera genital,2004,2006,5_2_hombre-con-ulcera-genital_2004_2006.csv,Hombre con ulcera genital entre 2004 y 2006
+5,3,hombre con flujo uretral (uretritis),2004,2006,5_3_hombre-con-flujo-uretral-uretritis_2004_2006.csv,Hombre con flujo uretral (uretritis) entre 2004 y 2006
+5,4,sida,2004,2006,5_4_sida_2004_2006.csv,Sida entre 2004 y 2006
+6,1,enfermedad diarreica aguda,2004,2004,6_1_enfermedad-diarreica-aguda_2004_2004.csv,Enfermedad diarreica aguda en 2004
+6,1,enfermedad diarreica aguda,2008,2014,6_1_enfermedad-diarreica-aguda_2008_2014.csv,Enfermedad diarreica aguda entre 2008 y 2014
+6,2,ira sin neumonia,2004,2007,6_2_ira-sin-neumonia_2004_2007.csv,Ira sin neumonia entre 2004 y 2007
+6,2,ira sin neumonia,2008,2014,6_2_ira-sin-neumonia_2008_2014.csv,Ira sin neumonia entre 2008 y 2014
+6,4,lepra,2004,2004,6_4_lepra_2004_2004.csv,Lepra en 2004
+7,1,sintomatico respiratorio,2004,2007,7_1_sintomatico-respiratorio_2004_2007.csv,Sintomatico respiratorio entre 2004 y 2007
+7,2,meningitis tb en menores de 5 anos,2004,2004,7_2_meningitis-tb-en-menores-de-5-anos_2004_2004.csv,Meningitis tb en menores de 5 anos en 2004
+7,2,meningitis tb en menores de 5 anos,2008,2009,7_2_meningitis-tb-en-menores-de-5-anos_2008_2009.csv,Meningitis tb en menores de 5 anos entre 2008 y 2009
+7,3,tuberculosis pulmonar baar + nuevos,2004,2007,7_3_tuberculosis-pulmonar-baar-nuevos_2004_2007.csv,Tuberculosis pulmonar baar + nuevos entre 2004 y 2007
+7,4,tuberculosis pulmonar baar - nuevos,2004,2007,7_4_tuberculosis-pulmonar-baar-nuevos_2004_2007.csv,Tuberculosis pulmonar baar - nuevos entre 2004 y 2007
+8,1,hombres,2004,2006,8_1_hombres_2004_2006.csv,Hombres entre 2004 y 2006
+8,2,mujeres,2004,2006,8_2_mujeres_2004_2006.csv,Mujeres entre 2004 y 2006
+9,3,muerte menor de 1 ano,2004,2004,9_3_muerte-menor-de-1-ano_2004_2004.csv,Muerte menor de 1 ano en 2004
+9,3,muerte menor de 1 ano,2005,2007,9_3_muerte-menor-de-1-ano_2005_2007.csv,Muerte menor de 1 ano entre 2005 y 2007
+9,3,muerte menor de 1 ano,2008,2014,9_3_muerte-menor-de-1-ano_2008_2014.csv,Muerte menor de 1 ano entre 2008 y 2014
+10,1,aborto,2004,2004,10_1_aborto_2004_2004.csv,Aborto en 2004
+10,2,hemorragia del parto o puerperio,2004,2006,10_2_hemorragia-del-parto-o-puerperio_2004_2006.csv,Hemorragia del parto o puerperio entre 2004 y 2006
+10,3,51embarazo en adolecente (menor de 20 anos),2004,2004,10_3_51embarazo-en-adolecente-menor-de-20-anos_2004_2004.csv,51embarazo en adolecente (menor de 20 anos) en 2004
+10,4,preeclampsia severa/eclampsia,2008,2014,10_4_preeclampsia-severa-eclampsia_2008_2014.csv,Preeclampsia severa/eclampsia entre 2008 y 2014
+10,4,preeclampsia severa/eclampsia,2004,2007,10_4_preeclampsia-severa-eclampsia_2004_2007.csv,Preeclampsia severa/eclampsia entre 2004 y 2007
+13,1,plaguicidas,2004,2007,13_1_plaguicidas_2004_2007.csv,Plaguicidas entre 2004 y 2007
+13,1,plaguicidas,2008,2014,13_1_plaguicidas_2008_2014.csv,Plaguicidas entre 2008 y 2014
+1,8,dengue clasico,2005,2007,1_8_dengue-clasico_2005_2007.csv,Dengue clasico entre 2005 y 2007
+1,8,dengue clasico,2008,2014,1_8_dengue-clasico_2008_2014.csv,Dengue clasico entre 2008 y 2014
+2,15,rabia humana,2005,2007,2_15_rabia-humana_2005_2007.csv,Rabia humana entre 2005 y 2007
+2,15,rabia humana,2008,2014,2_15_rabia-humana_2008_2014.csv,Rabia humana entre 2008 y 2014
+3,14,numero de personas mordidas por animal sospechoso de rabia,2005,2007,3_14_numero-de-personas-mordidas-por-animal-sospechoso-de-rabia_2005_2007.csv,Numero de personas mordidas por animal sospechoso de rabia entre 2005 y 2007
+6,1,enfermedad  diarreica aguda,2005,2007,6_1_enfermedad-diarreica-aguda_2005_2007.csv,Enfermedad  diarreica aguda entre 2005 y 2007
+6,4,malaria,2005,2007,6_4_malaria_2005_2007.csv,Malaria entre 2005 y 2007
+6,4,malaria,2008,2009,6_4_malaria_2008_2009.csv,Malaria entre 2008 y 2009
+6,5,leishmaniasis,2005,2007,6_5_leishmaniasis_2005_2007.csv,Leishmaniasis entre 2005 y 2007
+6,5,leishmaniasis,2008,2009,6_5_leishmaniasis_2008_2009.csv,Leishmaniasis entre 2008 y 2009
+7,2, meningitis tb en menores de 5 anos,2005,2007,7_2_meningitis-tb-en-menores-de-5-anos_2005_2007.csv, meningitis tb en menores de 5 anos entre 2005 y 2007
+7,6,enfermos curados,2005,2007,7_6_enfermos-curados_2005_2007.csv,Enfermos curados entre 2005 y 2007
+7,7,fracaso terapeutico,2005,2007,7_7_fracaso-terapeutico_2005_2007.csv,Fracaso terapeutico entre 2005 y 2007
+7,8,lepra *,2005,2006,7_8_lepra_2005_2006.csv,Lepra * entre 2005 y 2006
+9,4,muerte  menor de 5 anos por diarrea,2005,2007,9_4_muerte-menor-de-5-anos-por-diarrea_2005_2007.csv,Muerte  menor de 5 anos por diarrea entre 2005 y 2007
+9,4,muerte  menor de 5 anos por diarrea,2008,2014,9_4_muerte-menor-de-5-anos-por-diarrea_2008_2014.csv,Muerte  menor de 5 anos por diarrea entre 2008 y 2014
+10,1,hemorragia de la primera mitad del embarazo (<22 sem),2008,2009,10_1_hemorragia-de-la-primera-mitad-del-embarazo-22-sem_2008_2009.csv,Hemorragia de la primera mitad del embarazo (<22 sem) entre 2008 y 2009
+10,1,hemorragia de la primera mitad del embarazo (<22 sem),2005,2007,10_1_hemorragia-de-la-primera-mitad-del-embarazo-22-sem_2005_2007.csv,Hemorragia de la primera mitad del embarazo (<22 sem) entre 2005 y 2007
+10,3,embarazo en adolecente (menor de 20 anos),2008,2009,10_3_embarazo-en-adolecente-menor-de-20-anos_2008_2009.csv,Embarazo en adolecente (menor de 20 anos) entre 2008 y 2009
+10,3,embarazo en adolecente (menor de 20 anos),2005,2007,10_3_embarazo-en-adolecente-menor-de-20-anos_2005_2007.csv,Embarazo en adolecente (menor de 20 anos) entre 2005 y 2007
+11,1,sobrepeso (s),2005,2006,11_1_sobrepeso-s_2005_2006.csv,Sobrepeso (s) entre 2005 y 2006
+11,1,sobrepeso (s),2008,2014,11_1_sobrepeso-s_2008_2014.csv,Sobrepeso (s) entre 2008 y 2014
+11,2,nutricion normal (n),2005,2007,11_2_nutricion-normal-n_2005_2007.csv,Nutricion normal (n) entre 2005 y 2007
+11,2,nutricion normal (n),2008,2014,11_2_nutricion-normal-n_2008_2014.csv,Nutricion normal (n) entre 2008 y 2014
+11,3,desnutricion leve (l),2005,2007,11_3_desnutricion-leve-l_2005_2007.csv,Desnutricion leve (l) entre 2005 y 2007
+11,3,desnutricion leve (l),2008,2014,11_3_desnutricion-leve-l_2008_2014.csv,Desnutricion leve (l) entre 2008 y 2014
+11,4,desnutricion moderada (m),2005,2007,11_4_desnutricion-moderada-m_2005_2007.csv,Desnutricion moderada (m) entre 2005 y 2007
+11,4,desnutricion moderada (m),2008,2014,11_4_desnutricion-moderada-m_2008_2014.csv,Desnutricion moderada (m) entre 2008 y 2014
+11,5,desnutricion grave (g),2005,2007,11_5_desnutricion-grave-g_2005_2007.csv,Desnutricion grave (g) entre 2005 y 2007
+11,5,desnutricion grave (g),2008,2014,11_5_desnutricion-grave-g_2008_2014.csv,Desnutricion grave (g) entre 2008 y 2014
+12,1,talla normal (n),2005,2006,12_1_talla-normal-n_2005_2006.csv,Talla normal (n) entre 2005 y 2006
+12,2,talla baja leve (l),2005,2006,12_2_talla-baja-leve-l_2005_2006.csv,Talla baja leve (l) entre 2005 y 2006
+12,3,talla baja moderada (m),2005,2006,12_3_talla-baja-moderada-m_2005_2006.csv,Talla baja moderada (m) entre 2005 y 2006
+12,4,talla baja grave (g),2005,2006,12_4_talla-baja-grave-g_2005_2006.csv,Talla baja grave (g) entre 2005 y 2006
+4,2,tetanos,2007,2007,4_2_tetanos_2007_2007.csv,Tetanos en 2007
+4,2,tetanos,2008,2009,4_2_tetanos_2008_2009.csv,Tetanos entre 2008 y 2009
+5,1,ulcera genital,2007,2007,5_1_ulcera-genital_2007_2007.csv,Ulcera genital en 2007
+5,1,ulcera genital,2008,2014,5_1_ulcera-genital_2008_2014.csv,Ulcera genital entre 2008 y 2014
+5,3,flujo uretral (uretritis),2007,2007,5_3_flujo-uretral-uretritis_2007_2007.csv,Flujo uretral (uretritis) en 2007
+5,3,flujo uretral (uretritis),2008,2010,5_3_flujo-uretral-uretritis_2008_2010.csv,Flujo uretral (uretritis) entre 2008 y 2010
+5,4,sida *,2007,2007,5_4_sida_2007_2007.csv,Sida * en 2007
+5,4,sida *,2008,2014,5_4_sida_2008_2014.csv,Sida * entre 2008 y 2014
+7,8,lepra paucibacilar*,2007,2007,7_8_lepra-paucibacilar_2007_2007.csv,Lepra paucibacilar* en 2007
+7,8,lepra paucibacilar*,2008,2014,7_8_lepra-paucibacilar_2008_2014.csv,Lepra paucibacilar* entre 2008 y 2014
+7,9,lepra multibacilar *,2007,2007,7_9_lepra-multibacilar_2007_2007.csv,Lepra multibacilar * en 2007
+7,9,lepra multibacilar *,2008,2014,7_9_lepra-multibacilar_2008_2014.csv,Lepra multibacilar * entre 2008 y 2014
+8,1,intrafamiliar,2007,2007,8_1_intrafamiliar_2007_2007.csv,Intrafamiliar en 2007
+8,2,otras violencias (causas externas),2007,2007,8_2_otras-violencias-causas-externas_2007_2007.csv,Otras violencias (causas externas) en 2007
+10,2,nro. de embarazadas enflaquecidas (desnutridas),2007,2007,10_2_nro-de-embarazadas-enflaquecidas-desnutridas_2007_2007.csv,Nro. de embarazadas enflaquecidas (desnutridas) en 2007
+11,1,nutricion superior (ns),2007,2007,11_1_nutricion-superior-ns_2007_2007.csv,Nutricion superior (ns) en 2007
+12,1,global peso bajo (m + g)),2007,2007,12_1_global-peso-bajo-m-g_2007_2007.csv,Global peso bajo (m + g)) en 2007
+12,2,cronica talla baja (m + g),2007,2007,12_2_cronica-talla-baja-m-g_2007_2007.csv,Cronica talla baja (m + g) en 2007
+13,2,otras intoxicaciones,2007,2007,13_2_otras-intoxicaciones_2007_2007.csv,Otras intoxicaciones en 2007
+2,16,no de personas mordidas por animal,2008,2009,2_16_no-de-personas-mordidas-por-animal_2008_2009.csv,No de personas mordidas por animal entre 2008 y 2009
+2,17,influenza aviar - pandemica,2008,2009,2_17_influenza-aviar-pandemica_2008_2009.csv,Influenza aviar - pandemica entre 2008 y 2009
+7,10,rafa reacciones adversas (leves y moderadas),2008,2009,7_10_rafa-reacciones-adversas-leves-y-moderadas_2008_2009.csv,Rafa reacciones adversas (leves y moderadas) entre 2008 y 2009
+7,11,rafa reacciones adversas (graves),2008,2009,7_11_rafa-reacciones-adversas-graves_2008_2009.csv,Rafa reacciones adversas (graves) entre 2008 y 2009
+8,1,intrafamiliar/domestica,2008,2014,8_1_intrafamiliar-domestica_2008_2014.csv,Intrafamiliar/domestica entre 2008 y 2014
+8,2,"otras violencias (accidentes, agresiones, leer instructivo)",2008,2009,8_2_otras-violencias-accidentes-agresiones-leer-instructivo_2008_2009.csv,"Otras violencias (accidentes, agresiones, leer instructivo) entre 2008 y 2009"
+9,7,otras muertes en mayores de 5 anos,2008,2014,9_7_otras-muertes-en-mayores-de-5-anos_2008_2014.csv,Otras muertes en mayores de 5 anos entre 2008 y 2014
+11,6,desnutrida,2008,2009,11_6_desnutrida_2008_2009.csv,Desnutrida entre 2008 y 2009
+11,7,obesidad (o),2008,2014,11_7_obesidad-o_2008_2014.csv,Obesidad (o) entre 2008 y 2014
+13,2,"otras intoxicaciones (drogas, farmacos, alcohol, leer instructivo)",2008,2009,13_2_otras-intoxicaciones-drogas-farmacos-alcohol-leer-instructivo_2008_2009.csv,"Otras intoxicaciones (drogas, farmacos, alcohol, leer instructivo) entre 2008 y 2009"
+14,1,talla normal (t n),2008,2014,14_1_talla-normal-t-n_2008_2014.csv,Talla normal (t n) entre 2008 y 2014
+14,2,talla baja (tb),2008,2014,14_2_talla-baja-tb_2008_2014.csv,Talla baja (tb) entre 2008 y 2014
+1,5,paralisis flacida aguda (polio),2010,2014,1_5_paralisis-flacida-aguda-polio_2010_2014.csv,Paralisis flacida aguda (polio) entre 2010 y 2014
+1,9,fiebre hemorragica boliviana,2010,2014,1_9_fiebre-hemorragica-boliviana_2010_2014.csv,Fiebre hemorragica boliviana entre 2010 y 2014
+1,10,peste,2010,2014,1_10_peste_2010_2014.csv,Peste entre 2010 y 2014
+2,10,meningitis meningococica,2010,2014,2_10_meningitis-meningococica_2010_2014.csv,Meningitis meningococica entre 2010 y 2014
+2,14,enfermedad por hanta virus,2010,2014,2_14_enfermedad-por-hanta-virus_2010_2014.csv,Enfermedad por hanta virus entre 2010 y 2014
+2,17,influenza / pandemica,2010,2014,2_17_influenza-pandemica_2010_2014.csv,Influenza / pandemica entre 2010 y 2014
+2,18,rabia canina,2010,2014,2_18_rabia-canina_2010_2014.csv,Rabia canina entre 2010 y 2014
+2,19,leptospirosis,2010,2014,2_19_leptospirosis_2010_2014.csv,Leptospirosis entre 2010 y 2014
+2,22,mordedura de serpiente,2010,2014,2_22_mordedura-de-serpiente_2010_2014.csv,Mordedura de serpiente entre 2010 y 2014
+4,1,tetanos neonatal / adulto,2010,2014,4_1_tetanos-neonatal-adulto_2010_2014.csv,Tetanos neonatal / adulto entre 2010 y 2014
+5,5,dolor abdominal/ edema de escroto,2010,2010,5_5_dolor-abdominal-edema-de-escroto_2010_2010.csv,Dolor abdominal/ edema de escroto en 2010
+5,6,vih mujer embarazada,2010,2014,5_6_vih-mujer-embarazada_2010_2014.csv,Vih mujer embarazada entre 2010 y 2014
+5,7,vih poblacion en general,2010,2014,5_7_vih-poblacion-en-general_2010_2014.csv,Vih poblacion en general entre 2010 y 2014
+6,4,malaria sospechosos,2010,2014,6_4_malaria-sospechosos_2010_2014.csv,Malaria sospechosos entre 2010 y 2014
+6,5,leishmaniasis sospechosos,2010,2014,6_5_leishmaniasis-sospechosos_2010_2014.csv,Leishmaniasis sospechosos entre 2010 y 2014
+6,6,"no de personas expuestas al virus rabico(mordida,",2010,2014,6_6_no-de-personas-expuestas-al-virus-rabico-mordida_2010_2014.csv,"No de personas expuestas al virus rabico(mordida, entre 2010 y 2014"
+6,7,chagas agudo,2010,2014,6_7_chagas-agudo_2010_2014.csv,Chagas agudo entre 2010 y 2014
+6,8,malaria confirmados,2010,2014,6_8_malaria-confirmados_2010_2014.csv,Malaria confirmados entre 2010 y 2014
+6,9,leishmaniasis confirmados,2010,2014,6_9_leishmaniasis-confirmados_2010_2014.csv,Leishmaniasis confirmados entre 2010 y 2014
+7,2,tuberculosis meningea,2010,2014,7_2_tuberculosis-meningea_2010_2014.csv,Tuberculosis meningea entre 2010 y 2014
+7,10,rafa (leves y moderadas),2010,2014,7_10_rafa-leves-y-moderadas_2010_2014.csv,Rafa (leves y moderadas) entre 2010 y 2014
+7,11,rafa (graves),2010,2014,7_11_rafa-graves_2010_2014.csv,Rafa (graves) entre 2010 y 2014
+8,2,"otras violencias (accidentes, agresiones, leer in",2010,2014,8_2_otras-violencias-accidentes-agresiones-leer-in_2010_2014.csv,"Otras violencias (accidentes, agresiones, leer in entre 2010 y 2014"
+8,3,hechos de transito,2010,2014,8_3_hechos-de-transito_2010_2014.csv,Hechos de transito entre 2010 y 2014
+8,4,accidentes,2010,2014,8_4_accidentes_2010_2014.csv,Accidentes entre 2010 y 2014
+9,8,muerte menor de 5 anos por neumonia,2010,2010,9_8_muerte-menor-de-5-anos-por-neumonia_2010_2010.csv,Muerte menor de 5 anos por neumonia en 2010
+10,1,hemorragia de la primera mitad del embarazo (<22,2010,2014,10_1_hemorragia-de-la-primera-mitad-del-embarazo-22_2010_2014.csv,Hemorragia de la primera mitad del embarazo (<22 entre 2010 y 2014
+10,2,embarazo en adolescente (< de 20 anos),2010,2014,10_2_embarazo-en-adolescente-de-20-anos_2010_2014.csv,Embarazo en adolescente (< de 20 anos) entre 2010 y 2014
+10,3,hemorragia de la primera mitad del embarazo (<22,2010,2014,10_3_hemorragia-de-la-primera-mitad-del-embarazo-22_2010_2014.csv,Hemorragia de la primera mitad del embarazo (<22 entre 2010 y 2014
+11,6,embarazada desnutrida,2010,2014,11_6_embarazada-desnutrida_2010_2014.csv,Embarazada desnutrida entre 2010 y 2014
+13,2,"otras intoxicaciones (drogas, farmacos, etc.)",2010,2014,13_2_otras-intoxicaciones-drogas-farmacos-etc_2010_2014.csv,"Otras intoxicaciones (drogas, farmacos, etc.) entre 2010 y 2014"
+13,3,enf. transmitidas por alimentos (e.t.a.),2010,2014,13_3_enf-transmitidas-por-alimentos-e-t-a_2010_2014.csv,Enf. transmitidas por alimentos (e.t.a.) entre 2010 y 2014
+15,1,riada,2010,2014,15_1_riada_2010_2014.csv,Riada entre 2010 y 2014
+15,1,riada,2016,2021,15_1_riada_2016_2021.csv,Riada entre 2016 y 2021
+15,1,riada,2015,2015,15_1_riada_2015_2015.csv,Riada en 2015
+15,2,helada/granizo/nevada,2010,2014,15_2_helada-granizo-nevada_2010_2014.csv,Helada/granizo/nevada entre 2010 y 2014
+15,2,helada/granizo/nevada,2016,2021,15_2_helada-granizo-nevada_2016_2021.csv,Helada/granizo/nevada entre 2016 y 2021
+15,2,helada/granizo/nevada,2015,2015,15_2_helada-granizo-nevada_2015_2015.csv,Helada/granizo/nevada en 2015
+15,3,incendio,2010,2014,15_3_incendio_2010_2014.csv,Incendio entre 2010 y 2014
+15,3,incendio,2016,2021,15_3_incendio_2016_2021.csv,Incendio entre 2016 y 2021
+15,3,incendio,2015,2015,15_3_incendio_2015_2015.csv,Incendio en 2015
+16,1,deslizamiento,2010,2014,16_1_deslizamiento_2010_2014.csv,Deslizamiento entre 2010 y 2014
+16,2,inundacion,2010,2014,16_2_inundacion_2010_2014.csv,Inundacion entre 2010 y 2014
+16,2,inundacion,2016,2021,16_2_inundacion_2016_2021.csv,Inundacion entre 2016 y 2021
+16,2,inundacion,2015,2015,16_2_inundacion_2015_2015.csv,Inundacion en 2015
+16,3,otros de excepcion,2010,2014,16_3_otros-de-excepcion_2010_2014.csv,Otros de excepcion entre 2010 y 2014
+16,3,otros de excepcion,2016,2021,16_3_otros-de-excepcion_2016_2021.csv,Otros de excepcion entre 2016 y 2021
+16,3,otros de excepcion,2015,2015,16_3_otros-de-excepcion_2015_2015.csv,Otros de excepcion en 2015
+5,3,flujo uretral (vaginal),2011,2014,5_3_flujo-uretral-vaginal_2011_2014.csv,Flujo uretral (vaginal) entre 2011 y 2014
+5,5,sifilis en la mujer embarazada,2011,2014,5_5_sifilis-en-la-mujer-embarazada_2011_2014.csv,Sifilis en la mujer embarazada entre 2011 y 2014
+9,8,muerte menor de 5 anos por desnutricion aguda gra,2011,2014,9_8_muerte-menor-de-5-anos-por-desnutricion-aguda-gra_2011_2014.csv,Muerte menor de 5 anos por desnutricion aguda gra entre 2011 y 2014
+1,11,sarampion / rubeola,2018,2021,1_11_sarampion-rubeola_2018_2021.csv,Sarampion / rubeola entre 2018 y 2021
+1,11,sarampion / rubeola,2015,2017,1_11_sarampion-rubeola_2015_2017.csv,Sarampion / rubeola entre 2015 y 2017
+1,12,sindrome de rubeola congenita,2018,2021,1_12_sindrome-de-rubeola-congenita_2018_2021.csv,Sindrome de rubeola congenita entre 2018 y 2021
+1,12,sindrome de rubeola congenita,2015,2017,1_12_sindrome-de-rubeola-congenita_2015_2017.csv,Sindrome de rubeola congenita entre 2015 y 2017
+1,13,tos ferina/coqueluche,2018,2021,1_13_tos-ferina-coqueluche_2018_2021.csv,Tos ferina/coqueluche entre 2018 y 2021
+1,13,tos ferina/coqueluche,2015,2017,1_13_tos-ferina-coqueluche_2015_2017.csv,Tos ferina/coqueluche entre 2015 y 2017
+1,14,difteria,2018,2021,1_14_difteria_2018_2021.csv,Difteria entre 2018 y 2021
+1,14,difteria,2015,2017,1_14_difteria_2015_2017.csv,Difteria entre 2015 y 2017
+1,15,paralisis flacida aguda (polio),2018,2021,1_15_paralisis-flacida-aguda-polio_2018_2021.csv,Paralisis flacida aguda (polio) entre 2018 y 2021
+1,15,paralisis flacida aguda (polio),2015,2017,1_15_paralisis-flacida-aguda-polio_2015_2017.csv,Paralisis flacida aguda (polio) entre 2015 y 2017
+1,16,fiebre amarilla,2018,2021,1_16_fiebre-amarilla_2018_2021.csv,Fiebre amarilla entre 2018 y 2021
+1,16,fiebre amarilla,2015,2017,1_16_fiebre-amarilla_2015_2017.csv,Fiebre amarilla entre 2015 y 2017
+1,17,dengue grave,2018,2021,1_17_dengue-grave_2018_2021.csv,Dengue grave entre 2018 y 2021
+1,17,dengue grave,2015,2017,1_17_dengue-grave_2015_2017.csv,Dengue grave entre 2015 y 2017
+1,18,fiebre hemorragica boliviana,2018,2019,1_18_fiebre-hemorragica-boliviana_2018_2019.csv,Fiebre hemorragica boliviana entre 2018 y 2019
+1,18,fiebre hemorragica boliviana,2015,2017,1_18_fiebre-hemorragica-boliviana_2015_2017.csv,Fiebre hemorragica boliviana entre 2015 y 2017
+1,19,peste,2018,2021,1_19_peste_2018_2021.csv,Peste entre 2018 y 2021
+1,19,peste,2015,2017,1_19_peste_2015_2017.csv,Peste entre 2015 y 2017
+1,20,enfermedad meningococica,2018,2021,1_20_enfermedad-meningococica_2018_2021.csv,Enfermedad meningococica entre 2018 y 2021
+1,20,enfermedad meningococica,2015,2017,1_20_enfermedad-meningococica_2015_2017.csv,Enfermedad meningococica entre 2015 y 2017
+1,21,colera,2018,2021,1_21_colera_2018_2021.csv,Colera entre 2018 y 2021
+1,21,colera,2015,2017,1_21_colera_2015_2017.csv,Colera entre 2015 y 2017
+1,22,enfermedad por hanta virus,2018,2021,1_22_enfermedad-por-hanta-virus_2018_2021.csv,Enfermedad por hanta virus entre 2018 y 2021
+1,22,enfermedad por hanta virus,2015,2017,1_22_enfermedad-por-hanta-virus_2015_2017.csv,Enfermedad por hanta virus entre 2015 y 2017
+1,23,rabia en perros,2018,2019,1_23_rabia-en-perros_2018_2019.csv,Rabia en perros entre 2018 y 2019
+1,23,rabia en perros,2015,2017,1_23_rabia-en-perros_2015_2017.csv,Rabia en perros entre 2015 y 2017
+1,24,rabia humana,2018,2021,1_24_rabia-humana_2018_2021.csv,Rabia humana entre 2018 y 2021
+1,24,rabia humana,2015,2017,1_24_rabia-humana_2015_2017.csv,Rabia humana entre 2015 y 2017
+1,25,"influenza  (irag ,iragi y eti)",2018,2021,1_25_influenza-irag-iragi-y-eti_2018_2021.csv,"Influenza  (irag ,iragi y eti) entre 2018 y 2021"
+1,25,"influenza  (irag ,iragi y eti)",2015,2017,1_25_influenza-irag-iragi-y-eti_2015_2017.csv,"Influenza  (irag ,iragi y eti) entre 2015 y 2017"
+1,26,leptospirosis,2018,2021,1_26_leptospirosis_2018_2021.csv,Leptospirosis entre 2018 y 2021
+1,26,leptospirosis,2015,2017,1_26_leptospirosis_2015_2017.csv,Leptospirosis entre 2015 y 2017
+4,5,tetanos neonatal / adulto,2018,2021,4_5_tetanos-neonatal-adulto_2018_2021.csv,Tetanos neonatal / adulto entre 2018 y 2021
+4,5,tetanos neonatal / adulto,2015,2017,4_5_tetanos-neonatal-adulto_2015_2017.csv,Tetanos neonatal / adulto entre 2015 y 2017
+4,6,hepatitis viral a*,2018,2021,4_6_hepatitis-viral-a_2018_2021.csv,Hepatitis viral a* entre 2018 y 2021
+4,6,hepatitis viral a*,2015,2017,4_6_hepatitis-viral-a_2015_2017.csv,Hepatitis viral a* entre 2015 y 2017
+4,7,hepatitis viral b o c*,2018,2021,4_7_hepatitis-viral-b-o-c_2018_2021.csv,Hepatitis viral b o c* entre 2018 y 2021
+4,7,hepatitis viral b o c*,2015,2017,4_7_hepatitis-viral-b-o-c_2015_2017.csv,Hepatitis viral b o c* entre 2015 y 2017
+4,8,parotiditis,2018,2021,4_8_parotiditis_2018_2021.csv,Parotiditis entre 2018 y 2021
+4,8,parotiditis,2015,2017,4_8_parotiditis_2015_2017.csv,Parotiditis entre 2015 y 2017
+4,9,varicela,2018,2021,4_9_varicela_2018_2021.csv,Varicela entre 2018 y 2021
+4,9,varicela,2015,2017,4_9_varicela_2015_2017.csv,Varicela entre 2015 y 2017
+5,8,ulcera genital,2018,2021,5_8_ulcera-genital_2018_2021.csv,Ulcera genital entre 2018 y 2021
+5,8,ulcera genital,2015,2017,5_8_ulcera-genital_2015_2017.csv,Ulcera genital entre 2015 y 2017
+5,9,sifilis congenita,2018,2021,5_9_sifilis-congenita_2018_2021.csv,Sifilis congenita entre 2018 y 2021
+5,9,sifilis congenita,2015,2017,5_9_sifilis-congenita_2015_2017.csv,Sifilis congenita entre 2015 y 2017
+5,10,sifilis en la mujer embarazada*,2018,2021,5_10_sifilis-en-la-mujer-embarazada_2018_2021.csv,Sifilis en la mujer embarazada* entre 2018 y 2021
+5,10,sifilis en la mujer embarazada*,2015,2017,5_10_sifilis-en-la-mujer-embarazada_2015_2017.csv,Sifilis en la mujer embarazada* entre 2015 y 2017
+5,11,flujo uretral/vaginal,2018,2021,5_11_flujo-uretral-vaginal_2018_2021.csv,Flujo uretral/vaginal entre 2018 y 2021
+5,11,flujo uretral/vaginal,2015,2017,5_11_flujo-uretral-vaginal_2015_2017.csv,Flujo uretral/vaginal entre 2015 y 2017
+5,12,gonorrea,2018,2021,5_12_gonorrea_2018_2021.csv,Gonorrea entre 2018 y 2021
+5,12,gonorrea,2015,2017,5_12_gonorrea_2015_2017.csv,Gonorrea entre 2015 y 2017
+5,13,verruga genital,2018,2021,5_13_verruga-genital_2018_2021.csv,Verruga genital entre 2018 y 2021
+5,13,verruga genital,2015,2017,5_13_verruga-genital_2015_2017.csv,Verruga genital entre 2015 y 2017
+5,14,prueba rapida reactiva de vih en  mujer embarazada,2018,2021,5_14_prueba-rapida-reactiva-de-vih-en-mujer-embarazada_2018_2021.csv,Prueba rapida reactiva de vih en  mujer embarazada entre 2018 y 2021
+5,14,prueba rapida reactiva de vih en  mujer embarazada,2015,2017,5_14_prueba-rapida-reactiva-de-vih-en-mujer-embarazada_2015_2017.csv,Prueba rapida reactiva de vih en  mujer embarazada entre 2015 y 2017
+5,15,prueba rapida reactiva de vih en poblacion en general,2018,2021,5_15_prueba-rapida-reactiva-de-vih-en-poblacion-en-general_2018_2021.csv,Prueba rapida reactiva de vih en poblacion en general entre 2018 y 2021
+5,15,prueba rapida reactiva de vih en poblacion en general,2015,2017,5_15_prueba-rapida-reactiva-de-vih-en-poblacion-en-general_2015_2017.csv,Prueba rapida reactiva de vih en poblacion en general entre 2015 y 2017
+6,10,enfermedad diarreica aguda,2018,2021,6_10_enfermedad-diarreica-aguda_2018_2021.csv,Enfermedad diarreica aguda entre 2018 y 2021
+6,10,enfermedad diarreica aguda,2015,2017,6_10_enfermedad-diarreica-aguda_2015_2017.csv,Enfermedad diarreica aguda entre 2015 y 2017
+6,11,ira sin neumonia,2018,2021,6_11_ira-sin-neumonia_2018_2021.csv,Ira sin neumonia entre 2018 y 2021
+6,11,ira sin neumonia,2015,2017,6_11_ira-sin-neumonia_2015_2017.csv,Ira sin neumonia entre 2015 y 2017
+6,12,neumonia,2018,2021,6_12_neumonia_2018_2021.csv,Neumonia entre 2018 y 2021
+6,12,neumonia,2015,2017,6_12_neumonia_2015_2017.csv,Neumonia entre 2015 y 2017
+6,13,no de personas expuestas al virus rabico,2018,2021,6_13_no-de-personas-expuestas-al-virus-rabico_2018_2021.csv,No de personas expuestas al virus rabico entre 2018 y 2021
+6,13,no de personas expuestas al virus rabico,2015,2017,6_13_no-de-personas-expuestas-al-virus-rabico_2015_2017.csv,No de personas expuestas al virus rabico entre 2015 y 2017
+6,14,n de personas con mordedura de serpientes,2018,2019,6_14_n-de-personas-con-mordedura-de-serpientes_2018_2019.csv,N de personas con mordedura de serpientes entre 2018 y 2019
+6,14,n de personas con mordedura de serpientes,2015,2017,6_14_n-de-personas-con-mordedura-de-serpientes_2015_2017.csv,N de personas con mordedura de serpientes entre 2015 y 2017
+6,15,n de personas con picadura de animales ponzonosos,2018,2019,6_15_n-de-personas-con-picadura-de-animales-ponzonosos_2018_2019.csv,N de personas con picadura de animales ponzonosos entre 2018 y 2019
+6,15,n de personas con picadura de animales ponzonosos,2015,2017,6_15_n-de-personas-con-picadura-de-animales-ponzonosos_2015_2017.csv,N de personas con picadura de animales ponzonosos entre 2015 y 2017
+7,12,tuberculosis meningea,2018,2021,7_12_tuberculosis-meningea_2018_2021.csv,Tuberculosis meningea entre 2018 y 2021
+7,12,tuberculosis meningea,2015,2017,7_12_tuberculosis-meningea_2015_2017.csv,Tuberculosis meningea entre 2015 y 2017
+7,13,reaccion adversa  a farmacos antituberculosos (rafa),2018,2021,7_13_reaccion-adversa-a-farmacos-antituberculosos-rafa_2018_2021.csv,Reaccion adversa  a farmacos antituberculosos (rafa) entre 2018 y 2021
+7,13,reaccion adversa  a farmacos antituberculosos (rafa),2015,2017,7_13_reaccion-adversa-a-farmacos-antituberculosos-rafa_2015_2017.csv,Reaccion adversa  a farmacos antituberculosos (rafa) entre 2015 y 2017
+7,14,reaccion  adversa a farmacos antituberculosos rafa (graves),2018,2021,7_14_reaccion-adversa-a-farmacos-antituberculosos-rafa-graves_2018_2021.csv,Reaccion  adversa a farmacos antituberculosos rafa (graves) entre 2018 y 2021
+7,14,reaccion  adversa a farmacos antituberculosos rafa (graves),2015,2017,7_14_reaccion-adversa-a-farmacos-antituberculosos-rafa-graves_2015_2017.csv,Reaccion  adversa a farmacos antituberculosos rafa (graves) entre 2015 y 2017
+7,15,lepra paucibacilar,2018,2021,7_15_lepra-paucibacilar_2018_2021.csv,Lepra paucibacilar entre 2018 y 2021
+7,15,lepra paucibacilar,2015,2017,7_15_lepra-paucibacilar_2015_2017.csv,Lepra paucibacilar entre 2015 y 2017
+7,16,lepra multibacilar,2018,2021,7_16_lepra-multibacilar_2018_2021.csv,Lepra multibacilar entre 2018 y 2021
+7,16,lepra multibacilar,2015,2017,7_16_lepra-multibacilar_2015_2017.csv,Lepra multibacilar entre 2015 y 2017
+8,5,violencia en la familia,2018,2021,8_5_violencia-en-la-familia_2018_2021.csv,Violencia en la familia entre 2018 y 2021
+8,5,violencia en la familia,2015,2017,8_5_violencia-en-la-familia_2015_2017.csv,Violencia en la familia entre 2015 y 2017
+8,6,"violencia sexual (familiar, domestica y/o en otros ambitos)",2018,2021,8_6_violencia-sexual-familiar-domestica-y-o-en-otros-ambitos_2018_2021.csv,"Violencia sexual (familiar, domestica y/o en otros ambitos) entre 2018 y 2021"
+8,6,"violencia sexual (familiar, domestica y/o en otros ambitos)",2015,2017,8_6_violencia-sexual-familiar-domestica-y-o-en-otros-ambitos_2015_2017.csv,"Violencia sexual (familiar, domestica y/o en otros ambitos) entre 2015 y 2017"
+8,7,otras violencias por lesiones autoinflingidas y colectivas,2018,2021,8_7_otras-violencias-por-lesiones-autoinflingidas-y-colectivas_2018_2021.csv,Otras violencias por lesiones autoinflingidas y colectivas entre 2018 y 2021
+8,7,otras violencias por lesiones autoinflingidas y colectivas,2015,2017,8_7_otras-violencias-por-lesiones-autoinflingidas-y-colectivas_2015_2017.csv,Otras violencias por lesiones autoinflingidas y colectivas entre 2015 y 2017
+8,8,no de casos presentados por hechos de transito,2018,2021,8_8_no-de-casos-presentados-por-hechos-de-transito_2018_2021.csv,No de casos presentados por hechos de transito entre 2018 y 2021
+8,8,no de casos presentados por hechos de transito,2015,2017,8_8_no-de-casos-presentados-por-hechos-de-transito_2015_2017.csv,No de casos presentados por hechos de transito entre 2015 y 2017
+8,9,no de casos presentados por otros accidentes,2018,2021,8_9_no-de-casos-presentados-por-otros-accidentes_2018_2021.csv,No de casos presentados por otros accidentes entre 2018 y 2021
+8,9,no de casos presentados por otros accidentes,2015,2017,8_9_no-de-casos-presentados-por-otros-accidentes_2015_2017.csv,No de casos presentados por otros accidentes entre 2015 y 2017
+9,9,muerte menor de 5 anos por diarrea,2021,2021,9_9_muerte-menor-de-5-anos-por-diarrea_2021_2021.csv,Muerte menor de 5 anos por diarrea en 2021
+9,9,muerte menor de 5 anos por diarrea,2018,2020,9_9_muerte-menor-de-5-anos-por-diarrea_2018_2020.csv,Muerte menor de 5 anos por diarrea entre 2018 y 2020
+9,9,muerte menor de 5 anos por diarrea,2015,2017,9_9_muerte-menor-de-5-anos-por-diarrea_2015_2017.csv,Muerte menor de 5 anos por diarrea entre 2015 y 2017
+9,10,muerte menor de 5 anos por neumonia,2021,2021,9_10_muerte-menor-de-5-anos-por-neumonia_2021_2021.csv,Muerte menor de 5 anos por neumonia en 2021
+9,10,muerte menor de 5 anos por neumonia,2018,2020,9_10_muerte-menor-de-5-anos-por-neumonia_2018_2020.csv,Muerte menor de 5 anos por neumonia entre 2018 y 2020
+9,10,muerte menor de 5 anos por neumonia,2015,2017,9_10_muerte-menor-de-5-anos-por-neumonia_2015_2017.csv,Muerte menor de 5 anos por neumonia entre 2015 y 2017
+9,11,muerte menor de 5 anos por desnutricion aguda grave,2021,2021,9_11_muerte-menor-de-5-anos-por-desnutricion-aguda-grave_2021_2021.csv,Muerte menor de 5 anos por desnutricion aguda grave en 2021
+9,11,muerte menor de 5 anos por desnutricion aguda grave,2018,2020,9_11_muerte-menor-de-5-anos-por-desnutricion-aguda-grave_2018_2020.csv,Muerte menor de 5 anos por desnutricion aguda grave entre 2018 y 2020
+9,11,muerte menor de 5 anos por desnutricion aguda grave,2015,2017,9_11_muerte-menor-de-5-anos-por-desnutricion-aguda-grave_2015_2017.csv,Muerte menor de 5 anos por desnutricion aguda grave entre 2015 y 2017
+9,12,muerte menor de 5 anos por otras causas,2021,2021,9_12_muerte-menor-de-5-anos-por-otras-causas_2021_2021.csv,Muerte menor de 5 anos por otras causas en 2021
+9,12,muerte menor de 5 anos por otras causas,2018,2020,9_12_muerte-menor-de-5-anos-por-otras-causas_2018_2020.csv,Muerte menor de 5 anos por otras causas entre 2018 y 2020
+9,12,muerte menor de 5 anos por otras causas,2015,2017,9_12_muerte-menor-de-5-anos-por-otras-causas_2015_2017.csv,Muerte menor de 5 anos por otras causas entre 2015 y 2017
+9,13,otras muertes en mayores de 5 anos,2021,2021,9_13_otras-muertes-en-mayores-de-5-anos_2021_2021.csv,Otras muertes en mayores de 5 anos en 2021
+9,13,otras muertes en mayores de 5 anos,2018,2020,9_13_otras-muertes-en-mayores-de-5-anos_2018_2020.csv,Otras muertes en mayores de 5 anos entre 2018 y 2020
+9,13,otras muertes en mayores de 5 anos,2015,2017,9_13_otras-muertes-en-mayores-de-5-anos_2015_2017.csv,Otras muertes en mayores de 5 anos entre 2015 y 2017
+10,5,hemorragia de la primera mitad del embarazo (< 22 sem) aborto,2018,2021,10_5_hemorragia-de-la-primera-mitad-del-embarazo-22-sem-aborto_2018_2021.csv,Hemorragia de la primera mitad del embarazo (< 22 sem) aborto entre 2018 y 2021
+10,5,hemorragia de la primera mitad del embarazo (< 22 sem) aborto,2015,2017,10_5_hemorragia-de-la-primera-mitad-del-embarazo-22-sem-aborto_2015_2017.csv,Hemorragia de la primera mitad del embarazo (< 22 sem) aborto entre 2015 y 2017
+10,6,gestantes y puerperas con sepsis,2018,2021,10_6_gestantes-y-puerperas-con-sepsis_2018_2021.csv,Gestantes y puerperas con sepsis entre 2018 y 2021
+10,6,gestantes y puerperas con sepsis,2015,2017,10_6_gestantes-y-puerperas-con-sepsis_2015_2017.csv,Gestantes y puerperas con sepsis entre 2015 y 2017
+10,7,preeclampsia severa,2018,2021,10_7_preeclampsia-severa_2018_2021.csv,Preeclampsia severa entre 2018 y 2021
+10,7,preeclampsia severa,2015,2017,10_7_preeclampsia-severa_2015_2017.csv,Preeclampsia severa entre 2015 y 2017
+10,8,eclampsia,2018,2021,10_8_eclampsia_2018_2021.csv,Eclampsia entre 2018 y 2021
+10,8,eclampsia,2015,2017,10_8_eclampsia_2015_2017.csv,Eclampsia entre 2015 y 2017
+13,4,plaguicidas,2018,2020,13_4_plaguicidas_2018_2020.csv,Plaguicidas entre 2018 y 2020
+13,4,plaguicidas,2016,2017,13_4_plaguicidas_2016_2017.csv,Plaguicidas entre 2016 y 2017
+13,4,plaguicidas,2015,2015,13_4_plaguicidas_2015_2015.csv,Plaguicidas en 2015
+13,5,enf. transmitidas por alimentos (e.t.a.),2018,2021,13_5_enf-transmitidas-por-alimentos-e-t-a_2018_2021.csv,Enf. transmitidas por alimentos (e.t.a.) entre 2018 y 2021
+13,5,enf. transmitidas por alimentos (e.t.a.),2016,2017,13_5_enf-transmitidas-por-alimentos-e-t-a_2016_2017.csv,Enf. transmitidas por alimentos (e.t.a.) entre 2016 y 2017
+13,5,enf. transmitidas por alimentos (e.t.a.),2015,2015,13_5_enf-transmitidas-por-alimentos-e-t-a_2015_2015.csv,Enf. transmitidas por alimentos (e.t.a.) en 2015
+13,6,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2018,2021,13_6_otras-intoxicaciones-drogas-farmacos-alcohol-etc_2018_2021.csv,"Otras intoxicaciones (drogas, farmacos, alcohol etc.) entre 2018 y 2021"
+13,6,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2016,2017,13_6_otras-intoxicaciones-drogas-farmacos-alcohol-etc_2016_2017.csv,"Otras intoxicaciones (drogas, farmacos, alcohol etc.) entre 2016 y 2017"
+13,6,"otras intoxicaciones (drogas, farmacos, alcohol etc.)",2015,2015,13_6_otras-intoxicaciones-drogas-farmacos-alcohol-etc_2015_2015.csv,"Otras intoxicaciones (drogas, farmacos, alcohol etc.) en 2015"
+16,1,deslizamiento/sismo/terremoto,2016,2021,16_1_deslizamiento-sismo-terremoto_2016_2021.csv,Deslizamiento/sismo/terremoto entre 2016 y 2021
+16,1,deslizamiento/sismo/terremoto,2015,2015,16_1_deslizamiento-sismo-terremoto_2015_2015.csv,Deslizamiento/sismo/terremoto en 2015
+17,1,leishmaniasis,2018,2021,17_1_leishmaniasis_2018_2021.csv,Leishmaniasis entre 2018 y 2021
+17,1,leishmaniasis,2015,2017,17_1_leishmaniasis_2015_2017.csv,Leishmaniasis entre 2015 y 2017
+17,2,chagas agudo,2018,2021,17_2_chagas-agudo_2018_2021.csv,Chagas agudo entre 2018 y 2021
+17,2,chagas agudo,2015,2017,17_2_chagas-agudo_2015_2017.csv,Chagas agudo entre 2015 y 2017
+17,3,dengue,2018,2020,17_3_dengue_2018_2020.csv,Dengue entre 2018 y 2020
+17,3,dengue,2015,2017,17_3_dengue_2015_2017.csv,Dengue entre 2015 y 2017
+17,4,malaria,2018,2021,17_4_malaria_2018_2021.csv,Malaria entre 2018 y 2021
+17,4,malaria,2015,2017,17_4_malaria_2015_2017.csv,Malaria entre 2015 y 2017
+18,1,muerte materna notificada,2015,2015,18_1_muerte-materna-notificada_2015_2015.csv,Muerte materna notificada en 2015
+18,1,muerte materna notificada,2018,2020,18_1_muerte-materna-notificada_2018_2020.csv,Muerte materna notificada entre 2018 y 2020
+18,1,muerte materna notificada,2016,2017,18_1_muerte-materna-notificada_2016_2017.csv,Muerte materna notificada entre 2016 y 2017
+18,2,muerte materna confirmada,2015,2015,18_2_muerte-materna-confirmada_2015_2015.csv,Muerte materna confirmada en 2015
+18,2,muerte materna confirmada,2018,2020,18_2_muerte-materna-confirmada_2018_2020.csv,Muerte materna confirmada entre 2018 y 2020
+18,2,muerte materna confirmada,2016,2017,18_2_muerte-materna-confirmada_2016_2017.csv,Muerte materna confirmada entre 2016 y 2017
+19,1,muerte fetal (obito) confirmada,2018,2020,19_1_muerte-fetal-obito-confirmada_2018_2020.csv,Muerte fetal (obito) confirmada entre 2018 y 2020
+19,1,muerte fetal (obito) confirmada,2015,2017,19_1_muerte-fetal-obito-confirmada_2015_2017.csv,Muerte fetal (obito) confirmada entre 2015 y 2017
+19,2,muerte neonatal  temprana (0-6 dias) confirmada,2018,2020,19_2_muerte-neonatal-temprana-0-6-dias-confirmada_2018_2020.csv,Muerte neonatal  temprana (0-6 dias) confirmada entre 2018 y 2020
+19,2,muerte neonatal  temprana (0-6 dias) confirmada,2015,2017,19_2_muerte-neonatal-temprana-0-6-dias-confirmada_2015_2017.csv,Muerte neonatal  temprana (0-6 dias) confirmada entre 2015 y 2017
+19,3,muerte neonatal  tardia (7-27 dias) confirmada,2018,2020,19_3_muerte-neonatal-tardia-7-27-dias-confirmada_2018_2020.csv,Muerte neonatal  tardia (7-27 dias) confirmada entre 2018 y 2020
+19,3,muerte neonatal  tardia (7-27 dias) confirmada,2015,2017,19_3_muerte-neonatal-tardia-7-27-dias-confirmada_2015_2017.csv,Muerte neonatal  tardia (7-27 dias) confirmada entre 2015 y 2017
+19,4,muerte menor de 28 dias por sepsis,2018,2020,19_4_muerte-menor-de-28-dias-por-sepsis_2018_2020.csv,Muerte menor de 28 dias por sepsis entre 2018 y 2020
+19,4,muerte menor de 28 dias por sepsis,2015,2017,19_4_muerte-menor-de-28-dias-por-sepsis_2015_2017.csv,Muerte menor de 28 dias por sepsis entre 2015 y 2017
+19,5,muerte menor de 28 dias por asfixia perinatal,2018,2020,19_5_muerte-menor-de-28-dias-por-asfixia-perinatal_2018_2020.csv,Muerte menor de 28 dias por asfixia perinatal entre 2018 y 2020
+19,5,muerte menor de 28 dias por asfixia perinatal,2015,2017,19_5_muerte-menor-de-28-dias-por-asfixia-perinatal_2015_2017.csv,Muerte menor de 28 dias por asfixia perinatal entre 2015 y 2017
+19,6,muerte de 28 dias a menor de 1 ano,2018,2020,19_6_muerte-de-28-dias-a-menor-de-1-ano_2018_2020.csv,Muerte de 28 dias a menor de 1 ano entre 2018 y 2020
+19,6,muerte de 28 dias a menor de 1 ano,2015,2017,19_6_muerte-de-28-dias-a-menor-de-1-ano_2015_2017.csv,Muerte de 28 dias a menor de 1 ano entre 2015 y 2017
+1,27,chikungunya,2018,2021,1_27_chikungunya_2018_2021.csv,Chikungunya entre 2018 y 2021
+1,27,chikungunya,2016,2017,1_27_chikungunya_2016_2017.csv,Chikungunya entre 2016 y 2017
+1,28,zika,2018,2021,1_28_zika_2018_2021.csv,Zika entre 2018 y 2021
+1,28,zika,2016,2017,1_28_zika_2016_2017.csv,Zika entre 2016 y 2017
+1,29,anomalia congenita,2017,2017,1_29_anomalia-congenita_2017_2017.csv,Anomalia congenita en 2017
+1,30,microcefalia,2017,2017,1_30_microcefalia_2017_2017.csv,Microcefalia en 2017
+1,31,trastorno neurologico,2017,2017,1_31_trastorno-neurologico_2017_2017.csv,Trastorno neurologico en 2017
+1,32,sind. guillain barre,2017,2017,1_32_sind-guillain-barre_2017_2017.csv,Sind. guillain barre en 2017
+1,29,anomalia congenita asociado al zika,2018,2018,1_29_anomalia-congenita-asociado-al-zika_2018_2018.csv,Anomalia congenita asociado al zika en 2018
+1,30,microcefalia asociado al zika,2018,2018,1_30_microcefalia-asociado-al-zika_2018_2018.csv,Microcefalia asociado al zika en 2018
+1,31,trastorno nuerologico asociado al zika,2018,2018,1_31_trastorno-nuerologico-asociado-al-zika_2018_2018.csv,Trastorno nuerologico asociado al zika en 2018
+1,32,sind. guillain barre asociado al zika,2018,2018,1_32_sind-guillain-barre-asociado-al-zika_2018_2018.csv,Sind. guillain barre asociado al zika en 2018
+1,29,dengue con signos de alarma,2019,2021,1_29_dengue-con-signos-de-alarma_2019_2021.csv,Dengue con signos de alarma entre 2019 y 2021
+1,30,dengue sin signos de alarma,2019,2021,1_30_dengue-sin-signos-de-alarma_2019_2021.csv,Dengue sin signos de alarma entre 2019 y 2021
+1,31,muerte de mujer 10-59 anos,2019,2019,1_31_muerte-de-mujer-10-59-anos_2019_2019.csv,Muerte de mujer 10-59 anos en 2019
+1,18,fiebre hemorragica,2020,2021,1_18_fiebre-hemorragica_2020_2021.csv,Fiebre hemorragica entre 2020 y 2021
+1,23,rabia canina,2020,2021,1_23_rabia-canina_2020_2021.csv,Rabia canina entre 2020 y 2021
+1,31,otras meningitis,2020,2021,1_31_otras-meningitis_2020_2021.csv,Otras meningitis entre 2020 y 2021
+1,32,sindrome hemolitico uremico,2020,2021,1_32_sindrome-hemolitico-uremico_2020_2021.csv,Sindrome hemolitico uremico entre 2020 y 2021
+1,33,covid-19,2020,2021,1_33_covid-19_2020_2021.csv,Covid-19 entre 2020 y 2021
+6,14,n de personas con evenenamiento por mordedura de serpientes venenosas,2020,2021,6_14_n-de-personas-con-evenenamiento-por-mordedura-de-serpientes-venenosas_2020_2021.csv,N de personas con evenenamiento por mordedura de serpientes venenosas entre 2020 y 2021
+6,15,n de personas con envenenamiento por aracnidos,2020,2021,6_15_n-de-personas-con-envenenamiento-por-aracnidos_2020_2021.csv,N de personas con envenenamiento por aracnidos entre 2020 y 2021
+1,34,sindrome inflamatorio multisistemico asociado con covid-19,2021,2021,1_34_sindrome-inflamatorio-multisistemico-asociado-con-covid-19_2021_2021.csv,Sindrome inflamatorio multisistemico asociado con covid-19 en 2021
+1,35,esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion),2021,2021,1_35_esavi-eventos-supuestamente-atribuidos-a-la-vacunacion-y-o-inmunizacion_2021_2021.csv,Esavi (eventos supuestamente atribuidos a la vacunacion y/o inmunizacion) en 2021
+4,10,otras hepatitis virales,2021,2021,4_10_otras-hepatitis-virales_2021_2021.csv,Otras hepatitis virales en 2021
+9,14,sospecha de muerte por dengue,2021,2021,9_14_sospecha-de-muerte-por-dengue_2021_2021.csv,Sospecha de muerte por dengue en 2021
+9,15,sospecha de muerte por covid-19,2021,2021,9_15_sospecha-de-muerte-por-covid-19_2021_2021.csv,Sospecha de muerte por covid-19 en 2021
+13,7,"organofosforados , carbamatos",2021,2021,13_7_organofosforados-carbamatos_2021_2021.csv,"Organofosforados , carbamatos en 2021"
+13,8,halogenados,2021,2021,13_8_halogenados_2021_2021.csv,Halogenados en 2021
+13,9,herbicida y fungicida,2021,2021,13_9_herbicida-y-fungicida_2021_2021.csv,Herbicida y fungicida en 2021
+13,10,otros plaguicidas/insecticidas,2021,2021,13_10_otros-plaguicidas-insecticidas_2021_2021.csv,Otros plaguicidas/insecticidas en 2021
+18,1,sospecha de muerte materna,2021,2021,18_1_sospecha-de-muerte-materna_2021_2021.csv,Sospecha de muerte materna en 2021

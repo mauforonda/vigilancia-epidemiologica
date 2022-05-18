@@ -1,0 +1,37 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 1 año,1 a 4 años,5 a 14 años,15 a 59 años,60 y más,TOTAL
+41101,EUCALIPTUS,sospecha diagnostica,menin. meningococica,2004-02-01,0.0,0.0,0.0,1.0,0.0,1.0
+71001,MONTERO,sospecha diagnostica,menin. meningococica,2004-04-01,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,menin. meningococica,2004-04-01,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,sospecha diagnostica,menin. meningococica,2004-06-01,1.0,0.0,0.0,0.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,menin. meningococica,2004-06-01,0.0,0.0,1.0,1.0,0.0,2.0
+51501,VILLAZON,sospecha diagnostica,menin. meningococica,2004-06-01,0.0,1.0,0.0,0.0,0.0,1.0
+51501,VILLAZON,sospecha diagnostica,menin. meningococica,2004-07-01,1.0,1.0,0.0,0.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,menin. meningococica,2004-08-01,0.0,2.0,0.0,0.0,0.0,2.0
+10601,TARABUCO,sospecha diagnostica,menin. meningococica,2004-08-01,1.0,0.0,0.0,0.0,0.0,1.0
+51501,VILLAZON,sospecha diagnostica,menin. meningococica,2004-08-01,1.0,0.0,0.0,0.0,0.0,1.0
+60202,BERMEJO,sospecha diagnostica,menin. meningococica,2004-09-01,0.0,0.0,1.0,0.0,0.0,1.0
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,menin. meningococica,2004-09-01,1.0,0.0,0.0,0.0,0.0,1.0
+20105,EL ALTO,sospecha diagnostica,menin. meningococica,2004-11-01,1.0,0.0,0.0,0.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,menin. meningococica,2004-11-01,0.0,0.0,0.0,2.0,0.0,2.0
+51501,VILLAZON,sospecha diagnostica,menin. meningococica,2004-12-01,0.0,1.0,0.0,0.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,menin. meningococica,2005-02-01,0.0,0.0,0.0,3.0,0.0,3.0
+10101,SUCRE,sospecha diagnostica,menin. meningococica,2005-04-01,2.0,1.0,0.0,0.0,0.0,3.0
+70103,PORONGO,sospecha diagnostica,menin. meningococica,2005-06-01,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,menin. meningococica,2005-06-01,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,menin. meningococica,2005-07-01,1.0,0.0,0.0,0.0,0.0,1.0
+80401,SANTA ANA,sospecha diagnostica,menin. meningococica,2005-08-01,1.0,0.0,0.0,0.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,menin. meningococica,2005-08-01,0.0,1.0,0.0,1.0,0.0,2.0
+60101,TARIJA,sospecha diagnostica,menin. meningococica,2005-08-01,0.0,0.0,0.0,1.0,1.0,2.0
+80201,RIBERALTA,sospecha diagnostica,menin. meningococica,2005-09-01,1.0,0.0,0.0,0.0,0.0,1.0
+80802,BAURES,sospecha diagnostica,menin. meningococica,2006-01-01,1.0,0.0,0.0,0.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,menin. meningococica,2006-05-01,0.0,0.0,1.0,1.0,1.0,3.0
+90101,COBIJA,sospecha diagnostica,menin. meningococica,2006-12-01,0.0,0.0,1.0,0.0,0.0,1.0
+70706,CAMIRI,sospecha diagnostica,menin. meningococica,2007-01-01,1.0,0.0,0.0,0.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,menin. meningococica,2007-01-01,1.0,0.0,0.0,0.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,menin. meningococica,2007-06-01,0.0,0.0,0.0,2.0,0.0,2.0
+40101,ORURO,sospecha diagnostica,menin. meningococica,2007-07-01,0.0,1.0,0.0,0.0,0.0,1.0
+40101,ORURO,sospecha diagnostica,menin. meningococica,2007-08-01,1.0,0.0,0.0,0.0,0.0,1.0
+51101,PUNA,sospecha diagnostica,menin. meningococica,2007-08-01,1.0,0.0,0.0,0.0,0.0,1.0
+90101,COBIJA,sospecha diagnostica,menin. meningococica,2007-09-01,0.0,0.0,0.0,1.0,0.0,1.0
+40101,ORURO,sospecha diagnostica,menin. meningococica,2007-11-01,0.0,0.0,0.0,1.0,0.0,1.0
+10101,SUCRE,sospecha diagnostica,menin. meningococica,2007-12-01,1.0,0.0,0.0,0.0,0.0,1.0

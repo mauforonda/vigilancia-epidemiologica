@@ -1,0 +1,405 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 1 año-H,< de 1 año-M,1 a 4 años-H,1 a 4 años-M,5 a 14 años-H,5 a 14 años-M,15 a 59 años-H,15 a 59 años-M,60 y más-H,60 y más-M,TOTAL-H,TOTAL-M,TOTAL
+50301,BETANZOS,enfermedades metaxenicas,enfermedades de chagas aguda,2001-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-01-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-01-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-01-01,0,0,0,0,0,0,22,0,31,0,53,0,53
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-01-01,1,0,0,0,0,0,9,0,3,0,13,0,13
+11001,VILLA VACA GUZMAN (MUYUPAMPA),enfermedades metaxenicas,enfermedades de chagas aguda,2001-01-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+60301,YACUIBA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-01-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+70702,CHARAGUA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-02-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-02-01,0,0,0,0,0,0,4,0,1,0,5,0,5
+31202,POJO (CBBA),enfermedades metaxenicas,enfermedades de chagas aguda,2001-02-01,5,0,0,0,0,0,0,0,0,0,5,0,5
+31205,PUERTO VILLARROEL,enfermedades metaxenicas,enfermedades de chagas aguda,2001-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71105,SAN ANTONIO DE LOMERIO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-02-01,3,0,0,0,0,0,0,0,0,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-02-01,0,0,0,0,1,0,1,0,5,0,7,0,7
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-02-01,0,0,0,0,0,0,8,0,13,0,21,0,21
+70802,TRIGAL,enfermedades metaxenicas,enfermedades de chagas aguda,2001-02-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+60301,YACUIBA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-02-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+30501,ARANI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,24,0,0,0,0,0,0,0,0,0,24,0,24
+10502,HUACARETA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,11,0,0,0,0,0,0,0,0,0,11,0,11
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,0,0,1,0,0,0,3,0,2,0,6,0,6
+40101,ORURO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71401,PUERTO SUAREZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31401,PUNATA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70901,SAMAIPATA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+71201,SAN MATIAS,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,1,0,5,0,0,0,0,0,0,0,6,0,6
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,0,0,0,0,0,0,7,0,1,0,8,0,8
+31404,TACACHI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70707,BOYUIBE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,1,0,1,0,1,0,0,0,3,0,3
+30302,MOROCHATA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+51101,PUNA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+31001,SACABA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+30902,SIPE SIPE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,0,0,0,0,16,0,4,0,20,0,20
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+31201,TOTORA(CBBA),enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50801,TUPIZA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-04-01,0,0,1,0,10,0,1,0,0,0,12,0,12
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,0,0,3,0,2,0,5,0,5
+70702,CHARAGUA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+70301,SAN IGNACIO DE VELASCO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71104,SAN JULIAN,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10702,SAN LUCAS,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,2,0,0,0,1,0,66,0,4,0,73,0,73
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,0,0,16,0,8,0,24,0,24
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70801,VALLEGRANDE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+50602,VITICHI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-05-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-06-01,0,0,0,0,0,0,5,0,2,0,7,0,7
+70301,SAN IGNACIO DE VELASCO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-06-01,0,0,0,0,0,0,20,0,0,0,20,0,20
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-06-01,0,0,0,0,0,0,7,0,1,0,8,0,8
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-06-01,0,0,0,0,0,0,12,0,1,0,13,0,13
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-06-01,0,0,0,0,2,0,7,0,0,0,9,0,9
+50801,TUPIZA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-06-01,0,0,5,0,26,0,1,0,0,0,32,0,32
+30201,AIQUILE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,0,0,0,0,1,0,2,0,3,0,3
+60201,PADCAYA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+70901,SAMAIPATA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,0,0,0,0,0,0,2,0,2,0,2
+71104,SAN JULIAN,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,0,0,0,0,44,0,8,0,52,0,52
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,0,0,0,0,14,0,5,0,19,0,19
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50801,TUPIZA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,2,0,12,0,0,0,0,0,14,0,14
+60303,VILLA MONTES,enfermedades metaxenicas,enfermedades de chagas aguda,2001-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+50301,BETANZOS,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,1,0,2,0,10,0,18,0,31,0,31
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,0,0,0,0,4,0,6,0,10,0,10
+70902,PAMPA GRANDE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31401,PUNATA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71104,SAN JULIAN,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,0,0,1,0,64,0,7,0,72,0,72
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,2,0,2,0,51,0,125,0,180,0,180
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,0,0,0,0,20,0,1,0,21,0,21
+50801,TUPIZA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51102,"CAIZA ""D""",enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+10701,CAMARGO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,0,0,1,0,0,0,1,0,2,0,2
+30905,COLCAPIRHUA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,0,0,0,0,8,0,0,0,8,0,8
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+31202,POJO (CBBA),enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+71104,SAN JULIAN,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,1,0,0,0,47,0,3,0,51,0,51
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,0,0,0,0,38,0,91,0,129,0,129
+30401,TARATA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,3,0,0,0,1,0,12,0,2,0,18,0,18
+30903,TIQUIPAYA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+60301,YACUIBA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-09-01,0,0,0,0,0,0,4,0,1,0,5,0,5
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70703,CABEZAS,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,1,0,1,0,0,0,0,0,2,0,2
+10901,CAMATAQUI (C. VILLA ABECIA),enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+90101,COBIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,26,0,5,0,31,0,31
+11002,HUACAYA (VILLA DE HUACAYA),enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+70104,LA GUARDIA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,3,0,2,0,5,0,5
+40101,ORURO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71104,SAN JULIAN,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,75,0,12,0,87,0,87
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,15,0,8,0,23,0,23
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,2,0,0,0,0,0,10,0,2,0,14,0,14
+50801,TUPIZA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70403,YAPACANI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,0,0,0,0,0,0,3,0,8,0,11,0,11
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,0,0,0,0,1,0,17,0,5,0,23,0,23
+11002,HUACAYA (VILLA DE HUACAYA),enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,0,0,0,0,0,0,3,0,2,0,5,0,5
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,0,0,0,0,1,0,4,0,2,0,7,0,7
+10501,MONTEAGUDO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,0,0,0,0,10,0,0,0,0,0,10,0,10
+30901,QUILLACOLLO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,0,0,8,0,0,0,0,0,0,0,8,0,8
+71104,SAN JULIAN,enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,1,0,0,0,0,0,83,0,67,0,151,0,151
+10403,SOPACHUY,enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,0,0,0,0,0,0,8,0,9,0,17,0,17
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,3,0,0,0,1,0,14,0,2,0,20,0,20
+50801,TUPIZA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-11-01,0,0,0,0,10,0,2,0,1,0,13,0,13
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,0,0,0,0,0,0,0,0,5,0,5,0,5
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,1,0,0,0,0,0,21,0,6,0,28,0,28
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,0,0,0,0,0,0,3,0,2,0,5,0,5
+31001,SACABA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,0,0,0,0,0,0,1,0,2,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,0,0,0,0,0,0,25,0,1,0,26,0,26
+30902,SIPE SIPE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,0,0,0,0,2,0,0,0,0,0,2,0,2
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,0,0,5,0,0,0,13,0,47,0,65,0,65
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,0,0,0,0,0,0,27,0,0,0,27,0,27
+30903,TIQUIPAYA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31601,TIRAQUE (CBBA),enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,5,0,0,0,0,0,0,0,0,0,5,0,5
+50801,TUPIZA,enfermedades metaxenicas,enfermedades de chagas aguda,2001-12-01,0,0,2,0,3,0,0,0,0,0,5,0,5
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,0,0,0,0,0,0,4,0,6,0,10,0,10
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,2,0,0,0,3,0,38,0,12,0,55,0,55
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,0,0,0,0,0,0,1,0,2,0,3,0,3
+31301,MIZQUE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+51101,PUNA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+71104,SAN JULIAN,enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,0,0,0,0,0,0,40,0,2,0,42,0,42
+10403,SOPACHUY,enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,0,0,0,0,1,0,75,0,107,0,183,0,183
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,0,0,0,0,0,0,33,0,4,0,37,0,37
+31201,TOTORA(CBBA),enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50602,VITICHI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-01-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-02-01,0,0,0,0,0,0,1,0,5,0,6,0,6
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-02-01,1,0,0,0,0,0,8,0,4,0,13,0,13
+10405,EL VILLAR,enfermedades metaxenicas,enfermedades de chagas aguda,2002-02-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-02-01,0,0,0,0,0,0,2,0,2,0,4,0,4
+10501,MONTEAGUDO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-02-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+71401,PUERTO SUAREZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-02-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-02-01,0,0,0,0,0,0,24,0,0,0,24,0,24
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-02-01,0,0,0,0,1,0,54,0,60,0,115,0,115
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-02-01,0,0,0,0,0,0,3,0,1,0,4,0,4
+30903,TIQUIPAYA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-02-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+30201,AIQUILE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+50301,BETANZOS,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+51102,"CAIZA ""D""",enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,5,0,11,0,16,0,16
+70702,CHARAGUA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,7,0,2,0,9,0,9
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30203,OMEREQUE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,4,0,1,0,5,0,5
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,1,0,0,0,50,0,102,0,153,0,153
+31404,TACACHI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,16,0,2,0,18,0,18
+50801,TUPIZA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-04-01,3,0,0,0,0,0,7,0,0,0,10,0,10
+50301,BETANZOS,enfermedades metaxenicas,enfermedades de chagas aguda,2002-04-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-04-01,0,0,0,0,0,0,4,0,20,0,24,0,24
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-04-01,0,0,0,0,1,0,27,0,7,0,35,0,35
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-04-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+40101,ORURO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-04-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+10401,PADILLA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-04-01,0,0,0,0,0,0,8,0,5,0,13,0,13
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-04-01,0,0,0,0,0,0,29,0,1,0,30,0,30
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-04-01,0,0,0,0,0,0,38,0,112,0,150,0,150
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-04-01,0,0,0,0,0,0,11,0,1,0,12,0,12
+30903,TIQUIPAYA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-04-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,2,0,0,0,0,0,3,0,0,0,5,0,5
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,0,0,0,0,0,0,3,0,9,0,12,0,12
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,1,0,0,0,0,0,26,0,4,0,31,0,31
+10902,CULPINA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,0,0,0,0,0,0,0,0,7,0,7,0,7
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,0,0,0,0,0,0,4,0,1,0,5,0,5
+40101,ORURO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+10103,POROMA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,0,0,0,0,0,0,2,0,2,0,4,0,4
+31401,PUNATA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,0,0,0,0,0,0,4,0,1,0,5,0,5
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,0,0,0,0,0,0,55,0,55,0,110,0,110
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-05-01,0,0,0,0,0,0,15,0,0,0,15,0,15
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,1,0,0,0,0,0,1,0,0,0,2,0,2
+51102,"CAIZA ""D""",enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,0,0,1,0,14,0,15,0,15
+60302,CARAPARI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,0,0,18,0,4,0,22,0,22
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40101,ORURO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10103,POROMA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,1,0,4,0,0,0,5,0,5
+31401,PUNATA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,0,0,41,0,16,0,57,0,57
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,2,0,0,0,0,0,9,0,2,0,13,0,13
+50602,VITICHI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-06-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-07-01,0,0,0,0,0,0,3,0,8,0,11,0,11
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-07-01,0,0,0,0,4,0,43,0,28,0,75,0,75
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-07-01,0,0,1,0,0,0,1,0,0,0,2,0,2
+30203,OMEREQUE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+40101,ORURO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-07-01,0,0,0,0,0,0,2,0,2,0,4,0,4
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-07-01,0,0,0,0,0,0,5,0,2,0,7,0,7
+31401,PUNATA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70602,SANTA ROSA DEL SARA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-07-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-07-01,0,0,0,0,3,0,77,0,112,0,192,0,192
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-07-01,0,0,0,0,0,0,16,0,2,0,18,0,18
+10201,AZURDUY,enfermedades metaxenicas,enfermedades de chagas aguda,2002-08-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-08-01,0,0,0,0,0,0,6,0,11,0,17,0,17
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-08-01,0,0,0,0,1,0,51,0,19,0,71,0,71
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-08-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-08-01,0,0,0,0,0,0,0,0,2,0,2,0,2
+70901,SAMAIPATA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-08-01,0,0,0,0,0,0,1,0,1,0,2,0,2
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-08-01,0,0,0,0,0,0,24,0,9,0,33,0,33
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-08-01,0,0,0,0,0,0,22,0,21,0,43,0,43
+10102,YOTALA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-08-01,6,0,61,0,58,0,0,0,0,0,125,0,125
+10201,AZURDUY,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,0,0,0,0,4,0,10,0,14,0,14
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,0,0,0,0,55,0,12,0,67,0,67
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,0,0,0,0,4,0,1,0,5,0,5
+40101,ORURO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,0,0,0,0,5,0,3,0,8,0,8
+31401,PUNATA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,0,0,0,0,64,0,26,0,90,0,90
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+50801,TUPIZA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+10102,YOTALA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-09-01,0,0,6,0,0,0,0,0,0,0,6,0,6
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,0,0,1,0,5,0,6,0,6
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,1,0,32,0,6,0,39,0,39
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,0,0,3,0,1,0,4,0,4
+40101,ORURO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+51203,PORCO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,8,0,0,0,0,0,0,0,0,0,8,0,8
+70601,PORTACHUELO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,0,0,6,0,1,0,7,0,7
+31001,SACABA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+10403,SOPACHUY,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,0,0,118,0,133,0,251,0,251
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,0,0,8,0,0,0,8,0,8
+50102,TINGUIPAYA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+50801,TUPIZA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10102,YOTALA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-10-01,0,0,0,0,11,0,0,0,0,0,11,0,11
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-11-01,0,0,0,0,0,0,7,0,5,0,12,0,12
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-11-01,0,0,1,0,0,0,30,0,12,0,43,0,43
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10303,MOJOCOYA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-11-01,4,0,21,0,0,0,0,0,0,0,25,0,25
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-11-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70303,SAN RAFAEL,enfermedades metaxenicas,enfermedades de chagas aguda,2002-11-01,2,0,0,0,0,0,0,0,0,0,2,0,2
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-11-01,0,0,0,0,0,0,59,0,95,0,154,0,154
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-11-01,0,0,0,0,1,0,19,0,1,0,21,0,21
+30903,TIQUIPAYA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-11-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+50801,TUPIZA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-11-01,0,0,0,0,0,0,1,0,3,0,4,0,4
+30201,AIQUILE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,0,0,0,0,0,0,5,0,6,0,11,0,11
+60302,CARAPARI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,0,0,1,0,0,0,7,0,2,0,10,0,10
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,0,0,0,0,0,0,3,0,1,0,4,0,4
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+40101,ORURO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31401,PUNATA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+80501,SAN IGNACIO,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,5,0,0,0,0,0,0,0,0,0,5,0,5
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,0,0,0,0,0,0,81,0,102,0,183,0,183
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,0,0,1,0,0,0,4,0,0,0,5,0,5
+31003,VILLA TUNARI,enfermedades metaxenicas,enfermedades de chagas aguda,2002-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-01-01,0,0,0,0,0,0,3,0,2,0,5,0,5
+70702,CHARAGUA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-01-01,0,0,0,0,0,0,0,0,2,0,2,0,2
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-01-01,0,0,0,0,0,0,11,0,1,0,12,0,12
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2003-01-01,0,0,0,0,0,0,3,0,1,0,4,0,4
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-01-01,0,0,0,0,0,0,6,0,1,0,7,0,7
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-01-01,0,0,0,0,0,0,12,0,2,0,14,0,14
+30901,QUILLACOLLO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-01-01,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-01-01,0,0,0,0,1,0,50,0,15,0,66,0,66
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-01-01,0,0,4,0,10,0,96,0,123,0,233,0,233
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-01-01,0,0,1,0,0,0,11,0,0,0,12,0,12
+10301,ZUDAÑEZ,enfermedades metaxenicas,enfermedades de chagas aguda,2003-01-01,10,0,0,0,0,0,0,0,0,0,10,0,10
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,0,0,0,0,0,0,11,0,11,0,22,0,22
+70702,CHARAGUA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,0,0,0,0,0,0,13,0,0,0,13,0,13
+50601,COTAGAITA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,0,0,1,0,7,0,0,0,0,0,8,0,8
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,0,0,0,0,0,0,6,0,0,0,6,0,6
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,0,0,0,0,0,0,2,0,1,0,3,0,3
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,0,0,0,0,0,0,4,0,2,0,6,0,6
+31001,SACABA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,0,0,0,0,0,0,51,0,8,0,59,0,59
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,0,0,0,0,2,0,73,0,131,0,206,0,206
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,2,0,1,0,1,0,10,0,11,0,25,0,25
+51501,VILLAZON,enfermedades metaxenicas,enfermedades de chagas aguda,2003-02-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-03-01,0,0,1,0,0,0,7,0,7,0,15,0,15
+60302,CARAPARI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-03-01,2,0,0,0,0,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-03-01,0,0,0,0,2,0,8,0,1,0,11,0,11
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2003-03-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-03-01,0,0,0,0,1,0,1,0,0,0,2,0,2
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-03-01,0,0,0,0,0,0,5,0,1,0,6,0,6
+80302,SAN BORJA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-03-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-03-01,0,0,0,0,1,0,53,0,6,0,60,0,60
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-03-01,0,0,0,0,0,0,28,0,13,0,41,0,41
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-03-01,2,0,0,0,1,0,9,0,5,0,17,0,17
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,0,0,2,0,3,0,5,0,4,0,14,0,14
+60302,CARAPARI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70702,CHARAGUA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,2,0,0,0,1,0,7,0,2,0,12,0,12
+50401,COLQUECHACA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,0,0,0,0,0,0,3,0,2,0,5,0,5
+70901,SAMAIPATA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,0,0,1,0,4,0,65,0,14,0,84,0,84
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,0,0,0,0,21,0,73,0,89,0,183,0,183
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-04-01,0,0,0,0,1,0,15,0,0,0,16,0,16
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-05-01,0,0,1,0,1,0,13,0,8,0,23,0,23
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-05-01,0,0,0,0,0,0,9,0,2,0,11,0,11
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2003-05-01,0,0,0,0,0,0,5,0,0,0,5,0,5
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-05-01,0,0,0,0,0,0,4,0,1,0,5,0,5
+10103,POROMA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-05-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-05-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-05-01,0,0,0,0,0,0,35,0,8,0,43,0,43
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-05-01,0,0,0,0,3,0,64,0,101,0,168,0,168
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-05-01,5,0,3,0,0,0,13,0,1,0,22,0,22
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-06-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+60302,CARAPARI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-06-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-06-01,0,0,0,0,2,0,7,0,2,0,11,0,11
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2003-06-01,0,0,0,0,0,0,6,0,2,0,8,0,8
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-06-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-06-01,0,0,0,0,0,0,18,0,2,0,20,0,20
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-06-01,0,0,0,0,0,0,92,0,100,0,192,0,192
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-06-01,3,0,0,0,1,0,16,0,0,0,20,0,20
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-07-01,0,0,0,0,0,0,2,0,14,0,16,0,16
+70702,CHARAGUA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-07-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-07-01,0,0,0,0,3,0,5,0,1,0,9,0,9
+20101,LA PAZ,enfermedades metaxenicas,enfermedades de chagas aguda,2003-07-01,0,0,0,0,0,0,9,0,1,0,10,0,10
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-07-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-07-01,0,0,0,0,0,0,1,0,2,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-07-01,0,0,0,0,0,0,37,0,3,0,40,0,40
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-07-01,0,0,0,0,1,0,117,0,122,0,240,0,240
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-07-01,1,0,0,0,0,0,13,0,0,0,14,0,14
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-08-01,0,0,0,0,0,0,6,0,8,0,14,0,14
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-08-01,0,0,0,0,0,0,8,0,3,0,11,0,11
+50401,COLQUECHACA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-08-01,6,0,0,0,0,0,0,0,0,0,6,0,6
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-08-01,0,0,0,0,0,0,5,0,2,0,7,0,7
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-08-01,0,0,0,0,0,0,4,0,2,0,6,0,6
+30902,SIPE SIPE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-08-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-08-01,0,0,0,0,1,0,122,0,107,0,230,0,230
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-08-01,1,0,0,0,2,0,7,0,1,0,11,0,11
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-09-01,0,0,0,0,0,0,1,0,4,0,5,0,5
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-09-01,0,0,0,0,0,0,4,0,2,0,6,0,6
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-09-01,0,0,0,0,0,0,4,0,0,0,4,0,4
+71401,PUERTO SUAREZ,enfermedades metaxenicas,enfermedades de chagas aguda,2003-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-09-01,0,0,0,0,0,0,29,0,0,0,29,0,29
+30902,SIPE SIPE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-09-01,0,0,0,0,1,0,0,0,0,0,1,0,1
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-09-01,0,0,0,0,0,0,55,0,22,0,77,0,77
+80101,TRINIDAD,enfermedades metaxenicas,enfermedades de chagas aguda,2003-09-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60301,YACUIBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-09-01,0,0,0,0,1,0,8,0,2,0,11,0,11
+10102,YOTALA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-09-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-10-01,0,0,0,0,0,0,2,0,12,0,14,0,14
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-10-01,0,0,0,0,2,0,19,0,11,0,32,0,32
+30905,COLCAPIRHUA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10304,ICLA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-10-01,5,0,0,0,0,0,0,0,0,0,5,0,5
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-10-01,0,0,0,0,0,0,0,0,3,0,3,0,3
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+31401,PUNATA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-10-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-10-01,0,0,0,0,0,0,20,0,2,0,22,0,22
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-10-01,0,0,0,0,0,0,21,0,12,0,33,0,33
+60101,TARIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-10-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+30903,TIQUIPAYA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-10-01,0,0,0,0,0,0,0,0,4,0,4,0,4
+30201,AIQUILE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-11-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-11-01,0,0,0,0,0,0,1,0,10,0,11,0,11
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-11-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+71104,SAN JULIAN,enfermedades metaxenicas,enfermedades de chagas aguda,2003-11-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-11-01,0,0,0,0,0,0,30,0,23,0,53,0,53
+10601,TARABUCO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-11-01,94,0,0,0,0,0,0,0,0,0,94,0,94
+50103,YOCALLA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-11-01,1,0,0,0,0,0,0,0,0,0,1,0,1
+30501,ARANI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-12-01,0,0,0,0,0,0,0,0,2,0,2,0,2
+70706,CAMIRI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-12-01,0,0,0,0,0,0,1,0,10,0,11,0,11
+90101,COBIJA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-12-01,0,0,0,0,0,0,3,0,0,0,3,0,3
+30101,COCHABAMBA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-12-01,0,0,0,0,0,0,2,0,0,0,2,0,2
+71001,MONTERO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+70601,PORTACHUELO,enfermedades metaxenicas,enfermedades de chagas aguda,2003-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+50101,POTOSI,enfermedades metaxenicas,enfermedades de chagas aguda,2003-12-01,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,enfermedades metaxenicas,enfermedades de chagas aguda,2003-12-01,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,enfermedades metaxenicas,enfermedades de chagas aguda,2003-12-01,0,0,0,0,0,0,65,0,92,0,157,0,157

@@ -1,0 +1,2038 @@
+codigo_municipio,municipio,grupo,variable,mes,totales_dentro,totales-1_fuera,totales-2_total
+22002,ALTO BENI,salud sexual y reproductiva,preeclampsia severa,2018-01-01,2,0,2
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+70706,CAMIRI,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+20302,CAQUIAVIRI,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,3,0,3
+31204,CHIMORE,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,42,0,42
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+21401,COROICO,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+70102,COTOCA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+40401,CURAHUARA DE CARANGAS,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-01-01,3,17,20
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+80202,GUAYARAMERIN,salud sexual y reproductiva,preeclampsia severa,2018-01-01,9,0,9
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+70104,LA GUARDIA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,0,1,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-01-01,52,13,65
+21006,LICOMA PAMPA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+11003,MACHARETI,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+90501,NUEVO MANOA (NUEVA ESPERANZA),salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-01-01,9,0,9
+40802,PAMPA AULLAGAS,salud sexual y reproductiva,preeclampsia severa,2018-01-01,2,0,2
+40602,PAZÑA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2018-01-01,3,0,3
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2018-01-01,4,1,5
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+80304,RURRENABAQUE,salud sexual y reproductiva,preeclampsia severa,2018-01-01,0,1,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+70402,SAN CARLOS,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+80702,SAN RAMON BENI,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+71103,SAN RAMON SCZ,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,37,29,66
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,0,1,1
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,2,1,3
+21301,SICA SICA (VILLA AROMA),salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2018-01-01,5,1,6
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,9,0,9
+20608,TEOPONTE,salud sexual y reproductiva,preeclampsia severa,2018-01-01,2,0,2
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-01-01,10,0,10
+30502,VACAS,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2018-01-01,1,0,1
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+30403,ARBIETO,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+60202,BERMEJO,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+70707,BOYUIBE,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+70706,CAMIRI,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,2,0,2
+30303,COCAPATA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,0,1,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,22,1,23
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2018-02-01,3,0,3
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-02-01,11,5,16
+20806,JESUS DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-02-01,36,7,43
+11003,MACHARETI,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-02-01,18,0,18
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2018-02-01,3,0,3
+80304,RURRENABAQUE,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,1,2
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,3,0,3
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+71005,SAN PEDRO,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+70303,SAN RAFAEL,salud sexual y reproductiva,preeclampsia severa,2018-02-01,2,0,2
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,26,14,40
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,0,1,1
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,2,0,2
+21301,SICA SICA (VILLA AROMA),salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2018-02-01,3,0,3
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,7,6,13
+20608,TEOPONTE,salud sexual y reproductiva,preeclampsia severa,2018-02-01,2,0,2
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-02-01,6,0,6
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2018-02-01,0,1,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2018-02-01,7,0,7
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+70403,YAPACANI,salud sexual y reproductiva,preeclampsia severa,2018-02-01,1,0,1
+22002,ALTO BENI,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,24,0,24
+50601,COTAGAITA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,3,0,3
+70102,COTOCA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,0,1,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2018-03-01,0,2,2
+40401,CURAHUARA DE CARANGAS,salud sexual y reproductiva,preeclampsia severa,2018-03-01,2,0,2
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-03-01,18,0,18
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+41101,EUCALIPTUS,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,2,0,2
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-03-01,20,14,34
+70202,OKINAWA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,0,2,2
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-03-01,21,0,21
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+90301,PUERTO GONZALO MORENO,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2018-03-01,5,0,5
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,4,0,4
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2018-03-01,8,0,8
+80304,RURRENABAQUE,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,3,0,3
+71103,SAN RAMON SCZ,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,52,4,56
+40202,SANTUARIO DE QUILLACAS,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,0,1,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+40104,SORACACHI,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+20603,TACACOMA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+30602,TACOPAYA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,0,2,2
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,9,2,11
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-03-01,13,0,13
+60401,URIONDO (A. CONCEPCION),salud sexual y reproductiva,preeclampsia severa,2018-03-01,0,1,1
+70801,VALLEGRANDE,salud sexual y reproductiva,preeclampsia severa,2018-03-01,1,0,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,2,0,2
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2018-03-01,3,0,3
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2018-03-01,2,0,2
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2018-04-01,2,0,2
+20905,CAIROMA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,34,0,34
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-04-01,14,0,14
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-04-01,27,12,39
+20607,MAPIRI,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2018-04-01,2,0,2
+31301,MIZQUE,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+10501,MONTEAGUDO,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2018-04-01,7,0,7
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-04-01,17,0,17
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+10302,PRESTO,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,2,0,2
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2018-04-01,12,0,12
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,3,0,3
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,60,28,88
+21901,SANTIAGO DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,2,0,2
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+20601,SORATA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,2,0,2
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2018-04-01,3,0,3
+20603,TACACOMA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+30602,TACOPAYA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,1,2
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,10,1,11
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-04-01,12,0,12
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2018-04-01,1,0,1
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,1,2
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2018-05-01,3,0,3
+30301,AYOPAYA (V. DE INDEPENDENCIA),salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+10201,AZURDUY,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2018-05-01,2,0,2
+40201,CHALLAPATA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,0,2,2
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,44,2,46
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+50601,COTAGAITA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+71106,CUATRO CAÑADAS,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-05-01,28,1,29
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,2,0,2
+10304,ICLA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+10703,INCAHUASI,salud sexual y reproductiva,preeclampsia severa,2018-05-01,0,1,1
+21001,INQUISIVI,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-05-01,28,8,36
+20103,MECAPACA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2018-05-01,0,1,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2018-05-01,3,0,3
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-05-01,11,0,11
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2018-05-01,3,0,3
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2018-05-01,3,0,3
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2018-05-01,7,0,7
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2018-05-01,2,0,2
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,2,0,2
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+80304,RURRENABAQUE,salud sexual y reproductiva,preeclampsia severa,2018-05-01,0,1,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,4,0,4
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2018-05-01,2,0,2
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,8,0,8
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,71,5,76
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2018-05-01,4,0,4
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2018-05-01,2,0,2
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,7,1,8
+50102,TINGUIPAYA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,0,1,1
+30903,TIQUIPAYA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-05-01,14,0,14
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2018-05-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2018-05-01,2,0,2
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2018-06-01,2,0,2
+21003,CAJUATA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+21304,CALAMARCA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,28,1,29
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-06-01,10,6,16
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,2,0,2
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2018-06-01,0,2,2
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2018-06-01,4,0,4
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-06-01,20,6,26
+20103,MECAPACA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,0,1,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-06-01,7,0,7
+70502,PAILON,salud sexual y reproductiva,preeclampsia severa,2018-06-01,2,0,2
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+21802,PAPEL PAMPA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2018-06-01,4,0,4
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+80304,RURRENABAQUE,salud sexual y reproductiva,preeclampsia severa,2018-06-01,2,0,2
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,2,3,5
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+70302,SAN MIGUEL DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,40,16,56
+20308,SANTIAGO DE CALLAPA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,0,1,1
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2018-06-01,3,1,4
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,4,3,7
+41301,TOTORA(ORR),salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-06-01,7,0,7
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,0,1,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,2,0,2
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2018-06-01,2,0,2
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+70201,WARNES,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2018-06-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+60202,BERMEJO,salud sexual y reproductiva,preeclampsia severa,2018-07-01,0,1,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+31204,CHIMORE,salud sexual y reproductiva,preeclampsia severa,2018-07-01,2,0,2
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-07-01,34,0,34
+21004,COLQUIRI,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+20304,COMANCHE,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2018-07-01,2,1,3
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-07-01,13,9,22
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2018-07-01,0,1,1
+20204,HUARINA,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+20206,HUATAJATA,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,1,2
+10703,INCAHUASI,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+21001,INQUISIVI,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-07-01,17,10,27
+21202,LAJA,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2018-07-01,2,1,3
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-07-01,27,0,27
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2018-07-01,2,0,2
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2018-07-01,3,0,3
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2018-07-01,3,0,3
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2018-07-01,2,0,2
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2018-07-01,3,0,3
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2018-07-01,4,0,4
+80304,RURRENABAQUE,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-07-01,2,0,2
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2018-07-01,3,0,3
+70302,SAN MIGUEL DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2018-07-01,0,1,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-07-01,46,9,55
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2018-07-01,6,1,7
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-07-01,3,1,4
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-07-01,8,0,8
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2018-07-01,1,0,1
+51302,ACACIO,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+30402,ANZALDO,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+51103,CKOCHAS,salud sexual y reproductiva,preeclampsia severa,2018-08-01,0,1,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,40,0,40
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,0,3,3
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+21402,CORIPATA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+71106,CUATRO CAÑADAS,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-08-01,13,0,13
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2018-08-01,2,0,2
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2018-08-01,2,0,2
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-08-01,26,6,32
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+31301,MIZQUE,salud sexual y reproductiva,preeclampsia severa,2018-08-01,2,0,2
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-08-01,11,0,11
+10401,PADILLA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+31202,POJO (CBBA),salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+70805,PUCARA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2018-08-01,0,1,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2018-08-01,2,0,2
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2018-08-01,4,0,4
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,4,0,4
+80304,RURRENABAQUE,salud sexual y reproductiva,preeclampsia severa,2018-08-01,3,0,3
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+10702,SAN LUCAS,salud sexual y reproductiva,preeclampsia severa,2018-08-01,0,1,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,5,0,5
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,67,18,85
+20902,SAPAHAQUI,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+21301,SICA SICA (VILLA AROMA),salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2018-08-01,5,1,6
+30401,TARATA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,8,0,8
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+30903,TIQUIPAYA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+50502,TORO TORO,salud sexual y reproductiva,preeclampsia severa,2018-08-01,0,1,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-08-01,7,0,7
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2018-08-01,3,0,3
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+70403,YAPACANI,salud sexual y reproductiva,preeclampsia severa,2018-08-01,1,0,1
+60402,YUNCHARA,salud sexual y reproductiva,preeclampsia severa,2018-08-01,0,1,1
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+40603,ANTEQUERA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+20701,APOLO,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2018-09-01,2,0,2
+60202,BERMEJO,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+10901,CAMATAQUI (C. VILLA ABECIA),salud sexual y reproductiva,preeclampsia severa,2018-09-01,0,1,1
+40201,CHALLAPATA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,0,1,1
+21101,CHULUMANI (V. DE LA LIBERTAD),salud sexual y reproductiva,preeclampsia severa,2018-09-01,0,2,2
+90101,COBIJA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,2,0,2
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,38,0,38
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,2,1,3
+31002,COLOMI,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+21701,COPACABANA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+21402,CORIPATA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+70102,COTOCA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-09-01,23,6,29
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+10703,INCAHUASI,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+21102,IRUPANA (VILLA DE LANZA),salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-09-01,29,3,32
+31301,MIZQUE,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-09-01,24,0,24
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2018-09-01,3,0,3
+21802,PAPEL PAMPA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+50403,POCOATA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,1,2
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2018-09-01,2,0,2
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,3,0,3
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+80304,RURRENABAQUE,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,4,0,4
+40801,SALINAS DE GARCI MENDOZA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,0,1,1
+10702,SAN LUCAS,salud sexual y reproductiva,preeclampsia severa,2018-09-01,0,1,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,4,0,4
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,31,17,48
+41401,SANTIAGO DE HUARI,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+21301,SICA SICA (VILLA AROMA),salud sexual y reproductiva,preeclampsia severa,2018-09-01,2,0,2
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2018-09-01,2,1,3
+10601,TARABUCO,salud sexual y reproductiva,preeclampsia severa,2018-09-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,5,0,5
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-09-01,11,0,11
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2018-09-01,2,0,2
+10102,YOTALA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,2,0,2
+60402,YUNCHARA,salud sexual y reproductiva,preeclampsia severa,2018-09-01,0,2,2
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2018-10-01,0,1,1
+40603,ANTEQUERA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+50301,BETANZOS,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+10701,CAMARGO,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+20302,CAQUIAVIRI,salud sexual y reproductiva,preeclampsia severa,2018-10-01,0,1,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2018-10-01,2,0,2
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,2,0,2
+21101,CHULUMANI (V. DE LA LIBERTAD),salud sexual y reproductiva,preeclampsia severa,2018-10-01,0,2,2
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,32,1,33
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2018-10-01,2,0,2
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,1,2
+40401,CURAHUARA DE CARANGAS,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-10-01,19,0,19
+60502,EL PUENTE(TJA),salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+41101,EUCALIPTUS,salud sexual y reproductiva,preeclampsia severa,2018-10-01,0,1,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-10-01,38,11,49
+11003,MACHARETI,salud sexual y reproductiva,preeclampsia severa,2018-10-01,0,1,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,1,2
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2018-10-01,0,1,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-10-01,10,0,10
+20102,PALCA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+30202,PASORAPA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+40602,PAZÑA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2018-10-01,5,0,5
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,1,2
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,10,0,10
+70402,SAN CARLOS,salud sexual y reproductiva,preeclampsia severa,2018-10-01,0,1,1
+80501,SAN IGNACIO,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+60501,SAN LORENZO(TJA),salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,51,15,66
+41401,SANTIAGO DE HUARI,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,0,1,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+20601,SORATA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2018-10-01,7,1,8
+20603,TACACOMA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,9,0,9
+20803,TIAWANACU,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+30903,TIQUIPAYA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,0,1,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-10-01,8,0,8
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2018-10-01,1,0,1
+60402,YUNCHARA,salud sexual y reproductiva,preeclampsia severa,2018-10-01,0,1,1
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2018-11-01,0,1,1
+20104,ACHOCALLA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+90104,BELLA FLOR,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+70706,CAMIRI,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,2,0,2
+31204,CHIMORE,salud sexual y reproductiva,preeclampsia severa,2018-11-01,2,0,2
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,19,6,25
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,0,1,1
+31002,COLOMI,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-11-01,22,0,22
+80202,GUAYARAMERIN,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2018-11-01,2,0,2
+21102,IRUPANA (VILLA DE LANZA),salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+21501,IXIAMAS,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+20806,JESUS DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,0,1,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-11-01,25,7,32
+21202,LAJA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2018-11-01,0,1,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-11-01,8,5,13
+20102,PALCA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2018-11-01,2,0,2
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2018-11-01,3,0,3
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,3,0,3
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+70402,SAN CARLOS,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2018-11-01,2,0,2
+71201,SAN MATIAS,salud sexual y reproductiva,preeclampsia severa,2018-11-01,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,69,6,75
+21301,SICA SICA (VILLA AROMA),salud sexual y reproductiva,preeclampsia severa,2018-11-01,0,1,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2018-11-01,8,1,9
+20603,TACACOMA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,2,0,2
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,7,1,8
+50102,TINGUIPAYA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,0,1,1
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-11-01,10,0,10
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2018-11-01,0,1,1
+10102,YOTALA,salud sexual y reproductiva,preeclampsia severa,2018-11-01,1,0,1
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,1,2
+40603,ANTEQUERA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+30403,ARBIETO,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2018-12-01,3,0,3
+21203,BATALLAS,salud sexual y reproductiva,preeclampsia severa,2018-12-01,2,0,2
+90104,BELLA FLOR,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+31501,BOLIVAR,salud sexual y reproductiva,preeclampsia severa,2018-12-01,0,1,1
+51102,"CAIZA ""D""",salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+40201,CHALLAPATA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,3,0,3
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,28,0,28
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2018-12-01,2,0,2
+50601,COTAGAITA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2018-12-01,25,1,26
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+41101,EUCALIPTUS,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,1,2
+21501,IXIAMAS,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+20806,JESUS DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2018-12-01,37,4,41
+11003,MACHARETI,salud sexual y reproductiva,preeclampsia severa,2018-12-01,0,1,1
+20607,MAPIRI,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+20103,MECAPACA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2018-12-01,3,0,3
+10501,MONTEAGUDO,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2018-12-01,20,1,21
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2018-12-01,2,0,2
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2018-12-01,3,0,3
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,6,0,6
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,64,6,70
+20308,SANTIAGO DE CALLAPA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+21301,SICA SICA (VILLA AROMA),salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2018-12-01,2,0,2
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2018-12-01,13,0,13
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2018-12-01,6,0,6
+20803,TIAWANACU,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2018-12-01,4,0,4
+51201,UYUNI,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+50602,VITICHI,salud sexual y reproductiva,preeclampsia severa,2018-12-01,1,0,1
+30402,ANZALDO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+20701,APOLO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2019-01-01,4,0,4
+90104,BELLA FLOR,salud sexual y reproductiva,preeclampsia severa,2019-01-01,2,0,2
+70707,BOYUIBE,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+51102,"CAIZA ""D""",salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+40201,CHALLAPATA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+30303,COCAPATA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,1,2
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,38,1,39
+31002,COLOMI,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+50601,COTAGAITA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,2,0,2
+70102,COTOCA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,19,0,19
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2019-01-01,2,0,2
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-01-01,42,0,42
+21202,LAJA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+11003,MACHARETI,salud sexual y reproductiva,preeclampsia severa,2019-01-01,0,1,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2019-01-01,5,0,5
+10501,MONTEAGUDO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,2,0,2
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,0,1,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,17,3,20
+51203,PORCO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+70103,PORONGO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,0,1,1
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2019-01-01,2,0,2
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,7,0,7
+30404,SACABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+10702,SAN LUCAS,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+71201,SAN MATIAS,salud sexual y reproductiva,preeclampsia severa,2019-01-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,89,21,110
+10601,TARABUCO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,0,1,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,6,1,7
+30903,TIQUIPAYA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-01-01,22,0,22
+51201,UYUNI,salud sexual y reproductiva,preeclampsia severa,2019-01-01,0,1,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2019-01-01,2,0,2
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,1,2
+10301,ZUDAÑEZ,salud sexual y reproductiva,preeclampsia severa,2019-01-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+20503,AUCAPATA,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+10701,CAMARGO,salud sexual y reproductiva,preeclampsia severa,2019-02-01,0,1,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+31204,CHIMORE,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-02-01,31,0,31
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2019-02-01,5,1,6
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+20602,GUANAY,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-02-01,29,1,30
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-02-01,2,0,2
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-02-01,13,1,14
+70502,PAILON,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2019-02-01,5,0,5
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+71105,SAN ANTONIO DE LOMERIO,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2019-02-01,2,0,2
+21801,SAN PEDRO DE CURAHUARA,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+71103,SAN RAMON SCZ,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-02-01,80,24,104
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2019-02-01,2,0,2
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2019-02-01,2,0,2
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2019-02-01,5,0,5
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2019-02-01,3,0,3
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-02-01,16,0,16
+10704,VILLA CHARCAS,salud sexual y reproductiva,preeclampsia severa,2019-02-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2019-02-01,2,0,2
+20302,CAQUIAVIRI,salud sexual y reproductiva,preeclampsia severa,2019-03-01,0,1,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,4,0,4
+31204,CHIMORE,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,31,2,33
+31002,COLOMI,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+70102,COTOCA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2019-03-01,20,1,21
+41101,EUCALIPTUS,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+20204,HUARINA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,0,1,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-03-01,22,0,22
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+20402,MOCOMOCO,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-03-01,7,0,7
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-03-01,18,0,18
+60201,PADCAYA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,2,0,2
+70502,PAILON,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+90301,PUERTO GONZALO MORENO,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2019-03-01,6,0,6
+31304,RAQAYPAMPA(ETA),salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+10702,SAN LUCAS,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,49,27,76
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,2,0,2
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2019-03-01,11,0,11
+20807,TARACO,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,3,0,3
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-03-01,18,1,19
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,2,0,2
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,1,2
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2019-03-01,2,0,2
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2019-03-01,1,0,1
+22002,ALTO BENI,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+10201,AZURDUY,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+50301,BETANZOS,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+20302,CAQUIAVIRI,salud sexual y reproductiva,preeclampsia severa,2019-04-01,0,1,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+31204,CHIMORE,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,19,1,20
+21401,COROICO,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2019-04-01,2,0,2
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2019-04-01,7,0,7
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2019-04-01,2,0,2
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-04-01,21,0,21
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-04-01,11,0,11
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-04-01,11,0,11
+30202,PASORAPA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+70804,POSTRER VALLE,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2019-04-01,3,0,3
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2019-04-01,3,0,3
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2019-04-01,4,0,4
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,2,1,3
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,3,0,3
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+70302,SAN MIGUEL DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,75,12,87
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2019-04-01,8,0,8
+20603,TACACOMA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+30401,TARATA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,4,0,4
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2019-04-01,2,0,2
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-04-01,18,0,18
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+60401,URIONDO (A. CONCEPCION),salud sexual y reproductiva,preeclampsia severa,2019-04-01,0,1,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+20903,YACO,salud sexual y reproductiva,preeclampsia severa,2019-04-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2019-04-01,2,0,2
+20701,APOLO,salud sexual y reproductiva,preeclampsia severa,2019-05-01,2,0,2
+20502,AYATA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,0,1,1
+20905,CAIROMA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,2,0,2
+20501,CHUMA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+51103,CKOCHAS,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,20,0,20
+31002,COLOMI,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2019-05-01,28,3,31
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+20802,GUAQUI,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2019-05-01,2,0,2
+20206,HUATAJATA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-05-01,31,3,34
+21202,LAJA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,0,1,1
+20402,MOCOMOCO,salud sexual y reproductiva,preeclampsia severa,2019-05-01,0,1,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-05-01,16,0,16
+70803,MORO MORO,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+50404,OCURI,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-05-01,27,0,27
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2019-05-01,3,0,3
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2019-05-01,2,0,2
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2019-05-01,0,1,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,4,0,4
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2019-05-01,2,1,3
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,0,1,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,3,0,3
+21502,SAN BUENA VENTURA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+80501,SAN IGNACIO,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2019-05-01,2,0,2
+70303,SAN RAFAEL,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,60,26,86
+30702,SANTIVAÑES,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,0,1,1
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2019-05-01,20,0,20
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,8,0,8
+50102,TINGUIPAYA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,0,1,1
+41001,TOLEDO,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-05-01,21,0,21
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2019-05-01,2,1,3
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2019-05-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2019-05-01,2,0,2
+10404,ALCALA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+50802,ATOCHA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,0,1,1
+90104,BELLA FLOR,salud sexual y reproductiva,preeclampsia severa,2019-06-01,2,0,2
+60202,BERMEJO,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+70706,CAMIRI,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+40102,CARACOLLO,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,2,0,2
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,40,0,40
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2019-06-01,2,0,2
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2019-06-01,13,3,16
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,2,0,2
+80202,GUAYARAMERIN,salud sexual y reproductiva,preeclampsia severa,2019-06-01,2,0,2
+21501,IXIAMAS,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-06-01,8,0,8
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2019-06-01,2,0,2
+10501,MONTEAGUDO,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-06-01,6,0,6
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-06-01,12,1,13
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,2,0,2
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2019-06-01,2,0,2
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,2,0,2
+71105,SAN ANTONIO DE LOMERIO,salud sexual y reproductiva,preeclampsia severa,2019-06-01,0,1,1
+31403,SAN BENITO,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,2,0,2
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,89,6,95
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2019-06-01,18,0,18
+10601,TARABUCO,salud sexual y reproductiva,preeclampsia severa,2019-06-01,2,0,2
+30401,TARATA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,4,0,4
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,12,0,12
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+30803,TOLATA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,3,0,3
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-06-01,11,0,11
+51201,UYUNI,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2019-06-01,1,0,1
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+30403,ARBIETO,salud sexual y reproductiva,preeclampsia severa,2019-07-01,2,0,2
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2019-07-01,2,0,2
+21303,AYO AYO,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+10701,CAMARGO,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,0,1,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,17,0,17
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,1,2
+50401,COLQUECHACA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2019-07-01,6,0,6
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2019-07-01,4,1,5
+70105,EL TORNO,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2019-07-01,2,0,2
+20204,HUARINA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+21102,IRUPANA (VILLA DE LANZA),salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-07-01,15,1,16
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-07-01,4,0,4
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-07-01,15,0,15
+31202,POJO (CBBA),salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,1,2
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2019-07-01,3,0,3
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,2,0,2
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2019-07-01,5,0,5
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,4,0,4
+70402,SAN CARLOS,salud sexual y reproductiva,preeclampsia severa,2019-07-01,0,1,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2019-07-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,76,11,87
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2019-07-01,19,0,19
+30401,TARATA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,5,0,5
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-07-01,29,0,29
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,1,2
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2019-07-01,2,0,2
+20306,WALDO BALLIVIAN,salud sexual y reproductiva,preeclampsia severa,2019-07-01,1,0,1
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+30403,ARBIETO,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+30601,ARQUE,salud sexual y reproductiva,preeclampsia severa,2019-08-01,0,1,1
+21003,CAJUATA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2019-08-01,3,0,3
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,3,1,4
+30303,COCAPATA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,10,1,11
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2019-08-01,2,0,2
+21102,IRUPANA (VILLA DE LANZA),salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-08-01,17,0,17
+20402,MOCOMOCO,salud sexual y reproductiva,preeclampsia severa,2019-08-01,0,2,2
+10501,MONTEAGUDO,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-08-01,5,0,5
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-08-01,24,0,24
+90301,PUERTO GONZALO MORENO,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2019-08-01,4,0,4
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,2,1,3
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2019-08-01,2,0,2
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,4,1,5
+40801,SALINAS DE GARCI MENDOZA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,0,1,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,4,0,4
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+10702,SAN LUCAS,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+70303,SAN RAFAEL,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,59,3,62
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+10403,SOPACHUY,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2019-08-01,23,2,25
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,3,8,11
+50102,TINGUIPAYA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,0,2,2
+30903,TIQUIPAYA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-08-01,18,0,18
+70801,VALLEGRANDE,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+10801,VILLA SERRANO,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2019-08-01,1,0,1
+20104,ACHOCALLA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2019-09-01,7,0,7
+21303,AYO AYO,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+21003,CAJUATA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+40102,CARACOLLO,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+40201,CHALLAPATA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,2,0,2
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,19,0,19
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2019-09-01,2,1,3
+71002,GENERAL SAAVEDRA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+20204,HUARINA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+21001,INQUISIVI,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-09-01,25,1,26
+10303,MOJOCOYA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-09-01,14,0,14
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-09-01,17,0,17
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2019-09-01,3,0,3
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,12,0,12
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,2,0,2
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,3,0,3
+80501,SAN IGNACIO,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,42,2,44
+21301,SICA SICA (VILLA AROMA),salud sexual y reproductiva,preeclampsia severa,2019-09-01,0,1,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+20601,SORATA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,0,1,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2019-09-01,10,0,10
+31101,TAPACARI,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-09-01,20,1,21
+50801,TUPIZA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+50201,UNCIA,salud sexual y reproductiva,preeclampsia severa,2019-09-01,0,1,1
+70801,VALLEGRANDE,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2019-09-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2019-09-01,2,0,2
+20306,WALDO BALLIVIAN,salud sexual y reproductiva,preeclampsia severa,2019-09-01,0,1,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2019-10-01,2,0,2
+50802,ATOCHA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+10201,AZURDUY,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+60202,BERMEJO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+20302,CAQUIAVIRI,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,2,0,2
+31204,CHIMORE,salud sexual y reproductiva,preeclampsia severa,2019-10-01,0,1,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,23,0,23
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2019-10-01,3,0,3
+21401,COROICO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,4,1,5
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+20806,JESUS DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,0,1,1
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-10-01,25,1,26
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,14,0,14
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,18,3,21
+60201,PADCAYA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+70502,PAILON,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+20102,PALCA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,0,1,1
+40601,POOPO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,3,0,3
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,2,0,2
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+70302,SAN MIGUEL DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,2,0,2
+21801,SAN PEDRO DE CURAHUARA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,78,5,83
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2019-10-01,8,0,8
+31101,TAPACARI,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,1,2
+30401,TARATA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,8,0,8
+20803,TIAHUANACU,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+50502,TORO TORO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2019-10-01,2,0,2
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-10-01,19,0,19
+60401,URIONDO (A. CONCEPCION),salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2019-10-01,2,0,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2019-10-01,2,0,2
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2019-10-01,0,2,2
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+60402,YUNCHARA,salud sexual y reproductiva,preeclampsia severa,2019-10-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2019-11-01,5,0,5
+30301,AYOPAYA (V. DE INDEPENDENCIA),salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+70707,BOYUIBE,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+20302,CAQUIAVIRI,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+40201,CHALLAPATA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,19,1,20
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2019-11-01,3,0,3
+21402,CORIPATA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,1,2
+80402,EXALTACION,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+21102,IRUPANA (VILLA DE LANZA),salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+20806,JESUS DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,1,2
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-11-01,28,0,28
+11003,MACHARETI,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+20402,MOCOMOCO,salud sexual y reproductiva,preeclampsia severa,2019-11-01,0,1,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-11-01,8,0,8
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-11-01,27,1,28
+10103,POROMA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,0,1,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2019-11-01,3,0,3
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2019-11-01,0,1,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,2,0,2
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,4,0,4
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2019-11-01,3,0,3
+21801,SAN PEDRO DE CURAHUARA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+21702,SAN PEDRO DE TIQUINA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,52,5,57
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2019-11-01,12,0,12
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,4,0,4
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-11-01,5,5,10
+40402,TURCO,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+50201,UNCIA,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2019-11-01,2,0,2
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2019-11-01,0,1,1
+21103,YANACACHI,salud sexual y reproductiva,preeclampsia severa,2019-11-01,1,0,1
+30501,ARANI,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+21203,BATALLAS,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+70707,BOYUIBE,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+20203,CHUA COCANI,salud sexual y reproductiva,preeclampsia severa,2019-12-01,2,0,2
+51103,CKOCHAS,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2019-12-01,32,0,32
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2019-12-01,2,0,2
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2019-12-01,4,1,5
+60502,EL PUENTE(TJA),salud sexual y reproductiva,preeclampsia severa,2019-12-01,0,1,1
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+21102,IRUPANA (VILLA DE LANZA),salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+20806,JESUS DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2019-12-01,35,0,35
+20607,MAPIRI,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2019-12-01,2,0,2
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2019-12-01,10,1,11
+20102,PALCA,salud sexual y reproductiva,preeclampsia severa,2019-12-01,0,1,1
+50403,POCOATA,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+90301,PUERTO GONZALO MORENO,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2019-12-01,4,0,4
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2019-12-01,5,0,5
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2019-12-01,4,0,4
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2019-12-01,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2019-12-01,51,18,69
+21301,SICA SICA (VILLA AROMA),salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2019-12-01,7,0,7
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2019-12-01,2,0,2
+41502,TODOS SANTOS,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2019-12-01,22,0,22
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2019-12-01,2,0,2
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2019-12-01,2,0,2
+50602,VITICHI,salud sexual y reproductiva,preeclampsia severa,2019-12-01,0,1,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2019-12-01,1,0,1
+20701,APOLO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2020-01-01,5,0,5
+10701,CAMARGO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,1,2
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2020-01-01,3,0,3
+50702,CARIPUYO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,2,0,2
+21101,CHULUMANI (V. DE LA LIBERTAD),salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+51103,CKOCHAS,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,48,0,48
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+21701,COPACABANA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+21402,CORIPATA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+21401,COROICO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,2,0,2
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,5,1,6
+60502,EL PUENTE(TJA),salud sexual y reproductiva,preeclampsia severa,2020-01-01,0,1,1
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-01-01,24,0,24
+21202,LAJA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,10,6,16
+31202,POJO (CBBA),salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+90301,PUERTO GONZALO MORENO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,2,0,2
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,2,0,2
+71105,SAN ANTONIO DE LOMERIO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,5,0,5
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,2,0,2
+71005,SAN PEDRO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+70303,SAN RAFAEL,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,81,21,102
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,0,1,1
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-01-01,13,0,13
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2020-01-01,2,0,2
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-01-01,42,0,42
+50801,TUPIZA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,0,1,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2020-01-01,3,0,3
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2020-01-01,0,1,1
+20306,WALDO BALLIVIAN,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2020-01-01,0,1,1
+10301,ZUDAÑEZ,salud sexual y reproductiva,preeclampsia severa,2020-01-01,1,0,1
+31501,BOLIVAR,salud sexual y reproductiva,preeclampsia severa,2020-02-01,0,1,1
+21003,CAJUATA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,0,1
+20302,CAQUIAVIRI,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,0,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2020-02-01,3,0,3
+50702,CARIPUYO,salud sexual y reproductiva,preeclampsia severa,2020-02-01,0,1,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,2,0,2
+20501,CHUMA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,0,1,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,23,0,23
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2020-02-01,5,0,5
+20301,CORO CORO,salud sexual y reproductiva,preeclampsia severa,2020-02-01,0,1,1
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2020-02-01,2,0,2
+10502,HUACARETA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,0,1
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,0,1
+10304,ICLA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,0,1
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-02-01,24,0,24
+11003,MACHARETI,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2020-02-01,3,0,3
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-02-01,13,4,17
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2020-02-01,2,0,2
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,3,0,3
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2020-02-01,4,0,4
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,1,2
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,2,0,2
+21502,SAN BUENA VENTURA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2020-02-01,3,0,3
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,4,0,4
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,79,14,93
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,0,1,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-02-01,5,0,5
+20807,TARACO,salud sexual y reproductiva,preeclampsia severa,2020-02-01,1,1,2
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,3,0,3
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-02-01,26,0,26
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2020-02-01,0,1,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2020-02-01,2,0,2
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2020-02-01,2,0,2
+20701,APOLO,salud sexual y reproductiva,preeclampsia severa,2020-03-01,0,1,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2020-03-01,0,1,1
+21203,BATALLAS,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+50301,BETANZOS,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+40201,CHALLAPATA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,2,0,2
+90101,COBIJA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,13,0,13
+31002,COLOMI,salud sexual y reproductiva,preeclampsia severa,2020-03-01,2,0,2
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+70102,COTOCA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2020-03-01,3,0,3
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+10703,INCAHUASI,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-03-01,28,0,28
+21202,LAJA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+11003,MACHARETI,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2020-03-01,2,0,2
+10303,MOJOCOYA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2020-03-01,18,0,18
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-03-01,14,0,14
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,3,0,3
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2020-03-01,2,0,2
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,5,0,5
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,0,1,1
+21502,SAN BUENA VENTURA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+70402,SAN CARLOS,salud sexual y reproductiva,preeclampsia severa,2020-03-01,0,1,1
+70303,SAN RAFAEL,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+71103,SAN RAMON SCZ,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,45,22,67
+40104,SORACACHI,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-03-01,4,0,4
+50303,TACOBAMBA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+20803,TIAHUANACU,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+30903,TIQUIPAYA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-03-01,24,0,24
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2020-03-01,0,1,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2020-03-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2020-03-01,2,0,2
+41201,ANDAMARCA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,0,1,1
+21203,BATALLAS,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+50301,BETANZOS,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+70707,BOYUIBE,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+20905,CAIROMA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+40102,CARACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-04-01,3,0,3
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+50702,CARIPUYO,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+40201,CHALLAPATA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,3,0,3
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,21,0,21
+31002,COLOMI,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+50401,COLQUECHACA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+20301,CORO CORO,salud sexual y reproductiva,preeclampsia severa,2020-04-01,0,1,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2020-04-01,3,0,3
+70105,EL TORNO,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+80202,GUAYARAMERIN,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-04-01,24,0,24
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2020-04-01,7,0,7
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-04-01,11,2,13
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+70804,POSTRER VALLE,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-04-01,2,0,2
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2020-04-01,2,0,2
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,7,0,7
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,5,0,5
+21502,SAN BUENA VENTURA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+71005,SAN PEDRO,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+70303,SAN RAFAEL,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,37,23,60
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-04-01,3,0,3
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2020-04-01,2,0,2
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-04-01,19,1,20
+40402,TURCO,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+50201,UNCIA,salud sexual y reproductiva,preeclampsia severa,2020-04-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2020-04-01,5,0,5
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2020-05-01,2,0,2
+70707,BOYUIBE,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+20905,CAIROMA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+20302,CAQUIAVIRI,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,1,2
+40102,CARACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+21101,CHULUMANI (V. DE LA LIBERTAD),salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,22,0,22
+31002,COLOMI,salud sexual y reproductiva,preeclampsia severa,2020-05-01,2,0,2
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+21402,CORIPATA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+70105,EL TORNO,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+21001,INQUISIVI,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-05-01,25,0,25
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2020-05-01,9,0,9
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-05-01,11,0,11
+50403,POCOATA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,1,2
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,1,2
+40901,SABAYA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,3,0,3
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,3,0,3
+71105,SAN ANTONIO DE LOMERIO,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,4,0,4
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,52,17,69
+21901,SANTIAGO DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,2,0,2
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-05-01,4,2,6
+30401,TARATA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,3,0,3
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-05-01,10,0,10
+50201,UNCIA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,3,0,3
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+50602,VITICHI,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+10602,YAMPARAEZ,salud sexual y reproductiva,preeclampsia severa,2020-05-01,1,0,1
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2020-06-01,2,0,2
+30201,AIQUILE,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+21303,AYO AYO,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+30701,CAPINOTA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+40102,CARACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-06-01,0,1,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,11,0,11
+50401,COLQUECHACA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2020-06-01,7,0,7
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2020-06-01,2,1,3
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+20204,HUARINA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+21001,INQUISIVI,salud sexual y reproductiva,preeclampsia severa,2020-06-01,0,1,1
+21102,IRUPANA (VILLA DE LANZA),salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+21501,IXIAMAS,salud sexual y reproductiva,preeclampsia severa,2020-06-01,2,0,2
+20806,JESUS DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-06-01,31,0,31
+20103,MECAPACA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2020-06-01,12,0,12
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-06-01,4,0,4
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2020-06-01,2,0,2
+70804,POSTRER VALLE,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,3,0,3
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,3,0,3
+71105,SAN ANTONIO DE LOMERIO,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,5,0,5
+21702,SAN PEDRO DE TIQUINA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,26,12,38
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+30602,TACOPAYA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,0,1,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,2,0,2
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-06-01,7,0,7
+50801,TUPIZA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,3,0,3
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),salud sexual y reproductiva,preeclampsia severa,2020-06-01,4,0,4
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2020-06-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2020-06-01,2,0,2
+30301,AYOPAYA (V. DE INDEPENDENCIA),salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,16,0,16
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+70105,EL TORNO,salud sexual y reproductiva,preeclampsia severa,2020-07-01,2,0,2
+11002,HUACAYA (VILLA DE HUACAYA),salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+80803,HUARACAJE,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+20806,JESUS DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-07-01,38,0,38
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-07-01,15,0,15
+60201,PADCAYA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,2,0,2
+40602,PAZÑA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+31304,RAQAYPAMPA(ETA),salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,2,0,2
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2020-07-01,0,4,4
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+30404,SACABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+71105,SAN ANTONIO DE LOMERIO,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,2,0,2
+70402,SAN CARLOS,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2020-07-01,2,0,2
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,51,16,67
+20902,SAPAHAQUI,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,0,6,6
+10403,SOPACHUY,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-07-01,3,0,3
+20603,TACACOMA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+31101,TAPACARI,salud sexual y reproductiva,preeclampsia severa,2020-07-01,0,1,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,3,0,3
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-07-01,9,0,9
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,2,0,2
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2020-07-01,0,1,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2020-07-01,2,0,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),salud sexual y reproductiva,preeclampsia severa,2020-07-01,2,0,2
+50602,VITICHI,salud sexual y reproductiva,preeclampsia severa,2020-07-01,0,1,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+70403,YAPACANI,salud sexual y reproductiva,preeclampsia severa,2020-07-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+21003,CAJUATA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+10701,CAMARGO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,0,1,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+40201,CHALLAPATA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,5,0,5
+50901,"COLCHA ""K""",salud sexual y reproductiva,preeclampsia severa,2020-08-01,0,1,1
+21401,COROICO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+10902,CULPINA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,0,1,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,4,0,4
+70105,EL TORNO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,2,0,2
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+71002,GENERAL SAAVEDRA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,0,1,1
+20806,JESUS DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-08-01,9,1,10
+21202,LAJA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,4,0,4
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,19,1,20
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,6,0,6
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,5,0,5
+40901,SABAYA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,0,1,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,3,0,3
+71105,SAN ANTONIO DE LOMERIO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,3,0,3
+70303,SAN RAFAEL,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,1,2
+80702,SAN RAMON BENI,salud sexual y reproductiva,preeclampsia severa,2020-08-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,58,13,71
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,0,2,2
+21301,SICA SICA (VILLA AROMA),salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-08-01,2,0,2
+30401,TARATA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,2,0,2
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2020-08-01,0,1,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-08-01,10,0,10
+40402,TURCO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,2,0,2
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2020-08-01,2,1,3
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2020-08-01,0,1,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2020-08-01,1,0,1
+20202,ANCORAIMES,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+21203,BATALLAS,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+20905,CAIROMA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+20501,CHUMA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,0,1,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,8,0,8
+50401,COLQUECHACA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+21402,CORIPATA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+50601,COTAGAITA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2020-09-01,4,0,4
+60502,EL PUENTE(TJA),salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+70705,GUTIERREZ,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+20806,JESUS DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,2,0,2
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-09-01,29,1,30
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2020-09-01,3,0,3
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-09-01,9,0,9
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2020-09-01,3,0,3
+31203,POCONA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+90301,PUERTO GONZALO MORENO,salud sexual y reproductiva,preeclampsia severa,2020-09-01,2,0,2
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,3,0,3
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-09-01,4,0,4
+31304,RAQAYPAMPA(ETA),salud sexual y reproductiva,preeclampsia severa,2020-09-01,2,0,2
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,6,0,6
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2020-09-01,4,0,4
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,2,0,2
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2020-09-01,8,0,8
+10702,SAN LUCAS,salud sexual y reproductiva,preeclampsia severa,2020-09-01,0,1,1
+70302,SAN MIGUEL DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+50501,SAN PEDRO DE BUENA VISTA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,55,15,70
+21901,SANTIAGO DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+90303,SENA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,0,1,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-09-01,8,0,8
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,3,0,3
+20608,TEOPONTE,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2020-09-01,2,0,2
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-09-01,11,0,11
+40402,TURCO,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+60401,URIONDO (A. CONCEPCION),salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+71502,URUBICHA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,3,6,9
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),salud sexual y reproductiva,preeclampsia severa,2020-09-01,2,0,2
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2020-09-01,3,0,3
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2020-09-01,1,0,1
+50301,BETANZOS,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+31501,BOLIVAR,salud sexual y reproductiva,preeclampsia severa,2020-10-01,0,1,1
+70707,BOYUIBE,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+10901,CAMATAQUI (C. VILLA ABECIA),salud sexual y reproductiva,preeclampsia severa,2020-10-01,0,1,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2020-10-01,2,0,2
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,3,0,3
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,19,0,19
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+50601,COTAGAITA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,0,1,1
+70102,COTOCA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2020-10-01,6,0,6
+71503,EL PUENTE(STC),salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+70105,EL TORNO,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+80202,GUAYARAMERIN,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,1,2
+70705,GUTIERREZ,salud sexual y reproductiva,preeclampsia severa,2020-10-01,2,0,2
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-10-01,26,0,26
+20402,MOCOMOCO,salud sexual y reproductiva,preeclampsia severa,2020-10-01,0,1,1
+10501,MONTEAGUDO,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2020-10-01,3,0,3
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-10-01,10,0,10
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2020-10-01,2,0,2
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2020-10-01,0,1,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-10-01,3,0,3
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,6,0,6
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2020-10-01,4,0,4
+40901,SABAYA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,2,1,3
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,3,0,3
+70303,SAN RAFAEL,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,47,2,49
+20308,SANTIAGO DE CALLAPA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+20902,SAPAHAQUI,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-10-01,4,0,4
+31404,TACACHI,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,3,0,3
+10202,TARVITA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2020-10-01,2,0,2
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+41301,TOTORA(ORR),salud sexual y reproductiva,preeclampsia severa,2020-10-01,0,1,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-10-01,11,0,11
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+50201,UNCIA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,5,0,5
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2020-10-01,3,0,3
+10102,YOTALA,salud sexual y reproductiva,preeclampsia severa,2020-10-01,1,0,1
+20104,ACHOCALLA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,2,0,2
+20905,CAIROMA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,2,0,2
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2020-11-01,3,0,3
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,2,0,2
+51103,CKOCHAS,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+30801,CLIZA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,17,1,18
+50601,COTAGAITA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2020-11-01,3,0,3
+60502,EL PUENTE(TJA),salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+21102,IRUPANA (VILLA DE LANZA),salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-11-01,16,0,16
+50203,LLALLAGUA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2020-11-01,8,0,8
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-11-01,2,0,2
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-11-01,2,1,3
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,1,2
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,5,0,5
+21702,SAN PEDRO DE TIQUINA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,0,1,1
+70303,SAN RAFAEL,salud sexual y reproductiva,preeclampsia severa,2020-11-01,0,1,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,56,2,58
+40202,SANTUARIO DE QUILLACAS,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+21301,SICA SICA (VILLA AROMA),salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-11-01,7,0,7
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,3,0,3
+10202,TARVITA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,0,1,1
+41301,TOTORA(ORR),salud sexual y reproductiva,preeclampsia severa,2020-11-01,2,0,2
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-11-01,8,0,8
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,1,2
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),salud sexual y reproductiva,preeclampsia severa,2020-11-01,0,1,1
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2020-11-01,1,0,1
+20104,ACHOCALLA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,3,0,3
+20303,CALACOTO,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+50202,CHAYANTA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,0,1,1
+51103,CKOCHAS,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,21,0,21
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,0,1,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+21401,COROICO,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2020-12-01,2,0,2
+80202,GUAYARAMERIN,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+11002,HUACAYA (VILLA DE HUACAYA),salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+10703,INCAHUASI,salud sexual y reproductiva,preeclampsia severa,2020-12-01,0,1,1
+20806,JESUS DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,2,0,2
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2020-12-01,17,1,18
+21202,LAJA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2020-12-01,3,1,4
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2020-12-01,3,0,3
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2020-12-01,0,1,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,1,2
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+31304,RAQAYPAMPA(ETA),salud sexual y reproductiva,preeclampsia severa,2020-12-01,0,1,1
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2020-12-01,2,0,2
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2020-12-01,5,0,5
+71103,SAN RAMON SCZ,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,32,0,32
+41401,SANTIAGO DE HUARI,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+40202,SANTUARIO DE QUILLACAS,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2020-12-01,2,0,2
+20603,TACACOMA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,2,0,2
+20803,TIAHUANACU,salud sexual y reproductiva,preeclampsia severa,2020-12-01,2,0,2
+30903,TIQUIPAYA,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2020-12-01,12,0,12
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,1,2
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+20903,YACO,salud sexual y reproductiva,preeclampsia severa,2020-12-01,0,1,1
+10301,ZUDAÑEZ,salud sexual y reproductiva,preeclampsia severa,2020-12-01,1,0,1
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+10201,AZURDUY,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+21203,BATALLAS,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+90101,COBIJA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,15,0,15
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,0,1,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+21701,COPACABANA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-01-01,5,0,5
+20204,HUARINA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,0,1,1
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-01-01,15,0,15
+21202,LAJA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2021-01-01,18,0,18
+31202,POJO (CBBA),salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+90301,PUERTO GONZALO MORENO,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2021-01-01,2,0,2
+31304,RAQAYPAMPA(ETA),salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2021-01-01,3,0,3
+70901,SAMAIPATA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+21502,SAN BUENA VENTURA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-01-01,2,0,2
+71005,SAN PEDRO,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,53,6,59
+41401,SANTIAGO DE HUARI,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+21901,SANTIAGO DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,0,1,1
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+10403,SOPACHUY,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2021-01-01,5,0,5
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,2,1,3
+21703,TITO YUPANQUI (PARQUIPUJIO),salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-01-01,6,0,6
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2021-01-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2021-01-01,2,0,2
+20104,ACHOCALLA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,2,0,2
+30402,ANZALDO,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+20701,APOLO,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+20905,CAIROMA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,2,0,2
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,2,0,2
+30303,COCAPATA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,10,0,10
+21307,COLLANA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,0,1,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-02-01,6,0,6
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+20602,GUANAY,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+21501,IXIAMAS,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+70104,LA GUARDIA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,2,0,2
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-02-01,10,0,10
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2021-02-01,6,0,6
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,6,0,6
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2021-02-01,2,0,2
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,2,0,2
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-02-01,2,0,2
+21702,SAN PEDRO DE TIQUINA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,45,15,60
+40202,SANTUARIO DE QUILLACAS,salud sexual y reproductiva,preeclampsia severa,2021-02-01,0,1,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+30602,TACOPAYA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,2,0,2
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-02-01,16,0,16
+30502,VACAS,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2021-02-01,3,0,3
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),salud sexual y reproductiva,preeclampsia severa,2021-02-01,1,0,1
+20104,ACHOCALLA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,0,1,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2021-03-01,2,0,2
+60202,BERMEJO,salud sexual y reproductiva,preeclampsia severa,2021-03-01,2,0,2
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,2,0,2
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,18,1,19
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,2,0,2
+20304,COMANCHE,salud sexual y reproductiva,preeclampsia severa,2021-03-01,0,1,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2021-03-01,0,2,2
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-03-01,8,0,8
+60601,ENTRE RIOS TRJ,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,1,2
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2021-03-01,2,0,2
+80202,GUAYARAMERIN,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-03-01,30,0,30
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2021-03-01,2,0,2
+31205,PUERTO VILLARROEL,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,2,0,2
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2021-03-01,3,0,3
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,6,0,6
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2021-03-01,5,0,5
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+40801,SALINAS DE GARCI MENDOZA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+71105,SAN ANTONIO DE LOMERIO,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-03-01,2,0,2
+60501,SAN LORENZO(TJA),salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,1,2
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,69,14,83
+41401,SANTIAGO DE HUARI,salud sexual y reproductiva,preeclampsia severa,2021-03-01,0,1,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+10601,TARABUCO,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+50502,TORO TORO,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-03-01,19,2,21
+30502,VACAS,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+70801,VALLEGRANDE,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2021-03-01,2,0,2
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+11001,VILLA VACA GUZMAN (MUYUPAMPA),salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2021-03-01,1,0,1
+22002,ALTO BENI,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2021-04-01,2,0,2
+70707,BOYUIBE,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+21304,CALAMARCA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+51103,CKOCHAS,salud sexual y reproductiva,preeclampsia severa,2021-04-01,2,0,2
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,6,2,8
+50601,COTAGAITA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-04-01,6,0,6
+70105,EL TORNO,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2021-04-01,3,0,3
+71002,GENERAL SAAVEDRA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+21102,IRUPANA (VILLA DE LANZA),salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-04-01,21,2,23
+31301,MIZQUE,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2021-04-01,5,0,5
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2021-04-01,12,0,12
+20102,PALCA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,2,0,2
+31202,POJO (CBBA),salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2021-04-01,3,0,3
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,7,0,7
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2021-04-01,5,0,5
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,2,0,2
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-04-01,3,0,3
+70501,SAN JOSE DE CHIQUITOS,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,43,21,64
+21901,SANTIAGO DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2021-04-01,7,0,7
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,3,0,3
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-04-01,17,0,17
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+10602,YAMPARAEZ,salud sexual y reproductiva,preeclampsia severa,2021-04-01,1,0,1
+20701,APOLO,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+20302,CAQUIAVIRI,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+20501,CHUMA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,0,1,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,9,0,9
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,2,0,2
+31002,COLOMI,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+21004,COLQUIRI,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+21402,CORIPATA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-05-01,10,2,12
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+71002,GENERAL SAAVEDRA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,0,1,1
+80202,GUAYARAMERIN,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+11002,HUACAYA (VILLA DE HUACAYA),salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-05-01,18,1,19
+20607,MAPIRI,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2021-05-01,11,0,11
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2021-05-01,6,0,6
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+31304,RAQAYPAMPA(ETA),salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,4,0,4
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+71105,SAN ANTONIO DE LOMERIO,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,3,0,3
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-05-01,3,0,3
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,71,3,74
+70602,SANTA ROSA DEL SARA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+10601,TARABUCO,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,8,0,8
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-05-01,20,0,20
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2021-05-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2021-05-01,2,1,3
+21203,BATALLAS,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+20905,CAIROMA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+21304,CALAMARCA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+31204,CHIMORE,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+51103,CKOCHAS,salud sexual y reproductiva,preeclampsia severa,2021-06-01,0,1,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,5,1,6
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2021-06-01,2,0,2
+21402,CORIPATA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2021-06-01,2,0,2
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-06-01,5,0,5
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+71002,GENERAL SAAVEDRA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,2,0,2
+21102,IRUPANA (VILLA DE LANZA),salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-06-01,23,3,26
+50203,LLALLAGUA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+11003,MACHARETI,salud sexual y reproductiva,preeclampsia severa,2021-06-01,2,0,2
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2021-06-01,6,0,6
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2021-06-01,9,0,9
+20102,PALCA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,2,0,2
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+31202,POJO (CBBA),salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,1,2
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,11,0,11
+80304,RURRENABAQUE,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+21502,SAN BUENA VENTURA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+70402,SAN CARLOS,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+60501,SAN LORENZO(TJA),salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+50405,SAN PEDRO DE MACHA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,0,1,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,60,5,65
+70602,SANTA ROSA DEL SARA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,0,1,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2021-06-01,4,0,4
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,7,0,7
+30903,TIQUIPAYA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2021-06-01,2,0,2
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-06-01,10,5,15
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,1,2
+31402,VILLA RIVERO,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,1,2
+11001,VILLA VACA GUZMAN (MUYUPAMPA),salud sexual y reproductiva,preeclampsia severa,2021-06-01,0,1,1
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2021-06-01,2,0,2
+10102,YOTALA,salud sexual y reproductiva,preeclampsia severa,2021-06-01,1,0,1
+50802,ATOCHA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+10701,CAMARGO,salud sexual y reproductiva,preeclampsia severa,2021-07-01,0,3,3
+70706,CAMIRI,salud sexual y reproductiva,preeclampsia severa,2021-07-01,0,1,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+90101,COBIJA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,18,0,18
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+31002,COLOMI,salud sexual y reproductiva,preeclampsia severa,2021-07-01,0,1,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2021-07-01,3,0,3
+70102,COTOCA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-07-01,7,2,9
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-07-01,16,0,16
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2021-07-01,6,0,6
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2021-07-01,7,0,7
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2021-07-01,3,0,3
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2021-07-01,3,0,3
+80301,REYES,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,2,0,2
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+80304,RURRENABAQUE,salud sexual y reproductiva,preeclampsia severa,2021-07-01,3,0,3
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,3,0,3
+21502,SAN BUENA VENTURA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,6,0,6
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+70302,SAN MIGUEL DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,62,3,65
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+21301,SICA SICA (VILLA AROMA),salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+30401,TARATA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,12,0,12
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-07-01,13,0,13
+50801,TUPIZA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+51201,UYUNI,salud sexual y reproductiva,preeclampsia severa,2021-07-01,0,1,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2021-07-01,2,0,2
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2021-07-01,1,0,1
+51501,VILLAZON,salud sexual y reproductiva,preeclampsia severa,2021-07-01,3,0,3
+20104,ACHOCALLA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,0,1,1
+50802,ATOCHA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,2,0,2
+21303,AYO AYO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+50301,BETANZOS,salud sexual y reproductiva,preeclampsia severa,2021-08-01,0,1,1
+21304,CALAMARCA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+31204,CHIMORE,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+40302,CHOQUE COTA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,19,0,19
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+21401,COROICO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,2,0,2
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,2,0,2
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,14,1,15
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+71004,FERNANDEZ ALONSO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-08-01,13,0,13
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2021-08-01,2,0,2
+10501,MONTEAGUDO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,18,0,18
+30302,MOROCHATA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,15,0,15
+21305,PATACAMAYA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,2,0,2
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2021-08-01,0,1,1
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2021-08-01,2,0,2
+90301,PUERTO GONZALO MORENO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,5,0,5
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2021-08-01,2,2,4
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,2,0,2
+71105,SAN ANTONIO DE LOMERIO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+21502,SAN BUENA VENTURA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,3,0,3
+10702,SAN LUCAS,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+70302,SAN MIGUEL DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+50405,SAN PEDRO DE MACHA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,0,1,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,6,0,6
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,66,8,74
+70602,SANTA ROSA DEL SARA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,0,1,1
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,3,0,3
+40104,SORACACHI,salud sexual y reproductiva,preeclampsia severa,2021-08-01,0,1,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2021-08-01,12,0,12
+50303,TACOBAMBA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,0,1,1
+31101,TAPACARI,salud sexual y reproductiva,preeclampsia severa,2021-08-01,0,1,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,4,0,4
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-08-01,19,0,19
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,4,0,4
+30904,VINTO,salud sexual y reproductiva,preeclampsia severa,2021-08-01,3,0,3
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2021-08-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2021-09-01,0,1,1
+20905,CAIROMA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,1,2
+40201,CHALLAPATA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,0,1,1
+30303,COCAPATA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,13,0,13
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2021-09-01,2,2,4
+21402,CORIPATA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+40301,CORQUE,salud sexual y reproductiva,preeclampsia severa,2021-09-01,0,1,1
+50601,COTAGAITA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,2,0,2
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2021-09-01,2,0,2
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-09-01,9,1,10
+70105,EL TORNO,salud sexual y reproductiva,preeclampsia severa,2021-09-01,2,0,2
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2021-09-01,2,0,2
+10304,ICLA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,0,1,1
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-09-01,27,1,28
+11003,MACHARETI,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+71003,MINEROS,salud sexual y reproductiva,preeclampsia severa,2021-09-01,2,0,2
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2021-09-01,19,0,19
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2021-09-01,15,0,15
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+71401,PUERTO SUAREZ,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+31401,PUNATA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,1,2
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,2,0,2
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+71105,SAN ANTONIO DE LOMERIO,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+21502,SAN BUENA VENTURA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,3,0,3
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-09-01,3,0,3
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,67,19,86
+70602,SANTA ROSA DEL SARA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,0,3,3
+20308,SANTIAGO DE CALLAPA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,0,1,1
+21901,SANTIAGO DE MACHACA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,0,1,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2021-09-01,3,0,3
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-09-01,5,0,5
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+31601,TIRAQUE (CBBA),salud sexual y reproductiva,preeclampsia severa,2021-09-01,2,0,2
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-09-01,20,0,20
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+70201,WARNES,salud sexual y reproductiva,preeclampsia severa,2021-09-01,0,2,2
+21103,YANACACHI,salud sexual y reproductiva,preeclampsia severa,2021-09-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2021-10-01,4,0,4
+50301,BETANZOS,salud sexual y reproductiva,preeclampsia severa,2021-10-01,0,1,1
+31204,CHIMORE,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,20,0,20
+50901,"COLCHA ""K""",salud sexual y reproductiva,preeclampsia severa,2021-10-01,0,1,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+21402,CORIPATA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,1,2
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-10-01,3,1,4
+40701,HUANUNI,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+21105,LA ASUNTA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-10-01,25,0,25
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2021-10-01,19,1,20
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2021-10-01,16,0,16
+70502,PAILON,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+21305,PATACAMAYA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,0,1,1
+50101,POTOSI,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+21201,PUCARANI,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2021-10-01,3,0,3
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,15,0,15
+31001,SACABA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,59,9,68
+70602,SANTA ROSA DEL SARA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,0,1,1
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+30902,SIPE SIPE,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2021-10-01,4,0,4
+30602,TACOPAYA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,0,1,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,2,0,2
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-10-01,7,0,7
+21302,UMALA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,2,0,2
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2021-10-01,2,3,5
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+60301,YACUIBA,salud sexual y reproductiva,preeclampsia severa,2021-10-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+50301,BETANZOS,salud sexual y reproductiva,preeclampsia severa,2021-11-01,0,1,1
+20302,CAQUIAVIRI,salud sexual y reproductiva,preeclampsia severa,2021-11-01,0,1,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,2,0,2
+31204,CHIMORE,salud sexual y reproductiva,preeclampsia severa,2021-11-01,2,0,2
+30303,COCAPATA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,0,1,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,9,1,10
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+71101,CONCEPCION,salud sexual y reproductiva,preeclampsia severa,2021-11-01,3,0,3
+21401,COROICO,salud sexual y reproductiva,preeclampsia severa,2021-11-01,3,0,3
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-11-01,6,2,8
+80402,EXALTACION,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+20602,GUANAY,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+21102,IRUPANA (VILLA DE LANZA),salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,1,2
+21501,IXIAMAS,salud sexual y reproductiva,preeclampsia severa,2021-11-01,2,0,2
+70104,LA GUARDIA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-11-01,22,0,22
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2021-11-01,23,1,24
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2021-11-01,13,0,13
+70502,PAILON,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+20102,PALCA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+21104,PALOS BLANCOS,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+90301,PUERTO GONZALO MORENO,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2021-11-01,2,0,2
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,5,0,5
+70503,ROBORE,salud sexual y reproductiva,preeclampsia severa,2021-11-01,4,0,4
+40901,SABAYA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+80302,SAN BORJA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+21502,SAN BUENA VENTURA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+60501,SAN LORENZO(TJA),salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+71005,SAN PEDRO,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,63,15,78
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2021-11-01,8,0,8
+20603,TACACOMA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+30401,TARATA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,2,0,2
+30903,TIQUIPAYA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-11-01,5,0,5
+20801,VIACHA,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,0,1
+20903,YACO,salud sexual y reproductiva,preeclampsia severa,2021-11-01,1,1,2
+20201,ACHACACHI,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+20104,ACHOCALLA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+30201,AIQUILE,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+71501,ASCENCION DE GUARAYOS,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+50301,BETANZOS,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+20302,CAQUIAVIRI,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+22001,CARANAVI,salud sexual y reproductiva,preeclampsia severa,2021-12-01,2,0,2
+50302,CHAQUI,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+70702,CHARAGUA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+50202,CHAYANTA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,0,2,2
+90101,COBIJA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+30101,COCHABAMBA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,27,0,27
+30905,COLCAPIRHUA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+31002,COLOMI,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+21306,COLQUENCHA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+20301,CORO CORO,salud sexual y reproductiva,preeclampsia severa,2021-12-01,0,1,1
+31405,CUCHUMUELA (V. G. VILLARROEL),salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+70704,CUEVO,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,1,2
+20105,EL ALTO,salud sexual y reproductiva,preeclampsia severa,2021-12-01,4,0,4
+31206,ENTRE RIOS CBBA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+20602,GUANAY,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+11002,HUACAYA (VILLA DE HUACAYA),salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+20101,LA PAZ,salud sexual y reproductiva,preeclampsia severa,2021-12-01,23,1,24
+71001,MONTERO,salud sexual y reproductiva,preeclampsia severa,2021-12-01,9,0,9
+40101,ORURO,salud sexual y reproductiva,preeclampsia severa,2021-12-01,24,0,24
+60201,PADCAYA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+10103,POROMA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+90301,PUERTO GONZALO MORENO,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+30901,QUILLACOLLO,salud sexual y reproductiva,preeclampsia severa,2021-12-01,3,0,3
+80201,RIBERALTA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,6,0,6
+21502,SAN BUENA VENTURA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,3,0,3
+80501,SAN IGNACIO,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+70301,SAN IGNACIO DE VELASCO,salud sexual y reproductiva,preeclampsia severa,2021-12-01,2,0,2
+80401,SANTA ANA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,56,9,65
+31602,SHINAOTA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+10101,SUCRE,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+30602,TACOPAYA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,0,1,1
+60101,TARIJA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,7,0,7
+20606,TIPUANI,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+30903,TIQUIPAYA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+31201,TOTORA(CBBA),salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+80101,TRINIDAD,salud sexual y reproductiva,preeclampsia severa,2021-12-01,13,0,13
+40402,TURCO,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+60303,VILLA MONTES,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+31003,VILLA TUNARI,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1
+10102,YOTALA,salud sexual y reproductiva,preeclampsia severa,2021-12-01,1,0,1

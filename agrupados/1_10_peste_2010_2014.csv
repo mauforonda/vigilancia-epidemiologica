@@ -1,0 +1,54 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 1 año,1 a 4 años,5 a 9 años,10 a 20 años,21 a 59 años,60 y más,TOTAL
+80101,TRINIDAD,sospecha diagnostica,peste,2010-06-01,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+20701,APOLO,sospecha diagnostica,peste,2010-08-01,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+80101,TRINIDAD,sospecha diagnostica,peste,2010-12-01,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2011-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,peste,2012-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20701,APOLO,sospecha diagnostica,peste,2012-03-01,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+31003,VILLA TUNARI,sospecha diagnostica,peste,2013-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21105,LA ASUNTA,sospecha diagnostica,peste,2013-09-01,3.0,0.0,0.0,0.0,0.0,0.0,3.0
+31003,VILLA TUNARI,sospecha diagnostica,peste,2013-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31303,ALALAY,sospecha diagnostica,peste,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,sospecha diagnostica,peste,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,sospecha diagnostica,peste,2014-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31303,ALALAY,sospecha diagnostica,peste,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,sospecha diagnostica,peste,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,sospecha diagnostica,peste,2014-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31303,ALALAY,sospecha diagnostica,peste,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,sospecha diagnostica,peste,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,sospecha diagnostica,peste,2014-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,sospecha diagnostica,peste,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,sospecha diagnostica,peste,2014-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,sospecha diagnostica,peste,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31601,TIRAQUE (CBBA),sospecha diagnostica,peste,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,sospecha diagnostica,peste,2014-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20701,APOLO,sospecha diagnostica,peste,2014-06-01,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+31301,MIZQUE,sospecha diagnostica,peste,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,sospecha diagnostica,peste,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,sospecha diagnostica,peste,2014-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31405,CUCHUMUELA (V. G. VILLARROEL),sospecha diagnostica,peste,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,sospecha diagnostica,peste,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31401,PUNATA,sospecha diagnostica,peste,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,sospecha diagnostica,peste,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,sospecha diagnostica,peste,2014-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31405,CUCHUMUELA (V. G. VILLARROEL),sospecha diagnostica,peste,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,sospecha diagnostica,peste,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31401,PUNATA,sospecha diagnostica,peste,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,sospecha diagnostica,peste,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,sospecha diagnostica,peste,2014-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31405,CUCHUMUELA (V. G. VILLARROEL),sospecha diagnostica,peste,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31301,MIZQUE,sospecha diagnostica,peste,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31401,PUNATA,sospecha diagnostica,peste,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31302,VILA VILA,sospecha diagnostica,peste,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31003,VILLA TUNARI,sospecha diagnostica,peste,2014-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0

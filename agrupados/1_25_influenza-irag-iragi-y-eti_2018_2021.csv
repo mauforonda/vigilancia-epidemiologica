@@ -1,0 +1,797 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-meses-a-menor-de-1-ano_masculino,b-6-meses-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+20201,ACHACACHI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,1,0,1,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3,9,3,12
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,3
+10501,MONTEAGUDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,2,0,2,0,8,2,0,1,1,1,1,0,5,3,0,1,0,2,0,1,19,11,30
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,2,1,3
+31003,VILLA TUNARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-02-01,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-02-01,2,3,0,0,2,2,1,0,1,0,0,0,0,1,1,0,0,0,0,7,7,13,20
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-02-01,0,0,0,0,0,0,0,0,0,2,0,0,1,3,0,0,0,4,0,0,1,9,10
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-02-01,1,1,2,1,5,8,10,5,3,1,1,2,3,6,2,2,2,2,4,3,33,31,64
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+31003,VILLA TUNARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-02-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+90101,COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,1,0,0,0,0,0,0,0,0,0,4,0,2,0,2,1,0,0,9,1,10
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,1,1,0,2,8,1,0,0,0,0,0,0,1,0,0,0,0,0,1,4,11,15
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,0,0,0,0,3,2,5
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,2
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,1,0,2,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,4,3,7
+21104,PALOS BLANCOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70601,PORTACHUELO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,2,4,3,2,20,10,8,10,11,8,3,6,12,15,2,3,5,3,8,9,74,70,144
+31602,SHINAOTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,2,3
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,1,0,2,3,1,0,0,0,2,0,1,0,0,0,1,1,0,1,8,5,13
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,4
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,1,3,1,1,0,0,1,1,0,0,2,0,0,0,0,0,1,0,6,5,11
+70401,BUENA VISTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,1,1,3,2,4,1,0,0,0,2,3,1,0,0,0,4,3,11,14,25
+70703,CABEZAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+70706,CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,1,0,1,2,0,0,0,0,0,2,0,0,0,0,1,1,0,5,3,8
+90101,COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,1,0,1,1,0,0,0,0,1,3,1,0,0,1,2,1,6,6,12
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,2,0,2,0,0,2,0,0,1,0,2,2,2,0,0,0,0,0,9,4,13
+71301,COMARAPA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,2,1,0,4,4,8
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,2,3,2,1,1,1,0,5,4,6,1,0,0,0,2,0,12,16,28
+71106,CUATRO CAÑADAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,1,1,0,1,2,0,0,0,1,4,0,1,1,0,0,0,5,7,12
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,4,3,2,1,9,8,0,4,2,0,0,1,0,0,0,1,0,0,0,1,17,19,36
+71503,EL PUENTE(STC),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,1,1,2,2,5,2,0,0,0,0,0,0,2,2,1,2,1,0,1,2,13,11,24
+71004,FERNANDEZ ALONSO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,1,3,0,0,3,3,1,2,0,1,3,0,0,0,0,0,0,0,8,9,17
+71002,GENERAL SAAVEDRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,4,2,6
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,3,1,4
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,13,12,6,2,3,1,5,5,6,14,3,4,2,2,3,2,41,42,83
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+70701,LAGUNILLAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,2
+71003,MINEROS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+10501,MONTEAGUDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,1,0,2,1,3,1,1,1,1,3,8,2,1,0,2,2,2,10,21,31
+30203,OMEREQUE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,1,1,0,0,10,12,5,8,5,1,3,3,5,9,5,4,3,0,0,2,37,40,77
+70902,PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,1,1,0,1,1,1,0,1,0,1,0,1,0,0,0,0,2,6,8
+70601,PORTACHUELO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,1,2,2,0,1,0,0,0,0,3,4,4,0,5,2,6,0,20,10,30
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+70805,PUCARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+70503,ROBORE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,1,0,0,1,0,0,0,3,0,2,0,0,0,0,0,0,1,6,7
+31001,SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71302,SAIPINA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+71005,SAN PEDRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,17,15,26,18,149,146,113,90,76,47,41,60,134,205,44,56,35,65,69,59,704,761,1465
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,1,1,1,0,2,0,1,0,1,3,0,1,0,0,0,0,0,1,0,1,6,7,13
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+70802,TRIGAL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,3
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,1,0,3,2,2,0,6,1,3,10,3,3,3,2,3,1,24,19,43
+70201,WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,1,4,3,3,1,1,2,1,0,4,4,0,0,0,0,0,1,13,12,25
+60301,YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-04-01,1,0,0,2,8,4,9,8,2,1,2,3,3,5,2,4,1,2,1,3,29,32,61
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,6
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70401,BUENA VISTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,1,0,9,6,5,1,5,3,5,1,9,5,5,4,0,1,4,2,43,23,66
+70706,CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,1,1,1,2,0,0,0,1,0,0,0,1,1,0,0,2,1,7,4,11
+90101,COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,6,2,1,1,0,1,1,4,9,13
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,4,1,1,0,5,3,9,8,1,2,1,1,5,3,4,5,0,2,12,8,42,33,75
+70603,COLPA BELGICA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,4
+71301,COMARAPA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+71101,CONCEPCION,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,1,2,0,4,1,0,3,1,1,1,1,4,9,2,0,0,1,1,0,15,17,32
+71106,CUATRO CAÑADAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,1,0,1,3,0,1,1,0,0,0,0,4,1,0,0,0,1,0,5,8,13
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,6,2,3,3,17,10,2,2,4,0,0,1,1,0,1,0,2,2,1,5,37,25,62
+71503,EL PUENTE(STC),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,2,1,1,4,21,13,9,8,1,6,1,3,12,17,4,3,1,1,9,3,61,59,120
+71004,FERNANDEZ ALONSO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,2,1,0,1,4,4,1,1,2,3,2,6,2,1,3,0,0,2,3,19,19,38
+71002,GENERAL SAAVEDRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,1,0,0,1,1,0,0,1,0,1,1,0,0,1,0,1,0,0,0,2,3,7,10
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,5,11,14,13,5,7,5,8,3,24,32,11,6,4,5,9,11,87,86,173
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,2,0,0,0,4,4,2,5,2,0,0,0,2,0,1,0,0,2,0,0,13,11,24
+40702,MACHACAMARCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,1,3,5,8
+71003,MINEROS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,2,1,0,2,1,0,0,1,0,2,2,0,0,1,0,0,5,7,12
+10501,MONTEAGUDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,5,7,1,5,3,2,4,5,10,8,6,1,2,5,3,4,34,37,71
+70803,MORO MORO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70202,OKINAWA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,1,0,7,3,21,24,13,4,5,6,8,7,17,24,7,9,6,3,10,8,95,88,183
+70902,PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,3,0,0,3,1,0,2,1,2,0,0,0,0,0,2,4,10,14
+70103,PORONGO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70601,PORTACHUELO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,4,1,3,3,10,11,2,2,0,2,2,1,3,7,2,3,1,3,6,6,33,39,72
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,1,0,0,5,2,7
+70805,PUCARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70503,ROBORE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,2,2,2,0,2,1,1,2,1,3,2,1,0,0,0,0,10,9,19
+80304,RURRENABAQUE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+31001,SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,1,0,0,0,0,2,0,2,1,2,2,1,3,1,1,0,0,0,0,0,8,8,16
+70402,SAN CARLOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,2,0,1,2,2,2,1,0,2,5,1,0,1,0,1,0,11,9,20
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,1,0,0,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,6,2,10,5,15
+70501,SAN JOSE DE CHIQUITOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,1,0,1,3,6,6,1,0,2,0,2,3,4,2,0,1,0,1,1,16,18,34
+71104,SAN JULIAN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,2,3,5
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,3,3,6
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,57,43,57,51,302,256,137,121,77,68,65,76,265,305,83,113,64,81,88,79,1195,1193,2388
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,6,2,1,2,1,2,2,1,3,0,2,0,2,2,1,0,18,9,27
+31602,SHINAOTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,2,0,1,0,1,2,0,1,0,0,0,2,1,5,2,0,1,0,1,1,9,11,20
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2,3
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,2,1,3
+71502,URUBICHA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,1,0,5,0,0,1,0,2,0,0,0,0,0,0,0,3,6,9
+31003,VILLA TUNARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+70201,WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,3,0,2,1,6,5,0,3,3,1,2,0,1,0,17,10,27
+60301,YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,5,0,0,0,0,4,5,9
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-05-01,4,3,5,3,31,22,10,13,10,8,10,12,24,27,4,13,4,2,17,16,119,119,238
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70401,BUENA VISTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,1,3,4
+70706,CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,3
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,3,2,6,5,9,10,3,3,1,0,1,1,3,4,0,4,0,0,7,6,33,35,68
+71106,CUATRO CAÑADAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,14,8,9,4,19,11,4,2,1,0,0,0,0,2,3,5,0,4,4,7,54,43,97
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,2,0,4,0,1,0,0,0,1,0,3,2,1,0,0,0,0,0,12,2,14
+71002,GENERAL SAAVEDRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,1,0,1,0,0,1,2,0,3,2,0,1,0,0,0,4,7,11
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,1,0,0,1,1,1,2,1,0,0,2,4,2,3,0,1,0,2,1,13,9,22
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,1,0,0,0,0,1,0,0,0,0,0,0,1,0,2,1,0,1,4,7,8,10,18
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,1,0,0,0,1,2,0,0,0,0,1,1,2,0,2,0,0,1,1,4,8,12
+70601,PORTACHUELO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,1,1,1,0,0,6,2,8
+80304,RURRENABAQUE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71302,SAIPINA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,3,1,2,1,0,2,0,0,0,0,0,1,1,2,0,0,0,1,4,6,10,14,24
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+71104,SAN JULIAN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71005,SAN PEDRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,16,6,9,12,19,46,10,11,6,3,8,5,38,66,19,15,6,11,19,19,150,194,344
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,5
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,4,2,2,1,2,3,4,2,3,0,0,0,2,3,2,3,0,1,0,0,19,15,34
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,2,3,3,6
+50201,UNCIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+60301,YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-06-01,0,0,0,0,1,1,2,4,1,0,0,0,3,0,0,1,0,0,0,0,7,6,13
+50301,BETANZOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+90101,COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,3,3,1,3,1,2,2,2,0,0,0,0,1,4,1,1,0,2,0,3,9,20,29
+71301,COMARAPA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,3,3
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,8,7,3,5,11,4,0,2,1,0,0,1,0,2,0,0,1,0,3,0,27,21,48
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,2,3,5
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,4,4
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,5,2,7
+10501,MONTEAGUDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,3,3,6,9
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,3,2,5
+80304,RURRENABAQUE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,2,0,0,2,3,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,7,4,11
+71005,SAN PEDRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,8,8,8,3,17,7,1,4,3,3,1,5,12,20,5,9,6,6,4,4,65,69,134
+30902,SIPE SIPE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,1,1,0,0,4,2,0,3,1,1,2,0,3,3,0,4,0,3,5,1,16,18,34
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,2,0,1,0,5,1,6
+50201,UNCIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+60301,YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70401,BUENA VISTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,3,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,9,9,3,2,3,5,0,0,0,0,0,0,1,1,0,1,0,0,5,3,21,21,42
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+40701,HUANUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,2
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,4,0,4
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,2,0,1,1,5,2,7
+50203,LLALLAGUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,2,0,5,5
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,2
+80304,RURRENABAQUE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,3,5,3,4,15,4,3,2,1,0,2,2,11,9,6,3,0,4,5,5,49,38,87
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,1,0,0,0,3,2,1,0,0,0,0,0,4,3,2,4,0,1,1,3,12,13,25
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+21401,COROICO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,6,4,4,1,11,12,0,0,0,1,0,0,2,3,0,0,1,1,1,5,25,27,52
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,3
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10103,POROMA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+70503,ROBORE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,3,3,1,1,10,5,3,2,3,3,1,4,3,4,2,0,1,2,5,4,32,28,60
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,2,0,0,0,3,2,0,0,1,0,0,0,0,2,0,1,0,0,0,1,6,6,12
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,5,0,5
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,4
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,1,1,1,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,4,10
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,6,6,1,2,13,8,1,1,1,1,1,2,0,0,0,0,0,0,2,2,25,22,47
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2,3
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,1,3,4
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2
+70601,PORTACHUELO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+70503,ROBORE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,0,0,0,0,1,1,2,0,1,0,0,0,0,1,0,0,0,0,1,0,5,2,7
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,5,0,6,2,8,10,2,3,0,1,4,0,6,1,3,1,0,2,4,0,38,20,58
+30902,SIPE SIPE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+31003,VILLA TUNARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-11-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-11-01,9,3,0,0,5,3,0,1,0,1,0,0,0,1,0,0,1,0,0,0,15,9,24
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-11-01,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,5
+50203,LLALLAGUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-11-01,5,2,6,3,6,11,3,1,0,2,0,1,1,4,0,1,0,3,0,1,21,29,50
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,2,3
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+70702,CHARAGUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-12-01,6,3,3,1,6,2,0,0,0,0,0,0,0,0,0,0,0,1,2,2,17,9,26
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,2,1,3
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-12-01,1,0,1,1,11,8,2,1,0,1,1,3,18,6,0,0,0,7,3,1,37,28,65
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1,3,4
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2018-12-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+20201,ACHACACHI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30201,AIQUILE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70703,CABEZAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70706,CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,1,1,2,0,2,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,8,3,11
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,4,3,1,1,1,1,1,1,0,1,1,0,1,0,1,0,0,1,0,3,10,11,21
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,4,4
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1,3
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,1,0,0,0,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,1,5,6
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,6
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,1,0,2,2,0,1,1,0,2,0,2,3,0,1,0,0,0,0,8,7,15
+70902,PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,2,1,3
+70601,PORTACHUELO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,0,1,1,4,5
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,4,5,9,4,16,10,5,2,1,1,0,2,15,20,4,4,2,7,7,19,63,74,137
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,3,3
+30903,TIQUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,1,0,0,0,0,0,0,1,3,0,0,0,1,0,0,1,5,2,7
+70201,WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+60301,YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-01-01,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,1,4,4,8
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,1,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,4,6
+31204,CHIMORE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,1,1,4,1,3,1,0,0,0,0,0,0,1,1,0,0,0,0,3,0,12,4,16
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,2,2,1,0,2,4,1,2,1,2,4,0,6,9,3,0,1,0,0,3,21,22,43
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,2,1,0,0,0,2,5,7
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,1,0,1,0,0,1,1,0,2,0,0,0,1,2,0,1,0,1,0,0,6,5,11
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,3
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,2,3
+70902,PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+90301,PUERTO GONZALO MORENO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+71302,SAIPINA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70402,SAN CARLOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70404,SAN JUAN DE YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,28,18,23,22,47,39,9,8,4,6,7,6,10,14,2,5,5,4,9,8,144,130,274
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,3,0,3
+30903,TIQUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,1,0,1,1,0,3,1,1,2,1,1,0,1,0,0,2,7,8,15
+70201,WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,3
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-02-01,0,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,5,5
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,1,0,5,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,3,11
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,0,0,0,0,0,0,0,0,0,0,2,0,0,1,2,0,0,0,0,1,4,2,6
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,3,5,0,1,4,3,1,0,0,1,0,0,0,0,0,0,0,1,0,1,8,12,20
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,1,0,0,0,0,1,0,0,1,0,0,1,3,1,0,1,1,0,0,0,6,4,10
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,3,1,2,0,0,3,0,0,0,0,0,0,0,0,1,0,2,0,1,0,9,4,13
+31301,MIZQUE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2
+70601,PORTACHUELO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2,4
+71005,SAN PEDRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3
+80401,SANTA ANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,12,6,9,7,12,27,4,3,3,1,1,2,5,8,2,7,1,1,6,1,55,63,118
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,3,3
+30903,TIQUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,1,0,0,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,8
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-03-01,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,3,3,6
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,4,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,9
+70706,CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,2,4,0,2,0,0,0,0,0,0,1,1,0,0,0,1,0,1,3,9,12
+71106,CUATRO CAÑADAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,9,7,4,3,11,7,0,1,0,0,1,0,0,0,0,0,0,1,2,1,27,20,47
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,2,3,5
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,5,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,2,11
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,2,3,4,7
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,0,0,2,0,0,0,0,0,0,0,4,8,0,2,0,0,0,0,6,10,16
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,7,3,3,3,16,9,2,4,4,0,2,1,3,5,3,2,2,2,4,1,46,30,76
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+30903,TIQUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,1,1,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+70201,WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,9,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,12
+21304,CALAMARCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,2,0,1,0,1,0,0,0,3,2,0,0,1,0,3,2,11,4,15
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71106,CUATRO CAÑADAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,11,12,5,4,8,11,1,0,0,2,0,0,0,0,0,0,2,2,3,7,30,38,68
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,1,4
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,7,3,0,2,3,6,1,2,0,0,0,0,1,2,0,2,0,0,0,1,12,18,30
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,2,3
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,0,0,2,1,0,0,2,3,0,0,1,0,0,0,5,4,9
+70601,PORTACHUELO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+80401,SANTA ANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,5,4,3,6,23,17,11,7,3,3,3,0,6,10,5,3,2,5,5,7,66,62,128
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,3,3,6
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,3
+30903,TIQUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,1,1,3,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,7,8
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20801,VIACHA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70201,WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+20201,ACHACACHI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30201,AIQUILE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,3
+30701,CAPINOTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,1,1,4,0,8,2,1,1,0,2,8,9,3,0,2,6,9,12,36,33,69
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71106,CUATRO CAÑADAS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,1,2,3,4,10,11,0,0,2,1,0,0,0,1,0,1,1,2,3,1,20,23,43
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+40701,HUANUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,1,5,0,3,2,2,0,1,0,0,0,4,0,0,0,2,0,0,3,0,6,17,23
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,1,1,2,0,1,0,0,1,0,0,0,0,0,0,0,2,4,6
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,5,0,0,1,0,0,0,0,1,2,2,0,0,0,1,0,9,3,12
+70601,PORTACHUELO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,1,0,3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,6,6
+21002,QUIME,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70503,ROBORE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,3
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,2,4,7,7,27,22,8,8,3,5,2,2,16,18,8,8,2,7,7,9,82,90,172
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,4,1,0,0,0,3,0,0,0,0,0,0,1,1,0,1,2,1,2,1,9,8,17
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,4,4
+30903,TIQUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,4,0,1,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,3,10
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70201,WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,3
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+30201,AIQUILE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,1,3
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,2,2,4
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,2,4,5,0,1,4,4,2,17,11,8,9,5,10,10,20,52,60,112
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,3,1,4
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,2,1,3,3,4,4,0,0,0,0,0,0,0,1,0,0,0,1,4,4,13,14,27
+40701,HUANUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,1,2,0,1,0,2,0,1,0,0,0,0,0,1,0,0,0,0,2,0,3,7,10
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,1,0,1,0,1,3,0,1,1,0,0,0,0,1,0,0,0,0,0,0,4,5,9
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,2,0,0,0,0,1,0,0,1,0,1,1,0,1,2,3,6,9
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,1,0,2,0,1,1,0,0,1,0,0,0,5,1,6
+30901,QUILLACOLLO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+31001,SACABA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,3,4,3,12,8,5,7,1,6,4,3,18,23,6,9,7,7,5,9,62,78,140
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,2,2,1,1,1,3,1,0,0,0,0,1,7,9,3,8,5,5,2,5,22,34,56
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2
+30903,TIQUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,1,0,0,0,0,0,0,1,2,4,0,2,1,1,1,1,5,9,14
+70201,WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,2,3
+60301,YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-07-01,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20201,ACHACACHI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+30201,AIQUILE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1,1,3,2,5
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,2,3
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,2,0,1,0,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,6,2,8
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,3,4
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,1,0,2,3,2,1,6,2,0,0,0,0,0,0,0,0,0,0,0,6,11,17
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,1,0,0,0,0,1,0,5,0,0,0,1,2,2,3,9,12
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,2,3
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,1,1,2,1,12,8,7,5,7,5,4,4,15,17,2,5,4,9,5,4,59,59,118
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,1,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1,2,0,0,1,6,3,9
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,3
+30903,TIQUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+70201,WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,4,0,4
+60301,YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2,1,1,1,6,2,8
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-08-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+30402,ANZALDO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3
+21101,CHULUMANI (V. DE LA LIBERTAD),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,1,0,1,2,6,1,1,1,0,0,0,0,0,1,0,0,1,0,2,2,12,7,19
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,1,0,0,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,2,0,4,4,8
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,3,3,6,6,4,0,1,0,1,0,0,0,0,0,0,0,15,9,24
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,4,4
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,3,1,4
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,1,1,0,1,3,4,6,3,4,4,0,2,5,15,1,2,3,4,1,5,24,41,65
+30902,SIPE SIPE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+30903,TIQUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60301,YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,3,0,3
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60402,YUNCHARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20201,ACHACACHI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,2,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,5,1,6
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,1,2,2,1,2,5,4,2,0,0,0,0,2,0,0,0,0,1,3,0,14,11,25
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,1,1,0,0,2,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,5,4,9
+70705,GUTIERREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+40701,HUANUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,0,0,0,0,2,2,0,2,1,0,1,0,0,0,0,0,0,0,0,0,4,4,8
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,10,3,9,5,14,13,4,0,0,0,0,0,4,1,1,0,0,0,0,1,42,23,65
+30901,QUILLACOLLO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2,2,4
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,7,5,3,3,9,6,2,0,0,0,1,1,2,2,2,1,2,3,2,2,30,23,53
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60303,VILLA MONTES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20201,ACHACACHI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-11-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-11-01,4,3,1,1,6,1,0,0,0,0,0,0,0,2,0,1,0,0,0,1,11,9,20
+40701,HUANUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-11-01,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+20402,MOCOMOCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-11-01,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,4
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-11-01,1,1,0,0,5,2,0,1,0,0,0,0,1,4,0,0,0,0,2,0,9,8,17
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-11-01,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,4
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-11-01,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+60301,YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-11-01,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,3,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,2,7
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,2,3,5
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,1,0,3,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,3,9
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70503,ROBORE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,2
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,1,0,1,1,2,2,1,0,1,1,0,1,4,2,1,1,2,1,5,1,18,10,28
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50801,TUPIZA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10102,YOTALA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2019-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,1,2,0,3,4,7
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-01-01,3,2,2,0,1,1,0,0,0,0,0,0,0,2,0,0,1,1,1,0,8,6,14
+40701,HUANUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-01-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,1,0,1,2,4,6
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-01-01,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1,2,4,6
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-01-01,0,0,0,0,2,1,0,0,0,1,0,0,4,3,0,1,1,1,0,1,7,8,15
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+60303,VILLA MONTES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31003,VILLA TUNARI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-01-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50702,CARIPUYO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,3
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,0,0,0,0,1,2,1,0,1,1,1,3,2,0,0,0,1,0,7,6,13
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,2,4
+40701,HUANUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,0,0,0,0,0,0,0,0,1,0,6,6,2,2,2,1,0,0,11,9,20
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70601,PORTACHUELO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+30901,QUILLACOLLO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80201,RIBERALTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,0,0,4,4,2,2,2,1,2,2,6,17,2,1,4,0,2,2,24,29,53
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,1,1,4,3,7
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,1,0,2,1,0,3,5,8
+30201,AIQUILE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70706,CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,2,0,0,1,0,0,0,1,0,0,0,0,1,0,0,2,3,5
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,1,2,0,0,1,0,0,0,1,7,1,0,0,2,1,1,5,12,17
+70603,COLPA BELGICA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,2
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,1,0,0,0,2,0,0,0,0,1,5,0,5,1,1,1,2,0,0,2,16,5,21
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,5,1,3,1,1,3,1,1,0,0,0,0,0,1,0,1,0,1,0,2,10,11,21
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,1,0,0,1,0,0,0,1,1,0,2,2,0,0,0,0,2,4,6,8,14
+40701,HUANUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,2,2,4
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,1,0,0,0,0,1,0,0,1,1,3,8,5,6,2,4,1,3,13,23,36
+80801,MAGDALENA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,1,1,2,3,2,5,2,2,2,1,0,0,1,1,1,1,1,1,1,2,13,17,30
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,1,2,4,6
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,3
+21201,PUCARANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70402,SAN CARLOS,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,1,1,2,4,5,9
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,4,5,5,6,32,21,17,13,14,15,12,6,45,73,15,21,6,18,20,16,170,194,364
+70602,SANTA ROSA DEL SARA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1,1,0,1,0,7,1,8
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,1,0,1,4,0,1,0,2,0,2,1,3,2,2,1,0,2,2,8,16,24
+70201,WARNES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-03-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,2,1,3
+70706,CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30701,CAPINOTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,1,1,0,1,4,3,7
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2,3
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,1,1,0,1,1,1,1,6,2,1,0,0,1,1,6,11,17
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,1,0,0,1,3,11,3,2,0,3,3,3,10,20,30
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,2,0,0,0,0,0,0,1,1,0,1,2,0,1,1,0,5,4,9
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,0,1,0,0,0,3,3,6
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,1,0,1,1,0,1,0,0,0,0,0,3,3,0,1,1,0,0,6,6,12
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,3,3
+70601,PORTACHUELO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,2,1,3
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,4,1,2,2,5,2,6,0,9,5,4,6,44,33,13,15,14,7,12,17,113,88,201
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+20608,TEOPONTE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,1,0,0,3,2,5
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,3
+70403,YAPACANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70706,CAMIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,1,2,2,5,7
+50901,"COLCHA ""K""",sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,1,0,0,1,2,0,1,0,4,1,0,3,14,9,3,7,3,9,4,30,32,62
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,1,0,0,0,0,1,2,1,0,2,1,1,24,31,12,9,6,3,14,3,60,51,111
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,1,2,1,0,1,0,1,1,0,2,1,0,0,0,0,5,5,10
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,1,1,0,2,0,3,8,20,3,2,3,4,1,0,16,32,48
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70902,PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,0,0,2,1,0,1,0,1,1,1,1,1,1,5,5,10
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,2,2,0,7,2,9
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,3,1,4
+71104,SAN JULIAN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,1,0,0,3,2,1,1,0,0,0,0,11,8,5,8,7,6,10,14,37,40,77
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,3,1,4
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,1,0,0,0,0,5,2,1,2,2,3,0,0,8,8,16
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,0,0,0,0,0,1,0,2,1,1,2,4,0,0,0,0,3,8,11
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,2,1,3
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,0,0,0,2,0,0,1,0,15,15,4,7,4,5,12,5,36,34,70
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,1,0,0,0,0,0,0,0,1,0,0,0,2,1,0,1,0,0,1,0,5,2,7
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,0,1,0,0,0,1,0,1,1,8,8,4,0,0,2,6,11,21,32
+90501,NUEVO MANOA (NUEVA ESPERANZA),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70902,PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,0,0,1,0,0,0,0,1,0,5,1,1,1,0,0,1,3,8,11
+31304,RAQAYPAMPA(ETA),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,0,0,0,0,0,0,0,2,2,11,1,4,0,1,2,0,5,18,23
+80602,SAN ANDRES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,1,0,1,0,0,0,0,0,0,0,0,0,13,15,11,7,5,9,12,11,43,42,85
+30902,SIPE SIPE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-06-01,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+30905,COLCAPIRHUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20602,GUANAY,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70104,LA GUARDIA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,0,1,2,4,4,8
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,40,81,26,85,11,69,20,30,97,265,362
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,1,0,1,0,2,2,0,11,15,2,4,3,3,8,5,26,31,57
+20103,MECAPACA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2,3
+70902,PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,0,0,1,1,2,1,0,8,12,3,2,3,2,1,5,17,24,41
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,1,0,0,2,0,1,1,5,3,3,2,1,1,2,1,14,9,23
+80602,SAN ANDRES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,1,0,0,1,1,2,0,1,0,0,0,1,0,0,0,0,0,0,0,5,2,7
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-08-01,0,0,0,0,0,0,2,0,2,10,0,3,51,197,47,173,37,181,25,75,164,639,803
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,6,13,2,4,3,4,4,2,15,23,38
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-08-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,1,1,1,0,6,1,7
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-08-01,2,0,0,2,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,2,3,6,9
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30905,COLCAPIRHUA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+50601,COTAGAITA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-09-01,0,0,1,0,0,0,1,0,2,1,4,0,19,55,17,39,11,52,5,23,60,170,230
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-09-01,0,0,0,0,0,0,0,0,0,0,0,1,5,7,0,2,1,2,0,1,6,13,19
+70902,PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-09-01,0,0,0,0,1,0,0,1,0,0,3,4,5,9,3,6,1,4,9,6,22,30,52
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+80302,SAN BORJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-09-01,1,0,1,1,2,0,0,0,0,1,1,0,3,3,5,2,3,2,8,5,24,14,38
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-10-01,0,0,0,2,0,0,0,0,0,0,1,2,2,13,0,6,1,6,3,3,7,32,39
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,3,1,4
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-10-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70902,PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,1,1,1,1,0,7,6,13
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-10-01,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,4,5
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,3,2,5,7
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,5,2,2,2,15,17
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,4,4
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70502,PAILON,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70902,PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-11-01,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,0,0,0,0,1,4,5
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,3,0,3
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-11-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,3
+60101,TARIJA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10602,YAMPARAEZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21004,COLQUIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20204,HUARINA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,25,4,26,4,12,6,8,16,71,87
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,3,2,5
+31301,MIZQUE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70902,PAMPA GRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-12-01,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,1,0,2,1,5,3,8
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-12-01,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,3,2,5
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2020-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,3,1,3,4,7
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-01-01,0,1,1,0,1,0,1,0,0,0,1,0,7,23,7,22,2,17,4,3,24,66,90
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-01-01,0,0,0,0,0,1,0,0,0,1,2,1,3,3,1,2,1,2,1,1,8,11,19
+40101,ORURO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21201,PUCARANI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-01-01,0,0,0,0,0,0,0,0,2,0,0,5,17,11,2,5,3,4,0,1,24,26,50
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-01-01,0,0,0,1,0,0,0,1,0,0,0,1,3,0,0,1,3,1,1,3,7,8,15
+31602,SHINAOTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,8,1,2,1,4,5,24,29
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-02-01,0,0,0,0,0,1,0,0,0,1,0,0,1,3,0,1,0,0,2,2,3,8,11
+80201,RIBERALTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-02-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-02-01,0,0,0,0,0,0,0,0,0,0,1,0,7,7,6,2,1,7,1,1,16,17,33
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,3,2,0,1,0,3,2,7,5,12
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,2
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,6,4,6,0,5,4,3,9,20,29
+70903,MAIRANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,2,0,3,3,6
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31203,POCONA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-03-01,0,0,0,0,0,0,0,0,0,0,0,1,3,4,1,3,1,2,2,0,7,10,17
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-03-01,0,1,0,0,1,0,0,1,0,1,0,0,0,1,1,1,2,0,3,0,7,5,12
+51201,UYUNI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70901,SAMAIPATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0,1,2,4,6
+71005,SAN PEDRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-04-01,0,0,0,0,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,120,120
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-04-01,2,4,1,0,3,0,2,0,1,0,1,0,3,1,3,3,2,2,4,5,22,15,37
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+21005,ICHOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-05-01,0,0,0,0,0,2,0,0,0,0,1,0,0,9,2,2,0,3,0,1,3,17,20
+51601,SAN AGUSTIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,2,1,3,5,8
+71005,SAN PEDRO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-05-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,3,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-05-01,9,5,2,2,4,5,0,2,0,2,1,0,3,4,2,2,3,1,4,2,28,25,53
+60202,BERMEJO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-06-01,0,0,0,0,0,0,0,0,2,0,0,1,1,12,3,7,1,11,2,5,9,36,45
+50101,POTOSI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+50405,SAN PEDRO DE MACHA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-06-01,7,3,1,1,2,2,3,0,0,0,0,1,5,2,1,3,3,2,8,1,30,15,45
+31602,SHINAOTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10403,SOPACHUY,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31303,ALALAY,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70707,BOYUIBE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+71004,FERNANDEZ ALONSO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20602,GUANAY,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,3,3
+50403,POCOATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+31205,PUERTO VILLARROEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,2,2,1,4,0,2,0,0,11,5,4,5,3,0,1,3,22,21,43
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-08-01,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,3
+50401,COLQUECHACA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+21701,COPACABANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,3,1,4
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,1,1,0,0,3,3,6
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-08-01,0,2,1,0,0,1,2,2,2,0,0,0,3,3,2,1,0,2,3,3,13,14,27
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-08-01,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,3
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-09-01,1,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,4,1,5
+20602,GUANAY,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-09-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31301,MIZQUE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-09-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-09-01,3,1,3,1,3,4,1,2,0,2,0,0,5,0,1,1,0,0,0,2,16,13,29
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70801,VALLEGRANDE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-10-01,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,2,2,4
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+21001,INQUISIVI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,2,3
+20102,PALCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-10-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80702,SAN RAMON BENI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-10-01,2,3,3,2,7,3,3,0,0,0,0,0,0,1,0,0,0,0,0,1,15,10,25
+30702,SANTIVAÑES,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-10-01,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2
+60401,URIONDO (A. CONCEPCION),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-11-01,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-11-01,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+20602,GUANAY,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3
+50403,POCOATA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30901,QUILLACOLLO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-11-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-11-01,4,4,1,4,6,2,0,0,3,0,0,0,1,0,0,0,0,0,0,0,15,10,25
+30903,TIQUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-11-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+71403,CARMEN RIVERO TORREZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,3,1,3,4,3,5,3,2,1,14,2,2,2,1,3,2,20,31,51
+50202,CHAYANTA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70102,COTOCA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+20105,EL ALTO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70105,EL TORNO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,2,3
+90503,EUREKA (SANTOS MERCADO),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,1,1,0,0,4,2,0,1,1,1,0,0,6,5,11
+71004,FERNANDEZ ALONSO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71002,GENERAL SAAVEDRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2,2
+80202,GUAYARAMERIN,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,0,1,1,2,2,6,8
+80803,HUARACAJE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,2,1,4,0,2,1,4,0,1,1,0,0,0,3,13,16
+20101,LA PAZ,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+20607,MAPIRI,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,2,1,3
+71001,MONTERO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90301,PUERTO GONZALO MORENO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+21002,QUIME,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+31304,RAQAYPAMPA(ETA),sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70303,SAN RAFAEL,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,3,2,5
+80401,SANTA ANA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,4,4,3,4,17,18,4,4,3,3,1,0,31,14,8,4,6,1,2,2,79,54,133
+10101,SUCRE,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30903,TIQUIPAYA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,3,1,4,5,6,9,1,1,0,0,1,2,0,0,0,1,0,0,15,19,34
+20903,YACO,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60301,YACUIBA,sospecha diagnostica,"influenza  (irag ,iragi y eti)",2021-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1

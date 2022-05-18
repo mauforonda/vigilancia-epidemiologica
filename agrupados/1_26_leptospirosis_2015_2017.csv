@@ -1,0 +1,170 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-meses-a-menor-de-1-ano_masculino,b-6-meses-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+60302,CARAPARI,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,2
+80202,GUAYARAMERIN,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+20607,MAPIRI,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,1,0,0,0,0,2,0,1,3,4,0,0,1,0,2,1,7,8,15
+70402,SAN CARLOS,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80501,SAN IGNACIO,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+31003,VILLA TUNARI,sospecha diagnostica,leptospirosis,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-02-01,2,0,2,0,2,1,1,1,5,0,3,2,1,11,2,1,3,0,5,1,26,17,43
+60201,PADCAYA,sospecha diagnostica,leptospirosis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,leptospirosis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60303,VILLA MONTES,sospecha diagnostica,leptospirosis,2015-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,2,3
+90101,COBIJA,sospecha diagnostica,leptospirosis,2015-03-01,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,3,0,3
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2015-03-01,0,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,2,0,0,4,2,6
+20607,MAPIRI,sospecha diagnostica,leptospirosis,2015-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-03-01,0,0,1,0,1,4,1,0,3,1,5,4,7,2,1,4,1,1,2,2,22,18,40
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,3
+22001,CARANAVI,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+60601,ENTRE RIOS TRJ,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,1,1,2,4,3,5,6,2,1,2,2,4,4,18,19,37
+80501,SAN IGNACIO,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,4
+10101,SUCRE,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60303,VILLA MONTES,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2
+60301,YACUIBA,sospecha diagnostica,leptospirosis,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,1,3
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,2,3
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,2,1,0,1,0,3,3,4,7,5,3,3,1,3,4,7,20,27,47
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,1,0,3,2,5
+10101,SUCRE,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,sospecha diagnostica,leptospirosis,2015-05-01,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,3,4
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-06-01,0,0,0,0,1,0,0,1,1,1,1,2,2,5,3,5,3,1,2,2,13,17,30
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+10101,SUCRE,sospecha diagnostica,leptospirosis,2015-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,sospecha diagnostica,leptospirosis,2015-06-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+60202,BERMEJO,sospecha diagnostica,leptospirosis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,2,1,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-07-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,3,1,4
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+71503,EL PUENTE(STC),sospecha diagnostica,leptospirosis,2015-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-08-01,0,0,0,0,0,1,0,0,0,0,2,1,1,2,1,1,0,3,0,1,4,9,13
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+60303,VILLA MONTES,sospecha diagnostica,leptospirosis,2015-08-01,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,2
+90101,COBIJA,sospecha diagnostica,leptospirosis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,2,3,5
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,3,0,3
+60101,TARIJA,sospecha diagnostica,leptospirosis,2015-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2015-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-10-01,0,0,0,0,0,0,0,0,1,0,2,0,3,0,0,1,1,0,2,0,9,1,10
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-10-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,2,3
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-11-01,0,0,1,0,0,0,0,0,0,0,3,0,4,2,0,0,1,0,1,0,10,2,12
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2015-12-01,0,0,0,0,2,0,2,1,1,0,0,0,3,2,1,2,0,0,0,2,9,7,16
+80501,SAN IGNACIO,sospecha diagnostica,leptospirosis,2015-12-01,0,0,0,0,0,0,1,0,1,0,2,0,3,2,3,2,1,0,0,0,11,4,15
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2015-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,leptospirosis,2015-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,leptospirosis,2015-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60302,CARAPARI,sospecha diagnostica,leptospirosis,2016-01-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+11003,MACHARETI,sospecha diagnostica,leptospirosis,2016-01-01,0,0,0,0,0,0,0,0,1,2,1,0,4,5,0,0,1,0,1,0,8,7,15
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-01-01,0,0,0,0,2,2,1,1,5,2,6,2,3,7,1,2,2,2,0,1,20,19,39
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,2,3
+60101,TARIJA,sospecha diagnostica,leptospirosis,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,3,2,5
+90101,COBIJA,sospecha diagnostica,leptospirosis,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+11003,MACHARETI,sospecha diagnostica,leptospirosis,2016-02-01,0,0,0,0,1,0,1,1,1,6,3,4,9,10,2,3,1,2,3,0,21,26,47
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-02-01,0,0,0,0,3,1,3,1,4,0,4,3,10,7,1,1,2,2,0,2,27,17,44
+80401,SANTA ANA,sospecha diagnostica,leptospirosis,2016-02-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2016-02-01,0,0,0,0,0,0,0,0,1,0,0,0,1,4,1,0,0,0,1,0,4,4,8
+90101,COBIJA,sospecha diagnostica,leptospirosis,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,1,0,4,1,5
+11003,MACHARETI,sospecha diagnostica,leptospirosis,2016-03-01,0,0,0,0,0,0,2,0,0,0,4,1,3,6,2,2,1,1,0,4,12,14,26
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-03-01,0,0,0,0,1,2,1,0,2,1,1,5,4,10,1,2,3,2,0,0,13,22,35
+71104,SAN JULIAN,sospecha diagnostica,leptospirosis,2016-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2016-03-01,0,0,0,0,0,0,0,0,2,0,0,0,1,1,1,1,0,0,1,0,5,2,7
+80101,TRINIDAD,sospecha diagnostica,leptospirosis,2016-03-01,0,0,0,0,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,3,2,5
+60301,YACUIBA,sospecha diagnostica,leptospirosis,2016-03-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+90101,COBIJA,sospecha diagnostica,leptospirosis,2016-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2016-04-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+11003,MACHARETI,sospecha diagnostica,leptospirosis,2016-04-01,0,0,0,0,0,0,0,0,1,4,3,0,2,3,1,0,2,0,1,0,10,7,17
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-04-01,0,0,1,0,0,1,0,1,1,0,0,0,2,5,0,0,1,0,0,0,5,7,12
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,2,1,1,1,1,4,6,10
+11003,MACHARETI,sospecha diagnostica,leptospirosis,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2016-05-01,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2,1,0,0,1,1,7,2,9
+60101,TARIJA,sospecha diagnostica,leptospirosis,2016-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+11003,MACHARETI,sospecha diagnostica,leptospirosis,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-06-01,1,0,0,0,0,0,2,2,1,0,1,0,3,2,0,0,1,0,0,0,9,4,13
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2016-06-01,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,1,1,1,2,0,7,3,10
+10101,SUCRE,sospecha diagnostica,leptospirosis,2016-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,leptospirosis,2016-06-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,sospecha diagnostica,leptospirosis,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-07-01,0,0,0,0,0,0,0,0,0,0,0,0,4,5,1,2,0,1,1,1,6,9,15
+90101,COBIJA,sospecha diagnostica,leptospirosis,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-08-01,0,0,0,0,0,0,0,0,1,1,3,1,6,5,0,0,3,2,0,3,13,12,25
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2016-08-01,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,2,2,3,5
+60101,TARIJA,sospecha diagnostica,leptospirosis,2016-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,leptospirosis,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+80202,GUAYARAMERIN,sospecha diagnostica,leptospirosis,2016-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-09-01,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0,0,0,1,1,5,2,7
+70502,PAILON,sospecha diagnostica,leptospirosis,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,3,4
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2016-09-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,3,2,5
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-10-01,0,0,1,0,0,1,0,0,0,0,0,0,3,3,1,0,0,0,0,1,5,5,10
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,1,0,1,2,4,5,9
+10402,TOMINA,sospecha diagnostica,leptospirosis,2016-10-01,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,1,2,6,8
+10101,SUCRE,sospecha diagnostica,leptospirosis,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,leptospirosis,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+11003,MACHARETI,sospecha diagnostica,leptospirosis,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2016-12-01,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,2,2,4
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+60101,TARIJA,sospecha diagnostica,leptospirosis,2016-12-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,3,0,3
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-01-01,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,2,1,0,0,0,5,2,7
+60303,VILLA MONTES,sospecha diagnostica,leptospirosis,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+22001,CARANAVI,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2017-02-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,1,0,0,0,0,2,5,7
+80501,SAN IGNACIO,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,0,0,5,0,5
+60101,TARIJA,sospecha diagnostica,leptospirosis,2017-02-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+70105,EL TORNO,sospecha diagnostica,leptospirosis,2017-03-01,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,3
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2
+71104,SAN JULIAN,sospecha diagnostica,leptospirosis,2017-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,1,0,3,2,5
+71104,SAN JULIAN,sospecha diagnostica,leptospirosis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,2
+60101,TARIJA,sospecha diagnostica,leptospirosis,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,leptospirosis,2017-04-01,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3,0,3
+22001,CARANAVI,sospecha diagnostica,leptospirosis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2
+90101,COBIJA,sospecha diagnostica,leptospirosis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,3,0,3
+11003,MACHARETI,sospecha diagnostica,leptospirosis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,1,0,2,0,7,1,8
+22001,CARANAVI,sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+80501,SAN IGNACIO,sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71102,SAN JAVIER(STC),sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,2,3,5
+60101,TARIJA,sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,sospecha diagnostica,leptospirosis,2017-06-01,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,3
+10101,SUCRE,sospecha diagnostica,leptospirosis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,leptospirosis,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,leptospirosis,2017-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,1,0,0,0,0,0,5,0,0,1,2,0,0,0,8,1,9
+22001,CARANAVI,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70104,LA GUARDIA,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0,2
+60101,TARIJA,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,2,3
+80101,TRINIDAD,sospecha diagnostica,leptospirosis,2017-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,3
+80401,SANTA ANA,sospecha diagnostica,leptospirosis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-09-01,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,1,3,1,4
+60101,TARIJA,sospecha diagnostica,leptospirosis,2017-09-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,leptospirosis,2017-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2017-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,leptospirosis,2017-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70201,WARNES,sospecha diagnostica,leptospirosis,2017-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+90101,COBIJA,sospecha diagnostica,leptospirosis,2017-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-11-01,0,0,0,0,0,1,0,0,0,0,0,0,2,0,2,0,3,1,1,0,8,2,10
+80101,TRINIDAD,sospecha diagnostica,leptospirosis,2017-11-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,leptospirosis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70105,EL TORNO,sospecha diagnostica,leptospirosis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,leptospirosis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+80101,TRINIDAD,sospecha diagnostica,leptospirosis,2017-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1

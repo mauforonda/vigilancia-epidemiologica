@@ -1,0 +1,189 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-meses-a-menor-de-1-ano_masculino,b-6-meses-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2018-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30905,COLCAPIRHUA,sospecha diagnostica,rabia en perros,2018-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia en perros,2018-01-01,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2018-01-01,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,6
+40101,ORURO,sospecha diagnostica,rabia en perros,2018-01-01,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70103,PORONGO,sospecha diagnostica,rabia en perros,2018-01-01,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50101,POTOSI,sospecha diagnostica,rabia en perros,2018-01-01,1,0,1,0,16,3,2,0,4,0,0,1,0,0,0,0,0,0,0,0,24,4,28
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2018-01-01,0,1,1,0,11,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,14,3,17
+30902,SIPE SIPE,sospecha diagnostica,rabia en perros,2018-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-01-01,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+60101,TARIJA,sospecha diagnostica,rabia en perros,2018-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),sospecha diagnostica,rabia en perros,2018-01-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30904,VINTO,sospecha diagnostica,rabia en perros,2018-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-01-01,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2018-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30905,COLCAPIRHUA,sospecha diagnostica,rabia en perros,2018-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2018-02-01,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40701,HUANUNI,sospecha diagnostica,rabia en perros,2018-02-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70104,LA GUARDIA,sospecha diagnostica,rabia en perros,2018-02-01,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2018-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,sospecha diagnostica,rabia en perros,2018-02-01,2,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+70103,PORONGO,sospecha diagnostica,rabia en perros,2018-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,sospecha diagnostica,rabia en perros,2018-02-01,3,0,4,0,12,5,9,3,0,0,1,0,0,0,0,0,0,0,0,0,29,8,37
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2018-02-01,0,1,0,0,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,7,3,10
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-02-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60101,TARIJA,sospecha diagnostica,rabia en perros,2018-02-01,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-02-01,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2018-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+70102,COTOCA,sospecha diagnostica,rabia en perros,2018-03-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2018-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia en perros,2018-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2018-03-01,0,0,0,0,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,7
+40101,ORURO,sospecha diagnostica,rabia en perros,2018-03-01,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+50101,POTOSI,sospecha diagnostica,rabia en perros,2018-03-01,4,0,3,2,15,1,3,1,3,0,0,0,0,0,0,0,0,0,0,0,28,4,32
+30901,QUILLACOLLO,sospecha diagnostica,rabia en perros,2018-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31001,SACABA,sospecha diagnostica,rabia en perros,2018-03-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2018-03-01,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,3
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-03-01,1,2,0,0,4,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,8,8,16
+60101,TARIJA,sospecha diagnostica,rabia en perros,2018-03-01,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+30903,TIQUIPAYA,sospecha diagnostica,rabia en perros,2018-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70102,COTOCA,sospecha diagnostica,rabia en perros,2018-04-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2018-04-01,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+70104,LA GUARDIA,sospecha diagnostica,rabia en perros,2018-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2018-04-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+40101,ORURO,sospecha diagnostica,rabia en perros,2018-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,sospecha diagnostica,rabia en perros,2018-04-01,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50101,POTOSI,sospecha diagnostica,rabia en perros,2018-04-01,3,0,0,0,10,2,7,1,1,0,0,0,0,0,0,0,0,0,0,0,21,3,24
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2018-04-01,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-04-01,1,1,0,1,6,9,4,0,1,0,0,0,0,0,0,0,0,0,0,0,12,11,23
+60101,TARIJA,sospecha diagnostica,rabia en perros,2018-04-01,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-04-01,0,0,0,0,3,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,7,3,10
+30905,COLCAPIRHUA,sospecha diagnostica,rabia en perros,2018-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+31002,COLOMI,sospecha diagnostica,rabia en perros,2018-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2018-05-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70104,LA GUARDIA,sospecha diagnostica,rabia en perros,2018-05-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2018-05-01,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+40101,ORURO,sospecha diagnostica,rabia en perros,2018-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,sospecha diagnostica,rabia en perros,2018-05-01,1,1,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,2,6
+50101,POTOSI,sospecha diagnostica,rabia en perros,2018-05-01,6,0,3,0,20,9,5,3,1,0,0,0,0,0,0,0,0,0,0,0,35,12,47
+30901,QUILLACOLLO,sospecha diagnostica,rabia en perros,2018-05-01,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+31001,SACABA,sospecha diagnostica,rabia en perros,2018-05-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2018-05-01,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-05-01,1,0,0,0,4,6,4,0,0,1,0,0,0,0,0,0,0,0,0,0,9,7,16
+60101,TARIJA,sospecha diagnostica,rabia en perros,2018-05-01,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+30903,TIQUIPAYA,sospecha diagnostica,rabia en perros,2018-05-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-05-01,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2018-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,rabia en perros,2018-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2018-06-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia en perros,2018-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2018-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,sospecha diagnostica,rabia en perros,2018-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,sospecha diagnostica,rabia en perros,2018-06-01,0,3,2,1,8,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,19,8,27
+30901,QUILLACOLLO,sospecha diagnostica,rabia en perros,2018-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2018-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-06-01,1,2,0,1,5,4,6,1,0,0,0,0,0,0,0,0,0,0,0,0,12,8,20
+60101,TARIJA,sospecha diagnostica,rabia en perros,2018-06-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30903,TIQUIPAYA,sospecha diagnostica,rabia en perros,2018-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-06-01,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2018-07-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2018-07-01,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+40101,ORURO,sospecha diagnostica,rabia en perros,2018-07-01,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50101,POTOSI,sospecha diagnostica,rabia en perros,2018-07-01,2,1,5,3,17,10,3,2,0,0,0,0,0,0,0,0,0,0,0,0,27,16,43
+31001,SACABA,sospecha diagnostica,rabia en perros,2018-07-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2018-07-01,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-07-01,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+60101,TARIJA,sospecha diagnostica,rabia en perros,2018-07-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-07-01,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+20104,ACHOCALLA,sospecha diagnostica,rabia en perros,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2018-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2018-08-01,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+70104,LA GUARDIA,sospecha diagnostica,rabia en perros,2018-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2018-08-01,0,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+50404,OCURI,sospecha diagnostica,rabia en perros,2018-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,sospecha diagnostica,rabia en perros,2018-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,sospecha diagnostica,rabia en perros,2018-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,sospecha diagnostica,rabia en perros,2018-08-01,1,1,0,2,17,5,5,0,1,0,0,0,0,0,0,0,0,0,0,0,24,8,32
+30902,SIPE SIPE,sospecha diagnostica,rabia en perros,2018-08-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-08-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,sospecha diagnostica,rabia en perros,2018-08-01,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5
+30903,TIQUIPAYA,sospecha diagnostica,rabia en perros,2018-08-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-08-01,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,7
+20104,ACHOCALLA,sospecha diagnostica,rabia en perros,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2018-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+71002,GENERAL SAAVEDRA,sospecha diagnostica,rabia en perros,2018-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia en perros,2018-09-01,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2018-09-01,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+50101,POTOSI,sospecha diagnostica,rabia en perros,2018-09-01,0,1,0,0,9,5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,12,7,19
+30901,QUILLACOLLO,sospecha diagnostica,rabia en perros,2018-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-09-01,0,0,0,1,12,6,8,1,0,0,0,0,0,0,0,0,0,0,0,0,20,8,28
+60101,TARIJA,sospecha diagnostica,rabia en perros,2018-09-01,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+30903,TIQUIPAYA,sospecha diagnostica,rabia en perros,2018-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30904,VINTO,sospecha diagnostica,rabia en perros,2018-09-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-09-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2018-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2018-10-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+71002,GENERAL SAAVEDRA,sospecha diagnostica,rabia en perros,2018-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2018-10-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40101,ORURO,sospecha diagnostica,rabia en perros,2018-10-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,sospecha diagnostica,rabia en perros,2018-10-01,1,0,0,0,4,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,7,2,9
+30901,QUILLACOLLO,sospecha diagnostica,rabia en perros,2018-10-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-10-01,0,1,0,0,5,11,5,1,2,0,0,0,1,0,0,0,0,0,0,0,13,13,26
+60101,TARIJA,sospecha diagnostica,rabia en perros,2018-10-01,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+51501,VILLAZON,sospecha diagnostica,rabia en perros,2018-10-01,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-10-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+40102,CARACOLLO,sospecha diagnostica,rabia en perros,2018-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2018-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+30905,COLCAPIRHUA,sospecha diagnostica,rabia en perros,2018-11-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2018-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2018-11-01,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2018-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-11-01,0,2,0,0,5,10,3,3,0,0,0,0,0,0,0,0,0,0,0,0,8,15,23
+60101,TARIJA,sospecha diagnostica,rabia en perros,2018-11-01,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2018-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2018-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+41101,EUCALIPTUS,sospecha diagnostica,rabia en perros,2018-12-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2018-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2018-12-01,0,0,0,0,6,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,9,1,10
+70201,WARNES,sospecha diagnostica,rabia en perros,2018-12-01,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+20201,ACHACACHI,sospecha diagnostica,rabia en perros,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2019-01-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,rabia en perros,2019-01-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2019-02-01,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,4,0,4
+70104,LA GUARDIA,sospecha diagnostica,rabia en perros,2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,sospecha diagnostica,rabia en perros,2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,rabia en perros,2019-02-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70201,WARNES,sospecha diagnostica,rabia en perros,2019-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2019-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2019-03-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+30901,QUILLACOLLO,sospecha diagnostica,rabia en perros,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2019-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2019-03-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2019-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2019-04-01,2,0,0,0,8,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,15,2,17
+60101,TARIJA,sospecha diagnostica,rabia en perros,2019-04-01,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+10101,SUCRE,sospecha diagnostica,rabia en perros,2019-05-01,0,0,0,0,7,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,8,5,13
+60101,TARIJA,sospecha diagnostica,rabia en perros,2019-05-01,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,7
+10202,TARVITA,sospecha diagnostica,rabia en perros,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2
+70201,WARNES,sospecha diagnostica,rabia en perros,2019-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2019-06-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2019-06-01,0,0,0,1,5,4,4,2,0,0,0,0,0,0,0,0,0,0,0,0,9,7,16
+60101,TARIJA,sospecha diagnostica,rabia en perros,2019-06-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2019-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,rabia en perros,2019-07-01,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2019-07-01,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,3
+10101,SUCRE,sospecha diagnostica,rabia en perros,2019-07-01,2,0,1,0,7,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,14
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2019-08-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2019-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2019-08-01,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,2,3
+30701,CAPINOTA,sospecha diagnostica,rabia en perros,2019-09-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2019-09-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,rabia en perros,2019-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2019-09-01,0,0,0,0,9,6,6,4,0,0,0,0,0,0,0,0,0,0,0,0,15,10,25
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2019-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+10101,SUCRE,sospecha diagnostica,rabia en perros,2019-10-01,0,0,0,0,9,11,4,2,0,1,0,0,0,0,0,0,0,0,0,0,13,14,27
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia en perros,2019-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,rabia en perros,2019-12-01,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+71001,MONTERO,sospecha diagnostica,rabia en perros,2019-12-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+21702,SAN PEDRO DE TIQUINA,sospecha diagnostica,rabia en perros,2019-12-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10101,SUCRE,sospecha diagnostica,rabia en perros,2019-12-01,0,1,0,0,3,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,5,4,9

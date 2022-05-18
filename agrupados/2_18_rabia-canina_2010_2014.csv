@@ -1,0 +1,619 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 1 año,1 a 4 años,5 a 9 años,10 a 20 años,21 a 59 años,60 y más,TOTAL
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,rabia canina,2010-01-01,0,0,1,0,0,0,1
+20105,EL ALTO,sospecha diagnostica,rabia canina,2010-01-01,1,0,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2010-01-01,0,1,1,0,0,0,2
+50101,POTOSI,sospecha diagnostica,rabia canina,2010-01-01,0,2,1,0,0,0,3
+90301,PUERTO GONZALO MORENO,sospecha diagnostica,rabia canina,2010-01-01,0,0,0,0,0,1,1
+60501,SAN LORENZO(TJA),sospecha diagnostica,rabia canina,2010-01-01,0,1,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2010-01-01,0,0,1,0,3,0,4
+60101,TARIJA,sospecha diagnostica,rabia canina,2010-01-01,1,0,0,0,0,0,1
+30905,COLCAPIRHUA,sospecha diagnostica,rabia canina,2010-02-01,0,0,0,1,0,0,1
+50203,LLALLAGUA,sospecha diagnostica,rabia canina,2010-02-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2010-02-01,0,4,2,0,0,0,6
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2010-02-01,0,0,0,1,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2010-02-01,0,0,0,3,3,1,7
+31003,VILLA TUNARI,sospecha diagnostica,rabia canina,2010-02-01,0,1,0,0,0,0,1
+31501,BOLIVAR,sospecha diagnostica,rabia canina,2010-03-01,0,0,0,0,0,1,1
+30905,COLCAPIRHUA,sospecha diagnostica,rabia canina,2010-03-01,0,1,1,3,0,1,6
+20105,EL ALTO,sospecha diagnostica,rabia canina,2010-03-01,1,0,0,0,0,0,1
+70105,EL TORNO,sospecha diagnostica,rabia canina,2010-03-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2010-03-01,0,4,0,0,0,0,4
+60501,SAN LORENZO(TJA),sospecha diagnostica,rabia canina,2010-03-01,0,1,0,0,0,0,1
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2010-03-01,0,0,0,0,1,0,1
+80401,SANTA ANA,sospecha diagnostica,rabia canina,2010-03-01,0,1,0,2,0,0,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2010-03-01,0,0,1,2,0,0,3
+10101,SUCRE,sospecha diagnostica,rabia canina,2010-03-01,1,0,0,0,0,0,1
+30802,TOCO,sospecha diagnostica,rabia canina,2010-03-01,0,0,0,0,0,1,1
+31003,VILLA TUNARI,sospecha diagnostica,rabia canina,2010-03-01,0,0,0,1,2,0,3
+30905,COLCAPIRHUA,sospecha diagnostica,rabia canina,2010-04-01,0,0,0,1,0,0,1
+20105,EL ALTO,sospecha diagnostica,rabia canina,2010-04-01,1,0,0,0,0,0,1
+70105,EL TORNO,sospecha diagnostica,rabia canina,2010-04-01,1,1,0,0,0,0,2
+50101,POTOSI,sospecha diagnostica,rabia canina,2010-04-01,0,1,0,0,0,0,1
+50402,RAVELO,sospecha diagnostica,rabia canina,2010-04-01,0,1,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2010-04-01,0,0,0,0,1,1,2
+10101,SUCRE,sospecha diagnostica,rabia canina,2010-04-01,2,0,0,0,0,0,2
+60101,TARIJA,sospecha diagnostica,rabia canina,2010-04-01,1,0,0,0,0,0,1
+31201,TOTORA(CBBA),sospecha diagnostica,rabia canina,2010-04-01,0,1,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2010-05-01,1,0,0,0,0,0,1
+50404,OCURI,sospecha diagnostica,rabia canina,2010-05-01,0,1,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2010-05-01,0,0,3,1,1,0,5
+50101,POTOSI,sospecha diagnostica,rabia canina,2010-05-01,0,2,0,0,0,0,2
+30403,ARBIETO,sospecha diagnostica,rabia canina,2010-06-01,1,0,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2010-06-01,2,0,0,0,0,0,2
+20105,EL ALTO,sospecha diagnostica,rabia canina,2010-06-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2010-06-01,0,2,1,1,0,0,4
+10101,SUCRE,sospecha diagnostica,rabia canina,2010-06-01,3,0,0,0,0,0,3
+60101,TARIJA,sospecha diagnostica,rabia canina,2010-06-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2010-07-01,2,0,1,0,0,0,3
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2010-07-01,0,1,0,0,1,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2010-07-01,0,1,0,1,1,0,3
+10101,SUCRE,sospecha diagnostica,rabia canina,2010-07-01,2,0,0,0,0,0,2
+60101,TARIJA,sospecha diagnostica,rabia canina,2010-07-01,1,0,0,0,0,0,1
+31003,VILLA TUNARI,sospecha diagnostica,rabia canina,2010-07-01,0,0,0,0,1,0,1
+30801,CLIZA,sospecha diagnostica,rabia canina,2010-08-01,1,0,0,0,0,0,1
+20105,EL ALTO,sospecha diagnostica,rabia canina,2010-08-01,2,0,0,0,0,0,2
+40101,ORURO,sospecha diagnostica,rabia canina,2010-08-01,0,0,0,0,0,1,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2010-08-01,0,1,0,0,0,0,1
+31205,PUERTO VILLARROEL,sospecha diagnostica,rabia canina,2010-08-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2010-08-01,1,0,0,0,0,0,1
+60101,TARIJA,sospecha diagnostica,rabia canina,2010-08-01,1,0,0,0,0,0,1
+21303,AYO AYO,sospecha diagnostica,rabia canina,2010-09-01,0,0,0,1,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2010-09-01,3,2,0,0,0,0,5
+20105,EL ALTO,sospecha diagnostica,rabia canina,2010-09-01,1,0,0,0,0,0,1
+70105,EL TORNO,sospecha diagnostica,rabia canina,2010-09-01,0,1,0,0,0,0,1
+21305,PATACAMAYA,sospecha diagnostica,rabia canina,2010-09-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2010-09-01,0,1,0,0,0,0,1
+90301,PUERTO GONZALO MORENO,sospecha diagnostica,rabia canina,2010-09-01,0,0,0,1,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2010-09-01,1,0,0,0,0,0,1
+30401,TARATA,sospecha diagnostica,rabia canina,2010-09-01,0,1,0,0,0,0,1
+60101,TARIJA,sospecha diagnostica,rabia canina,2010-09-01,1,0,0,0,0,0,1
+60401,URIONDO (A. CONCEPCION),sospecha diagnostica,rabia canina,2010-09-01,0,1,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2010-10-01,1,2,0,0,0,0,3
+50101,POTOSI,sospecha diagnostica,rabia canina,2010-10-01,0,3,0,0,0,0,3
+10101,SUCRE,sospecha diagnostica,rabia canina,2010-10-01,2,0,0,0,0,0,2
+31003,VILLA TUNARI,sospecha diagnostica,rabia canina,2010-10-01,0,0,1,0,1,0,2
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2010-11-01,2,0,0,0,0,0,2
+70601,PORTACHUELO,sospecha diagnostica,rabia canina,2010-11-01,1,0,0,0,0,0,1
+31205,PUERTO VILLARROEL,sospecha diagnostica,rabia canina,2010-11-01,0,0,0,1,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2010-11-01,3,0,0,0,0,0,3
+31003,VILLA TUNARI,sospecha diagnostica,rabia canina,2010-11-01,0,0,1,0,2,0,3
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2010-12-01,0,5,0,0,0,0,5
+30905,COLCAPIRHUA,sospecha diagnostica,rabia canina,2010-12-01,0,0,1,0,0,0,1
+10304,ICLA,sospecha diagnostica,rabia canina,2010-12-01,0,0,0,0,0,1,1
+71001,MONTERO,sospecha diagnostica,rabia canina,2010-12-01,0,0,0,0,2,0,2
+50404,OCURI,sospecha diagnostica,rabia canina,2010-12-01,0,1,0,0,0,0,1
+70103,PORONGO,sospecha diagnostica,rabia canina,2010-12-01,0,0,1,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2010-12-01,0,1,0,0,0,0,1
+31205,PUERTO VILLARROEL,sospecha diagnostica,rabia canina,2010-12-01,0,1,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2010-12-01,0,3,2,2,2,0,9
+40104,SORACACHI,sospecha diagnostica,rabia canina,2010-12-01,0,0,0,1,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2010-12-01,5,0,0,0,0,0,5
+30403,ARBIETO,sospecha diagnostica,rabia canina,2011-01-01,1,0,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-01-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-01-01,3,1,1,0,0,0,5
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2011-01-01,2,0,0,0,0,0,2
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2011-01-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-01-01,0,0,1,1,1,0,3
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-01-01,2,4,1,0,0,0,7
+60101,TARIJA,sospecha diagnostica,rabia canina,2011-01-01,1,2,0,0,0,0,3
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2011-01-01,2,0,0,0,0,0,2
+30904,VINTO,sospecha diagnostica,rabia canina,2011-01-01,1,0,0,0,0,0,1
+30403,ARBIETO,sospecha diagnostica,rabia canina,2011-02-01,1,0,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-02-01,3,3,0,0,0,0,6
+71001,MONTERO,sospecha diagnostica,rabia canina,2011-02-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-02-01,2,1,0,1,0,0,4
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2011-02-01,0,1,0,0,0,0,1
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2011-02-01,0,0,1,3,1,2,7
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-02-01,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-02-01,2,10,4,1,0,0,17
+60101,TARIJA,sospecha diagnostica,rabia canina,2011-02-01,0,1,1,0,0,0,2
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-03-01,0,1,0,0,0,0,1
+20105,EL ALTO,sospecha diagnostica,rabia canina,2011-03-01,1,0,0,0,0,0,1
+40702,MACHACAMARCA,sospecha diagnostica,rabia canina,2011-03-01,0,0,0,1,0,0,1
+71001,MONTERO,sospecha diagnostica,rabia canina,2011-03-01,1,0,1,0,0,0,2
+40101,ORURO,sospecha diagnostica,rabia canina,2011-03-01,0,0,0,0,1,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-03-01,3,3,2,0,0,0,8
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2011-03-01,0,0,1,0,1,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-03-01,0,0,1,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-03-01,0,8,0,0,0,0,8
+50102,TINGUIPAYA,sospecha diagnostica,rabia canina,2011-03-01,0,0,0,1,0,0,1
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2011-03-01,1,0,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2011-03-01,0,1,0,0,0,0,1
+30403,ARBIETO,sospecha diagnostica,rabia canina,2011-04-01,0,1,0,0,0,0,1
+71501,ASCENCION DE GUARAYOS,sospecha diagnostica,rabia canina,2011-04-01,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-04-01,1,1,1,0,0,0,3
+71001,MONTERO,sospecha diagnostica,rabia canina,2011-04-01,0,0,1,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-04-01,4,0,0,0,0,0,4
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2011-04-01,0,1,0,0,0,0,1
+31001,SACABA,sospecha diagnostica,rabia canina,2011-04-01,1,1,0,0,0,0,2
+70402,SAN CARLOS,sospecha diagnostica,rabia canina,2011-04-01,0,1,0,0,0,0,1
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2011-04-01,0,0,1,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-04-01,0,0,1,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-04-01,3,0,0,0,0,0,3
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2011-04-01,1,0,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2011-04-01,0,1,0,0,0,0,1
+30403,ARBIETO,sospecha diagnostica,rabia canina,2011-05-01,0,0,1,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-05-01,0,2,0,0,0,0,2
+21402,CORIPATA,sospecha diagnostica,rabia canina,2011-05-01,1,0,0,0,0,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2011-05-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-05-01,0,1,0,0,0,0,1
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2011-05-01,1,0,0,0,1,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-05-01,1,0,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-05-01,4,4,0,0,0,0,8
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2011-05-01,0,0,1,0,0,0,1
+60301,YACUIBA,sospecha diagnostica,rabia canina,2011-05-01,0,1,0,1,0,0,2
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-06-01,1,1,0,0,0,0,2
+71001,MONTERO,sospecha diagnostica,rabia canina,2011-06-01,2,1,0,0,0,0,3
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-06-01,0,3,1,0,0,0,4
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2011-06-01,1,2,0,0,0,0,3
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2011-06-01,0,0,1,0,2,0,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-06-01,0,0,1,0,0,0,1
+30902,SIPE SIPE,sospecha diagnostica,rabia canina,2011-06-01,1,1,0,0,0,0,2
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-06-01,4,2,0,0,0,0,6
+60101,TARIJA,sospecha diagnostica,rabia canina,2011-06-01,1,0,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-07-01,1,1,0,0,1,0,3
+20105,EL ALTO,sospecha diagnostica,rabia canina,2011-07-01,1,0,0,0,0,0,1
+71001,MONTERO,sospecha diagnostica,rabia canina,2011-07-01,0,2,1,0,0,0,3
+40101,ORURO,sospecha diagnostica,rabia canina,2011-07-01,0,0,0,1,1,0,2
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-07-01,7,0,0,0,0,0,7
+31001,SACABA,sospecha diagnostica,rabia canina,2011-07-01,1,0,0,0,0,0,1
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2011-07-01,0,1,1,2,0,0,4
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-07-01,0,2,1,0,0,0,3
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-07-01,3,0,0,0,0,0,3
+60101,TARIJA,sospecha diagnostica,rabia canina,2011-07-01,3,0,0,0,0,0,3
+30904,VINTO,sospecha diagnostica,rabia canina,2011-07-01,0,1,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2011-07-01,0,0,1,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-08-01,4,2,0,0,0,0,6
+40103,EL CHORO,sospecha diagnostica,rabia canina,2011-08-01,0,1,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2011-08-01,1,0,0,0,0,0,1
+71001,MONTERO,sospecha diagnostica,rabia canina,2011-08-01,2,0,0,0,0,0,2
+40101,ORURO,sospecha diagnostica,rabia canina,2011-08-01,0,0,1,3,2,0,6
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-08-01,1,1,0,0,0,0,2
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2011-08-01,0,0,0,1,1,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-08-01,0,0,0,0,0,0,0
+40104,SORACACHI,sospecha diagnostica,rabia canina,2011-08-01,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-08-01,0,1,0,0,0,0,1
+30904,VINTO,sospecha diagnostica,rabia canina,2011-08-01,1,0,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2011-08-01,1,2,0,0,0,0,3
+30403,ARBIETO,sospecha diagnostica,rabia canina,2011-09-01,0,1,0,0,0,0,1
+60302,CARAPARI,sospecha diagnostica,rabia canina,2011-09-01,0,1,0,0,4,1,6
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-09-01,6,4,0,0,0,0,10
+30905,COLCAPIRHUA,sospecha diagnostica,rabia canina,2011-09-01,1,0,0,0,0,0,1
+20105,EL ALTO,sospecha diagnostica,rabia canina,2011-09-01,0,0,0,1,1,0,2
+20101,LA PAZ,sospecha diagnostica,rabia canina,2011-09-01,2,0,0,0,0,0,2
+71001,MONTERO,sospecha diagnostica,rabia canina,2011-09-01,3,0,0,0,0,0,3
+40101,ORURO,sospecha diagnostica,rabia canina,2011-09-01,0,0,0,1,2,0,3
+70103,PORONGO,sospecha diagnostica,rabia canina,2011-09-01,0,0,1,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-09-01,1,0,0,0,0,0,1
+31205,PUERTO VILLARROEL,sospecha diagnostica,rabia canina,2011-09-01,0,1,0,0,0,0,1
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2011-09-01,2,0,1,0,0,0,3
+31001,SACABA,sospecha diagnostica,rabia canina,2011-09-01,1,1,0,0,0,0,2
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2011-09-01,0,0,2,1,1,0,4
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-09-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-09-01,2,1,0,0,0,0,3
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2011-09-01,1,0,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2011-09-01,0,2,0,0,0,0,2
+60402,YUNCHARA,sospecha diagnostica,rabia canina,2011-09-01,0,1,0,0,1,1,3
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-10-01,6,5,1,0,0,0,12
+31002,COLOMI,sospecha diagnostica,rabia canina,2011-10-01,1,0,0,0,0,0,1
+20105,EL ALTO,sospecha diagnostica,rabia canina,2011-10-01,1,0,0,0,0,0,1
+60502,EL PUENTE(TJA),sospecha diagnostica,rabia canina,2011-10-01,0,1,0,0,0,0,1
+70105,EL TORNO,sospecha diagnostica,rabia canina,2011-10-01,0,1,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2011-10-01,0,0,0,0,1,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-10-01,1,8,5,2,0,0,16
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2011-10-01,3,1,0,0,0,0,4
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-10-01,0,0,1,0,0,0,1
+30902,SIPE SIPE,sospecha diagnostica,rabia canina,2011-10-01,2,1,0,0,0,0,3
+40104,SORACACHI,sospecha diagnostica,rabia canina,2011-10-01,1,0,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-10-01,1,0,0,0,0,0,1
+30401,TARATA,sospecha diagnostica,rabia canina,2011-10-01,0,1,0,0,0,0,1
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2011-10-01,1,0,0,0,0,0,1
+51501,VILLAZON,sospecha diagnostica,rabia canina,2011-10-01,0,2,2,0,0,0,4
+30904,VINTO,sospecha diagnostica,rabia canina,2011-10-01,0,1,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2011-10-01,0,2,0,0,0,0,2
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-11-01,1,1,1,0,0,0,3
+71503,EL PUENTE(STC),sospecha diagnostica,rabia canina,2011-11-01,0,1,0,1,0,0,2
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2011-11-01,0,0,1,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2011-11-01,0,0,2,0,0,0,2
+40101,ORURO,sospecha diagnostica,rabia canina,2011-11-01,1,0,0,0,2,0,3
+50403,POCOATA,sospecha diagnostica,rabia canina,2011-11-01,0,0,1,0,0,0,1
+70103,PORONGO,sospecha diagnostica,rabia canina,2011-11-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-11-01,1,6,4,0,0,0,11
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2011-11-01,1,3,0,0,0,0,4
+31001,SACABA,sospecha diagnostica,rabia canina,2011-11-01,1,0,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-11-01,0,1,1,0,1,0,3
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-11-01,1,5,0,0,0,0,6
+70201,WARNES,sospecha diagnostica,rabia canina,2011-11-01,0,1,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2011-12-01,3,0,0,1,0,0,4
+50203,LLALLAGUA,sospecha diagnostica,rabia canina,2011-12-01,0,1,0,0,0,0,1
+71001,MONTERO,sospecha diagnostica,rabia canina,2011-12-01,0,1,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2011-12-01,0,0,0,3,1,0,4
+50101,POTOSI,sospecha diagnostica,rabia canina,2011-12-01,4,2,1,0,0,0,7
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2011-12-01,1,0,0,0,0,0,1
+31001,SACABA,sospecha diagnostica,rabia canina,2011-12-01,1,0,0,0,0,0,1
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2011-12-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2011-12-01,0,1,3,3,2,0,9
+30902,SIPE SIPE,sospecha diagnostica,rabia canina,2011-12-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2011-12-01,2,1,1,0,0,0,4
+31402,VILLA RIVERO,sospecha diagnostica,rabia canina,2011-12-01,0,1,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2011-12-01,0,1,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2012-01-01,1,5,0,0,0,0,6
+71106,CUATRO CAÑADAS,sospecha diagnostica,rabia canina,2012-01-01,0,0,0,1,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2012-01-01,2,0,1,0,0,0,3
+70103,PORONGO,sospecha diagnostica,rabia canina,2012-01-01,1,1,1,0,0,0,3
+50101,POTOSI,sospecha diagnostica,rabia canina,2012-01-01,2,11,1,0,0,0,14
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2012-01-01,1,0,0,0,0,0,1
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-01-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2012-01-01,2,5,0,0,0,0,7
+10101,SUCRE,sospecha diagnostica,rabia canina,2012-01-01,2,0,0,0,0,0,2
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2012-01-01,0,1,0,0,0,0,1
+30904,VINTO,sospecha diagnostica,rabia canina,2012-01-01,1,0,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2012-01-01,1,4,0,0,0,0,5
+50202,CHAYANTA,sospecha diagnostica,rabia canina,2012-02-01,0,1,0,0,0,0,1
+50901,"COLCHA ""K""",sospecha diagnostica,rabia canina,2012-02-01,0,0,1,0,0,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2012-02-01,0,1,0,0,0,0,1
+71001,MONTERO,sospecha diagnostica,rabia canina,2012-02-01,1,1,0,0,0,0,2
+50101,POTOSI,sospecha diagnostica,rabia canina,2012-02-01,1,6,1,0,0,0,8
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-02-01,0,0,0,2,1,0,3
+71005,SAN PEDRO,sospecha diagnostica,rabia canina,2012-02-01,0,0,1,0,0,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2012-02-01,1,1,0,0,0,0,2
+10101,SUCRE,sospecha diagnostica,rabia canina,2012-02-01,3,0,0,0,0,0,3
+30401,TARATA,sospecha diagnostica,rabia canina,2012-02-01,0,1,1,0,0,0,2
+70201,WARNES,sospecha diagnostica,rabia canina,2012-02-01,0,1,0,0,0,0,1
+51302,ACACIO,sospecha diagnostica,rabia canina,2012-03-01,0,1,0,0,0,0,1
+70401,BUENA VISTA,sospecha diagnostica,rabia canina,2012-03-01,1,0,0,0,0,0,1
+40102,CARACOLLO,sospecha diagnostica,rabia canina,2012-03-01,0,0,0,0,1,0,1
+31206,ENTRE RIOS CBBA,sospecha diagnostica,rabia canina,2012-03-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2012-03-01,1,5,2,0,0,0,8
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-03-01,0,0,0,1,1,0,2
+71005,SAN PEDRO,sospecha diagnostica,rabia canina,2012-03-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2012-03-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2012-03-01,2,4,0,0,0,0,6
+60401,URIONDO (A. CONCEPCION),sospecha diagnostica,rabia canina,2012-03-01,1,0,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2012-03-01,0,4,0,0,0,0,4
+10102,YOTALA,sospecha diagnostica,rabia canina,2012-03-01,2,0,0,0,0,0,2
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2012-04-01,1,0,0,0,0,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2012-04-01,0,1,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2012-04-01,0,0,1,0,0,0,1
+71001,MONTERO,sospecha diagnostica,rabia canina,2012-04-01,1,1,0,0,0,0,2
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2012-04-01,2,0,0,0,0,0,2
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-04-01,0,1,0,0,0,0,1
+71005,SAN PEDRO,sospecha diagnostica,rabia canina,2012-04-01,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2012-04-01,0,2,0,0,0,0,2
+10101,SUCRE,sospecha diagnostica,rabia canina,2012-04-01,4,0,0,0,0,0,4
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2012-04-01,2,0,0,0,0,0,2
+70201,WARNES,sospecha diagnostica,rabia canina,2012-04-01,1,0,0,0,0,0,1
+70603,COLPA BELGICA,sospecha diagnostica,rabia canina,2012-05-01,0,1,0,0,0,0,1
+70102,COTOCA,sospecha diagnostica,rabia canina,2012-05-01,0,1,0,0,0,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2012-05-01,0,2,0,0,0,0,2
+40101,ORURO,sospecha diagnostica,rabia canina,2012-05-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2012-05-01,0,4,0,0,0,0,4
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-05-01,0,0,0,3,0,1,4
+71005,SAN PEDRO,sospecha diagnostica,rabia canina,2012-05-01,0,0,0,1,0,0,1
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2012-05-01,0,2,0,0,0,0,2
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2012-05-01,0,2,0,0,0,0,2
+70201,WARNES,sospecha diagnostica,rabia canina,2012-05-01,0,3,0,0,0,0,3
+70603,COLPA BELGICA,sospecha diagnostica,rabia canina,2012-06-01,0,1,0,0,0,0,1
+70102,COTOCA,sospecha diagnostica,rabia canina,2012-06-01,1,2,0,0,0,0,3
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2012-06-01,0,1,0,0,0,0,1
+70103,PORONGO,sospecha diagnostica,rabia canina,2012-06-01,0,3,0,0,0,0,3
+50101,POTOSI,sospecha diagnostica,rabia canina,2012-06-01,1,7,0,2,0,0,10
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-06-01,0,0,2,0,1,0,3
+71005,SAN PEDRO,sospecha diagnostica,rabia canina,2012-06-01,0,0,0,0,0,1,1
+50501,SAN PEDRO DE BUENA VISTA,sospecha diagnostica,rabia canina,2012-06-01,0,1,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2012-06-01,1,5,1,0,1,0,8
+31602,SHINAOTA,sospecha diagnostica,rabia canina,2012-06-01,0,1,0,0,0,0,1
+50502,TORO TORO,sospecha diagnostica,rabia canina,2012-06-01,0,3,0,0,0,0,3
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2012-06-01,0,3,0,0,0,0,3
+70201,WARNES,sospecha diagnostica,rabia canina,2012-06-01,0,2,0,0,0,0,2
+70102,COTOCA,sospecha diagnostica,rabia canina,2012-07-01,1,2,0,0,0,0,3
+70103,PORONGO,sospecha diagnostica,rabia canina,2012-07-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2012-07-01,0,7,2,1,0,0,10
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-07-01,0,0,0,1,1,2,4
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2012-07-01,1,1,1,0,0,0,3
+10101,SUCRE,sospecha diagnostica,rabia canina,2012-07-01,1,0,0,0,0,0,1
+50502,TORO TORO,sospecha diagnostica,rabia canina,2012-07-01,0,1,0,0,0,0,1
+20801,VIACHA,sospecha diagnostica,rabia canina,2012-07-01,1,0,0,0,0,0,1
+70102,COTOCA,sospecha diagnostica,rabia canina,2012-08-01,1,0,0,0,0,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2012-08-01,0,1,0,0,0,0,1
+71001,MONTERO,sospecha diagnostica,rabia canina,2012-08-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2012-08-01,1,9,2,0,0,0,12
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2012-08-01,0,0,1,0,0,0,1
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-08-01,0,0,0,0,0,1,1
+80303,SANTA ROSA,sospecha diagnostica,rabia canina,2012-08-01,1,1,0,0,1,0,3
+10101,SUCRE,sospecha diagnostica,rabia canina,2012-08-01,0,8,0,0,0,0,8
+50502,TORO TORO,sospecha diagnostica,rabia canina,2012-08-01,1,0,0,0,0,0,1
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2012-08-01,0,2,0,0,0,0,2
+70102,COTOCA,sospecha diagnostica,rabia canina,2012-09-01,0,1,0,0,0,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2012-09-01,1,0,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2012-09-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2012-09-01,1,5,1,0,0,0,7
+50402,RAVELO,sospecha diagnostica,rabia canina,2012-09-01,0,1,0,0,0,0,1
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-09-01,0,0,0,0,1,0,1
+71005,SAN PEDRO,sospecha diagnostica,rabia canina,2012-09-01,0,0,0,0,1,0,1
+30902,SIPE SIPE,sospecha diagnostica,rabia canina,2012-09-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2012-09-01,1,10,0,0,0,0,11
+30904,VINTO,sospecha diagnostica,rabia canina,2012-09-01,0,1,0,0,0,0,1
+70102,COTOCA,sospecha diagnostica,rabia canina,2012-10-01,1,1,0,0,0,0,2
+70105,EL TORNO,sospecha diagnostica,rabia canina,2012-10-01,1,0,0,0,0,0,1
+71001,MONTERO,sospecha diagnostica,rabia canina,2012-10-01,0,1,2,0,0,0,3
+50101,POTOSI,sospecha diagnostica,rabia canina,2012-10-01,0,9,2,0,0,0,11
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-10-01,0,0,0,0,1,1,2
+30902,SIPE SIPE,sospecha diagnostica,rabia canina,2012-10-01,1,0,0,0,0,0,1
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2012-10-01,1,0,0,0,0,0,1
+30502,VACAS,sospecha diagnostica,rabia canina,2012-10-01,0,0,0,1,1,0,2
+51302,ACACIO,sospecha diagnostica,rabia canina,2012-11-01,1,0,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2012-11-01,0,1,0,0,0,0,1
+70105,EL TORNO,sospecha diagnostica,rabia canina,2012-11-01,1,0,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2012-11-01,1,0,0,0,0,0,1
+70103,PORONGO,sospecha diagnostica,rabia canina,2012-11-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2012-11-01,1,1,0,0,0,0,2
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-11-01,0,1,0,2,1,0,4
+10101,SUCRE,sospecha diagnostica,rabia canina,2012-11-01,1,0,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2012-11-01,0,0,0,0,1,0,1
+70403,YAPACANI,sospecha diagnostica,rabia canina,2012-11-01,0,0,0,0,1,0,1
+40102,CARACOLLO,sospecha diagnostica,rabia canina,2012-12-01,0,3,0,0,2,1,6
+50702,CARIPUYO,sospecha diagnostica,rabia canina,2012-12-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2012-12-01,0,9,0,0,0,0,9
+71201,SAN MATIAS,sospecha diagnostica,rabia canina,2012-12-01,0,0,2,0,1,0,3
+10101,SUCRE,sospecha diagnostica,rabia canina,2012-12-01,0,7,0,0,0,0,7
+50201,UNCIA,sospecha diagnostica,rabia canina,2012-12-01,0,1,0,0,0,0,1
+51501,VILLAZON,sospecha diagnostica,rabia canina,2012-12-01,1,0,0,0,0,0,1
+71003,MINEROS,sospecha diagnostica,rabia canina,2013-01-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-01-01,1,1,0,0,0,0,2
+50402,RAVELO,sospecha diagnostica,rabia canina,2013-01-01,0,1,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2013-01-01,0,3,0,0,0,0,3
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-01-01,3,3,0,0,0,0,6
+70201,WARNES,sospecha diagnostica,rabia canina,2013-01-01,0,2,0,0,0,0,2
+60301,YACUIBA,sospecha diagnostica,rabia canina,2013-01-01,0,0,1,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2013-02-01,0,0,1,0,0,0,1
+70102,COTOCA,sospecha diagnostica,rabia canina,2013-02-01,0,1,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2013-02-01,1,0,0,0,0,0,1
+71003,MINEROS,sospecha diagnostica,rabia canina,2013-02-01,0,1,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2013-02-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-02-01,1,4,1,0,0,0,6
+51101,PUNA,sospecha diagnostica,rabia canina,2013-02-01,0,1,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2013-02-01,0,2,0,0,0,0,2
+30702,SANTIVAÑES,sospecha diagnostica,rabia canina,2013-02-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-02-01,1,0,0,0,0,0,1
+50201,UNCIA,sospecha diagnostica,rabia canina,2013-02-01,1,0,0,0,0,0,1
+60301,YACUIBA,sospecha diagnostica,rabia canina,2013-02-01,0,0,0,1,0,0,1
+30403,ARBIETO,sospecha diagnostica,rabia canina,2013-03-01,1,0,0,0,0,0,1
+60202,BERMEJO,sospecha diagnostica,rabia canina,2013-03-01,0,1,0,0,0,0,1
+60302,CARAPARI,sospecha diagnostica,rabia canina,2013-03-01,0,1,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2013-03-01,0,1,0,0,0,0,1
+60601,ENTRE RIOS TRJ,sospecha diagnostica,rabia canina,2013-03-01,1,0,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2013-03-01,2,0,0,0,0,0,2
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-03-01,0,3,0,0,0,0,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2013-03-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-03-01,0,0,8,0,0,0,8
+60101,TARIJA,sospecha diagnostica,rabia canina,2013-03-01,0,1,0,0,0,0,1
+31302,VILA VILA,sospecha diagnostica,rabia canina,2013-03-01,1,0,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2013-03-01,0,1,0,0,0,0,1
+60202,BERMEJO,sospecha diagnostica,rabia canina,2013-04-01,0,1,0,0,0,0,1
+51102,"CAIZA ""D""",sospecha diagnostica,rabia canina,2013-04-01,1,0,0,0,0,0,1
+20105,EL ALTO,sospecha diagnostica,rabia canina,2013-04-01,1,0,0,0,0,0,1
+71003,MINEROS,sospecha diagnostica,rabia canina,2013-04-01,0,1,0,0,0,0,1
+70103,PORONGO,sospecha diagnostica,rabia canina,2013-04-01,0,0,1,1,0,0,2
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-04-01,5,10,0,0,0,0,15
+71104,SAN JULIAN,sospecha diagnostica,rabia canina,2013-04-01,0,2,0,0,0,0,2
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-04-01,0,19,0,0,0,0,19
+60101,TARIJA,sospecha diagnostica,rabia canina,2013-04-01,0,4,0,0,0,0,4
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2013-04-01,1,0,0,0,0,0,1
+60301,YACUIBA,sospecha diagnostica,rabia canina,2013-04-01,0,0,1,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2013-05-01,1,1,0,0,0,0,2
+70102,COTOCA,sospecha diagnostica,rabia canina,2013-05-01,0,1,0,0,0,0,1
+41101,EUCALIPTUS,sospecha diagnostica,rabia canina,2013-05-01,0,1,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2013-05-01,1,0,0,0,0,0,1
+71003,MINEROS,sospecha diagnostica,rabia canina,2013-05-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-05-01,0,4,2,0,0,0,6
+71104,SAN JULIAN,sospecha diagnostica,rabia canina,2013-05-01,0,1,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2013-05-01,1,2,0,0,0,0,3
+30902,SIPE SIPE,sospecha diagnostica,rabia canina,2013-05-01,1,0,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-05-01,0,14,1,0,0,0,15
+60301,YACUIBA,sospecha diagnostica,rabia canina,2013-05-01,0,0,0,0,1,0,1
+70102,COTOCA,sospecha diagnostica,rabia canina,2013-06-01,1,0,0,0,0,0,1
+71002,GENERAL SAAVEDRA,sospecha diagnostica,rabia canina,2013-06-01,0,1,0,0,0,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2013-06-01,0,2,0,0,0,0,2
+40101,ORURO,sospecha diagnostica,rabia canina,2013-06-01,2,0,0,0,0,0,2
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-06-01,0,2,4,0,0,0,6
+71104,SAN JULIAN,sospecha diagnostica,rabia canina,2013-06-01,0,1,1,0,0,0,2
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-06-01,0,20,0,0,0,0,20
+60101,TARIJA,sospecha diagnostica,rabia canina,2013-06-01,0,1,1,0,0,0,2
+20801,VIACHA,sospecha diagnostica,rabia canina,2013-06-01,0,1,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2013-06-01,0,1,0,0,0,0,1
+70403,YAPACANI,sospecha diagnostica,rabia canina,2013-06-01,1,0,0,0,0,0,1
+60202,BERMEJO,sospecha diagnostica,rabia canina,2013-07-01,0,1,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2013-07-01,1,2,0,0,0,0,3
+70102,COTOCA,sospecha diagnostica,rabia canina,2013-07-01,0,1,0,0,0,0,1
+70105,EL TORNO,sospecha diagnostica,rabia canina,2013-07-01,1,1,0,0,0,0,2
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2013-07-01,0,2,0,0,0,0,2
+20101,LA PAZ,sospecha diagnostica,rabia canina,2013-07-01,2,0,0,0,0,0,2
+71003,MINEROS,sospecha diagnostica,rabia canina,2013-07-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-07-01,3,7,1,0,0,0,11
+31001,SACABA,sospecha diagnostica,rabia canina,2013-07-01,1,0,0,0,0,0,1
+71103,SAN RAMON SCZ,sospecha diagnostica,rabia canina,2013-07-01,0,3,0,0,0,0,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2013-07-01,0,2,0,0,0,0,2
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-07-01,0,31,1,0,0,0,32
+60101,TARIJA,sospecha diagnostica,rabia canina,2013-07-01,0,1,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2013-07-01,0,2,0,0,0,0,2
+71101,CONCEPCION,sospecha diagnostica,rabia canina,2013-08-01,0,0,1,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2013-08-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-08-01,2,7,3,0,0,0,12
+71104,SAN JULIAN,sospecha diagnostica,rabia canina,2013-08-01,0,4,0,0,0,0,4
+60501,SAN LORENZO(TJA),sospecha diagnostica,rabia canina,2013-08-01,1,0,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-08-01,0,3,5,0,0,0,8
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2013-08-01,3,0,0,0,0,0,3
+51102,"CAIZA ""D""",sospecha diagnostica,rabia canina,2013-09-01,0,1,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2013-09-01,1,0,0,0,0,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2013-09-01,0,1,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2013-09-01,0,1,0,0,0,0,1
+20102,PALCA,sospecha diagnostica,rabia canina,2013-09-01,1,0,0,0,0,0,1
+70103,PORONGO,sospecha diagnostica,rabia canina,2013-09-01,0,0,1,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-09-01,0,4,0,0,0,0,4
+31001,SACABA,sospecha diagnostica,rabia canina,2013-09-01,1,0,0,0,0,0,1
+71104,SAN JULIAN,sospecha diagnostica,rabia canina,2013-09-01,1,2,0,0,0,0,3
+31602,SHINAOTA,sospecha diagnostica,rabia canina,2013-09-01,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-09-01,0,8,4,0,0,0,12
+60101,TARIJA,sospecha diagnostica,rabia canina,2013-09-01,0,1,0,0,0,0,1
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2013-09-01,4,0,1,0,0,0,5
+51501,VILLAZON,sospecha diagnostica,rabia canina,2013-09-01,0,1,2,2,0,0,5
+60301,YACUIBA,sospecha diagnostica,rabia canina,2013-09-01,0,2,0,0,0,0,2
+30403,ARBIETO,sospecha diagnostica,rabia canina,2013-10-01,1,0,0,0,0,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2013-10-01,1,1,0,0,0,0,2
+40101,ORURO,sospecha diagnostica,rabia canina,2013-10-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-10-01,1,5,0,0,0,0,6
+31001,SACABA,sospecha diagnostica,rabia canina,2013-10-01,2,1,0,0,0,0,3
+71104,SAN JULIAN,sospecha diagnostica,rabia canina,2013-10-01,1,0,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2013-10-01,0,5,0,0,0,0,5
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-10-01,2,10,0,0,0,0,12
+60101,TARIJA,sospecha diagnostica,rabia canina,2013-10-01,0,1,0,0,0,0,1
+20801,VIACHA,sospecha diagnostica,rabia canina,2013-10-01,1,0,0,0,0,0,1
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2013-10-01,4,0,0,0,0,0,4
+51501,VILLAZON,sospecha diagnostica,rabia canina,2013-10-01,0,2,2,0,0,0,4
+70201,WARNES,sospecha diagnostica,rabia canina,2013-10-01,0,2,0,0,0,0,2
+70102,COTOCA,sospecha diagnostica,rabia canina,2013-11-01,1,0,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2013-11-01,0,0,1,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-11-01,1,1,1,0,0,0,3
+31001,SACABA,sospecha diagnostica,rabia canina,2013-11-01,1,0,0,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2013-11-01,0,3,0,0,0,0,3
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-11-01,0,7,1,0,0,0,8
+60101,TARIJA,sospecha diagnostica,rabia canina,2013-11-01,0,0,1,0,0,0,1
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2013-11-01,8,0,0,0,0,0,8
+60301,YACUIBA,sospecha diagnostica,rabia canina,2013-11-01,0,0,1,0,0,0,1
+60302,CARAPARI,sospecha diagnostica,rabia canina,2013-12-01,0,1,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2013-12-01,0,3,0,0,0,0,3
+50101,POTOSI,sospecha diagnostica,rabia canina,2013-12-01,0,5,1,0,0,0,6
+31001,SACABA,sospecha diagnostica,rabia canina,2013-12-01,1,0,0,0,0,0,1
+71104,SAN JULIAN,sospecha diagnostica,rabia canina,2013-12-01,0,0,1,0,0,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2013-12-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2013-12-01,0,9,0,0,0,0,9
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2013-12-01,0,1,1,1,0,0,3
+50201,UNCIA,sospecha diagnostica,rabia canina,2013-12-01,0,1,0,0,0,0,1
+60301,YACUIBA,sospecha diagnostica,rabia canina,2013-12-01,0,0,0,0,0,1,1
+60202,BERMEJO,sospecha diagnostica,rabia canina,2014-01-01,0,0,1,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2014-01-01,0,2,0,0,0,0,2
+70102,COTOCA,sospecha diagnostica,rabia canina,2014-01-01,1,0,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2014-01-01,0,0,1,0,0,0,1
+70103,PORONGO,sospecha diagnostica,rabia canina,2014-01-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2014-01-01,0,10,1,0,0,0,11
+10101,SUCRE,sospecha diagnostica,rabia canina,2014-01-01,3,5,0,0,0,0,8
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2014-01-01,1,2,0,0,0,0,3
+51501,VILLAZON,sospecha diagnostica,rabia canina,2014-01-01,0,2,1,0,0,0,3
+30904,VINTO,sospecha diagnostica,rabia canina,2014-01-01,0,1,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2014-01-01,0,2,0,0,0,0,2
+70401,BUENA VISTA,sospecha diagnostica,rabia canina,2014-02-01,1,0,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2014-02-01,0,1,0,0,0,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2014-02-01,2,0,0,0,0,0,2
+20101,LA PAZ,sospecha diagnostica,rabia canina,2014-02-01,1,0,0,0,0,0,1
+71001,MONTERO,sospecha diagnostica,rabia canina,2014-02-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2014-02-01,1,5,0,0,0,0,6
+31001,SACABA,sospecha diagnostica,rabia canina,2014-02-01,0,1,0,0,0,0,1
+30902,SIPE SIPE,sospecha diagnostica,rabia canina,2014-02-01,0,1,0,0,0,0,1
+40104,SORACACHI,sospecha diagnostica,rabia canina,2014-02-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2014-02-01,8,9,0,0,0,0,17
+60202,BERMEJO,sospecha diagnostica,rabia canina,2014-03-01,1,0,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2014-03-01,0,1,0,0,0,0,1
+70105,EL TORNO,sospecha diagnostica,rabia canina,2014-03-01,1,0,0,0,0,0,1
+10502,HUACARETA,sospecha diagnostica,rabia canina,2014-03-01,0,0,0,0,0,1,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2014-03-01,1,0,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2014-03-01,2,7,1,0,0,0,10
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2014-03-01,1,0,0,0,0,0,1
+70402,SAN CARLOS,sospecha diagnostica,rabia canina,2014-03-01,4,0,0,0,0,0,4
+71104,SAN JULIAN,sospecha diagnostica,rabia canina,2014-03-01,0,0,2,0,0,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia canina,2014-03-01,0,3,0,0,0,0,3
+60101,TARIJA,sospecha diagnostica,rabia canina,2014-03-01,0,0,1,0,0,0,1
+20801,VIACHA,sospecha diagnostica,rabia canina,2014-03-01,0,1,0,0,0,0,1
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2014-03-01,2,2,0,0,0,0,4
+51501,VILLAZON,sospecha diagnostica,rabia canina,2014-03-01,0,1,1,1,0,0,3
+30904,VINTO,sospecha diagnostica,rabia canina,2014-03-01,0,1,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2014-03-01,0,1,0,0,0,0,1
+60202,BERMEJO,sospecha diagnostica,rabia canina,2014-04-01,0,1,0,0,0,0,1
+60302,CARAPARI,sospecha diagnostica,rabia canina,2014-04-01,0,3,0,0,0,0,3
+10502,HUACARETA,sospecha diagnostica,rabia canina,2014-04-01,0,0,0,1,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2014-04-01,0,0,1,0,0,0,1
+31301,MIZQUE,sospecha diagnostica,rabia canina,2014-04-01,1,0,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2014-04-01,2,3,1,0,0,0,6
+50101,POTOSI,sospecha diagnostica,rabia canina,2014-04-01,1,18,0,0,1,0,20
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2014-04-01,0,1,0,0,0,0,1
+40104,SORACACHI,sospecha diagnostica,rabia canina,2014-04-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2014-04-01,4,5,0,0,0,0,9
+31302,VILA VILA,sospecha diagnostica,rabia canina,2014-04-01,1,0,0,0,0,0,1
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2014-04-01,0,1,0,0,0,0,1
+51501,VILLAZON,sospecha diagnostica,rabia canina,2014-04-01,1,0,0,0,0,0,1
+30904,VINTO,sospecha diagnostica,rabia canina,2014-04-01,0,2,0,0,0,0,2
+70201,WARNES,sospecha diagnostica,rabia canina,2014-04-01,1,0,0,0,0,0,1
+20105,EL ALTO,sospecha diagnostica,rabia canina,2014-05-01,1,1,0,0,0,0,2
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2014-05-01,0,1,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2014-05-01,0,0,1,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2014-05-01,1,1,2,0,0,0,4
+50101,POTOSI,sospecha diagnostica,rabia canina,2014-05-01,1,10,4,0,0,0,15
+40104,SORACACHI,sospecha diagnostica,rabia canina,2014-05-01,0,2,0,0,0,0,2
+10101,SUCRE,sospecha diagnostica,rabia canina,2014-05-01,0,16,1,0,0,0,17
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2014-05-01,2,0,0,0,0,0,2
+70403,YAPACANI,sospecha diagnostica,rabia canina,2014-05-01,0,0,0,0,2,0,2
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2014-06-01,1,0,0,0,0,0,1
+20101,LA PAZ,sospecha diagnostica,rabia canina,2014-06-01,0,0,1,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2014-06-01,1,1,0,0,0,0,2
+50101,POTOSI,sospecha diagnostica,rabia canina,2014-06-01,10,6,2,0,1,0,19
+71105,SAN ANTONIO DE LOMERIO,sospecha diagnostica,rabia canina,2014-06-01,0,1,0,0,0,0,1
+51501,VILLAZON,sospecha diagnostica,rabia canina,2014-06-01,1,2,3,2,0,0,8
+70102,COTOCA,sospecha diagnostica,rabia canina,2014-07-01,0,1,0,0,0,0,1
+20105,EL ALTO,sospecha diagnostica,rabia canina,2014-07-01,2,0,0,0,0,0,2
+50101,POTOSI,sospecha diagnostica,rabia canina,2014-07-01,4,15,4,0,0,0,23
+31205,PUERTO VILLARROEL,sospecha diagnostica,rabia canina,2014-07-01,0,0,0,0,1,0,1
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2014-07-01,0,1,0,0,0,0,1
+30902,SIPE SIPE,sospecha diagnostica,rabia canina,2014-07-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2014-07-01,1,0,0,0,0,0,1
+30904,VINTO,sospecha diagnostica,rabia canina,2014-07-01,0,1,0,0,0,0,1
+70201,WARNES,sospecha diagnostica,rabia canina,2014-07-01,0,1,0,0,0,0,1
+30201,AIQUILE,sospecha diagnostica,rabia canina,2014-08-01,2,0,0,0,0,0,2
+40201,CHALLAPATA,sospecha diagnostica,rabia canina,2014-08-01,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2014-08-01,0,1,0,0,0,0,1
+20105,EL ALTO,sospecha diagnostica,rabia canina,2014-08-01,2,1,0,0,0,0,3
+31301,MIZQUE,sospecha diagnostica,rabia canina,2014-08-01,1,0,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2014-08-01,0,3,0,0,0,0,3
+50101,POTOSI,sospecha diagnostica,rabia canina,2014-08-01,1,11,3,0,0,0,15
+30901,QUILLACOLLO,sospecha diagnostica,rabia canina,2014-08-01,1,0,0,0,0,0,1
+40104,SORACACHI,sospecha diagnostica,rabia canina,2014-08-01,1,0,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2014-08-01,0,17,6,0,0,0,23
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2014-08-01,1,1,0,0,0,0,2
+80101,TRINIDAD,sospecha diagnostica,rabia canina,2014-08-01,0,0,0,0,1,0,1
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2014-08-01,1,1,0,0,0,0,2
+30201,AIQUILE,sospecha diagnostica,rabia canina,2014-09-01,1,0,0,0,0,0,1
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2014-09-01,0,2,0,0,0,0,2
+40101,ORURO,sospecha diagnostica,rabia canina,2014-09-01,0,3,0,0,0,0,3
+90201,PUERTO RICO,sospecha diagnostica,rabia canina,2014-09-01,0,0,0,1,0,0,1
+71104,SAN JULIAN,sospecha diagnostica,rabia canina,2014-09-01,0,0,0,1,1,0,2
+40104,SORACACHI,sospecha diagnostica,rabia canina,2014-09-01,0,1,0,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2014-09-01,0,18,4,0,0,0,22
+60303,VILLA MONTES,sospecha diagnostica,rabia canina,2014-09-01,0,1,0,0,0,0,1
+30201,AIQUILE,sospecha diagnostica,rabia canina,2014-10-01,4,1,0,0,0,0,5
+50204,CHUQUIHUTA AYLLU JUCUMANI,sospecha diagnostica,rabia canina,2014-10-01,0,0,1,0,0,0,1
+51103,CKOCHAS,sospecha diagnostica,rabia canina,2014-10-01,0,1,0,0,0,0,1
+50404,OCURI,sospecha diagnostica,rabia canina,2014-10-01,0,1,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2014-10-01,3,9,1,0,0,0,13
+50101,POTOSI,sospecha diagnostica,rabia canina,2014-10-01,5,16,3,0,0,0,24
+10101,SUCRE,sospecha diagnostica,rabia canina,2014-10-01,0,21,3,0,0,0,24
+51103,CKOCHAS,sospecha diagnostica,rabia canina,2014-11-01,0,1,0,0,0,0,1
+90101,COBIJA,sospecha diagnostica,rabia canina,2014-11-01,0,0,0,0,1,0,1
+70104,LA GUARDIA,sospecha diagnostica,rabia canina,2014-11-01,0,1,0,0,0,0,1
+31301,MIZQUE,sospecha diagnostica,rabia canina,2014-11-01,1,0,0,0,0,0,1
+40101,ORURO,sospecha diagnostica,rabia canina,2014-11-01,0,3,0,0,0,0,3
+40602,PAZÑA,sospecha diagnostica,rabia canina,2014-11-01,1,0,0,0,0,0,1
+50403,POCOATA,sospecha diagnostica,rabia canina,2014-11-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2014-11-01,1,14,0,0,0,0,15
+31001,SACABA,sospecha diagnostica,rabia canina,2014-11-01,1,0,0,0,0,0,1
+50501,SAN PEDRO DE BUENA VISTA,sospecha diagnostica,rabia canina,2014-11-01,0,1,0,0,0,0,1
+40104,SORACACHI,sospecha diagnostica,rabia canina,2014-11-01,0,0,1,0,0,0,1
+10101,SUCRE,sospecha diagnostica,rabia canina,2014-11-01,1,16,4,0,0,0,21
+51501,VILLAZON,sospecha diagnostica,rabia canina,2014-11-01,0,1,0,0,0,0,1
+30904,VINTO,sospecha diagnostica,rabia canina,2014-11-01,1,0,0,0,0,0,1
+51102,"CAIZA ""D""",sospecha diagnostica,rabia canina,2014-12-01,0,1,1,0,0,0,2
+30101,COCHABAMBA,sospecha diagnostica,rabia canina,2014-12-01,0,2,0,0,0,0,2
+30905,COLCAPIRHUA,sospecha diagnostica,rabia canina,2014-12-01,1,0,0,0,0,0,1
+71503,EL PUENTE(STC),sospecha diagnostica,rabia canina,2014-12-01,0,0,0,1,0,0,1
+30203,OMEREQUE,sospecha diagnostica,rabia canina,2014-12-01,0,1,0,0,0,0,1
+50101,POTOSI,sospecha diagnostica,rabia canina,2014-12-01,0,11,3,0,0,0,14
+10101,SUCRE,sospecha diagnostica,rabia canina,2014-12-01,2,1,0,0,0,0,3
+30903,TIQUIPAYA,sospecha diagnostica,rabia canina,2014-12-01,1,0,0,0,0,0,1

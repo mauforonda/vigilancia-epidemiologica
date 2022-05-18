@@ -1,0 +1,208 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-m-a-menor-de-1-ano_masculino,b-6-m-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+21101,CHULUMANI (V. DE LA LIBERTAD),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,0.0,3.0,1.0,4.0
+71001,MONTERO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+40101,ORURO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,3.0
+21401,COROICO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,4.0
+31001,SACABA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,5.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0
+60302,CARAPARI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21101,CHULUMANI (V. DE LA LIBERTAD),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,1.0,3.0
+30101,COCHABAMBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,2.0,4.0
+31001,SACABA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,6.0
+20603,TACACOMA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+21101,CHULUMANI (V. DE LA LIBERTAD),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,3.0,4.0
+31301,MIZQUE,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+40101,ORURO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,3.0,5.0
+71201,SAN MATIAS,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-04-01,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+20104,ACHOCALLA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70104,LA GUARDIA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,2.0
+20101,LA PAZ,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71001,MONTERO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+40101,ORURO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31001,SACABA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+80302,SAN BORJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,2.0
+60101,TARIJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,2.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+71301,COMARAPA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+50101,POTOSI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+31001,SACABA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60101,TARIJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+31003,VILLA TUNARI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+21101,CHULUMANI (V. DE LA LIBERTAD),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+31001,SACABA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60101,TARIJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20201,ACHACACHI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+90101,COBIJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,4.0
+60502,EL PUENTE(TJA),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70105,EL TORNO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20602,GUANAY,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70104,LA GUARDIA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,2.0
+31205,PUERTO VILLARROEL,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+80101,TRINIDAD,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+31003,VILLA TUNARI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+51501,VILLAZON,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+21402,CORIPATA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,5.0,5.0
+60502,EL PUENTE(TJA),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70902,PAMPA GRANDE,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,3.0
+60101,TARIJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,2.0,3.0
+20104,ACHOCALLA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30101,COCHABAMBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0,5.0
+40101,ORURO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-10-01,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,4.0
+60101,TARIJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0
+21103,YANACACHI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20104,ACHOCALLA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,8.0,2.0,10.0
+70902,PAMPA GRANDE,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+31205,PUERTO VILLARROEL,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60101,TARIJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,2.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+21101,CHULUMANI (V. DE LA LIBERTAD),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,0.0,3.0
+20101,LA PAZ,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0
+10101,SUCRE,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60101,TARIJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,2.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2018-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+21101,CHULUMANI (V. DE LA LIBERTAD),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,3.0
+20101,LA PAZ,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,3.0
+70402,SAN CARLOS,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60101,TARIJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+80101,TRINIDAD,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,1.0,5.0
+60502,EL PUENTE(TJA),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+71001,MONTERO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+40101,ORURO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+70902,PAMPA GRANDE,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0
+60101,TARIJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,2.0
+71001,MONTERO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70902,PAMPA GRANDE,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31205,PUERTO VILLARROEL,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+80102,SAN JAVIER(BNI),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,2.0,3.0
+70201,WARNES,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,4.0,5.0
+20104,ACHOCALLA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21101,CHULUMANI (V. DE LA LIBERTAD),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,2.0,0.0,0.0,2.0,0.0,3.0,1.0,11.0,4.0,15.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0
+51202,TOMAVE,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21103,YANACACHI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20104,ACHOCALLA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,2.0
+50802,ATOCHA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-05-01,0.0,0.0,0.0,0.0,3.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,10.0,5.0,15.0
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,2.0
+21401,COROICO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,4.0,6.0
+30901,QUILLACOLLO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,3.0,4.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,2.0,1.0,1.0,4.0,6.0,10.0
+71001,MONTERO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+80201,RIBERALTA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+80302,SAN BORJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,3.0
+21402,CORIPATA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,5.0,1.0,6.0
+71001,MONTERO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+10101,SUCRE,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+51103,CKOCHAS,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,3.0,3.0
+21402,CORIPATA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3.0,4.0
+71001,MONTERO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+50801,TUPIZA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-08-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,3.0,8.0,11.0
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,2.0
+20101,LA PAZ,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20603,TACACOMA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+21401,COROICO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71001,MONTERO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+70902,PAMPA GRANDE,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,19.0,20.0
+11001,VILLA VACA GUZMAN (MUYUPAMPA),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21101,CHULUMANI (V. DE LA LIBERTAD),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+10902,CULPINA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2.0
+20101,LA PAZ,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,2.0,4.0
+31205,PUERTO VILLARROEL,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+80602,SAN ANDRES,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-11-01,0.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,10.0,14.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,7.0
+10304,ICLA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+80302,SAN BORJA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,3.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2019-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21401,COROICO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-01-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+20101,LA PAZ,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+20101,LA PAZ,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,3.0,0.0,3.0
+20101,LA PAZ,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,1.0,3.0
+10101,SUCRE,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31302,VILA VILA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-04-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+31001,SACABA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20905,CAIROMA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+30101,COCHABAMBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31205,PUERTO VILLARROEL,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30803,TOLATA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-11-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+22001,CARANAVI,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+30803,TOLATA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2020-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+21105,LA ASUNTA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+11001,VILLA VACA GUZMAN (MUYUPAMPA),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-02-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+10102,YOTALA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-03-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+31206,ENTRE RIOS CBBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+30902,SIPE SIPE,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-05-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+21105,LA ASUNTA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-06-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+21002,QUIME,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-07-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+21101,CHULUMANI (V. DE LA LIBERTAD),tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-09-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+10702,SAN LUCAS,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+60301,YACUIBA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-10-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20105,EL ALTO,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+70101,SANTA CRUZ DE LA SIERRA,tuberculosis y lepra,reaccion adversa  a farmacos antituberculosos (rafa),2021-12-01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0

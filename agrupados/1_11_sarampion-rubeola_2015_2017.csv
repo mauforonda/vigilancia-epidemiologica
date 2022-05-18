@@ -1,0 +1,160 @@
+codigo_municipio,municipio,grupo,variable,mes,a-menor-de-6-meses_masculino,a-menor-de-6-meses-1_femenino,b-6-meses-a-menor-de-1-ano_masculino,b-6-meses-a-menor-de-1-ano-1_femenino,c-1-4-anos_masculino,c-1-4-anos-1_femenino,d-5-9-anos_masculino,d-5-9-anos-1_femenino,e-10-14-anos_masculino,e-10-14-anos-1_femenino,f-15-19-anos_masculino,f-15-19-anos-1_femenino,g-20-39-anos_masculino,g-20-39-anos-1_femenino,h-40-49-anos_masculino,h-40-49-anos-1_femenino,i-50-59-anos_masculino,i-50-59-anos-1_femenino,j-60-anos-y-mas_masculino,j-60-anos-y-mas-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+50802,ATOCHA,sospecha diagnostica,sarampion / rubeola,2015-01-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2015-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80602,SAN ANDRES,sospecha diagnostica,sarampion / rubeola,2015-01-01,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2015-01-01,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,4
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2015-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2015-02-01,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2015-02-01,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+60301,YACUIBA,sospecha diagnostica,sarampion / rubeola,2015-02-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20302,CAQUIAVIRI,sospecha diagnostica,sarampion / rubeola,2015-03-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70704,CUEVO,sospecha diagnostica,sarampion / rubeola,2015-03-01,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+20105,EL ALTO,sospecha diagnostica,sarampion / rubeola,2015-03-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2015-03-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,sospecha diagnostica,sarampion / rubeola,2015-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2015-04-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,sospecha diagnostica,sarampion / rubeola,2015-04-01,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2015-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,sarampion / rubeola,2015-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60202,BERMEJO,sospecha diagnostica,sarampion / rubeola,2015-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2015-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,sarampion / rubeola,2015-05-01,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2015-05-01,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2015-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2015-06-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,sospecha diagnostica,sarampion / rubeola,2015-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2015-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,sarampion / rubeola,2015-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2015-07-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2015-08-01,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+60502,EL PUENTE(TJA),sospecha diagnostica,sarampion / rubeola,2015-08-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,sospecha diagnostica,sarampion / rubeola,2015-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,sarampion / rubeola,2015-09-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60303,VILLA MONTES,sospecha diagnostica,sarampion / rubeola,2015-09-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2015-09-01,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2015-10-01,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+50101,POTOSI,sospecha diagnostica,sarampion / rubeola,2015-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2015-10-01,0,0,0,1,0,1,1,1,1,4,0,0,0,0,0,0,0,0,0,0,2,7,9
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2015-10-01,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2015-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60301,YACUIBA,sospecha diagnostica,sarampion / rubeola,2015-10-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2015-11-01,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,sospecha diagnostica,sarampion / rubeola,2015-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2015-11-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2015-11-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70502,PAILON,sospecha diagnostica,sarampion / rubeola,2015-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,sarampion / rubeola,2015-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2015-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10101,SUCRE,sospecha diagnostica,sarampion / rubeola,2015-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2015-12-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2015-12-01,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+70401,BUENA VISTA,sospecha diagnostica,sarampion / rubeola,2016-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2016-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,sarampion / rubeola,2016-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+11003,MACHARETI,sospecha diagnostica,sarampion / rubeola,2016-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,sospecha diagnostica,sarampion / rubeola,2016-01-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70402,SAN CARLOS,sospecha diagnostica,sarampion / rubeola,2016-01-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2016-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2016-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,sarampion / rubeola,2016-02-01,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2016-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+11003,MACHARETI,sospecha diagnostica,sarampion / rubeola,2016-02-01,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,2,3
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,sarampion / rubeola,2016-02-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,sarampion / rubeola,2016-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2016-02-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30401,TARATA,sospecha diagnostica,sarampion / rubeola,2016-02-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2016-02-01,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2016-02-01,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+50401,COLQUECHACA,sospecha diagnostica,sarampion / rubeola,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2016-03-01,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+51002,MOJINETE,sospecha diagnostica,sarampion / rubeola,2016-03-01,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,sospecha diagnostica,sarampion / rubeola,2016-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,sarampion / rubeola,2016-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,sarampion / rubeola,2016-03-01,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2016-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30401,TARATA,sospecha diagnostica,sarampion / rubeola,2016-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2016-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,2,3
+80101,TRINIDAD,sospecha diagnostica,sarampion / rubeola,2016-03-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2016-03-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60202,BERMEJO,sospecha diagnostica,sarampion / rubeola,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,sarampion / rubeola,2016-04-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2016-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,sospecha diagnostica,sarampion / rubeola,2016-04-01,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+70301,SAN IGNACIO DE VELASCO,sospecha diagnostica,sarampion / rubeola,2016-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,sarampion / rubeola,2016-04-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+10101,SUCRE,sospecha diagnostica,sarampion / rubeola,2016-04-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30401,TARATA,sospecha diagnostica,sarampion / rubeola,2016-04-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2016-04-01,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+30904,VINTO,sospecha diagnostica,sarampion / rubeola,2016-04-01,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2016-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2016-05-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60502,EL PUENTE(TJA),sospecha diagnostica,sarampion / rubeola,2016-06-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30901,QUILLACOLLO,sospecha diagnostica,sarampion / rubeola,2016-06-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+31001,SACABA,sospecha diagnostica,sarampion / rubeola,2016-06-01,0,0,0,0,3,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2016-06-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2016-07-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2016-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2016-08-01,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+30901,QUILLACOLLO,sospecha diagnostica,sarampion / rubeola,2016-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2016-08-01,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,3
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2016-08-01,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2016-09-01,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,3
+20105,EL ALTO,sospecha diagnostica,sarampion / rubeola,2016-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40101,ORURO,sospecha diagnostica,sarampion / rubeola,2016-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,sospecha diagnostica,sarampion / rubeola,2016-09-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,sarampion / rubeola,2016-09-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2016-09-01,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+20105,EL ALTO,sospecha diagnostica,sarampion / rubeola,2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,4,4
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2016-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60201,PADCAYA,sospecha diagnostica,sarampion / rubeola,2016-10-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2016-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,0,0,3,3,6
+30803,TOLATA,sospecha diagnostica,sarampion / rubeola,2016-10-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51201,UYUNI,sospecha diagnostica,sarampion / rubeola,2016-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2016-10-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+30905,COLCAPIRHUA,sospecha diagnostica,sarampion / rubeola,2016-11-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70103,PORONGO,sospecha diagnostica,sarampion / rubeola,2016-11-01,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2016-11-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2016-12-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2016-12-01,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2016-12-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2016-12-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2017-01-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,sarampion / rubeola,2017-01-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,sospecha diagnostica,sarampion / rubeola,2017-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2017-01-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2017-02-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50901,"COLCHA ""K""",sospecha diagnostica,sarampion / rubeola,2017-03-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+11003,MACHARETI,sospecha diagnostica,sarampion / rubeola,2017-03-01,0,0,0,0,0,0,0,2,0,0,0,1,2,4,0,0,0,0,0,0,2,7,9
+40101,ORURO,sospecha diagnostica,sarampion / rubeola,2017-03-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+60201,PADCAYA,sospecha diagnostica,sarampion / rubeola,2017-03-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2017-03-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2017-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20101,LA PAZ,sospecha diagnostica,sarampion / rubeola,2017-04-01,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2017-04-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2017-04-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+80101,TRINIDAD,sospecha diagnostica,sarampion / rubeola,2017-04-01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+50101,POTOSI,sospecha diagnostica,sarampion / rubeola,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30901,QUILLACOLLO,sospecha diagnostica,sarampion / rubeola,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+71104,SAN JULIAN,sospecha diagnostica,sarampion / rubeola,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2017-06-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+40101,ORURO,sospecha diagnostica,sarampion / rubeola,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+51501,VILLAZON,sospecha diagnostica,sarampion / rubeola,2017-06-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,sarampion / rubeola,2017-07-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2017-07-01,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2017-07-01,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2
+80101,TRINIDAD,sospecha diagnostica,sarampion / rubeola,2017-07-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,sarampion / rubeola,2017-08-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+50101,POTOSI,sospecha diagnostica,sarampion / rubeola,2017-08-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+70302,SAN MIGUEL DE VELASCO,sospecha diagnostica,sarampion / rubeola,2017-08-01,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2017-08-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),sospecha diagnostica,sarampion / rubeola,2017-08-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,sarampion / rubeola,2017-09-01,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60303,VILLA MONTES,sospecha diagnostica,sarampion / rubeola,2017-09-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+20105,EL ALTO,sospecha diagnostica,sarampion / rubeola,2017-10-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+10501,MONTEAGUDO,sospecha diagnostica,sarampion / rubeola,2017-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+60101,TARIJA,sospecha diagnostica,sarampion / rubeola,2017-10-01,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+20105,EL ALTO,sospecha diagnostica,sarampion / rubeola,2017-11-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+60401,URIONDO (A. CONCEPCION),sospecha diagnostica,sarampion / rubeola,2017-11-01,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+30101,COCHABAMBA,sospecha diagnostica,sarampion / rubeola,2017-12-01,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+40101,ORURO,sospecha diagnostica,sarampion / rubeola,2017-12-01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1

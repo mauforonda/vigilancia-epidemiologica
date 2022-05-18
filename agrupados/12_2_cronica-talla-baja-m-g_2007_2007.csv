@@ -1,0 +1,605 @@
+codigo_municipio,municipio,grupo,variable,mes,< de 2 años-H,< de 2 años-M,2 a 4 años-H,2 a 4 años-M,TOTAL-H,TOTAL-M,TOTAL
+30403,ARBIETO,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,2,0,0,0,2,0,2
+41202,BELEN DE ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,1,0,0,0,1,0,1
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,17,23,18,7,35,30,65
+40302,CHOQUE COTA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,1,4,2,3,3,7,10
+21004,COLQUIRI,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,15,15,7,2,22,17,39
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,2,1,3,7,5,8,13
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,3,1,5,1,8,2,10
+41101,EUCALIPTUS,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,4,2,5,1,9,3,12
+21005,ICHOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,0,2,0,1,0,3,3
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,12,2,15,14,27,16,43
+70104,LA GUARDIA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,9,11,3,4,12,15,27
+50203,LLALLAGUA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,5,2,1,0,6,2,8
+30302,MOROCHATA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,9,0,0,0,9,0,9
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,41,37,13,19,54,56,110
+40601,POOPO,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,3,3,7,3,10,6,16
+80301,REYES,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,2,4,4,2,6,6,12
+80304,RURRENABAQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,0,0,0,1,0,1,1
+40901,SABAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,2,3,1,0,3,3,6
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,4,1,9,5,13,6,19
+80602,SAN ANDRES,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,3,10,4,2,7,12,19
+80102,SAN JAVIER(BNI),desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,0,0,1,1,1,1,2
+60501,SAN LORENZO(TJA),desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,0,2,0,0,0,2,2
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,13,11,3,3,16,14,30
+40104,SORACACHI,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,1,1,2,1,3,2,5
+10101,SUCRE,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,1,0,0,1,1,1,2
+30401,TARATA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,1,0,0,0,1,0,1
+60101,TARIJA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,11,20,31,25,42,45,87
+30803,TOLATA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,0,0,1,0,1,0,1
+50502,TORO TORO,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,2,0,0,0,2,0,2
+41301,TOTORA(ORR),desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,4,6,10,3,14,9,23
+80101,TRINIDAD,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,8,9,2,3,10,12,22
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,10,7,3,2,13,9,22
+31003,VILLA TUNARI,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,1,0,0,0,1,0,1
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-01-01,6,3,3,5,9,8,17
+41201,ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,4,2,3,0,7,2,9
+30402,ANZALDO,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,4,1,2,1,6,2,8
+71501,ASCENCION DE GUARAYOS,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,5,4,1,2,6,6,12
+41202,BELEN DE ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,0,0,0,1,0,1
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,11,16,10,8,21,24,45
+40903,CHIPAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,0,0,0,1,0,1,1
+40302,CHOQUE COTA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,0,1,0,2,0,2
+40902,COIPASA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,0,0,0,1,0,1
+50401,COLQUECHACA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,0,0,0,2,0,2,2
+21004,COLQUIRI,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,14,9,4,1,18,10,28
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,1,4,3,5,4,9
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,0,2,0,1,0,3,3
+40103,EL CHORO,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,0,0,2,1,2,3
+41101,EUCALIPTUS,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,0,1,0,0,0,1,1
+40701,HUANUNI,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,0,2,0,1,0,3,3
+21005,ICHOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,3,4,0,2,3,6,9
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,13,1,8,6,21,7,28
+50203,LLALLAGUA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,2,1,0,2,2,4
+40702,MACHACAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,3,0,4,2,7,2,9
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,45,26,15,17,60,43,103
+40601,POOPO,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,2,2,4,3,6,9
+90301,PUERTO GONZALO MORENO,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,2,0,0,0,2,0,2
+40901,SABAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,2,1,1,2,3,5
+30404,SACABAMBA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,1,0,0,1,1,2
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,0,2,2,3,2,5,7
+80102,SAN JAVIER(BNI),desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,0,0,0,1,0,1
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,15,3,1,2,16,5,21
+40104,SORACACHI,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,2,1,2,2,4,6
+10101,SUCRE,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,0,0,1,0,1,0,1
+60101,TARIJA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,18,30,44,40,62,70,132
+30803,TOLATA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,0,1,0,0,0,1,1
+41001,TOLEDO,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,1,0,0,0,1,0,1
+50502,TORO TORO,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,7,2,4,2,11,4,15
+41301,TOTORA(ORR),desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,2,1,2,3,4,4,8
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,2,10,5,0,7,10,17
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-02-01,3,10,3,12,6,22,28
+41201,ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,10,8,13,15,23,23,46
+30402,ANZALDO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,2,2,5,2,7,4,11
+30403,ARBIETO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,1,0,1,1,2,1,3
+41202,BELEN DE ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,1,0,0,0,1,0,1
+60202,BERMEJO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,1,0,0,2,1,2,3
+70401,BUENA VISTA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,1,1,0,1,1,2,3
+70706,CAMIRI,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,0,5,0,5,0,5
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,20,32,20,23,40,55,95
+40903,CHIPAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,0,0,2,0,2,2
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,7,7,9,8,16,15,31
+70102,COTOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,2,0,1,0,3,0,3
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,3,2,6,2,9,4,13
+60502,EL PUENTE(TJA),desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,0,1,0,1,0,1
+40505,ESMERALDA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,0,0,1,0,1,1
+40701,HUANUNI,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,2,1,4,1,6,7
+21005,ICHOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,2,0,0,0,2,0,2
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,13,15,26,16,39,31,70
+70104,LA GUARDIA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,8,10,7,7,15,17,32
+50203,LLALLAGUA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,2,3,1,0,3,3,6
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,55,41,34,28,89,69,158
+50403,POCOATA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,6,5,1,2,7,7,14
+40601,POOPO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,1,1,4,1,5,6
+10302,PRESTO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,10,8,2,6,12,14,26
+30901,QUILLACOLLO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,1,0,0,0,1,1
+40901,SABAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,2,0,2,5,4,5,9
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,19,11,14,4,33,15,48
+31403,SAN BENITO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,2,3,2,0,4,3,7
+80501,SAN IGNACIO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,0,0,1,0,1,1
+10702,SAN LUCAS,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,4,1,1,3,5,4,9
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,53,37,30,16,83,53,136
+80303,SANTA ROSA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,4,7,0,1,4,8,12
+40104,SORACACHI,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,6,7,12,10,18,17,35
+10101,SUCRE,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,1,2,0,1,1,3,4
+60101,TARIJA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,27,23,32,24,59,47,106
+30802,TOCO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,0,3,1,3,1,4
+30803,TOLATA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,1,0,1,0,2,2
+41001,TOLEDO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,1,1,1,1,2,2,4
+50502,TORO TORO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,9,10,16,15,25,25,50
+41301,TOTORA(ORR),desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,0,2,1,2,1,3
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,10,2,17,11,27,13,40
+31402,VILLA RIVERO,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,1,2,1,2,2,4
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-03-01,0,8,5,9,5,17,22
+41201,ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,8,3,9,8,17,11,28
+30402,ANZALDO,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,3,5,0,0,3,5,8
+30403,ARBIETO,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,0,0,2,0,2,0,2
+41202,BELEN DE ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,0,2,0,0,0,2,2
+21003,CAJUATA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,0,0,2,1,2,1,3
+30701,CAPINOTA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,0,0,0,1,0,1,1
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,25,29,16,24,41,53,94
+40302,CHOQUE COTA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,1,0,0,0,1,0,1
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,3,10,6,7,9,17,26
+70102,COTOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,3,12,1,1,4,13,17
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,1,0,1,0,2,0,2
+70105,EL TORNO,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,5,1,6,10,11,11,22
+40505,ESMERALDA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,0,1,0,1,0,2,2
+40701,HUANUNI,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,0,0,0,3,0,3,3
+21005,ICHOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,2,2,0,0,2,2,4
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,12,7,14,12,26,19,45
+70104,LA GUARDIA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,17,20,13,10,30,30,60
+50203,LLALLAGUA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,1,1,0,0,1,1,2
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,61,41,33,43,94,84,178
+50403,POCOATA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,4,8,0,0,4,8,12
+40601,POOPO,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,6,5,2,1,8,6,14
+51203,PORCO,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,1,3,2,3,3,6,9
+10302,PRESTO,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,8,4,5,4,13,8,21
+80304,RURRENABAQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,1,0,1,0,2,0,2
+40901,SABAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,1,3,0,2,1,5,6
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,5,4,5,2,10,6,16
+80302,SAN BORJA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,1,0,0,0,1,0,1
+10702,SAN LUCAS,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,4,9,5,4,9,13,22
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,11,9,4,3,15,12,27
+40104,SORACACHI,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,0,0,2,0,2,0,2
+60101,TARIJA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,12,9,9,14,21,23,44
+31601,TIRAQUE (CBBA),desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,0,0,0,6,0,6,6
+41301,TOTORA(ORR),desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,2,1,1,0,3,1,4
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,7,4,10,2,17,6,23
+31003,VILLA TUNARI,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,0,1,0,0,0,1,1
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,2,9,1,9,3,18,21
+70403,YAPACANI,desnutricion global - cronica,cronica talla baja (m + g),2007-04-01,0,3,0,2,0,5,5
+31303,ALALAY,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,2,0,0,0,2,0,2
+41201,ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,8,8,13,15,21,23,44
+30402,ANZALDO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,0,1,0,1,0,1
+30403,ARBIETO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,1,1,2,1,3,4
+41202,BELEN DE ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,0,0,1,0,1,1
+50301,BETANZOS,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,3,0,2,0,5,0,5
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,32,33,17,21,49,54,103
+40302,CHOQUE COTA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,1,0,0,0,1,0,1
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,19,13,14,13,33,26,59
+70102,COTOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,6,7,3,4,9,11,20
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,8,5,7,8,15,13,28
+40103,EL CHORO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,0,0,1,0,1,1
+70105,EL TORNO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,7,6,14,13,21,19,40
+40505,ESMERALDA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,2,2,0,2,2,4,6
+80402,EXALTACION,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,0,0,2,0,2,2
+40501,HUACHACALLA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,0,4,2,4,2,6
+40701,HUANUNI,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,2,4,5,6,7,10,17
+21005,ICHOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,3,0,0,0,3,3
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,5,4,6,5,11,9,20
+70104,LA GUARDIA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,17,17,8,11,25,28,53
+50203,LLALLAGUA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,2,1,1,1,3,4
+40702,MACHACAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,3,0,1,0,4,0,4
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,71,47,55,44,126,91,217
+60201,PADCAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,0,1,0,1,0,1
+50403,POCOATA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,5,8,0,0,5,8,13
+31202,POJO (CBBA),desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,0,1,0,1,0,1
+40601,POOPO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,4,0,1,0,5,0,5
+70103,PORONGO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,0,0,1,0,1,1
+10302,PRESTO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,10,6,8,5,18,11,29
+80304,RURRENABAQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,2,2,0,2,2,4,6
+40901,SABAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,5,2,3,1,8,3,11
+30404,SACABAMBA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,2,1,0,0,2,1,3
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,22,15,13,12,35,27,62
+80602,SAN ANDRES,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,1,0,0,0,1,0,1
+71104,SAN JULIAN,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,3,2,0,0,3,2,5
+60501,SAN LORENZO(TJA),desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,1,1,0,0,1,1,2
+10702,SAN LUCAS,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,7,4,5,6,12,10,22
+80401,SANTA ANA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,12,10,2,4,14,14,28
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,5,8,2,7,7,15,22
+41401,SANTIAGO DE HUARI,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,0,0,1,0,1,1
+90303,SENA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,4,4,2,3,6,7,13
+31101,TAPACARI,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,4,7,4,4,8,11,19
+60101,TARIJA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,1,1,1,1,2,2,4
+41001,TOLEDO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,2,0,0,0,2,2
+50502,TORO TORO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,6,8,6,8,12,16,28
+41301,TOTORA(ORR),desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,0,1,2,1,2,3
+80101,TRINIDAD,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,4,2,1,1,5,3,8
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,4,0,2,2,6,2,8
+31402,VILLA RIVERO,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,0,0,1,1,1,1,2
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-05-01,1,4,0,4,1,8,9
+31303,ALALAY,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,0,0,0,3,0,3,3
+41201,ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,12,6,16,19,28,25,53
+30402,ANZALDO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,2,0,0,1,2,1,3
+30501,ARANI,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,6,3,0,0,6,3,9
+30403,ARBIETO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,0,0,0,1,0,1,1
+40102,CARACOLLO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,1,0,0,0,1,0,1
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,36,29,42,37,78,66,144
+40302,CHOQUE COTA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,3,0,0,0,3,0,3
+21004,COLQUIRI,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,14,5,5,8,19,13,32
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,8,6,9,9,17,15,32
+70102,COTOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,3,5,2,2,5,7,12
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,6,6,10,5,16,11,27
+40103,EL CHORO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,3,1,2,0,5,1,6
+70105,EL TORNO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,15,1,10,12,25,13,38
+40501,HUACHACALLA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,1,2,2,3,3,5,8
+40701,HUANUNI,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,2,2,2,3,4,5,9
+21005,ICHOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,3,6,7,8,10,14,24
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,32,22,15,12,47,34,81
+70104,LA GUARDIA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,13,13,9,8,22,21,43
+50203,LLALLAGUA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,1,0,1,0,2,0,2
+40702,MACHACAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,0,0,0,1,0,1,1
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,81,47,35,51,116,98,214
+40602,PAZÑA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,3,1,1,1,4,2,6
+50403,POCOATA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,4,6,1,3,5,9,14
+40601,POOPO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,2,1,0,0,2,1,3
+10302,PRESTO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,16,6,3,10,19,16,35
+70503,ROBORE,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,1,1,0,0,1,1,2
+80304,RURRENABAQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,7,4,2,0,9,4,13
+40901,SABAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,6,6,1,0,7,6,13
+30404,SACABAMBA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,3,2,1,1,4,3,7
+50701,SACACA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,4,3,2,2,6,5,11
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,6,5,13,6,19,11,30
+80602,SAN ANDRES,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,0,1,0,1,0,2,2
+31403,SAN BENITO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,3,6,10,7,13,13,26
+10702,SAN LUCAS,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,8,7,11,5,19,12,31
+71201,SAN MATIAS,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,1,1,1,0,2,1,3
+80401,SANTA ANA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,10,7,4,5,14,12,26
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,6,1,0,4,6,5,11
+80303,SANTA ROSA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,0,2,2,0,2,2,4
+40104,SORACACHI,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,8,8,6,9,14,17,31
+10101,SUCRE,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,0,1,0,0,0,1,1
+31101,TAPACARI,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,5,10,3,5,8,15,23
+30401,TARATA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,1,1,0,0,1,1,2
+30802,TOCO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,0,0,3,0,3,0,3
+41001,TOLEDO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,0,1,0,0,0,1,1
+50502,TORO TORO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,19,30,37,48,56,78,134
+41301,TOTORA(ORR),desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,0,0,1,2,1,2,3
+80101,TRINIDAD,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,19,11,3,1,22,12,34
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,4,2,12,5,16,7,23
+31402,VILLA RIVERO,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,0,0,0,3,0,3,3
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,1,2,2,1,3,3,6
+10102,YOTALA,desnutricion global - cronica,cronica talla baja (m + g),2007-06-01,7,6,9,10,16,16,32
+30201,AIQUILE,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,2,1,0,1,2,2,4
+31303,ALALAY,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,3,0,1,0,4,0,4
+41201,ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,10,1,2,8,12,9,21
+30402,ANZALDO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,2,1,0,0,2,1,3
+30403,ARBIETO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,0,2,1,0,1,2,3
+41202,BELEN DE ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,1,0,0,0,1,0,1
+60202,BERMEJO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,1,1,0,1,1,2,3
+50301,BETANZOS,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,8,2,11,4,19,6,25
+70703,CABEZAS,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,0,0,1,0,1,0,1
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,39,27,39,37,78,64,142
+40302,CHOQUE COTA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,1,0,0,0,1,0,1
+21004,COLQUIRI,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,19,6,12,12,31,18,49
+71301,COMARAPA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,1,0,1,0,2,0,2
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,11,7,3,7,14,14,28
+70102,COTOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,8,4,1,1,9,5,14
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,3,3,5,4,8,7,15
+40103,EL CHORO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,2,0,1,0,3,0,3
+70105,EL TORNO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,5,12,6,11,11,23,34
+60601,ENTRE RIOS,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,1,0,0,1,1,1,2
+40501,HUACHACALLA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,1,1,0,0,1,1,2
+40701,HUANUNI,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,2,1,0,5,2,6,8
+21005,ICHOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,0,2,0,0,0,2,2
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,35,22,35,20,70,42,112
+70104,LA GUARDIA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,21,15,6,5,27,20,47
+70701,LAGUNILLAS,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,0,1,0,0,0,1,1
+21006,LICOMA PAMPA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,0,0,1,0,1,0,1
+40702,MACHACAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,0,2,1,0,1,2,3
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,110,73,55,55,165,128,293
+40802,PAMPA AULLAGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,5,4,1,8,6,12,18
+40602,PAZÑA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,3,0,3,0,6,0,6
+50403,POCOATA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,2,8,6,1,8,9,17
+51203,PORCO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,1,2,1,0,2,2,4
+10302,PRESTO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,9,7,4,7,13,14,27
+80201,RIBERALTA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,1,0,1,0,2,0,2
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,3,0,4,0,7,0,7
+31403,SAN BENITO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,0,0,3,2,3,2,5
+80501,SAN IGNACIO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,1,0,0,1,1,1,2
+10702,SAN LUCAS,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,4,6,2,2,6,8,14
+80401,SANTA ANA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,8,1,1,1,9,2,11
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,7,8,2,1,9,9,18
+80303,SANTA ROSA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,0,1,1,0,1,1,2
+40104,SORACACHI,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,5,3,6,6,11,9,20
+31101,TAPACARI,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,2,5,3,3,5,8,13
+30401,TARATA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,2,1,0,0,2,1,3
+60101,TARIJA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,1,0,0,1,1,1,2
+41001,TOLEDO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,2,3,0,2,2,5,7
+50502,TORO TORO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,4,7,9,5,13,12,25
+41301,TOTORA(ORR),desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,3,0,3,5,6,5,11
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,8,4,7,12,15,16,31
+20801,VIACHA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,2,1,0,0,2,1,3
+31003,VILLA TUNARI,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,0,1,1,1,1,2,3
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-07-01,5,2,7,0,12,2,14
+51302,ACACIO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,1,1,0,0,1,1,2
+31303,ALALAY,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,1,0,0,0,1,0,1
+41201,ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,18,12,29,28,47,40,87
+30403,ARBIETO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,1,0,0,0,1,0,1
+71501,ASCENCION DE GUARAYOS,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,7,25,7,16,14,41,55
+50301,BETANZOS,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,12,5,13,8,25,13,38
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,35,35,38,33,73,68,141
+40302,CHOQUE COTA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,1,0,0,1,1,1,2
+40902,COIPASA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,0,0,0,1,0,1,1
+21004,COLQUIRI,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,42,22,32,37,74,59,133
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,11,10,16,17,27,27,54
+70102,COTOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,9,14,9,9,18,23,41
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,10,9,12,11,22,20,42
+21602,CURVA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,3,0,12,3,15,3,18
+40103,EL CHORO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,4,2,2,2,6,4,10
+70105,EL TORNO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,9,6,8,11,17,17,34
+60601,ENTRE RIOS,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,2,1,1,4,3,5,8
+40501,HUACHACALLA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,2,0,3,2,5,2,7
+40701,HUANUNI,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,9,6,8,4,17,10,27
+41601,HUAYLLAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,0,1,3,3,3,4,7
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,10,12,14,10,24,22,46
+70104,LA GUARDIA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,35,17,11,7,46,24,70
+80601,LORETO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,2,2,2,3,4,5,9
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,170,125,84,78,254,203,457
+60201,PADCAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,0,0,0,2,0,2,2
+40802,PAMPA AULLAGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,6,6,8,5,14,11,25
+40602,PAZÑA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,5,3,2,3,7,6,13
+50403,POCOATA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,2,9,1,0,3,9,12
+40601,POOPO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,3,1,1,2,4,3,7
+51203,PORCO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,2,6,0,1,2,7,9
+50101,POTOSI,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,1,0,0,0,1,0,1
+10302,PRESTO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,8,6,2,6,10,12,22
+51101,PUNA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,1,0,0,2,1,2,3
+30901,QUILLACOLLO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,0,1,0,0,0,1,1
+80201,RIBERALTA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,0,1,0,0,0,1,1
+80304,RURRENABAQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,0,4,0,1,0,5,5
+50701,SACACA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,2,5,4,3,6,8,14
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,5,2,10,4,15,6,21
+80602,SAN ANDRES,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,10,15,1,3,11,18,29
+80501,SAN IGNACIO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,2,7,4,7,6,14,20
+80102,SAN JAVIER(BNI),desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,2,1,1,1,3,2,5
+10702,SAN LUCAS,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,4,3,2,4,6,7,13
+80401,SANTA ANA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,7,1,0,0,7,1,8
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,2,3,9,3,11,6,17
+80303,SANTA ROSA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,3,4,1,1,4,5,9
+41401,SANTIAGO DE HUARI,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,0,2,1,3,1,5,6
+40104,SORACACHI,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,6,1,14,12,20,13,33
+10101,SUCRE,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,1,0,0,0,1,0,1
+30903,TIQUIPAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,1,0,0,1,1,1,2
+30803,TOLATA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,0,1,0,0,0,1,1
+41001,TOLEDO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,0,2,4,4,4,6,10
+50502,TORO TORO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,29,26,25,28,54,54,108
+41301,TOTORA(ORR),desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,1,2,2,1,3,3,6
+80101,TRINIDAD,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,11,11,3,3,14,14,28
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,10,6,8,6,18,12,30
+20801,VIACHA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,3,0,0,0,3,0,3
+31402,VILLA RIVERO,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,0,0,0,1,0,1,1
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,8,4,4,5,12,9,21
+10102,YOTALA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,30,42,59,74,89,116,205
+60402,YUNCHARA,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,0,0,2,1,2,1,3
+10301,ZUDAÑEZ,desnutricion global - cronica,cronica talla baja (m + g),2007-08-01,1,1,3,4,4,5,9
+31303,ALALAY,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,0,0,0,1,0,1
+41201,ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,9,5,13,9,22,14,36
+30403,ARBIETO,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,1,0,0,0,1,1
+41202,BELEN DE ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,1,0,1,0,2,2
+50301,BETANZOS,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,6,5,12,2,18,7,25
+70703,CABEZAS,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,0,0,1,0,1,1
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,42,33,43,39,85,72,157
+40302,CHOQUE COTA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,1,0,0,0,1,1
+21004,COLQUIRI,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,35,25,41,18,76,43,119
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,6,11,11,10,17,21,38
+50601,COTAGAITA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,8,12,21,15,29,27,56
+70102,COTOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,9,7,8,6,17,13,30
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,0,1,3,2,3,5
+21602,CURVA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,3,2,5,3,8,5,13
+70105,EL TORNO,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,7,4,8,18,15,22,37
+41101,EUCALIPTUS,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,5,2,3,3,8,5,13
+40501,HUACHACALLA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,3,1,1,1,4,2,6
+40701,HUANUNI,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,8,6,5,10,13,16,29
+41601,HUAYLLAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,0,3,2,4,2,6
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,25,18,47,40,72,58,130
+70104,LA GUARDIA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,31,19,11,3,42,22,64
+10303,MOJOCOYA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,0,0,0,1,0,1
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,100,69,52,53,152,122,274
+20102,PALCA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,0,0,1,0,1,1
+40602,PAZÑA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,3,2,1,1,4,3,7
+50403,POCOATA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,4,3,3,4,7,11
+31203,POCONA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,2,0,0,0,2,2
+51203,PORCO,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,3,3,1,0,4,3,7
+50101,POTOSI,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,11,1,0,0,11,1,12
+10302,PRESTO,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,6,2,3,3,9,5,14
+80301,REYES,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,0,2,0,3,0,3
+80201,RIBERALTA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,23,34,11,7,34,41,75
+70503,ROBORE,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,0,1,0,1,0,1
+80304,RURRENABAQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,3,0,1,2,4,2,6
+40901,SABAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,1,0,1,0,2,2
+50701,SACACA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,14,12,10,17,24,29,53
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,7,6,13,4,20,10,30
+80602,SAN ANDRES,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,3,0,1,1,4,5
+31403,SAN BENITO,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,2,1,0,1,2,2,4
+80501,SAN IGNACIO,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,6,3,1,0,7,3,10
+80102,SAN JAVIER(BNI),desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,0,0,1,1,1,2
+10702,SAN LUCAS,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,0,0,2,1,2,3
+80401,SANTA ANA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,2,0,0,0,2,0,2
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,2,0,1,0,3,3
+80303,SANTA ROSA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,1,0,0,1,1,2
+41401,SANTIAGO DE HUARI,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,1,3,6,4,7,11
+40104,SORACACHI,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,3,2,1,6,4,8,12
+10101,SUCRE,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,0,0,2,0,2,2
+31101,TAPACARI,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,9,3,4,4,13,17
+30802,TOCO,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,0,1,3,1,3,4
+41001,TOLEDO,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,12,1,1,2,13,15
+50502,TORO TORO,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,39,33,50,55,89,88,177
+41301,TOTORA(ORR),desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,2,2,1,5,3,7,10
+80101,TRINIDAD,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,23,18,5,13,28,31,59
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,9,3,12,5,21,8,29
+31003,VILLA TUNARI,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,1,0,0,0,1,0,1
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,2,3,5,3,7,6,13
+10102,YOTALA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,33,23,53,50,86,73,159
+60402,YUNCHARA,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,0,0,1,0,1,0,1
+10301,ZUDAÑEZ,desnutricion global - cronica,cronica talla baja (m + g),2007-09-01,2,2,2,3,4,5,9
+20104,ACHOCALLA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,7,4,2,5,9,9,18
+41201,ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,12,8,19,24,31,32,63
+30403,ARBIETO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,1,2,1,2,2,4
+41202,BELEN DE ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,1,1,0,1,1,2,3
+50301,BETANZOS,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,7,5,18,8,25,13,38
+70703,CABEZAS,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,1,0,0,0,1,0,1
+30701,CAPINOTA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,2,0,0,0,2,2
+40102,CARACOLLO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,2,2,0,1,2,3,5
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,57,54,55,73,112,127,239
+21004,COLQUIRI,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,38,16,44,45,82,61,143
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,8,12,6,11,14,23,37
+50601,COTAGAITA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,8,12,13,15,21,27,48
+70102,COTOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,7,6,7,6,14,12,26
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,8,7,11,10,19,17,36
+40103,EL CHORO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,2,2,1,2,3,5
+70105,EL TORNO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,4,5,3,7,7,12,19
+41101,EUCALIPTUS,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,13,13,23,16,36,29,65
+80402,EXALTACION,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,5,1,1,0,6,1,7
+40501,HUACHACALLA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,5,3,3,4,8,7,15
+40701,HUANUNI,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,28,26,16,18,44,44,88
+41601,HUAYLLAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,0,1,1,1,1,2
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,17,6,15,15,32,21,53
+70104,LA GUARDIA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,34,31,9,12,43,43,86
+41501,LA RIVERA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,1,0,0,0,1,1
+21006,LICOMA PAMPA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,1,0,0,0,1,1
+80601,LORETO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,0,2,2,2,2,4
+40702,MACHACAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,1,0,0,2,1,2,3
+20103,MECAPACA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,0,0,1,0,1,1
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,121,82,65,52,186,134,320
+40802,PAMPA AULLAGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,18,11,7,13,25,24,49
+40602,PAZÑA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,2,2,1,0,3,2,5
+40601,POOPO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,2,0,1,0,3,3
+51203,PORCO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,0,1,1,1,1,2
+50101,POTOSI,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,1,0,1,0,2,0,2
+10302,PRESTO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,6,2,4,2,10,4,14
+31205,PUERTO VILLARROEL,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,1,0,3,0,4,4
+80201,RIBERALTA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,35,33,20,22,55,55,110
+70503,ROBORE,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,0,0,1,0,1,1
+80304,RURRENABAQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,0,1,0,1,0,1
+50701,SACACA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,13,10,15,17,28,27,55
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,10,5,13,8,23,13,36
+80602,SAN ANDRES,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,1,1,2,0,3,1,4
+31403,SAN BENITO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,2,0,0,0,2,2
+80501,SAN IGNACIO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,2,6,5,3,7,9,16
+10702,SAN LUCAS,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,1,2,1,2,2,4,6
+71201,SAN MATIAS,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,0,0,1,0,1,1
+80401,SANTA ANA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,4,4,2,4,6,8,14
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,3,0,0,0,3,0,3
+80303,SANTA ROSA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,3,2,0,1,3,3,6
+41401,SANTIAGO DE HUARI,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,4,1,4,2,8,3,11
+40104,SORACACHI,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,6,6,15,11,21,17,38
+30401,TARATA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,1,1,1,2,2,3,5
+30802,TOCO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,2,2,2,2,4,6
+30803,TOLATA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,1,0,0,0,1,1
+41001,TOLEDO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,7,4,2,0,9,4,13
+50502,TORO TORO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,38,27,26,35,64,62,126
+31201,TOTORA(CBBA),desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,1,0,0,0,1,0,1
+80101,TRINIDAD,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,18,23,12,4,30,27,57
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,12,5,5,8,17,13,30
+31302,VILA VILA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,7,1,1,2,8,3,11
+31402,VILLA RIVERO,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,0,1,0,0,0,1,1
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,4,5,4,4,8,9,17
+10102,YOTALA,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,27,20,58,60,85,80,165
+10301,ZUDAÑEZ,desnutricion global - cronica,cronica talla baja (m + g),2007-10-01,2,0,5,5,7,5,12
+20104,ACHOCALLA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,1,0,0,2,1,2,3
+41201,ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,20,11,28,32,48,43,91
+30402,ANZALDO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,1,0,0,0,1,1
+41202,BELEN DE ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,3,0,1,1,4,1,5
+50301,BETANZOS,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,10,8,3,4,13,12,25
+30701,CAPINOTA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,1,3,0,0,1,3,4
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,36,40,33,52,69,92,161
+21004,COLQUIRI,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,15,13,20,26,35,39,74
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,9,13,16,16,25,29,54
+50601,COTAGAITA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,4,3,10,8,14,11,25
+70102,COTOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,6,10,4,10,10,20,30
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,21,19,10,12,31,31,62
+40103,EL CHORO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,3,2,5,2,8,4,12
+70105,EL TORNO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,10,4,10,10,20,14,34
+60601,ENTRE RIOS,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,0,1,0,1,0,1
+41101,EUCALIPTUS,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,6,1,12,7,18,8,26
+80402,EXALTACION,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,0,1,0,1,0,1
+40501,HUACHACALLA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,3,2,6,8,9,10,19
+40701,HUANUNI,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,27,14,12,14,39,28,67
+41601,HUAYLLAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,0,1,0,1,0,1
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,23,6,14,10,37,16,53
+70104,LA GUARDIA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,23,9,20,13,43,22,65
+80601,LORETO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,0,1,1,1,1,2
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,95,51,44,37,139,88,227
+60201,PADCAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,1,1,0,0,1,1,2
+40802,PAMPA AULLAGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,4,6,4,4,8,10,18
+40602,PAZÑA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,7,4,4,0,11,4,15
+40601,POOPO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,2,0,1,0,3,0,3
+10302,PRESTO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,5,3,2,2,7,5,12
+31205,PUERTO VILLARROEL,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,0,0,1,0,1,1
+80301,REYES,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,1,0,1,0,2,2
+80201,RIBERALTA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,37,24,15,15,52,39,91
+80304,RURRENABAQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,1,1,0,1,1,2
+50701,SACACA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,7,7,5,7,12,14,26
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,11,4,13,9,24,13,37
+80501,SAN IGNACIO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,1,0,0,0,1,1
+70301,SAN IGNACIO DE VELASCO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,1,1,0,5,1,6,7
+71201,SAN MATIAS,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,1,2,4,1,5,3,8
+80401,SANTA ANA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,7,5,3,1,10,6,16
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,1,0,0,0,1,0,1
+80303,SANTA ROSA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,2,1,0,0,2,1,3
+40104,SORACACHI,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,2,1,1,1,3,2,5
+10101,SUCRE,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,1,0,1,0,2,2
+30602,TACOPAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,5,10,14,12,19,22,41
+30401,TARATA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,2,0,1,0,3,3
+30802,TOCO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,1,0,0,0,1,0,1
+30803,TOLATA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,1,0,0,0,1,1
+41001,TOLEDO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,1,1,5,2,6,3,9
+50502,TORO TORO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,10,12,11,11,21,23,44
+80101,TRINIDAD,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,5,7,0,3,5,10,15
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,7,3,1,5,8,8,16
+31402,VILLA RIVERO,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,0,2,1,0,1,2,3
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,2,1,0,2,2,3,5
+10102,YOTALA,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,35,20,48,49,83,69,152
+10301,ZUDAÑEZ,desnutricion global - cronica,cronica talla baja (m + g),2007-11-01,2,1,2,4,4,5,9
+20104,ACHOCALLA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,3,2,0,1,3,3,6
+31303,ALALAY,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,1,0,0,1,1,2
+41201,ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,12,7,6,2,18,9,27
+71501,ASCENCION DE GUARAYOS,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,29,20,26,31,55,51,106
+41202,BELEN DE ANDAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,3,1,0,2,3,3,6
+50301,BETANZOS,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,8,9,12,6,20,15,35
+30701,CAPINOTA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,1,0,0,1,1,2
+40102,CARACOLLO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,5,2,2,3,7,10
+40201,CHALLAPATA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,28,35,20,27,48,62,110
+21004,COLQUIRI,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,36,23,25,25,61,48,109
+40301,CORQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,10,17,7,11,17,28,45
+50601,COTAGAITA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,11,8,13,7,24,15,39
+70102,COTOCA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,10,7,1,2,11,9,20
+40401,CURAHUARA DE CARANGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,18,6,7,9,25,15,40
+40103,EL CHORO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,0,0,0,1,0,1,1
+70105,EL TORNO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,4,4,10,12,14,16,30
+41101,EUCALIPTUS,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,6,6,8,7,14,13,27
+40501,HUACHACALLA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,3,2,7,3,10,13
+40701,HUANUNI,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,25,7,7,9,32,16,48
+21001,INQUISIVI,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,16,4,15,10,31,14,45
+70104,LA GUARDIA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,21,16,7,4,28,20,48
+80601,LORETO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,0,0,0,1,0,1,1
+40702,MACHACAMARCA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,0,0,1,1,1,2
+40101,ORURO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,30,24,33,18,63,42,105
+40802,PAMPA AULLAGAS,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,5,4,4,5,9,14
+40602,PAZÑA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,4,3,0,2,4,5,9
+40601,POOPO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,0,0,3,1,3,1,4
+51203,PORCO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,4,1,0,0,4,1,5
+10302,PRESTO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,3,0,5,3,8,3,11
+71402,PUERTO QUIJARRO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,2,0,0,0,2,0,2
+80301,REYES,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,0,0,1,0,1,0,1
+80201,RIBERALTA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,19,26,7,11,26,37,63
+70503,ROBORE,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,3,2,1,0,4,2,6
+80304,RURRENABAQUE,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,0,4,0,0,0,4,4
+30404,SACABAMBA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,0,2,0,3,0,3
+40801,SALINAS DE GARCI MENDOZA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,16,10,21,18,37,28,65
+80602,SAN ANDRES,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,0,1,2,2,2,4
+80501,SAN IGNACIO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,0,2,0,0,0,2,2
+70301,SAN IGNACIO DE VELASCO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,0,1,2,2,2,3,5
+10702,SAN LUCAS,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,2,4,1,3,3,7,10
+71201,SAN MATIAS,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,2,1,0,0,2,1,3
+80401,SANTA ANA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,3,7,3,2,6,9,15
+70101,SANTA CRUZ DE LA SIERRA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,2,0,0,1,2,3
+80303,SANTA ROSA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,3,0,0,1,3,4
+41401,SANTIAGO DE HUARI,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,5,3,8,4,13,17
+40104,SORACACHI,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,2,2,4,4,6,6,12
+10101,SUCRE,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,0,0,0,1,0,1
+30602,TACOPAYA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,3,6,2,4,5,10,15
+10601,TARABUCO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,5,4,1,0,6,4,10
+30401,TARATA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,1,0,0,0,1,0,1
+30802,TOCO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,2,1,2,0,4,1,5
+41001,TOLEDO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,2,5,8,5,10,10,20
+50502,TORO TORO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,19,21,36,48,55,69,124
+31201,TOTORA(CBBA),desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,2,2,1,4,3,6,9
+41301,TOTORA(ORR),desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,2,1,1,0,3,1,4
+80101,TRINIDAD,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,12,7,13,11,25,18,43
+40402,TURCO,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,6,0,6,5,12,5,17
+31003,VILLA TUNARI,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,7,3,8,6,15,9,24
+60301,YACUIBA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,4,5,0,3,4,8,12
+10102,YOTALA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,32,22,36,35,68,57,125
+60402,YUNCHARA,desnutricion global - cronica,cronica talla baja (m + g),2007-12-01,2,0,0,0,2,0,2
