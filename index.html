@@ -15034,9 +15034,9 @@ $(document).ready(function() {
 
 
 
-<div id="d6e91793-87cb-45d6-a1de-f5ed53bffc65" class="jp-RenderedJavaScript jp-OutputArea-output " data-mime-type="application/javascript">
+<div id="0957c0f4-3e0a-494f-86dc-0c4106f4eafb" class="jp-RenderedJavaScript jp-OutputArea-output " data-mime-type="application/javascript">
 <script type="text/javascript">
-var element = document.getElementById('d6e91793-87cb-45d6-a1de-f5ed53bffc65');
+var element = document.getElementById('0957c0f4-3e0a-494f-86dc-0c4106f4eafb');
 if (typeof require !== 'undefined')
     require.config({
         paths: {
@@ -16615,7 +16615,7 @@ if (typeof require !== 'undefined')
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">## Guardo una tabla con los atributos y un diccionario con descripciones</span>
 
-<span class="n">column_classes</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">&#39;column_atributes.csv&#39;</span><span class="p">)</span>
+<span class="n">column_classes</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">&#39;resources/column_atributes.csv&#39;</span><span class="p">)</span>
 
 <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">&#39;resources/column_descriptions.json&#39;</span><span class="p">,</span> <span class="s1">&#39;w+&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
     <span class="n">json</span><span class="o">.</span><span class="n">dump</span><span class="p">(</span><span class="n">column_descriptions</span><span class="p">,</span> <span class="n">f</span><span class="p">)</span>
@@ -16651,6 +16651,44 @@ if (typeof require !== 'undefined')
     <span class="n">dfi</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
     <span class="n">dfi</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="p">[</span><span class="n">column_descriptions</span><span class="p">[</span><span class="n">c</span><span class="p">]</span> <span class="k">if</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">column_descriptions</span><span class="o">.</span><span class="n">keys</span><span class="p">()</span> <span class="k">else</span> <span class="n">c</span> <span class="k">for</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">dfi</span><span class="o">.</span><span class="n">columns</span><span class="p">]</span>
     <span class="n">dfi</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+
+</div>
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+
+    	<div class="code_shower hidden_default">{ · }</div>
+
+
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">## Qué pares de columnas en cada documento representan a la misma población en sexos distintos? </span>
+
+<span class="n">indice_agrupado</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;resources/indice_agrupado.csv&#39;</span><span class="p">)</span>
+
+<span class="n">column_classes</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;resources/column_atributes.csv&#39;</span><span class="p">,</span> <span class="n">index_col</span><span class="o">=</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+<span class="n">column_classes</span> <span class="o">=</span> <span class="n">column_classes</span><span class="o">.</span><span class="n">drop_duplicates</span><span class="p">()</span>
+<span class="n">column_descriptions</span> <span class="o">=</span> <span class="n">column_classes</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="s1">&#39;&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="k">lambda</span> <span class="n">row</span><span class="p">:</span> <span class="s1">&#39; &#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="s1">&#39; &#39;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="n">field_format</span><span class="p">(</span><span class="n">field</span><span class="p">)</span> <span class="k">for</span> <span class="n">field</span> <span class="ow">in</span> <span class="n">row</span><span class="p">])</span><span class="o">.</span><span class="n">split</span><span class="p">()),</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">to_dict</span><span class="p">()</span>
+<span class="n">column_classes</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="s1">&#39;desc&#39;</span><span class="p">,</span> <span class="n">column_classes</span><span class="o">.</span><span class="n">index</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="n">column_descriptions</span><span class="p">))</span>
+<span class="n">column_classes</span> <span class="o">=</span> <span class="n">column_classes</span><span class="o">.</span><span class="n">set_index</span><span class="p">(</span><span class="s1">&#39;desc&#39;</span><span class="p">)</span>
+
+<span class="n">compare_sexo</span> <span class="o">=</span> <span class="p">{}</span>
+<span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">indice_agrupado</span><span class="o">.</span><span class="n">iterrows</span><span class="p">():</span>
+    <span class="n">cols</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;agrupados/&#39;</span> <span class="o">+</span> <span class="n">row</span><span class="o">.</span><span class="n">filename</span><span class="p">)</span><span class="o">.</span><span class="n">columns</span><span class="o">.</span><span class="n">tolist</span><span class="p">()[</span><span class="mi">5</span><span class="p">:]</span>
+    <span class="n">cols</span> <span class="o">=</span> <span class="p">[</span><span class="n">c</span> <span class="k">for</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">cols</span> <span class="k">if</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">column_classes</span><span class="o">.</span><span class="n">index</span><span class="p">]</span>
+    <span class="n">colc</span> <span class="o">=</span> <span class="n">column_classes</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">cols</span><span class="p">]</span>
+    <span class="n">compare_sexo</span><span class="p">[</span><span class="n">row</span><span class="o">.</span><span class="n">nombre_comun</span><span class="p">]</span> <span class="o">=</span> <span class="p">[[</span><span class="n">group</span><span class="p">[</span><span class="n">group</span><span class="o">.</span><span class="n">sexo</span> <span class="o">==</span> <span class="n">s</span><span class="p">]</span><span class="o">.</span><span class="n">desc</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="k">for</span> <span class="n">s</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">&#39;hombres&#39;</span><span class="p">,</span> <span class="s1">&#39;mujeres&#39;</span><span class="p">]]</span> <span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">group</span> <span class="ow">in</span> <span class="n">colc</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span><span class="o">.</span><span class="n">fillna</span><span class="p">(</span><span class="s1">&#39;&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">&#39;dentro&#39;</span><span class="p">,</span> <span class="s1">&#39;edad&#39;</span><span class="p">,</span> <span class="s1">&#39;especial&#39;</span><span class="p">])</span> <span class="k">if</span> <span class="s1">&#39;hombres&#39;</span> <span class="ow">in</span> <span class="n">group</span><span class="o">.</span><span class="n">sexo</span><span class="o">.</span><span class="n">tolist</span><span class="p">()</span> <span class="ow">and</span> <span class="s1">&#39;mujeres&#39;</span> <span class="ow">in</span> <span class="n">group</span><span class="o">.</span><span class="n">sexo</span><span class="o">.</span><span class="n">tolist</span><span class="p">()]</span>
+
+<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">&#39;resources/column_compare_sexo.json&#39;</span><span class="p">,</span> <span class="s1">&#39;w+&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+    <span class="n">json</span><span class="o">.</span><span class="n">dump</span><span class="p">(</span><span class="n">compare_sexo</span><span class="p">,</span> <span class="n">f</span><span class="p">)</span>
 </pre></div>
 
      </div>
