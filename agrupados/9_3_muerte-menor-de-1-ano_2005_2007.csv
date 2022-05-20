@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,Dentro-H,Dentro-M,Fuera-H,Fuera-M,TOTAL-H,TOTAL-M,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,hombres total,mujeres total,total
 30201,AIQUILE,mortalidad institucional,muerte menor de 1 ano,2005-01-01,1,0,0,0,1,0,1
 50802,ATOCHA,mortalidad institucional,muerte menor de 1 ano,2005-01-01,1,0,0,0,1,0,1
 10701,CAMARGO,mortalidad institucional,muerte menor de 1 ano,2005-01-01,0,1,0,0,0,1,1

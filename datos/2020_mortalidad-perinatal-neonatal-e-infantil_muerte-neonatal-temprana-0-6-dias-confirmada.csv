@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,dentro de establecimientos total,fuera de establecimientos total,total
 71501,ASCENCION DE GUARAYOS,"mortalidad perinatal, neonatal e infantil",muerte neonatal  temprana (0-6 dias) confirmada,2020-01-01,0,1,0,0,0,1,1
 70706,CAMIRI,"mortalidad perinatal, neonatal e infantil",muerte neonatal  temprana (0-6 dias) confirmada,2020-01-01,0,0,1,0,1,0,1
 90101,COBIJA,"mortalidad perinatal, neonatal e infantil",muerte neonatal  temprana (0-6 dias) confirmada,2020-01-01,0,1,0,0,0,1,1

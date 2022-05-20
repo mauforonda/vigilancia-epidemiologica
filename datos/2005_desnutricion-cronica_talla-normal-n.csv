@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,< de 2 años-H,< de 2 años-M,2 a 4 años-H,2 a 4 años-M,TOTAL-H,TOTAL-M,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,hombres menores a 2 años,mujeres menores a 2 años,hombres de 2 a 4 años,mujeres de 2 a 4 años,hombres total,mujeres total,total
 31403,SAN BENITO,desnutricion cronica,talla normal (n),2005-01-01,6,4,4,0,10,4,14
 60401,URIONDO (A. CONCEPCION),desnutricion cronica,talla normal (n),2005-01-01,0,0,0,1,0,1,1
 70703,CABEZAS,desnutricion cronica,talla normal (n),2005-02-01,1,1,1,1,2,2,4

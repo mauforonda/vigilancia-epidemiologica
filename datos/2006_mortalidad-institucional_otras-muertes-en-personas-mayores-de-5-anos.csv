@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,Dentro-H,Dentro-M,Fuera-H,Fuera-M,TOTAL-H,TOTAL-M,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,hombres total,mujeres total,total
 20701,APOLO,mortalidad institucional,otras muertes en personas mayores de 5 anos,2006-01-01,0,0,0,1,0,1,1
 50802,ATOCHA,mortalidad institucional,otras muertes en personas mayores de 5 anos,2006-01-01,1,0,0,0,1,0,1
 60202,BERMEJO,mortalidad institucional,otras muertes en personas mayores de 5 anos,2006-01-01,0,2,0,0,0,2,2

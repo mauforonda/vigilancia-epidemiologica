@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,hombres total,mujeres total,total
 10404,ALCALA,mortalidad,muerte rn menor de 7 dias,2011-01-01,0,1,0,0,0,1,1
 22001,CARANAVI,mortalidad,muerte rn menor de 7 dias,2011-01-01,0,1,0,0,0,1,1
 70702,CHARAGUA,mortalidad,muerte rn menor de 7 dias,2011-01-01,0,0,1,0,1,0,1

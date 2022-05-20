@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,Nro.,Nro. Afectados,Nro. Fallecidos,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,número de eventos,número de afectados,número de fallecidos,total
 60601,ENTRE RIOS TRJ,registro de eventos de notificacion inmediata,otros de excepcion,2010-01-01,1.0,3.0,1.0,5.0
 21001,INQUISIVI,registro de eventos de notificacion inmediata,otros de excepcion,2010-04-01,1.0,5.0,5.0,11.0
 70707,BOYUIBE,registro de eventos de notificacion inmediata,otros de excepcion,2010-06-01,1.0,920.0,0.0,921.0

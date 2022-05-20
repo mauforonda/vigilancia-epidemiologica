@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,de-1-ano_masculino,de-1-ano-1_femenino,1-a-menor-de-2-anos_masculino,1-a-menor-de-2-anos-1_femenino,2-a-menor-de-5-anos_masculino,2-a-menor-de-5-anos-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,hombres de 1 año,mujeres de 1 año,hombres de 1 a 2 años,mujeres de 1 a 2 años,hombres de 2 a 5 años,mujeres de 2 a 5 años,hombres total,mujeres total,total
 20201,ACHACACHI,talla para la edad (t/e),talla normal (t n),2008-01-01,45,42,20,16,40,41,105,99,204
 20104,ACHOCALLA,talla para la edad (t/e),talla normal (t n),2008-01-01,15,26,9,8,4,9,28,43,71
 41201,ANDAMARCA,talla para la edad (t/e),talla normal (t n),2008-01-01,5,5,2,4,2,3,9,12,21

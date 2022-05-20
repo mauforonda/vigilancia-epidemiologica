@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,hombres total,mujeres total,total
 30101,COCHABAMBA,mortalidad,muerte materna,2010-01-01,0,1,0,0,0,1,1
 70704,CUEVO,mortalidad,muerte materna,2010-01-01,0,0,0,1,0,1,1
 20105,EL ALTO,mortalidad,muerte materna,2010-01-01,0,1,0,1,0,2,2

@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,hombres total,mujeres total,total
 90101,COBIJA,mortalidad,muerte menor de 5 anos por desnutricion aguda gra,2013-01-01,0.0,1.0,0.0,0.0,0.0,1.0,1.0
 21202,LAJA,mortalidad,muerte menor de 5 anos por desnutricion aguda gra,2013-01-01,0.0,0.0,0.0,1.0,0.0,1.0,1.0
 80201,RIBERALTA,mortalidad,muerte menor de 5 anos por desnutricion aguda gra,2013-01-01,2.0,2.0,0.0,0.0,2.0,2.0,4.0

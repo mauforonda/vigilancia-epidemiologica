@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,a. Nro. Eventos,b. Nro. Personas afectadas,c. Nro. Personas fallecidas,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,número de eventos,número de afectados,número de fallecidos,total
 20607,MAPIRI,eventos - notificacion inmediata parte i,incendio,2015-01-01,1.0,1.0,0.0,2.0
 70301,SAN IGNACIO DE VELASCO,eventos - notificacion inmediata parte i,incendio,2015-02-01,1.0,0.0,0.0,1.0
 90402,INGAVI (HUMAITA),eventos - notificacion inmediata parte i,incendio,2015-04-01,1.0,6.0,0.0,7.0

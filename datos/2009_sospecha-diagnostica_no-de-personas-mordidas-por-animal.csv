@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,< de 1 año,1 a 4 años,5 a 9 años,10 a 20 años,21 a 59 años,60 y más,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,menores a 1 año,de 1 a 4 años,de 5 a 9 años,de 10 a 20 años,de 21 a 59 años,de 60 y más años,total
 20201,ACHACACHI,sospecha diagnostica,no de personas mordidas por animal,2009-01-01,0,2,0,1,3,2,8
 30201,AIQUILE,sospecha diagnostica,no de personas mordidas por animal,2009-01-01,0,0,1,2,0,1,4
 41201,ANDAMARCA,sospecha diagnostica,no de personas mordidas por animal,2009-01-01,0,1,0,0,1,0,2

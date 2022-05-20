@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,< de 2 años-H,< de 2 años-M,2 a 4 años-H,2 a 4 años-M,TOTAL-H,TOTAL-M,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,hombres menores a 2 años,mujeres menores a 2 años,hombres de 2 a 4 años,mujeres de 2 a 4 años,hombres total,mujeres total,total
 30404,SACABAMBA,desnutricion cronica,talla baja grave (g),2006-01-01,2,2,0,0,2,2,4
 80602,SAN ANDRES,desnutricion cronica,talla baja grave (g),2006-01-01,0,1,0,0,0,1,1
 70101,SANTA CRUZ DE LA SIERRA,desnutricion cronica,talla baja grave (g),2006-01-01,3,1,1,0,4,1,5

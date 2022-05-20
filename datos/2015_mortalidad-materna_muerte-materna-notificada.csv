@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,10-14-anos_dentro,10-14-anos-1_fuera,15-19-anos_dentro,15-19-anos-1_fuera,20-39-anos_dentro,20-39-anos-1_fuera,40-49-anos_dentro,40-49-anos-1_fuera,50-59-anos_dentro,50-59-anos-1_fuera,totales_total-dentro,totales-1_total-fuera,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos de 10 a 14 años,fuera de establecimientos de 10 a 14 años,dentro de establecimientos de 15 a 19 años,fuera de establecimientos de 15 a 19 años,dentro de establecimientos de 20 a 39 años,fuera de establecimientos de 20 a 39 años,dentro de establecimientos de 40 a 49 años,fuera de establecimientos de 40 a 49 años,dentro de establecimientos de 50 a 59 años,fuera de establecimientos de 50 a 59 años,dentro de establecimientos total,fuera de establecimientos total,total
 30101,COCHABAMBA,mortalidad materna,muerte materna notificada,2015-01-01,0,0,0,0,2,0,0,0,0,0,2,0,2
 50401,COLQUECHACA,mortalidad materna,muerte materna notificada,2015-01-01,0,0,0,0,0,1,0,0,0,0,0,1,1
 71004,FERNANDEZ ALONSO,mortalidad materna,muerte materna notificada,2015-01-01,0,0,0,0,4,0,0,0,0,0,4,0,4

@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,de-1-ano_masculino,de-1-ano-1_femenino,1-a-menor-de-2-anos_masculino,1-a-menor-de-2-anos-1_femenino,2-a-menor-de-5-anos_masculino,2-a-menor-de-5-anos-1_femenino,imc_mujer-embarazada,imc-1_,totales_total-m,totales-1_total-f,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,hombres de 1 año,mujeres de 1 año,hombres de 1 a 2 años,mujeres de 1 a 2 años,hombres de 2 a 5 años,mujeres de 2 a 5 años,mujeres embarazadas según IMC,población general según IMC,hombres total,mujeres total,total
 51302,ACACIO,estado nutricional,nutricion normal (n),2010-01-01,36,44,33,42,67,49,0,0,136,135,271
 20201,ACHACACHI,estado nutricional,nutricion normal (n),2010-01-01,128,107,64,53,68,61,0,0,260,221,481
 20104,ACHOCALLA,estado nutricional,nutricion normal (n),2010-01-01,51,35,29,22,19,23,0,0,99,80,179

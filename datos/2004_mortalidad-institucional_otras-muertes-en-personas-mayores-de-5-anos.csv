@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,Cantidad-H,Cantidad-M,TOTAL-H,TOTAL-M,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,hombres cantidad,mujeres cantidad,hombres total,mujeres total,total
 51302,ACACIO,mortalidad institucional,otras muertes en personas mayores de 5 anos,2004-01-01,0,1,0,1,1
 20201,ACHACACHI,mortalidad institucional,otras muertes en personas mayores de 5 anos,2004-01-01,1,1,1,1,2
 10404,ALCALA,mortalidad institucional,otras muertes en personas mayores de 5 anos,2004-01-01,0,3,0,3,3

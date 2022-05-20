@@ -15015,6 +15015,9 @@ $(document).ready(function() {
 <span class="kn">from</span> <span class="nn">itables</span> <span class="kn">import</span> <span class="n">show</span><span class="p">,</span> <span class="n">init_notebook_mode</span>
 <span class="n">init_notebook_mode</span><span class="p">()</span>
 <span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">display</span><span class="p">,</span> <span class="n">IFrame</span>
+<span class="kn">import</span> <span class="nn">itertools</span>
+<span class="kn">import</span> <span class="nn">re</span>
+<span class="kn">import</span> <span class="nn">json</span>
 </pre></div>
 
      </div>
@@ -15031,9 +15034,9 @@ $(document).ready(function() {
 
 
 
-<div id="0b9cc866-6b12-43ef-afd2-cd991c40788f" class="jp-RenderedJavaScript jp-OutputArea-output " data-mime-type="application/javascript">
+<div id="d6e91793-87cb-45d6-a1de-f5ed53bffc65" class="jp-RenderedJavaScript jp-OutputArea-output " data-mime-type="application/javascript">
 <script type="text/javascript">
-var element = document.getElementById('0b9cc866-6b12-43ef-afd2-cd991c40788f');
+var element = document.getElementById('d6e91793-87cb-45d6-a1de-f5ed53bffc65');
 if (typeof require !== 'undefined')
     require.config({
         paths: {
@@ -16457,6 +16460,197 @@ if (typeof require !== 'undefined')
 <span class="n">indice_agrupado</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">indice_agrupado</span><span class="p">)</span>
 <span class="n">indice_agrupado</span><span class="p">[</span><span class="s1">&#39;nombre_comun&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">indice_agrupado</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="k">lambda</span> <span class="n">r</span><span class="p">:</span> <span class="s1">&#39;</span><span class="si">{}</span><span class="s1"> entre </span><span class="si">{}</span><span class="s1"> y </span><span class="si">{}</span><span class="s1">&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">r</span><span class="p">[</span><span class="s1">&#39;variable&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">upper</span><span class="p">()</span> <span class="o">+</span> <span class="n">r</span><span class="p">[</span><span class="s1">&#39;variable&#39;</span><span class="p">][</span><span class="mi">1</span><span class="p">:],</span> <span class="n">r</span><span class="p">[</span><span class="s1">&#39;desde&#39;</span><span class="p">],</span> <span class="n">r</span><span class="p">[</span><span class="s1">&#39;hasta&#39;</span><span class="p">])</span> <span class="k">if</span> <span class="n">r</span><span class="p">[</span><span class="s1">&#39;desde&#39;</span><span class="p">]</span> <span class="o">!=</span> <span class="n">r</span><span class="p">[</span><span class="s1">&#39;hasta&#39;</span><span class="p">]</span> <span class="k">else</span> <span class="s1">&#39;</span><span class="si">{}</span><span class="s1"> en </span><span class="si">{}</span><span class="s1">&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">r</span><span class="p">[</span><span class="s1">&#39;variable&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">upper</span><span class="p">()</span> <span class="o">+</span> <span class="n">r</span><span class="p">[</span><span class="s1">&#39;variable&#39;</span><span class="p">][</span><span class="mi">1</span><span class="p">:],</span> <span class="n">r</span><span class="p">[</span><span class="s1">&#39;hasta&#39;</span><span class="p">]),</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
 <span class="n">indice_agrupado</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">&#39;resources/indice_agrupado.csv&#39;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="Columnas-con-descripciones-m&#225;s-significativas">Columnas con descripciones m&#225;s significativas<a class="anchor-link" href="#Columnas-con-descripciones-m&#225;s-significativas">&#182;</a></h2><p>Un problema con el proceso hasta este momento es cómo las columnas en cada set de datos tienen nombres difíciles de interpretar, resultado de aplanar las tablas que produce el sistema del snis en una forma uniforme. Para tener columnas más fáciles de interpretar infiero los atributos que representan y construyo un mejor nombre. Cada columna puede describir casos que ocurren dentro o fuera de establecimientos de salud, hacer referencia a hombres o mujeres, representar distintos rangos de edad y referirse a poblaciones o eventos particulares. Identifico estos atributos y construyo mejores nombres de columna que aplico a todos los documentos producidos.</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+
+    	<div class="code_shower hidden_default">{ · }</div>
+
+
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">patterns</span> <span class="o">=</span> <span class="p">{</span> 
+    
+    <span class="s1">&#39;dentro&#39;</span><span class="p">:{</span>
+        <span class="s1">&#39;dentro de establecimientos&#39;</span><span class="p">:</span> <span class="s1">&#39;(dentro)|(\-d[\-\_])|(Dentro)|(DENTRO)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;fuera de establecimientos&#39;</span><span class="p">:</span> <span class="s1">&#39;(fuera)|(\-f[\-\_])|(Fuera)|(FUERA)&#39;</span>
+    <span class="p">},</span>
+    
+    <span class="s1">&#39;sexo&#39;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="s1">&#39;hombres&#39;</span><span class="p">:</span> <span class="s1">&#39;(-H$)|(_masculino$)|(-m$)|(_masculino-1$)|(H1$)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;mujeres&#39;</span><span class="p">:</span> <span class="s1">&#39;(-M$)|(_femenino$)|(-f$)|(_femenino-1$)|(M1$)|(mujer)&#39;</span>
+    <span class="p">},</span>
+    
+    <span class="s1">&#39;edad&#39;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="s1">&#39;menores a 1 año&#39;</span><span class="p">:</span> <span class="s1">&#39;(&lt; de 1)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 1 a 4 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(1 a 4)|(1-a-4-anos)|(1-4-anos)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 5 a 14 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(5 a 14)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 15 a 59 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(15 a 59)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 60 y más años&#39;</span><span class="p">:</span> <span class="s1">&#39;(60 y más)|(60-y-mas)|(60-anos-y-mas)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 5 a 9 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(5 a 9)|(5-a-9-anos)|(5-9-anos)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 10 a 20 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(10 a 20)|(10-a-20-anos)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 21 a 59 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(21 a 59)|(21-a-59-anos)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 1 año&#39;</span><span class="p">:</span> <span class="s1">&#39;(de-1-ano)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;menores a 2 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(&lt; de 2)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 2 a 4 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(2 a 4)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 1 a 2 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(1-a-menor-de-2)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 2 a 5 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(2-a-menor-de-5)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;menores a 6 meses&#39;</span><span class="p">:</span> <span class="s1">&#39;(menor-de-6-meses)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 6 meses a 1 año&#39;</span><span class="p">:</span> <span class="s1">&#39;(6-meses-a-menor-de-1)|(6-m-a-menor-de-1-ano)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 10 a 14 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(10-14-anos)|(10-a-14-anos)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 15 a 19 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(15-19-anos)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 20 a 39 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(20-39-anos)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 40 a 49 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(40-49-anos)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 50 a 59 años&#39;</span><span class="p">:</span> <span class="s1">&#39;(50-59-anos)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;de 6 meses&#39;</span><span class="p">:</span> <span class="s1">&#39;(de-6-meses_)&#39;</span>
+    <span class="p">},</span>
+    
+    <span class="s1">&#39;especial&#39;</span><span class="p">:</span> <span class="p">{</span>
+        <span class="s1">&#39;total&#39;</span><span class="p">:</span> <span class="s1">&#39;(TOTAL)|(total)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;cantidad&#39;</span><span class="p">:</span> <span class="s1">&#39;(Cantidad)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;embarazadas según IMC&#39;</span><span class="p">:</span> <span class="s1">&#39;(imc_mujer-embarazada)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;población general según IMC&#39;</span><span class="p">:</span> <span class="s1">&#39;(imc-1_)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;número de eventos&#39;</span><span class="p">:</span> <span class="s1">&#39;(^Nro.$)|(Nro. Eventos$)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;número de afectados&#39;</span><span class="p">:</span> <span class="s1">&#39;(^Nro. Afectados)|(Nro. Personas afectadas$)&#39;</span><span class="p">,</span>
+        <span class="s1">&#39;número de fallecidos&#39;</span><span class="p">:</span> <span class="s1">&#39;(^Nro. Fallecidos)|(Nro. Personas fallecidas$)&#39;</span><span class="p">,</span>
+        
+    <span class="p">}</span>
+<span class="p">}</span>
+    
+
+<span class="k">def</span> <span class="nf">infer_category</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="n">patterns</span><span class="p">,</span> <span class="n">lower</span><span class="o">=</span><span class="kc">False</span><span class="p">):</span>
+    
+    <span class="k">if</span> <span class="n">lower</span><span class="p">:</span>
+        <span class="n">text</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+    
+    <span class="n">category</span> <span class="o">=</span> <span class="kc">None</span>
+    
+    <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="n">patterns</span><span class="o">.</span><span class="n">keys</span><span class="p">():</span>
+        <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="n">patterns</span><span class="p">[</span><span class="n">k</span><span class="p">],</span> <span class="n">text</span><span class="p">))</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+            <span class="n">category</span> <span class="o">=</span> <span class="n">k</span>
+    
+    <span class="k">return</span> <span class="n">category</span>
+
+<span class="k">def</span> <span class="nf">field_format</span><span class="p">(</span><span class="n">text</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">text</span> <span class="o">==</span> <span class="kc">None</span><span class="p">:</span>
+        <span class="k">return</span> <span class="s1">&#39;&#39;</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">return</span> <span class="n">text</span>
+</pre></div>
+
+     </div>
+</div>
+
+</div>
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+
+    	<div class="code_shower hidden_default">{ · }</div>
+
+
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">## Contruyo una lista con todos los nombres de columnas en todos los sets de datos</span>
+
+<span class="n">indice</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;resources/indice.csv&#39;</span><span class="p">)</span>
+<span class="n">unicos</span> <span class="o">=</span> <span class="n">indice</span><span class="p">[[</span><span class="s1">&#39;grvar&#39;</span><span class="p">,</span> <span class="s1">&#39;subvar&#39;</span><span class="p">,</span> <span class="s1">&#39;grupo&#39;</span><span class="p">,</span> <span class="s1">&#39;variable&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">drop_duplicates</span><span class="p">(</span><span class="n">subset</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;grvar&#39;</span><span class="p">,</span> <span class="s1">&#39;subvar&#39;</span><span class="p">,</span> <span class="s1">&#39;variable&#39;</span><span class="p">])</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">drop</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="n">unicos</span> <span class="o">=</span> <span class="n">unicos</span><span class="p">[</span><span class="n">unicos</span><span class="o">.</span><span class="n">variable</span><span class="o">.</span><span class="n">notna</span><span class="p">()]</span>
+
+<span class="n">schemas</span> <span class="o">=</span> <span class="p">[]</span>
+
+<span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">condicion</span> <span class="ow">in</span> <span class="n">unicos</span><span class="o">.</span><span class="n">iterrows</span><span class="p">():</span>
+    
+    <span class="k">for</span> <span class="n">e</span><span class="p">,</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">indice</span><span class="p">[(</span><span class="n">indice</span><span class="o">.</span><span class="n">grvar</span> <span class="o">==</span> <span class="n">condicion</span><span class="o">.</span><span class="n">grvar</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">indice</span><span class="o">.</span><span class="n">subvar</span> <span class="o">==</span> <span class="n">condicion</span><span class="o">.</span><span class="n">subvar</span><span class="p">)</span> <span class="o">&amp;</span> <span class="p">(</span><span class="n">indice</span><span class="o">.</span><span class="n">variable</span> <span class="o">==</span> <span class="n">condicion</span><span class="o">.</span><span class="n">variable</span><span class="p">)]</span><span class="o">.</span><span class="n">iterrows</span><span class="p">():</span>
+        <span class="n">schemas</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="o">**</span><span class="n">row</span><span class="p">,</span> <span class="o">**</span><span class="p">{</span><span class="s1">&#39;columns&#39;</span><span class="p">:</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;datos/&#39;</span> <span class="o">+</span> <span class="n">row</span><span class="o">.</span><span class="n">filename</span><span class="p">)</span><span class="o">.</span><span class="n">columns</span><span class="o">.</span><span class="n">tolist</span><span class="p">()}})</span>
+        
+<span class="n">schemas</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">schemas</span><span class="p">)</span>
+
+<span class="n">columnas</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="n">itertools</span><span class="o">.</span><span class="n">chain</span><span class="o">.</span><span class="n">from_iterable</span><span class="p">(</span><span class="n">schemas</span><span class="p">[</span><span class="s1">&#39;columns&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">drop_duplicates</span><span class="p">()</span><span class="o">.</span><span class="n">tolist</span><span class="p">())))</span><span class="o">.</span><span class="n">drop_duplicates</span><span class="p">()</span><span class="o">.</span><span class="n">tolist</span><span class="p">()</span>
+
+<span class="c1">## Infiero atributos en estos nombres: si se refiere a hombres o mujeres, si describe casos que ocurren dentro o fuera de establecimientos de salud, qué rangos de edad representan y si indican alguna población en particular</span>
+
+<span class="n">column_classes</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">({</span><span class="n">c</span><span class="p">:</span> <span class="p">{</span><span class="n">k</span><span class="p">:</span> <span class="n">infer_category</span><span class="p">(</span><span class="n">c</span><span class="p">,</span> <span class="n">patterns</span><span class="p">[</span><span class="n">k</span><span class="p">])</span> <span class="k">for</span> <span class="n">k</span> <span class="ow">in</span> <span class="n">patterns</span><span class="o">.</span><span class="n">keys</span><span class="p">()}</span> <span class="k">for</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">columnas</span><span class="p">[</span><span class="mi">5</span><span class="p">:]})</span><span class="o">.</span><span class="n">T</span>
+
+<span class="c1">## Compongo una descripción con estos atributos</span>
+
+<span class="n">column_descriptions</span> <span class="o">=</span> <span class="n">column_classes</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="k">lambda</span> <span class="n">row</span><span class="p">:</span> <span class="s1">&#39; &#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="s1">&#39; &#39;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="n">field_format</span><span class="p">(</span><span class="n">field</span><span class="p">)</span> <span class="k">for</span> <span class="n">field</span> <span class="ow">in</span> <span class="n">row</span><span class="p">])</span><span class="o">.</span><span class="n">split</span><span class="p">()),</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">to_dict</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+
+</div>
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+
+    	<div class="code_shower hidden_default">{ · }</div>
+
+
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">## Guardo una tabla con los atributos y un diccionario con descripciones</span>
+
+<span class="n">column_classes</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">&#39;column_atributes.csv&#39;</span><span class="p">)</span>
+
+<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">&#39;resources/column_descriptions.json&#39;</span><span class="p">,</span> <span class="s1">&#39;w+&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+    <span class="n">json</span><span class="o">.</span><span class="n">dump</span><span class="p">(</span><span class="n">column_descriptions</span><span class="p">,</span> <span class="n">f</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+
+</div>
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+
+    	<div class="code_shower hidden_default">{ · }</div>
+
+
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">## Remplazo los nombres de columnas en cada documento producido</span>
+
+<span class="k">for</span> <span class="n">fn</span> <span class="ow">in</span> <span class="n">indice</span><span class="o">.</span><span class="n">filename</span><span class="o">.</span><span class="n">tolist</span><span class="p">():</span>
+    <span class="n">filename</span> <span class="o">=</span> <span class="s1">&#39;datos/&#39;</span> <span class="o">+</span> <span class="n">fn</span>
+    <span class="n">dfi</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
+    <span class="n">dfi</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="p">[</span><span class="n">column_descriptions</span><span class="p">[</span><span class="n">c</span><span class="p">]</span> <span class="k">if</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">column_descriptions</span><span class="o">.</span><span class="n">keys</span><span class="p">()</span> <span class="k">else</span> <span class="n">c</span> <span class="k">for</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">dfi</span><span class="o">.</span><span class="n">columns</span><span class="p">]</span>
+    <span class="n">dfi</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="n">fn</span> <span class="ow">in</span> <span class="n">indice_agrupado</span><span class="o">.</span><span class="n">filename</span><span class="o">.</span><span class="n">tolist</span><span class="p">():</span>
+    <span class="n">filename</span> <span class="o">=</span> <span class="s1">&#39;agrupados/&#39;</span> <span class="o">+</span> <span class="n">fn</span>
+    <span class="n">dfi</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
+    <span class="n">dfi</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="p">[</span><span class="n">column_descriptions</span><span class="p">[</span><span class="n">c</span><span class="p">]</span> <span class="k">if</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">column_descriptions</span><span class="o">.</span><span class="n">keys</span><span class="p">()</span> <span class="k">else</span> <span class="n">c</span> <span class="k">for</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">dfi</span><span class="o">.</span><span class="n">columns</span><span class="p">]</span>
+    <span class="n">dfi</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
 </pre></div>
 
      </div>

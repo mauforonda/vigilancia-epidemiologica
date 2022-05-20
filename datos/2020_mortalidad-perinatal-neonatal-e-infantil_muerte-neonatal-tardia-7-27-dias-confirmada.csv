@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,dentro de establecimientos total,fuera de establecimientos total,total
 20305,CHARAÑA,"mortalidad perinatal, neonatal e infantil",muerte neonatal  tardia (7-27 dias) confirmada,2020-01-01,0,0,1,0,1,0,1
 31204,CHIMORE,"mortalidad perinatal, neonatal e infantil",muerte neonatal  tardia (7-27 dias) confirmada,2020-01-01,0,0,0,1,0,1,1
 51103,CKOCHAS,"mortalidad perinatal, neonatal e infantil",muerte neonatal  tardia (7-27 dias) confirmada,2020-01-01,0,0,1,0,1,0,1

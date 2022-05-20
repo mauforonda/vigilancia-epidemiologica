@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,< de 1 año,1 a 4 años,5 a 9 años,10 a 20 años,21 a 59 años,60 y más,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,menores a 1 año,de 1 a 4 años,de 5 a 9 años,de 10 a 20 años,de 21 a 59 años,de 60 y más años,total
 30501,ARANI,sospecha diagnostica,mordedura de serpiente,2012-01-01,0,1,0,0,2,1,4
 70703,CABEZAS,sospecha diagnostica,mordedura de serpiente,2012-01-01,0,0,1,0,0,0,1
 70706,CAMIRI,sospecha diagnostica,mordedura de serpiente,2012-01-01,0,0,0,0,2,0,2

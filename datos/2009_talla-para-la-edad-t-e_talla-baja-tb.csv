@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,de-1-ano_masculino,de-1-ano-1_femenino,1-a-menor-de-2-anos_masculino,1-a-menor-de-2-anos-1_femenino,2-a-menor-de-5-anos_masculino,2-a-menor-de-5-anos-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,hombres de 1 año,mujeres de 1 año,hombres de 1 a 2 años,mujeres de 1 a 2 años,hombres de 2 a 5 años,mujeres de 2 a 5 años,hombres total,mujeres total,total
 51302,ACACIO,talla para la edad (t/e),talla baja (tb),2009-01-01,18,21,28,12,40,59,86,92,178
 20201,ACHACACHI,talla para la edad (t/e),talla baja (tb),2009-01-01,24,14,23,18,32,37,79,69,148
 20104,ACHOCALLA,talla para la edad (t/e),talla baja (tb),2009-01-01,0,2,3,1,6,1,9,4,13

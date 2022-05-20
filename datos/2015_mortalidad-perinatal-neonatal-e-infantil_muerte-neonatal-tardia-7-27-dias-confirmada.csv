@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,hombres total,mujeres total,total
 50302,CHAQUI,"mortalidad perinatal, neonatal e infantil",muerte neonatal  tardia (7-27 dias) confirmada,2015-01-01,0,0,1,0,1,0,1
 30101,COCHABAMBA,"mortalidad perinatal, neonatal e infantil",muerte neonatal  tardia (7-27 dias) confirmada,2015-01-01,2,1,0,0,2,1,3
 20301,CORO CORO,"mortalidad perinatal, neonatal e infantil",muerte neonatal  tardia (7-27 dias) confirmada,2015-01-01,0,0,0,1,0,1,1

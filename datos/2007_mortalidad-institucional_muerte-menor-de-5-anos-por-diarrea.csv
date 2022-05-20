@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,Dentro-H,Dentro-M,Fuera-H,Fuera-M,TOTAL-H,TOTAL-M,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,hombres total,mujeres total,total
 20502,AYATA,mortalidad institucional,muerte  menor de 5 anos por diarrea,2007-01-01,0,0,0,1,0,1,1
 70706,CAMIRI,mortalidad institucional,muerte  menor de 5 anos por diarrea,2007-01-01,0,1,0,0,0,1,1
 30101,COCHABAMBA,mortalidad institucional,muerte  menor de 5 anos por diarrea,2007-01-01,0,1,0,0,0,1,1

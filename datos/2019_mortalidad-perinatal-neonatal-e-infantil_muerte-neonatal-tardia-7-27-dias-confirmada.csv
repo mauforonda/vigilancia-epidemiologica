@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,dentro de establecimientos total,fuera de establecimientos total,total
 30101,COCHABAMBA,"mortalidad perinatal, neonatal e infantil",muerte neonatal  tardia (7-27 dias) confirmada,2019-01-01,1,3,1,1,2,4,6
 20101,LA PAZ,"mortalidad perinatal, neonatal e infantil",muerte neonatal  tardia (7-27 dias) confirmada,2019-01-01,3,1,0,0,3,1,4
 70101,SANTA CRUZ DE LA SIERRA,"mortalidad perinatal, neonatal e infantil",muerte neonatal  tardia (7-27 dias) confirmada,2019-01-01,2,0,0,0,2,0,2

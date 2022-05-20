@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,de-1-ano_masculino,de-1-ano-1_femenino,1-a-menor-de-2-anos_masculino,1-a-menor-de-2-anos-1_femenino,2-a-menor-de-5-anos_masculino,2-a-menor-de-5-anos-1_femenino,imc_mujer-embarazada,imc-1_,totales_total-m,totales-1_total-f,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,hombres de 1 año,mujeres de 1 año,hombres de 1 a 2 años,mujeres de 1 a 2 años,hombres de 2 a 5 años,mujeres de 2 a 5 años,mujeres embarazadas según IMC,población general según IMC,hombres total,mujeres total,total
 20201,ACHACACHI,estado nutricional,nutricion normal (n),2011-01-01,87,91,62,47,52,45,6,0,207,183,390
 20104,ACHOCALLA,estado nutricional,nutricion normal (n),2011-01-01,15,10,8,17,6,4,60,0,89,31,120
 30201,AIQUILE,estado nutricional,nutricion normal (n),2011-01-01,172,182,137,120,127,113,178,0,614,415,1029

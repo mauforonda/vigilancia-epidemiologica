@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,a. Nro. Eventos,b. Nro. Personas afectadas,c. Nro. Personas fallecidas,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,número de eventos,número de afectados,número de fallecidos,total
 21501,IXIAMAS,eventos - notificacion inmediata parte ii,inundacion,2015-01-01,1.0,35.0,0.0,36.0
 40101,ORURO,eventos - notificacion inmediata parte ii,inundacion,2015-01-01,30.0,20.0,0.0,50.0
 10101,SUCRE,eventos - notificacion inmediata parte ii,inundacion,2015-01-01,1.0,3.0,0.0,4.0

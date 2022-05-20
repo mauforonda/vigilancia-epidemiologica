@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,< de 1 año,1 a 4 años,5 a 9 años,10 a 20 años,21 a 59 años,60 y más,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,menores a 1 año,de 1 a 4 años,de 5 a 9 años,de 10 a 20 años,de 21 a 59 años,de 60 y más años,total
 70101,SANTA CRUZ DE LA SIERRA,sospecha diagnostica,rabia humana,2010-02-01,0.0,1.0,0.0,0.0,0.0,0.0,1.0
 80401,SANTA ANA,sospecha diagnostica,rabia humana,2010-03-01,0.0,1.0,0.0,2.0,0.0,0.0,3.0
 40101,ORURO,sospecha diagnostica,rabia humana,2010-05-01,0.0,0.0,0.0,0.0,1.0,0.0,1.0

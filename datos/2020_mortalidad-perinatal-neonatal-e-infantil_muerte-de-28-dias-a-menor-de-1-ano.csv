@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_dentro,totales-1_fuera,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,dentro de establecimientos total,fuera de establecimientos total,total
 10701,CAMARGO,"mortalidad perinatal, neonatal e infantil",muerte de 28 dias a menor de 1 ano,2020-01-01,0,1,0,0,0,1,1
 20105,EL ALTO,"mortalidad perinatal, neonatal e infantil",muerte de 28 dias a menor de 1 ano,2020-01-01,1,2,1,2,2,4,6
 20101,LA PAZ,"mortalidad perinatal, neonatal e infantil",muerte de 28 dias a menor de 1 ano,2020-01-01,3,2,0,0,3,2,5

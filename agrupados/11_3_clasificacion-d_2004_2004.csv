@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,Total-H,Total-M,TOTAL-H1,TOTAL-M1,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,hombres,mujeres,hombres total,mujeres total,total
 51302,ACACIO,estado nutricional,clasificacion d,2004-01-01,42,80,42,80,122
 20201,ACHACACHI,estado nutricional,clasificacion d,2004-01-01,122,144,122,144,266
 20104,ACHOCALLA,estado nutricional,clasificacion d,2004-01-01,9,23,9,23,32

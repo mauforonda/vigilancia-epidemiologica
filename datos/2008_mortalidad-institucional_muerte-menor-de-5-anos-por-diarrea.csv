@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,hombres total,mujeres total,total
 20105,EL ALTO,mortalidad institucional,muerte  menor de 5 anos por diarrea,2008-01-01,0,1,0,0,0,1,1
 70105,EL TORNO,mortalidad institucional,muerte  menor de 5 anos por diarrea,2008-01-01,0,0,1,1,1,1,2
 20101,LA PAZ,mortalidad institucional,muerte  menor de 5 anos por diarrea,2008-01-01,1,1,2,0,3,1,4

@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,< de 2 años-H,< de 2 años-M,2 a 4 años-H,2 a 4 años-M,TOTAL-H,TOTAL-M,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,hombres menores a 2 años,mujeres menores a 2 años,hombres de 2 a 4 años,mujeres de 2 a 4 años,hombres total,mujeres total,total
 30402,ANZALDO,desnutricion cronica,talla normal (n),2006-01-01,0,1,0,1,0,2,2
 41202,BELEN DE ANDAMARCA,desnutricion cronica,talla normal (n),2006-01-01,4,2,1,2,5,4,9
 60202,BERMEJO,desnutricion cronica,talla normal (n),2006-01-01,1,4,3,0,4,4,8

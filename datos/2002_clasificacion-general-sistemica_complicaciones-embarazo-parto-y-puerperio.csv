@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,< de 1 año-H,< de 1 año-M,1 a 4 años-H,1 a 4 años-M,5 a 14 años-H,5 a 14 años-M,15 a 59 años-H,15 a 59 años-M,60 y más-H,60 y más-M,TOTAL-H,TOTAL-M,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,hombres menores a 1 año,mujeres menores a 1 año,hombres de 1 a 4 años,mujeres de 1 a 4 años,hombres de 5 a 14 años,mujeres de 5 a 14 años,hombres de 15 a 59 años,mujeres de 15 a 59 años,hombres de 60 y más años,mujeres de 60 y más años,hombres total,mujeres total,total
 51302,ACACIO,clasificacion general sistemica,"complicaciones embarazo, parto y puerperio",2002-01-01,0,0,0,0,0,0,1,0,0,0,1,0,1
 20104,ACHOCALLA,clasificacion general sistemica,"complicaciones embarazo, parto y puerperio",2002-01-01,0,0,0,0,0,0,3,0,0,0,3,0,3
 30201,AIQUILE,clasificacion general sistemica,"complicaciones embarazo, parto y puerperio",2002-01-01,0,0,0,0,0,0,3,0,0,0,3,0,3

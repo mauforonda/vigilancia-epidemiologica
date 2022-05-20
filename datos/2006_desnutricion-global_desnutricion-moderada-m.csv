@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,< de 2 años-H,< de 2 años-M,2 a 4 años-H,2 a 4 años-M,TOTAL-H,TOTAL-M,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,hombres menores a 2 años,mujeres menores a 2 años,hombres de 2 a 4 años,mujeres de 2 a 4 años,hombres total,mujeres total,total
 51302,ACACIO,desnutricion global,desnutricion moderada (m),2006-01-01,2,3,9,3,11,6,17
 20201,ACHACACHI,desnutricion global,desnutricion moderada (m),2006-01-01,2,4,4,7,6,11,17
 30201,AIQUILE,desnutricion global,desnutricion moderada (m),2006-01-01,6,6,2,3,8,9,17

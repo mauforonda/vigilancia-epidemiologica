@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,< de 2 años-H,< de 2 años-M,2 a 4 años-H,2 a 4 años-M,TOTAL-H,TOTAL-M,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,hombres menores a 2 años,mujeres menores a 2 años,hombres de 2 a 4 años,mujeres de 2 a 4 años,hombres total,mujeres total,total
 60202,BERMEJO,desnutricion cronica,talla baja leve (l),2006-01-01,1,1,1,3,2,4,6
 71403,CARMEN RIVERO TORREZ,desnutricion cronica,talla baja leve (l),2006-01-01,0,1,1,0,1,1,2
 40301,CORQUE,desnutricion cronica,talla baja leve (l),2006-01-01,1,0,0,0,1,0,1

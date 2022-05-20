@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,dentro_masculino,dentro-1_femenino,fuera_masculino,fuera-1_femenino,totales_total-m,totales-1_total-f,totales-2_total
+codigo_municipio,municipio,grupo,variable,mes,dentro de establecimientos hombres,dentro de establecimientos mujeres,fuera de establecimientos hombres,fuera de establecimientos mujeres,hombres total,mujeres total,total
 30101,COCHABAMBA,"mortalidad perinatal, neonatal e infantil",muerte menor de 28 dias por asfixia perinatal,2017-01-01,1,1,0,0,1,1,2
 71001,MONTERO,"mortalidad perinatal, neonatal e infantil",muerte menor de 28 dias por asfixia perinatal,2017-01-01,1,0,0,0,1,0,1
 50101,POTOSI,"mortalidad perinatal, neonatal e infantil",muerte menor de 28 dias por asfixia perinatal,2017-01-01,2,1,0,0,2,1,3

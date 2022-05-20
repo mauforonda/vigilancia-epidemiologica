@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,total-H,total-M,TOTAL-H1,TOTAL-M1,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,hombres total,mujeres total,hombres total.1,mujeres total.1,total
 50101,POTOSI,mortalidad en el establecimiento ( leatalidad),muerte por malaria (p. falciparum),2003-01-01,1.0,0.0,1.0,0.0,1.0
 50303,TACOBAMBA,mortalidad en el establecimiento ( leatalidad),muerte por malaria (p. falciparum),2003-12-01,1.0,0.0,1.0,0.0,1.0
 41502,TODOS SANTOS,mortalidad en el establecimiento ( leatalidad),muerte por malaria (p. falciparum),2003-12-01,1.0,0.0,1.0,0.0,1.0

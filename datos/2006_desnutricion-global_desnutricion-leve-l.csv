@@ -1,4 +1,4 @@
-codigo_municipio,municipio,grupo,variable,mes,< de 2 años-H,< de 2 años-M,2 a 4 años-H,2 a 4 años-M,TOTAL-H,TOTAL-M,TOTAL
+codigo_municipio,municipio,grupo,variable,mes,hombres menores a 2 años,mujeres menores a 2 años,hombres de 2 a 4 años,mujeres de 2 a 4 años,hombres total,mujeres total,total
 51302,ACACIO,desnutricion global,desnutricion leve (l),2006-01-01,23,10,18,28,41,38,79
 20201,ACHACACHI,desnutricion global,desnutricion leve (l),2006-01-01,38,38,47,65,85,103,188
 20104,ACHOCALLA,desnutricion global,desnutricion leve (l),2006-01-01,6,4,4,8,10,12,22
